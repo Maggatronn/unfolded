@@ -52,6 +52,9 @@
       
     }
 
+    #tooltip-container > div {
+      direction: rtl;
+    }
     
   </style>
 </head>
@@ -66,11 +69,14 @@
       </div>
     </div>
     
-    <!-- Tooltip container, adjusted to start below control panel -->
-    <div id="tooltip-container" style="margin-top: 80px;"></div>
+    <!-- Tooltip container with header -->
+    <div >
+      <div id="tooltip-header" style="margin-top: 100px;  margin-right: 0px; width: 470px; font-weight: bold; font-size: 20px; text-align: center;"></div>
+      <div id="tooltip-container" style="margin-top: 50px; width: 470px; margin-right: 0px; overflow-y: auto; direction: rtl; text-align: left;""></div>
+    </div>
     
     <!-- Visualization container -->
-    <div style="margin-left: 340px; overflow-x: auto;">
+    <div style="overflow-x: auto;">
       <svg id="conversation-viz" width="5000" height="200"></svg>
     </div>
   </div>

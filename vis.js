@@ -309,6 +309,10 @@ d3.json('convo_dict copy.json').then(function (conversations) {
           // Scroll the tooltip into view with smooth behavior
           activeTooltip.scrollIntoView({ behavior: 'smooth', block: 'center' });
         }
+
+        // Update conversation info
+        d3.select('.conversation-info')
+          .text(` ${node.conversation_id}`);
       }
 
       function handleMouseOut() {
@@ -316,14 +320,31 @@ d3.json('convo_dict copy.json').then(function (conversations) {
           resetHighlights();
           // Remove the line that clears tooltips
           // d3.selectAll('.tooltip').remove();
+
+          // Clear conversation info
+          // d3.select('.conversation-info')
+          //   .text('');
         }
       }
 
       function handleClick(event, d) {
+        // If clicking the same node, deselect it
         if (selectedNode === d) {
           selectedNode = null;
           resetHighlights();
-        } else {
+        } 
+        // If clicking a different node
+        else {
+          // Check if the new selection is in a different conversation
+          const currentConversation = d.conversation_id; // or however you track which conversation a node belongs to
+          const previousConversation = selectedNode?.conversation_id;
+          
+          // If there was a previous selection in a different conversation, reset it
+          if (selectedNode && currentConversation !== previousConversation) {
+            resetHighlights();
+          }
+          
+          // Select the new node
           selectedNode = d;
           highlightConnected(d, true);
         }
@@ -452,7 +473,7 @@ d3.json('convo_dict copy.json').then(function (conversations) {
           .style('font-family', 'Monospace')
           .style('box-shadow', '2px 2px 6px rgba(0,0,0,0.1)')
           .style('cursor', 'pointer')
-          .style('width', '250px')
+          .style('width', '450px')
           .style('position', 'absolute')
           .style('left', '8px')
           .style('top', `${index * (baseHeight + baseSpacing)}px`)
@@ -602,8 +623,30 @@ d3.json('convo_dict copy.json').then(function (conversations) {
     d3.select('#tooltip-container')
       .style('position', 'fixed')
       .style('top', `${controlPanelHeight + 20}px`) // Add some spacing after control panel
-      .style('height', `${windowHeight - controlPanelHeight - padding - 20}px`); // Adjust height calculation
+      .style('height', `${windowHeight - controlPanelHeight - padding - 20}px`) // Adjust height calculation
   }
+  // First, remove the static header from index.html
+  // Then add this to the updateVisualization function, right before creating the text boxes:
+
+  // Create header container
+  const headerContainer = d3.select('#tooltip-container')
+    .insert('div', ':first-child')  // Insert at the top
+    .attr('class', 'tooltip-header')
+    .style('font-weight', 'bold')
+    .style('margin-bottom', '10px')
+    .style('padding', '8px')
+    .style('display', 'flex')
+    .style('justify-content', 'space-between');
+
+  // Add static "Transcript" text
+  d3.select('#tooltip-header').append('span')
+    .text('Transcript');
+
+  // Add conversation info that will update on hover
+  d3.select('#tooltip-header').append('span')
+    .attr('class', 'conversation-info')
+    .style('color', '#666')
+    .text(''); // Empty by default
 
   // Style the control panel elements
   d3.select('#conversation-selector')
@@ -622,7 +665,7 @@ d3.json('convo_dict copy.json').then(function (conversations) {
   // Update the tooltip container CSS
   d3.select('#tooltip-container')
     .style('position', 'fixed')
-    .style('width', '320px')
+    .style('width', '500px')
     .style('overflow-y', 'auto')
     .style('padding-right', '10px');  // Add some padding for the scrollbar
 });
