@@ -542,58 +542,28 @@ d3.json('convo_dict copy.json').then(function (conversations) {
 
         tooltip.html(tooltipContent)
           .style('visibility', 'visible')
-          .on('click', function(d) {
-            // .on('click', (event, d) => handleClick(event, d));
-            // console.log("click", data.conversation)
-            const isExpanded = this.classList.contains('expanded');
-            const thisTooltip = d3.select(this);
+          .on('click', function() {
+            const correspondingNode = Object.values(data.conversation)
+              .find(d => d.speaker_turn === targetNode.speaker_turn && 
+                        d.conversation_id === targetNode.conversation_id);
             
-            // First, toggle the content visibility
-            thisTooltip.select('.tooltip-content.collapsed')
-              .style('display', isExpanded ? null : 'none');
-            thisTooltip.select('.tooltip-content.expanded')
-              .style('display', isExpanded ? 'none' : null);
-            
-            // Then toggle expanded class and adjust height
-            thisTooltip
-              .classed('expanded', !isExpanded)
-              .style('height', !isExpanded ? 'auto' : `${baseHeight}px`);
-            
-            // Immediately get the new height after expansion
-            const newHeight = this.offsetHeight;
-            
-            // Adjust subsequent tooltips in the same click
-            d3.selectAll('.tooltip')
-              .filter((d, i) => i > index)
-              .each(function(d, i) {
-                const subsequentIndex = index + i + 1;
-                const newTop = !isExpanded
-                  ? (index * (baseHeight + baseSpacing)) + newHeight + baseSpacing + (i * (baseHeight + baseSpacing))
-                  : subsequentIndex * (baseHeight + baseSpacing);
-                
-                d3.select(this)
-                  .style('top', `${newTop}px`);
-              });
+            if (correspondingNode) {
+              // Find the specific node in the visualization that matches both turn and conversation
+              const matchingNode = d3.selectAll('.turn')
+                .filter(d => d.speaker_turn === targetNode.speaker_turn && 
+                            d.conversation_id === targetNode.conversation_id)
+                .node();
 
-            // Highlight and scroll to corresponding node in visualization
-            const correspondingNode = d3.select(`rect.turn[data-turn="${targetNode.speaker_turn}"]`);
-            
-            // Remove previous highlights
-            d3.selectAll('rect.turn').classed('highlighted', false);
-            
-            // Add highlight to this node
-            correspondingNode.classed('highlighted', true);
-            
-            // Scroll the node into view
-            const nodeElement = correspondingNode.node();
-            if (nodeElement) {
-              nodeElement.scrollIntoView({
-                behavior: 'smooth',
-                block: 'center',
-                inline: 'center'
-              });
+              if (matchingNode) {
+                matchingNode.scrollIntoView({
+                  behavior: 'smooth',
+                  block: 'center',
+                  inline: 'center'
+                });
+              }
+              
+              handleClick(event, targetNode);
             }
-            handleClick(event, targetNode)
           });
 
         // Add some CSS styles to the document head
