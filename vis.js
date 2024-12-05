@@ -223,6 +223,7 @@ d3.json('convo_dict copy.json').then(function (conversations) {
           .attr("height", 20)
           .attr("fill", 'black')
           .attr("fill-opacity", d => (inDegreeMap[d.speaker_turn] || 0) / 5)
+          .on('click', (event, d) => handleClick(event, d))
           .on('mouseover', (event, d) => {
             if (!selectedNode) {
               handleMouseOver(event, d);
@@ -234,8 +235,7 @@ d3.json('convo_dict copy.json').then(function (conversations) {
               handleMouseOut();
               resetHighlights();
             }
-          })
-          .on('click', (event, d) => handleClick(event, d));
+          });
       
       // Select the first node and its links for each conversation
       const firstNode = Object.values(data.conversation)[0].speaker_name;
@@ -439,7 +439,6 @@ d3.json('convo_dict copy.json').then(function (conversations) {
       }
 
       function resetHighlights() {
-        // First reset all nodes and paths
         nodes.attr("fill", 'black')
           .attr("fill-opacity", d => (inDegreeMap[d.speaker_turn] || 0) / 5)
           .attr("stroke", "none")
@@ -448,17 +447,30 @@ d3.json('convo_dict copy.json').then(function (conversations) {
         paths.attr("stroke", d => (d.type === "responsive_substantive" ? "red" : "black"))
           .attr("stroke-opacity", d => d.score / 3);
 
-        // Then reapply the first speaker hiding if active
-        if (hideFirstSpeaker) {
-          firstNodesAndLinks.forEach(({ node, links, nodesGroup, pathsGroup }) => {
-            toggleFirstNodeOpacity(node, links, nodesGroup, pathsGroup, true);
-          });
-        }
-
         // Reset tooltip backgrounds and borders
         d3.selectAll('.tooltip')
           .style('background', 'white')
           .style('border', '1px solid #ccc');
+
+        // Collapse all expanded text boxes
+        d3.selectAll('.tooltip')
+          .classed('expanded', false)
+          .style('height', '60px'); // Example height for collapsed state
+
+        d3.selectAll('.tooltip-content.collapsed').style('display', null);
+        d3.selectAll('.tooltip-content.expanded').style('display', 'none');
+
+        // Reposition all tooltips with uniform spacing
+        let currentTop = 0;
+        const baseHeight = 70;  // Height of collapsed tooltip
+        const baseSpacing = 10; // Space between tooltips
+        
+        d3.selectAll('.tooltip')
+          .each(function() {
+            const tooltip = d3.select(this);
+            tooltip.style('top', `${currentTop}px`);
+            currentTop += baseHeight + baseSpacing;
+          });
       }
 
       function showTooltip(sourceNode, targetNode, index) {
