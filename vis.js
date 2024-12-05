@@ -312,6 +312,7 @@ d3.json('convo_dict copy.json').then(function (conversations) {
           // d3.select('.conversation-info')
           //   .text('');
         }
+        console.log(hideFirstSpeaker)
       }
 
       function handleClick(event, d) {
@@ -439,6 +440,8 @@ d3.json('convo_dict copy.json').then(function (conversations) {
       }
 
       function resetHighlights() {
+
+        
         nodes.attr("fill", 'black')
           .attr("fill-opacity", d => (inDegreeMap[d.speaker_turn] || 0) / 5)
           .attr("stroke", "none")
@@ -446,6 +449,12 @@ d3.json('convo_dict copy.json').then(function (conversations) {
 
         paths.attr("stroke", d => (d.type === "responsive_substantive" ? "red" : "black"))
           .attr("stroke-opacity", d => d.score / 3);
+        
+        // toggleFirstNodeOpacity(nodes, paths, nodesGroup, pathsGroup, hideFirstSpeaker);
+
+        firstNodesAndLinks.forEach(({ node, links, nodesGroup, pathsGroup }) => {
+          toggleFirstNodeOpacity(node, links, nodesGroup, pathsGroup, hideFirstSpeaker);
+        });
 
         // Reset tooltip backgrounds and borders
         d3.selectAll('.tooltip')
@@ -471,6 +480,7 @@ d3.json('convo_dict copy.json').then(function (conversations) {
             tooltip.style('top', `${currentTop}px`);
             currentTop += baseHeight + baseSpacing;
           });
+
       }
 
       function showTooltip(sourceNode, targetNode, index) {
