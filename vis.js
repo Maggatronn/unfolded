@@ -14,7 +14,9 @@ d3.json('convo_dict copy.json').then(function (conversations) {
     .style("margin-left", "20px")
     .style("display", "inline-block");
 
-  // Track current scale
+  let hideFirstSpeaker = false;
+  
+    // Track current scale
   let currentScale = 1;
   const scaleStep = 0.5;  // Amount to change scale by each click
   const minScale = 0.3;   // Minimum scale allowed
@@ -197,7 +199,6 @@ d3.json('convo_dict copy.json').then(function (conversations) {
           inDegreeMap[d.speaker_turn] = 0;
         }
       });
-    console.log(edges)
       const paths = conversationG.selectAll(".link")
         .data(edges)
         .enter()
@@ -245,39 +246,25 @@ d3.json('convo_dict copy.json').then(function (conversations) {
       // const nonFirstNodeLinks = edges.filter(e => e.source.speaker_name != firstNode);
       // nonFirstNodesAndLinks.push({ node: firstNode, links: nonFirstNodeLinks, nodesGroup: nodes, pathsGroup: paths });
 
-      // Event listener for single checkbox
+      
+
+      // Event listener for the hide facilitator checkbox
       d3.select("#toggle-opacity").on("change", function () {
-        const isChecked = d3.select(this).property("checked");
+        hideFirstSpeaker = d3.select(this).property("checked");
         firstNodesAndLinks.forEach(({ node, links, nodesGroup, pathsGroup }) => {
-          toggleFirstNodeOpacity(node, links, nodesGroup, pathsGroup, isChecked);
+          toggleFirstNodeOpacity(node, links, nodesGroup, pathsGroup, hideFirstSpeaker);
         });
       });
 
-      // // Event listener for single checkbox
-      // d3.select("#toggle-opacity-non-fac").on("change", function () {
-      //   const isChecked = d3.select(this).property("checked");
-      //   firstNodesAndLinks.forEach(({ node, links, nodesGroup, pathsGroup }) => {
-      //     toggleFirstNodeOpacity(node, links, nodesGroup, pathsGroup, isChecked);
-      //   });
-      // });
-
       function toggleFirstNodeOpacity(node, links, nodesGroup, pathsGroup, hide) {
-        // Hide facilitator nodes
+        // Hide first speaker nodes
         nodesGroup.filter(d => d.speaker_name === node)
           .attr("fill-opacity", hide ? 0 : (d => (inDegreeMap[d.speaker_turn] || 0) / 5));
 
-        // Hide edges connected to facilitator (both from and to)
+        // Hide edges connected to first speaker (both from and to)
         pathsGroup.filter(d => d.source.speaker_name === node || d.target.speaker_name === node)
           .attr("stroke-opacity", hide ? 0 : (d => d.type === "responsive_substantive" ? 1 : 0.2));
       }
-
-      // function toggleNonFirstNodeOpacity(node, links, nodesGroup, pathsGroup, hide) {
-      //   nodesGroup.filter(d => d === node)
-      //     .attr("fill-opacity", hide ? 0 : 1);
-
-      //   pathsGroup.filter(d => links.includes(d))
-          // .attr("stroke-opacity", hide ? 0 : 1);
-      // }
 
       function curvedPath(source, target, xScale, yScale) {
         const x1 = xScale(source.cumulativeWords), y1 = yScale(source.speaker_name);
@@ -351,18 +338,40 @@ d3.json('convo_dict copy.json').then(function (conversations) {
       }
 
       function highlightConnected(node, isSelected = false) {
-        const connectedLinks = edges.filter(e => e.source === node || e.target === node);
+        const connectedLinks = edges.filter(e => {
+          if (hideFirstSpeaker) {
+            // Skip links connected to first speaker
+            const firstSpeaker = Object.values(data.conversation)[0].speaker_name;
+            if (e.source.speaker_name === firstSpeaker || e.target.speaker_name === firstSpeaker) {
+              return false;
+            }
+          }
+          return e.source === node || e.target === node;
+        });
+        
         const connectedNodes = new Set(connectedLinks.flatMap(e => [e.source, e.target]));
 
-        // Highlight nodes in visualization
-        nodes.attr("fill", n => (connectedNodes.has(n) ? "red" : "#ccc"))
-            .attr("stroke", n => (n === node ? "red" : "none"))
-            .attr("stroke-width", n => (n === node ? 2 : 0));
+        // Highlight nodes in visualization, respecting hideFirstSpeaker
+        nodes.attr("fill", n => {
+          if (hideFirstSpeaker && n.speaker_name === Object.values(data.conversation)[0].speaker_name) {
+            return 'none';
+          }
+          return connectedNodes.has(n) ? "red" : "#ccc";
+        })
+        .attr("stroke", n => (n === node ? "red" : "none"))
+        .attr("stroke-width", n => (n === node ? 2 : 0));
 
         // Show connected paths and their colors
-        paths
-          .attr("stroke-opacity", e => (connectedLinks.includes(e) ? 1 : 0))
-          .attr("stroke", d => (d.type === "responsive_substantive" ? "red" : "black"));
+        paths.attr("stroke-opacity", e => {
+          if (hideFirstSpeaker) {
+            const firstSpeaker = Object.values(data.conversation)[0].speaker_name;
+            if (e.source.speaker_name === firstSpeaker || e.target.speaker_name === firstSpeaker) {
+              return 0;
+            }
+          }
+          return connectedLinks.includes(e) ? 1 : 0;
+        })
+        .attr("stroke", d => (d.type === "responsive_substantive" ? "red" : "black"));
 
         // Update tooltip highlighting and expand connected tooltips if selected
         d3.selectAll('.tooltip')
@@ -430,6 +439,7 @@ d3.json('convo_dict copy.json').then(function (conversations) {
       }
 
       function resetHighlights() {
+        // First reset all nodes and paths
         nodes.attr("fill", 'black')
           .attr("fill-opacity", d => (inDegreeMap[d.speaker_turn] || 0) / 5)
           .attr("stroke", "none")
@@ -437,6 +447,13 @@ d3.json('convo_dict copy.json').then(function (conversations) {
 
         paths.attr("stroke", d => (d.type === "responsive_substantive" ? "red" : "black"))
           .attr("stroke-opacity", d => d.score / 3);
+
+        // Then reapply the first speaker hiding if active
+        if (hideFirstSpeaker) {
+          firstNodesAndLinks.forEach(({ node, links, nodesGroup, pathsGroup }) => {
+            toggleFirstNodeOpacity(node, links, nodesGroup, pathsGroup, true);
+          });
+        }
 
         // Reset tooltip backgrounds and borders
         d3.selectAll('.tooltip')
@@ -452,7 +469,7 @@ d3.json('convo_dict copy.json').then(function (conversations) {
         
         const tooltipContent = `
           <div class="tooltip-header">
-            <strong>${targetNode.speaker_name}</strong> 
+            <strong>${firstNodesAndLinks.some(({node}) => node === targetNode.speaker_name) ? '<span style="color: #FF8C00">[Facilitator]</span> ' : ''}${targetNode.speaker_name}</strong> 
             <span class="turn-number">(Turn ${targetNode.speaker_turn})</span>
           </div>
           <div class="tooltip-content collapsed">
@@ -480,11 +497,13 @@ d3.json('convo_dict copy.json').then(function (conversations) {
           .style('transition', 'all 0.2s ease')
           .style('word-wrap', 'break-word')
           .on('mouseover', () => {
+            
             if (!selectedNode) {
               const correspondingNode = Object.values(data.conversation)
                 .find(d => d.speaker_turn === targetNode.speaker_turn);
-              if (correspondingNode) {
-                highlightConnected(correspondingNode);
+              
+                if (correspondingNode) {
+                  highlightConnected(correspondingNode);
               }
             }
           })
@@ -493,23 +512,27 @@ d3.json('convo_dict copy.json').then(function (conversations) {
               resetHighlights();
             }
           })
-          .on('click', function() {
-            const correspondingNode = Object.values(data.conversation)
-              .find(d => d.speaker_turn === targetNode.speaker_turn);
-            if (correspondingNode) {
-              if (selectedNode === correspondingNode) {
-                selectedNode = null;
-                resetHighlights();
-              } else {
-                selectedNode = correspondingNode;
-                highlightConnected(correspondingNode, true);
-              }
-            }
-          });
+          // .on('click', function() {
+          //   console.log("click", data.conversation)
+          //   const correspondingNode = Object.values(data.conversation)
+          //     .find(d => d.speaker_turn === targetNode.speaker_turn);
+            
+          //   if (correspondingNode) {
+          //     if (selectedNode === correspondingNode) {
+          //       selectedNode = null;
+          //       resetHighlights();
+          //     } else {
+          //       selectedNode = correspondingNode;
+          //       highlightConnected(correspondingNode, true);
+          //     }
+          //   }
+          // });
 
         tooltip.html(tooltipContent)
           .style('visibility', 'visible')
-          .on('click', function() {
+          .on('click', function(d) {
+            // .on('click', (event, d) => handleClick(event, d));
+            // console.log("click", data.conversation)
             const isExpanded = this.classList.contains('expanded');
             const thisTooltip = d3.select(this);
             
@@ -558,6 +581,7 @@ d3.json('convo_dict copy.json').then(function (conversations) {
                 inline: 'center'
               });
             }
+            handleClick(event, targetNode)
           });
 
         // Add some CSS styles to the document head
