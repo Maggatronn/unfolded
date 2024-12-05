@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scrollable Conversation Visualization</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+
+
+
+    .tooltip {
+      position: absolute;
+      /* display: inline-block; */
+      border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+    }
+
+        /* Tooltip text */
+    .tooltip .tooltiptext {
+      visibility: hidden;
+      /* width: 120px; */
+      background-color: black;
+      color: #fff;
+      
+      /* padding: 5px 0; */
+      /* border-radius: 6px; */
+    
+      /* Position the tooltip text - see examples below! */
+      /* position: fixed; */
+      /* z-index: 1; */
+    }
+
+    /* Show the tooltip text when you mouse over the tooltip container */
+    .tooltip:hover .tooltiptext {
+      visibility: visible;
+    }
+    
+
+    svg {
+      display: block;
+      /* background-color: black; */
+    }
+
+    
+
+    body {
+      /* display: block; */
+      /* background-color: black; */
+      font-size: small;
+      font-family: "Lucida Console", "Courier New", monospace;
+      color: black;
+      
+    }
+
+    
+  </style>
+</head>
+<body>
+  <div id="container" style="display: flex; margin-top: 20px;">
+    <!-- Fixed control panel -->
+    <div id="control-panel" style="position: fixed; width: 320px;">
+      <select id="conversation-selector" style="width: 100%; margin-bottom: 10px;"></select>
+      <div id="button-container" style="margin-bottom: 10px;">
+        <input type="checkbox" id="toggle-opacity" />
+        <label for="toggle-opacity">Hide Facilitator</label>
+      </div>
+    </div>
+    
+    <!-- Tooltip container, adjusted to start below control panel -->
+    <div id="tooltip-container" style="margin-top: 80px;"></div>
+    
+    <!-- Visualization container -->
+    <div style="margin-left: 340px; overflow-x: auto;">
+      <svg id="conversation-viz" width="5000" height="200"></svg>
+    </div>
+  </div>
+
+  <script src="vis.js"></script>
+</body>
+</html>

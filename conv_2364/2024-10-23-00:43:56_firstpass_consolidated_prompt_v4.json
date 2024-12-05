@@ -1,0 +1,2599 @@
+{
+  "1": {
+    "words": "Okay, we are recording. Good morning everybody. Thank you so much for participating in the Storytellers Project, sponsored by an organization called Cortico and the New York City Department of Health. My name is David [Surname] and I work with the Borough Park Jewish Community Council on their COVID Disparities grant. So why are we here? We're here because the pandemic is now actually almost, we're approaching it the three year anniversary in March. And, wow, that's really a long time, and yourselves, I'm sure have really struggled and countered and managed to get through the pandemic and we're probably very deeply affected by it. The sponsors of this activity, and I share this belief as well, is that really to understand something you have to talk to the people most directly affected. That means the citizens of our city who... Everyone has a story to tell, an important story that we can learn a lot from regarding just so many different parts of this whole COVID pandemic experience. So that's what we're going to do today. We're going to just have some questions and you're just going to freely talk about your experiences. Nothing to be nervous about, just talk about what happened to you. And that will be very, very meaningful for this project and for others to hear, to listen. Your responses are being recorded and they will go into a library with hundreds of others and people, I don't know what they're calling it, the voices of COVID or people speak about COVID, but I'm sure it'll be very interesting to stakeholders and getting a deeper understanding of really how people were affected by COVID. So I'm going to read a consent statement that's part of this procedure and so that everybody's on the same page and you signed your consent form. As a participant in this conversation, you are providing consent to the New York City Public Health Corp to use the recording in accordance with its mission. You also understand that the conversation will be part of a collection of Cortico's Local Voices Network, whose mission is to foster conversations in communities and in the media that improve our understanding of one another. Cortico will collect, retain, and analyze these conversations in keeping with that mission. Okay. I just have to get that business out of the way. I'm wondering if I should sit closer. Just not taking any chances. [inaudible] Just a little closer. You all are really close. So our first activity is everyone just go around and introduce yourself and there's a little exercise called PIES, P I E S, where you just talk about something. It could be physically, intellectually, emotionally, or spiritually what you're feeling today. So that's just what they call it, an icebreaker. That's the new, you always have to have an icebreaker. So when you start a meeting... And also say, I agree. I agree, when you're done introducing that you agree to participate and you heard the reading, the sentence I just read.",
+    "link_turn_id": [
+      "NA"
+    ],
+    "speaker_turn": 1,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "2": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "I agree.",
+    "speaker_turn": 2,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "3": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "Who wants to go first? Who wants to introduce themselves first?",
+    "speaker_turn": 3,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "4": {
+    "link_turn_id": [
+      3
+    ],
+    "words": "I'll go first. My name is Rachel and I guess I have to choose one of the letters.",
+    "speaker_turn": 4,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "5": {
+    "link_turn_id": [
+      4
+    ],
+    "words": "Yeah. How are you feeling today, Rachel?",
+    "speaker_turn": 5,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "6": {
+    "link_turn_id": [
+      5
+    ],
+    "words": "I'm a little stressed. My kid is not feeling well, so I guess I know that I feel emotionally. He got shots last week, so he's having fever and he's not feeling well. So it's just a little stressful.",
+    "speaker_turn": 6,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "7": {
+    "link_turn_id": [
+      6
+    ],
+    "words": "That's very stressful.",
+    "speaker_turn": 7,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "8": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "And I agree.",
+    "speaker_turn": 8,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "9": {
+    "link_turn_id": [
+      5,
+      3
+    ],
+    "words": "I'll go next. Hi, my name is Mozart. It actually feels weird to say it.",
+    "speaker_turn": 9,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "10": {
+    "link_turn_id": [
+      9
+    ],
+    "words": "What is your name?",
+    "speaker_turn": 10,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "11": {
+    "link_turn_id": [
+      10
+    ],
+    "words": "Mozart.",
+    "speaker_turn": 11,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "12": {
+    "link_turn_id": [
+      11
+    ],
+    "words": "Mota?",
+    "speaker_turn": 12,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "13": {
+    "link_turn_id": [
+      12
+    ],
+    "words": "Mozart.",
+    "speaker_turn": 13,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "14": {
+    "link_turn_id": [
+      11,
+      13
+    ],
+    "words": "Mozart.",
+    "speaker_turn": 14,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "15": {
+    "link_turn_id": [
+      14,
+      11,
+      13
+    ],
+    "words": "[inaudible] Classical composer.",
+    "speaker_turn": 15,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "16": {
+    "link_turn_id": [
+      11,
+      13,
+      15
+    ],
+    "words": "Mozart?",
+    "speaker_turn": 16,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "17": {
+    "link_turn_id": [
+      16
+    ],
+    "words": "Yes.",
+    "speaker_turn": 17,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "18": {
+    "link_turn_id": [
+      17,
+      16
+    ],
+    "words": "Okay. Sorry, losing my ear. Go on.",
+    "speaker_turn": 18,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "19": {
+    "link_turn_id": [
+      18
+    ],
+    "words": "Also, most people probably know the name Mozart. I agree, and I guess I'm feeling tired.",
+    "speaker_turn": 19,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "20": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "That's what I was doing.",
+    "speaker_turn": 20,
+    "speaker_name": "Rebecca",
+    "conversation_id": 2364
+  },
+  "21": {
+    "link_turn_id": [
+      19
+    ],
+    "words": "I'm sorry.",
+    "speaker_turn": 21,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "22": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "So you gave a physical?",
+    "speaker_turn": 22,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "23": {
+    "link_turn_id": [
+      22
+    ],
+    "words": "Yes, a physical, but I'm also very happy to be here and to contribute.",
+    "speaker_turn": 23,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "24": {
+    "link_turn_id": [
+      19,
+      23
+    ],
+    "words": "So my name is Rebecca. I agree, and I also am going to say I'm tired. I had a wedding last night. It was a late night.",
+    "speaker_turn": 24,
+    "speaker_name": "Rebecca",
+    "conversation_id": 2364
+  },
+  "25": {
+    "link_turn_id": [
+      24
+    ],
+    "words": "My name is Jacqueline and I agree, and I'm actually feeling happy. Glad that my kids are in school, everyone's feeling good and it's a nice day outside. So I'm feeling happy today.",
+    "speaker_turn": 25,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "26": {
+    "link_turn_id": [
+      25
+    ],
+    "words": "Wonderful, Jackie, how nice to hear. Okay, thank you. All right, so let's just get right to it. So the first question is, and you just talk freely. You don't have to intro... What COVID19 resources had been most helpful to you during the pandemic and why?",
+    "speaker_turn": 26,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "27": {
+    "link_turn_id": [
+      26
+    ],
+    "words": "I haven't had any resources there when it was actually happening, but I will say that for our community, definitely... There was [inaudible] very, very active in community, especially being very helpful with trying to keep as many people out of the hospital as possible. They were doing house calls and that was very helpful for myself. I know that a lot of doctors were saying, \"I don't know if this is...\" I think this maybe has been disproven today, but I know that when the pandemic first started they were saying, \"If you have it, don't take Advil, take Tylenol.\" I don't know if that's still a true thing. I don't think it is.",
+    "speaker_turn": 27,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "28": {
+    "link_turn_id": [
+      27
+    ],
+    "words": "I hadn't heard that.",
+    "speaker_turn": 28,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "29": {
+    "link_turn_id": [
+      27
+    ],
+    "words": "I remember hearing that a lot. You shouldn't take Advil, you should take Tylenol, which that did help me feel better the first time I had it, which was right at the outbreak in March. I don't know. What was it 2020?",
+    "speaker_turn": 29,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "30": {
+    "link_turn_id": [
+      29
+    ],
+    "words": "2020",
+    "speaker_turn": 30,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "31": {
+    "link_turn_id": [
+      29
+    ],
+    "words": "So that definitely helped for me personally.",
+    "speaker_turn": 31,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "32": {
+    "link_turn_id": [
+      31
+    ],
+    "words": "Okay.",
+    "speaker_turn": 32,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "33": {
+    "link_turn_id": [
+      27,
+      29,
+      26,
+      31
+    ],
+    "words": "I know at the time also when they were saying to keep yourself hydrated and drink lemon water. At the time I know that my mother-in-law was inclined to these, she just said, \"Keep taking vitamin C and zinc and just keep yourself strong.\" That's what we kept doing from listening and we heard from doctors saying, \"Just keep yourself hydrated.\" So that's what we did, and we feel, like my husband was really not feeling well. That kept him going. He just kept drinking...",
+    "speaker_turn": 33,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "34": {
+    "link_turn_id": [
+      27,
+      33
+    ],
+    "words": "Your doctors is a resource.",
+    "speaker_turn": 34,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "35": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Yes.",
+    "speaker_turn": 35,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "36": {
+    "link_turn_id": [
+      34
+    ],
+    "words": "That was your resource.",
+    "speaker_turn": 36,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "37": {
+    "link_turn_id": [
+      33
+    ],
+    "words": "He was saying that just keep drinking, keep yourself hydrated, because people are not keeping hydrated. So that alone is just not good for the body.",
+    "speaker_turn": 37,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "38": {
+    "link_turn_id": [
+      37
+    ],
+    "words": "Okay.",
+    "speaker_turn": 38,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "39": {
+    "link_turn_id": [
+      37,
+      33
+    ],
+    "words": "I heard, I don't remember from where about once you get the COVID, if you right away take garlic a certain amount of times a day, it really helps it get cured. I had and I took it and I...",
+    "speaker_turn": 39,
+    "speaker_name": "Rebecca",
+    "conversation_id": 2364
+  },
+  "40": {
+    "link_turn_id": [
+      39
+    ],
+    "words": "Garlic?",
+    "speaker_turn": 40,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "41": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "[inaudible]",
+    "speaker_turn": 41,
+    "speaker_name": "Speaker 6",
+    "conversation_id": 2364
+  },
+  "42": {
+    "link_turn_id": [
+      40,
+      39
+    ],
+    "words": "Raw garlic or cooked garlic?",
+    "speaker_turn": 42,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "43": {
+    "link_turn_id": [
+      42
+    ],
+    "words": "Raw garlic.",
+    "speaker_turn": 43,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "44": {
+    "link_turn_id": [
+      42,
+      39
+    ],
+    "words": "A little bit of water and a glass [inaudible] really helps. And my husband did that too. I can attest for that.",
+    "speaker_turn": 44,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "45": {
+    "link_turn_id": [
+      44
+    ],
+    "words": "Okay.",
+    "speaker_turn": 45,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "46": {
+    "link_turn_id": [
+      44,
+      39
+    ],
+    "words": "Yeah, home remedies.",
+    "speaker_turn": 46,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "47": {
+    "link_turn_id": [
+      46,
+      44,
+      39
+    ],
+    "words": "So resources are like people, doctors, the internet, information, news, neighbors. Would any of those resources sound helpful to you?",
+    "speaker_turn": 47,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "48": {
+    "link_turn_id": [
+      47
+    ],
+    "words": "Yeah, I think our local doctors and everyone was trying to figure out what it was and how to deal with at the same time. So the fact that as people were coming up with information, they were giving it out was like once someone found something out, they just let everyone know. And that was very helpful because no one really knew exactly what to do.",
+    "speaker_turn": 48,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "49": {
+    "link_turn_id": [
+      48
+    ],
+    "words": "Right.",
+    "speaker_turn": 49,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "50": {
+    "link_turn_id": [
+      47,
+      48
+    ],
+    "words": "It wasn't like anyone had all the answers on COVID to begin with. So just helpful to keep on hearing that information.",
+    "speaker_turn": 50,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "51": {
+    "link_turn_id": [
+      50,
+      47,
+      48
+    ],
+    "words": "And then we had, you heard on the internet to use the trial and error. People said it worked for them, so somebody's tried it for them. That people posted it and then...",
+    "speaker_turn": 51,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "52": {
+    "link_turn_id": [
+      46,
+      44
+    ],
+    "words": "Remedies.",
+    "speaker_turn": 52,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "53": {
+    "link_turn_id": [
+      52
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 53,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "54": {
+    "link_turn_id": [
+      46,
+      51
+    ],
+    "words": "Yeah, there were a lot of home remedies going around that everybody was trying.",
+    "speaker_turn": 54,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "55": {
+    "link_turn_id": [
+      46,
+      54
+    ],
+    "words": "Interesting. So a lot of home remedies being useful.",
+    "speaker_turn": 55,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "56": {
+    "link_turn_id": [
+      55,
+      54
+    ],
+    "words": "Even still today because of it. My family takes vitamin D, zinc, C, all that. It's like a thing to keep yourself because they say these things always prevent. So at that time.",
+    "speaker_turn": 56,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "57": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Okay, thank you. What challenges did you have finding and using resources intended to help you with COVID 19?",
+    "speaker_turn": 57,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "58": {
+    "link_turn_id": [
+      57
+    ],
+    "words": "What made it difficult to find those resources?",
+    "speaker_turn": 58,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "59": {
+    "link_turn_id": [
+      57,
+      58
+    ],
+    "words": "I think it was a little bit hard to know what to believe.",
+    "speaker_turn": 59,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "60": {
+    "link_turn_id": [
+      59
+    ],
+    "words": "That's a good one, yes.",
+    "speaker_turn": 60,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "61": {
+    "link_turn_id": [
+      60,
+      59
+    ],
+    "words": "Yeah. It was very nice that there was a lot of... Everyone was sharing stuff, but there are tons of WhatsApp groups and tons of...",
+    "speaker_turn": 61,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "62": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Oh my gosh.",
+    "speaker_turn": 62,
+    "speaker_name": "Speaker 6",
+    "conversation_id": 2364
+  },
+  "63": {
+    "link_turn_id": [
+      59,
+      61
+    ],
+    "words": "It was just everyone had their own version of... And then even if one doctor came out with a specific thing, everyone had their own version of what the doctor said. You have the first person who heard it, and the person who heard from that person, the person who heard from that person, by the time you get to it, is completely and totally changed. So it was a little bit hard to know what to listen to and what not to and what's real and what's not.",
+    "speaker_turn": 63,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "64": {
+    "link_turn_id": [
+      59,
+      61,
+      63
+    ],
+    "words": "Okay that really makes sense. It was just like a information overload and then it was being shared by everybody. By the time you got it probably had nothing in common with the first person and who didn't even know if that was accurate.",
+    "speaker_turn": 64,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "65": {
+    "link_turn_id": [
+      64
+    ],
+    "words": "Exactly, unless people were sharing information they got from their doctors for their situations. Someone was saying like, \"Oh, I heard don't do this,\" but you don't know why they were told not to do whatever it was.",
+    "speaker_turn": 65,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "66": {
+    "link_turn_id": [
+      65,
+      61,
+      63
+    ],
+    "words": "Yeah, there were so many different spins on all the different methods. Everybody had...",
+    "speaker_turn": 66,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "67": {
+    "link_turn_id": [
+      65,
+      63,
+      66
+    ],
+    "words": "Everybody had their medical conditions, some people had medical conditions that came along with the COVID and their doctor told them don't do this and you do that. So everyone was taking it and just jumbling and then mumbling and then it just became...",
+    "speaker_turn": 67,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "68": {
+    "link_turn_id": [
+      63,
+      59
+    ],
+    "words": "Right. It was just very difficult to know what to believe and what not to believe.",
+    "speaker_turn": 68,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "69": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Did you want share anything Rebecca? That's okay. Okay. The last question. Who can address these challenges and how? That's a good question.",
+    "speaker_turn": 69,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "70": {
+    "link_turn_id": [
+      69
+    ],
+    "words": "That's a good question and a hard one.",
+    "speaker_turn": 70,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "71": {
+    "link_turn_id": [
+      70,
+      69
+    ],
+    "words": "I think ultimately we look up to various different leaders in our community and with that leadership position comes that responsibility to take this on and be that place for our community to go to. Which we realized with COVID there was a very big vacuum and that's something that really needed to be filled. We needed somebody to really take on health leadership, which really, really was not in our community. We had [inaudible] and everybody has their doctors, but fortunately we never had a pandemic like COVID19. There was never something that shut us down for so long and really made everything grind to a stop. So we never had something that we needed everybody united against.",
+    "speaker_turn": 71,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "72": {
+    "link_turn_id": [
+      71
+    ],
+    "words": "That's a very good point.",
+    "speaker_turn": 72,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "73": {
+    "link_turn_id": [
+      65,
+      67,
+      71
+    ],
+    "words": "And then also, even though everyone has their doctors, everyone's doctor was saying something else. So it didn't really help that much, because you heard from your neighbor that their doctor said that you shouldn't do this and your doctor said... So there was no one uniform thing coming out saying what you should do, and when there's so many different opinions, you just stop trusting everyone. So I feel like because there was no one opinion, people just didn't do anything or just did the opposite of what everyone said.",
+    "speaker_turn": 73,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "74": {
+    "link_turn_id": [
+      73,
+      71
+    ],
+    "words": "I think also now, if you could reflect on the midterm elections, just like we had all of the different leaderships in our community come out for different candidates, and they were all very clear about who the community should or shouldn't vote for. Same when it comes to a medical issue such as a pandemic, you need somebody to take on that leadership and be like, \"This is what you should do.\" We had holidays, Pesach [inaudible] of COVID. It was right at the beginning, but Pesach came and everybody was really shut down and it was very hard because we are a community that's very family oriented and everybody likes to go to their parents and their grandparents and everyone's all together, which turns into a super spreader event, especially when you have older people around. So that was really, really difficult to try to navigate, and for some people it was really, really hard to do that.",
+    "speaker_turn": 74,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "75": {
+    "link_turn_id": [
+      73,
+      74,
+      71
+    ],
+    "words": "Even if you did have a certain person that you followed or asked for guidance, they themselves weren't even sure what to tell you at the time. They couldn't tell us, yes, go to your family, no, stay away, and that was difficult. But then as time went on and they said no, still stay away, there was just like you said...",
+    "speaker_turn": 75,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "76": {
+    "link_turn_id": [
+      73,
+      75
+    ],
+    "words": "It was a lot of staying away, caused a lot of what happened afterwards. The people that...",
+    "speaker_turn": 76,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "77": {
+    "link_turn_id": [
+      76,
+      75
+    ],
+    "words": "The people that stayed away had nobody around them-",
+    "speaker_turn": 77,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "78": {
+    "link_turn_id": [
+      77
+    ],
+    "words": "Exactly. People had no one around them.",
+    "speaker_turn": 78,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "79": {
+    "link_turn_id": [
+      78,
+      76
+    ],
+    "words": "... The minute they did contact something, then they got it really bad.",
+    "speaker_turn": 79,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "80": {
+    "link_turn_id": [
+      77,
+      79,
+      75
+    ],
+    "words": "Exactly. And then there are people who still don't go out today because they're just scared and they got used to it. They got so used to staying home. I know my grandmother lives in Vienna and she didn't come even after it was safe to travel, she just wouldn't step on a plane. She was too scared. So she stayed by herself in Vienna. There wasn't any of her kids in Vienna, she was just sitting by herself in her apartment. She wasn't going to go out until she finally went to Antrop and then she went to America. But it took so long until she got to go to places and there are people, I would assume that are still like that even now, or are just scared to go out because of what happened then.",
+    "speaker_turn": 80,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "81": {
+    "link_turn_id": [
+      80
+    ],
+    "words": "I feel like the emotional trauma that this left with people, it needs to be spoken on more and there needs to be some sort of resource built for that alone because there's unfortunately so many people that really got in their head about it and now are locked at home and won't step out. It's just really, really detrimental to their health and their mental health-",
+    "speaker_turn": 81,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "82": {
+    "link_turn_id": [
+      81,
+      80
+    ],
+    "words": "They won't go to the doctor even because the doctor had germs. They won't go to the doctor.",
+    "speaker_turn": 82,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "83": {
+    "link_turn_id": [
+      81
+    ],
+    "words": "It left a lot of emotional scars.",
+    "speaker_turn": 83,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "84": {
+    "link_turn_id": [
+      83
+    ],
+    "words": "It really did. Yeah.",
+    "speaker_turn": 84,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "85": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Okay. Good conversation. So our next batch of questions is actually about the vaccine and did people get vaccinated and what they thought of the vaccine. So I'm just going to read the question. Now, I'd like to invite you to share how you made your decision about the COVID19 vaccine. Can you describe a key moment that influenced your decision? So that could be either way, it could be you got vaccinated or you didn't get vaccinated, but how did you reach that decision of what to do?",
+    "speaker_turn": 85,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "86": {
+    "link_turn_id": [
+      85
+    ],
+    "words": "I can go first. I'm not vaccinated.",
+    "speaker_turn": 86,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "87": {
+    "link_turn_id": [
+      86
+    ],
+    "words": "Okay.",
+    "speaker_turn": 87,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "88": {
+    "link_turn_id": [
+      85,
+      86
+    ],
+    "words": "I had COVID three times. One of the times that I had it was, I would say the worst time that I had it, but it wasn't really bad.",
+    "speaker_turn": 88,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "89": {
+    "link_turn_id": [
+      88
+    ],
+    "words": "Was that before the vaccine came out?",
+    "speaker_turn": 89,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "90": {
+    "link_turn_id": [
+      89
+    ],
+    "words": "No, my time that I had it the worst was actually after the vaccine came out.",
+    "speaker_turn": 90,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "91": {
+    "link_turn_id": [
+      90
+    ],
+    "words": "So it was the first?",
+    "speaker_turn": 91,
+    "speaker_name": "Speaker 6",
+    "conversation_id": 2364
+  },
+  "92": {
+    "link_turn_id": [
+      90,
+      91
+    ],
+    "words": "Oh. My first time I had was before. It was right when it broke out. So it really wasn't bad, it was a 24 hour fever, some achiness for a week. It wasn't anything crazy, but I've had it three times over since it started. The first and second time weren't really so bad. The third time was a little bit worse. I felt sick. I would say maybe a flu.",
+    "speaker_turn": 92,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "93": {
+    "link_turn_id": [
+      90,
+      92,
+      86
+    ],
+    "words": "So what influenced your decision? You decided not to get vaccinated. Why not?",
+    "speaker_turn": 93,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "94": {
+    "link_turn_id": [
+      93
+    ],
+    "words": "I decided not to get it because I don't feel like I needed it. I feel like I'm young, thank God I'm healthy, and I've had it three times, thank God, no lasting effect. I feel like I'm good to go. I don't think there's a need for it right now. I've also heard some different side effects from family members that have gotten it that personally influenced my decision not to get it.",
+    "speaker_turn": 94,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "95": {
+    "link_turn_id": [
+      94
+    ],
+    "words": "Okay.",
+    "speaker_turn": 95,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "96": {
+    "link_turn_id": [
+      94
+    ],
+    "words": "I just think the benefits in this specific case don't outweigh the negatives with the COVID vaccine. You have the same argument with the flu shot every year, that the flu shot doesn't specifically counter that year's strain of flu, but majority of people don't have any side effects when they take the flu shot, which is why people get it. The COVID vaccine, there are some side effects that can really impact a person's life, and for the amount of times that people have gotten it after they got the vaccine, I don't see that it's worth it. Plus the boosters and plus all that, I didn't take it. I don't think the benefit of it possibly preventing COVID, when I don't think I ever had it yet, but maybe I did, I don't know. I don't think so. I never knew that I had it. I didn't feel that I had it. I don't see a major benefit in taking the vaccine, because you're not getting a sure foolproof assurance that you're not going to get COVID with it, and then you still have to get, I don't know how many boosters after. You still have to get the boosters and then there's the side effects. I just don't think it's worth it.",
+    "speaker_turn": 96,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "97": {
+    "link_turn_id": [
+      96
+    ],
+    "words": "Okay.",
+    "speaker_turn": 97,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "98": {
+    "link_turn_id": [
+      96,
+      94
+    ],
+    "words": "Yeah, I think the COVID vaccine wasn't around for long enough that you feel comfortable taking it, especially if you're not at the risk level. If you're still young and healthy then even if it might be good, it's not worth taking the risk if you're not 100% sure.",
+    "speaker_turn": 98,
+    "speaker_name": "Rebecca",
+    "conversation_id": 2364
+  },
+  "99": {
+    "link_turn_id": [
+      96
+    ],
+    "words": "Okay.",
+    "speaker_turn": 99,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "100": {
+    "link_turn_id": [
+      96,
+      98,
+      94
+    ],
+    "words": "So my thought was I wasn't for it, I wasn't against it. At the time when it came out and I was debating what are the pros and cons, and I never had COVID when it came out. And right then I started feeling lousy and I was ended up in the bed, and I got COVID really bad and that was it. I couldn't take it. I said, \"You know what? I got it. I'm not going to take the vaccine. This is showing me that I'm not doing the vaccine right now.\" And I decided that we'll just wait it out and hopefully we'll be safe because there's so much pros and cons. You don't know which way, what's good and what's not. So I wanted to see a little bit more information and wait to see it being more proven, and then down the line, if it's something that they say is going to help, then maybe it's something that we can incorporate. But until I don't see a little bit more stability in it, then...",
+    "speaker_turn": 100,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "101": {
+    "link_turn_id": [
+      100
+    ],
+    "words": "I think most people are neither for or against. I think people are just waiting to see once it's more proven.",
+    "speaker_turn": 101,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "102": {
+    "link_turn_id": [
+      101,
+      100
+    ],
+    "words": "Proven.",
+    "speaker_turn": 102,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "103": {
+    "link_turn_id": [
+      101,
+      100
+    ],
+    "words": "There are people who are against it and there are people for it, but most people are just like, \"Let's wait and see what happens.\" In our community, the biggest wave has passed so it's not like people feel this crazy need to get it. For example, my mother took it right away. The second she left to get it, she said, \"I want to go travel, I want to go places.\" She didn't even take it because of COVID, it had nothing to do with COVID. She had COVID already. She was just like- [inaudible]",
+    "speaker_turn": 103,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "104": {
+    "link_turn_id": [
+      103
+    ],
+    "words": "I don't want to be restricted.",
+    "speaker_turn": 104,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "105": {
+    "link_turn_id": [
+      103,
+      104
+    ],
+    "words": "Yeah. I want to go wherever I want. I don't want have to deal with it. Nothing to with COVID. So the people who did take it, I wonder what their motivations, I don't if all their...",
+    "speaker_turn": 105,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "106": {
+    "link_turn_id": [
+      103
+    ],
+    "words": "They require you to show your vaccine card on the plane.",
+    "speaker_turn": 106,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "107": {
+    "link_turn_id": [
+      106,
+      105
+    ],
+    "words": "Yeah, on the plane. And in general, she was like, \"I don't want to have to think about my decisions later on and think like, 'Oh, I can't do that because I didn't take the COVID vaccine.'\"",
+    "speaker_turn": 107,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "108": {
+    "link_turn_id": [
+      103,
+      107
+    ],
+    "words": "Right. So she did get vaccinated?",
+    "speaker_turn": 108,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "109": {
+    "link_turn_id": [
+      108
+    ],
+    "words": "She did. Yeah, she did.",
+    "speaker_turn": 109,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "110": {
+    "link_turn_id": [
+      109
+    ],
+    "words": "She's a yes.",
+    "speaker_turn": 110,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "111": {
+    "link_turn_id": [
+      109,
+      110
+    ],
+    "words": "She's a yes, but it had nothing to do with COVID itself.",
+    "speaker_turn": 111,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "112": {
+    "link_turn_id": [
+      103,
+      109,
+      111
+    ],
+    "words": "This is your grandmother?",
+    "speaker_turn": 112,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "113": {
+    "link_turn_id": [
+      112
+    ],
+    "words": "My mother.",
+    "speaker_turn": 113,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "114": {
+    "link_turn_id": [
+      113
+    ],
+    "words": "Oh your mother.",
+    "speaker_turn": 114,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "115": {
+    "link_turn_id": [
+      113,
+      111
+    ],
+    "words": "My mother, my father, both of them, they just went together and they're like, \"Okay, now we can go wherever we want.\" But it had nothing to do with COVID. They both had it and they didn't take it because they felt that it would actually prevent COVID or that it would be beneficial for them in health related way.",
+    "speaker_turn": 115,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "116": {
+    "link_turn_id": [
+      115
+    ],
+    "words": "It doesn't prevent COVID.",
+    "speaker_turn": 116,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "117": {
+    "link_turn_id": [
+      116
+    ],
+    "words": "It prevents the severity of the...",
+    "speaker_turn": 117,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "118": {
+    "link_turn_id": [
+      117
+    ],
+    "words": "It prevents you from getting very sick and having to go to hospital or die.",
+    "speaker_turn": 118,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "119": {
+    "link_turn_id": [
+      118
+    ],
+    "words": "Right.",
+    "speaker_turn": 119,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "120": {
+    "link_turn_id": [
+      116,
+      115
+    ],
+    "words": "It doesn't prevent COVID.",
+    "speaker_turn": 120,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "121": {
+    "link_turn_id": [
+      120
+    ],
+    "words": "Right.",
+    "speaker_turn": 121,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "122": {
+    "link_turn_id": [
+      115,
+      118
+    ],
+    "words": "That's a very big decision factor.",
+    "speaker_turn": 122,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "123": {
+    "link_turn_id": [
+      116,
+      120
+    ],
+    "words": "That was also because in the beginning, that's what I'm saying, when the COVID vaccine came out everyone thought it's going to prevent the COVID. In the meantime it's not preventing and that's when people are like, \"Wait a minute, you're still getting COVID. I didn't have it so bad, then why do I have to take it?\"",
+    "speaker_turn": 123,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "124": {
+    "link_turn_id": [
+      123
+    ],
+    "words": "Right. That's true.",
+    "speaker_turn": 124,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "125": {
+    "link_turn_id": [
+      123
+    ],
+    "words": "For the young people that don't have it bad, and thank God are recovering easily...",
+    "speaker_turn": 125,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "126": {
+    "link_turn_id": [
+      125
+    ],
+    "words": "Exactly. It's like they'll have big side effects.",
+    "speaker_turn": 126,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "127": {
+    "link_turn_id": [
+      123,
+      125
+    ],
+    "words": "Yeah. They're like, \"Why should I take the vaccine if it's not preventing it anyway? I didn't even have it bad. I was like I had the flu. Big deal.\" 1000 people get the flu every year. No one's making everyone crazy to get the flu shot. It's not a requirement to fly to get the flu shot, but I should get the COVID shot.",
+    "speaker_turn": 127,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "128": {
+    "link_turn_id": [
+      123,
+      127
+    ],
+    "words": "I think in the older population a lot more people took it.",
+    "speaker_turn": 128,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "129": {
+    "link_turn_id": [
+      128
+    ],
+    "words": "For sure.",
+    "speaker_turn": 129,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "130": {
+    "link_turn_id": [
+      129,
+      128
+    ],
+    "words": "Because they knew that the risk for them was just higher.",
+    "speaker_turn": 130,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "131": {
+    "link_turn_id": [
+      130
+    ],
+    "words": "Right.",
+    "speaker_turn": 131,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "132": {
+    "link_turn_id": [
+      130,
+      123,
+      127
+    ],
+    "words": "Right. Okay. I think we answered the second question through the conversation of the first question, which is reflected on this experience you just shared, what information or circumstance helped you make that decision? I think we answered that question.",
+    "speaker_turn": 132,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "133": {
+    "link_turn_id": [
+      132
+    ],
+    "words": "Yeah, basically.",
+    "speaker_turn": 133,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "134": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "The next group of questions, two questions, is about COVID and the community. Can you share a story or experience about how the community organizations in your neighborhood supported you and your community during the pandemic?",
+    "speaker_turn": 134,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "135": {
+    "link_turn_id": [
+      134
+    ],
+    "words": "Definitely. I have two things actually. I will never forget the first few weeks and the nights we were home and everybody was locked down, and that was just for [inaudible] now, but in Bar Park, the sirens and [inaudible] was nonstop.",
+    "speaker_turn": 135,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "136": {
+    "link_turn_id": [
+      135
+    ],
+    "words": "It was every five minutes.",
+    "speaker_turn": 136,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "137": {
+    "link_turn_id": [
+      135,
+      136
+    ],
+    "words": "It was just the beginning and they were just on the move, they were going- [inaudible]",
+    "speaker_turn": 137,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "138": {
+    "link_turn_id": [
+      137,
+      135,
+      136
+    ],
+    "words": "Sounds pretty frightening.",
+    "speaker_turn": 138,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "139": {
+    "link_turn_id": [
+      138
+    ],
+    "words": "... It was very frightening but it was also like...",
+    "speaker_turn": 139,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "140": {
+    "link_turn_id": [
+      139
+    ],
+    "words": "At least someone's... [inaudible]",
+    "speaker_turn": 140,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "141": {
+    "link_turn_id": [
+      140,
+      139
+    ],
+    "words": "... An amazing thing to know that there's somebody out there that you can call that would be...",
+    "speaker_turn": 141,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "142": {
+    "link_turn_id": [
+      141
+    ],
+    "words": "Trying to help.",
+    "speaker_turn": 142,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "143": {
+    "link_turn_id": [
+      134
+    ],
+    "words": "Yeah. So that was just an amazing thing. And then just another thing, all of our schools and a lot of organizations that had extra money for food were really, really helping the community and giving those out, especially to families in need. And a lot of people had a lot of issues and employment. People weren't making money, so food insecurity was really, really high. I know this from my in-laws. They got helped a lot with different food packages from different institutions and that was a major help for them, and I know for a lot of the people in the community.",
+    "speaker_turn": 143,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "144": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Mozart?",
+    "speaker_turn": 144,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "145": {
+    "link_turn_id": [
+      143
+    ],
+    "words": "Yeah, I think also, my parents live on 49th Street, so my mom says down 49. Literally, the amount of [inaudible] that passed, we didn't even hear it anymore. It was just background noise. If they stopped at our block then we went to look. Who is out for? But other than that, they kept on going. I don't know any specific organizations, but I think in general, for staying inside, our community really came out to help. You know what I mean? Everyone was locked in, but there was really a feeling of if you know need any help, there's going to be someone to provide that help. First of all, the food boxes, they gave them out by schools. It was like the cars would just line up and they would dump the boxes into the trunks and next person, the next person. I don't know if they did that...",
+    "speaker_turn": 145,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "146": {
+    "link_turn_id": [
+      145,
+      143
+    ],
+    "words": "In Staten Island they did. They had a certain place that you came in and you only had a certain count of people at an amount of time, and we didn't find out about it. And we were like, so let's get you to the grocery or whatever, but it did help us. It was close to Pesach and we weren't buying but at the same time we were just in a mud ball, and they were there, the community was there. They made sure that everybody had their proper meals, just the stuff and that's all as well. It was there, and they never said, they never refused. And I'm not saying it's a much quieter situation, but you felt that people, everyone cared for one another. Whether it was the school or the community board they sent out a message, we're here to try to help and just stay calm.",
+    "speaker_turn": 146,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "147": {
+    "link_turn_id": [
+      146,
+      145,
+      143
+    ],
+    "words": "You feel cared...",
+    "speaker_turn": 147,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "148": {
+    "link_turn_id": [
+      147
+    ],
+    "words": "Cared. Yes.",
+    "speaker_turn": 148,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "149": {
+    "link_turn_id": [
+      146,
+      148
+    ],
+    "words": "Your needs were being...",
+    "speaker_turn": 149,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "150": {
+    "link_turn_id": [
+      146
+    ],
+    "words": "I think that's what just also calmed people. That there are good people out there, and not that everybody was able to do that much, but people still put themselves on the forefront.",
+    "speaker_turn": 150,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "151": {
+    "link_turn_id": [
+      146,
+      145,
+      143
+    ],
+    "words": "I remember there was also a few different numbers that people were posting on WhatsApp status if somebody needed oxygen tanks for at home, because people were trying to avoid to go to the hospital. I know this for a family friend of mine, the mother in the house needed and they managed to get her oxygen tank at home, which really, really helped her and prevented her from going to the hospital. That was a major thing.",
+    "speaker_turn": 151,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "152": {
+    "link_turn_id": [
+      151
+    ],
+    "words": "But then there was also a problem where, I know my brother-in-law got the oxygen at home. He told me, \"You're not going to survive at night with this amount of oxygen.\" It's just you can't.",
+    "speaker_turn": 152,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "153": {
+    "link_turn_id": [
+      151,
+      152
+    ],
+    "words": "That's information people didn't know.",
+    "speaker_turn": 153,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "154": {
+    "link_turn_id": [
+      152
+    ],
+    "words": "You have to go... Then you heard what was going on in the hospital. He didn't think he was going to survive the night over there with the amount of people in Manhattan.",
+    "speaker_turn": 154,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "155": {
+    "link_turn_id": [
+      146,
+      151,
+      154
+    ],
+    "words": "That was a crazy time.",
+    "speaker_turn": 155,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "156": {
+    "link_turn_id": [
+      150,
+      154,
+      152,
+      151
+    ],
+    "words": "That was the organization for us, that was [inaudible] that was there for you, and they explained it. They said you have to weigh the pros and cons. They tell people who to have to and who don't. They're risking to try to help at home rather than going in, because they knew that people were just laying over there. The hospitals couldn't attend to so many people in one time. So you had good people who were out there and just put themselves on the forefront.",
+    "speaker_turn": 156,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "157": {
+    "link_turn_id": [
+      156,
+      150
+    ],
+    "words": "They put themselves at risk. [inaudible] They came around literally risking their own life to help other people's lives.",
+    "speaker_turn": 157,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "158": {
+    "link_turn_id": [
+      157
+    ],
+    "words": "Right. Yeah. That's amazing, yeah, very amazing.",
+    "speaker_turn": 158,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "159": {
+    "link_turn_id": [
+      156,
+      157
+    ],
+    "words": "And then also I think each school became its own organization a little bit. Each school had their own... They adopted [inaudible] outside and they don't like times, and then one school on our block set up lemonade stands, but with food and just people, whoever needed. Because people were home with their kids and you have to make breakfast and lunch and supper and give them something to do and they can't go out. So there were different times on the block and every family, the kids would come out and choose their breakfast and go back in. So it took a half hour for all the kids to come out. So we had a half hour break and didn't have to make breakfast. It was something small, but it definitely did something, and the fact that someone took the time to do that.",
+    "speaker_turn": 159,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "160": {
+    "link_turn_id": [
+      159
+    ],
+    "words": "And it's such a cute idea.",
+    "speaker_turn": 160,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "161": {
+    "link_turn_id": [
+      159
+    ],
+    "words": "It only lasted two days. I think it was too hard for them to do longer, but it was really nice",
+    "speaker_turn": 161,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "162": {
+    "link_turn_id": [
+      159
+    ],
+    "words": "Here's the follow up question to community. How did those community organizations impact decisions related to COVID19 vaccinations in your neighborhood?",
+    "speaker_turn": 162,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "163": {
+    "link_turn_id": [
+      162
+    ],
+    "words": "[inaudible] They were on the grounds, I think them seeing what they did gave them a little bit of an authority. They saw every side of the situation basically. They saw the people who should have gone into the hospital and didn't, and the people who shouldn't have gone and they did. So I think when you heard something talking about Solomons, I think that was the most authoritative source of information.",
+    "speaker_turn": 163,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "164": {
+    "link_turn_id": [
+      163
+    ],
+    "words": "Something they took seriously.",
+    "speaker_turn": 164,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "165": {
+    "link_turn_id": [
+      162
+    ],
+    "words": "Yeah. Because at one point that's all it was, they sent out a message. I don't remember what it was about, but there was a message going around that was like, what you should do in Pesach time about people eating meals, by grandparents and all that. I remember before that everyone was like, \"Of course we're going to go to our grandparents.\" And then after that message went out...",
+    "speaker_turn": 165,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "166": {
+    "link_turn_id": [
+      165
+    ],
+    "words": "No one did.",
+    "speaker_turn": 166,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "167": {
+    "link_turn_id": [
+      166,
+      165
+    ],
+    "words": "People were thinking like, \"Oh, it's all saying that we shouldn't go to our grandparents. That means it's serious business.\" People also asked [inaudible]. I remember we were going to go to my grandparents. Like what, they're going to eat by themselves? And they never ate by themselves to Sadar and all the meals. After that message, I remember my mom called and she's like, \"No one's going. You're not stepping foot into the house.\" Because it was scary, and for people who saw what it did, if they were saying that, then obviously it was true.",
+    "speaker_turn": 167,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "168": {
+    "link_turn_id": [
+      165,
+      167
+    ],
+    "words": "I actually remember that because when Pesach at that point, me and my husband had had COVID and my parents had had COVID and my uncles had had COVID. So I was from those lucky people that it wasn't a problem for me to go to my parents or my uncles, because everybody had it. And they had had it and had all recovered, but I do remember when we were walking to our meals, Pesach on the street, on a regular year, it's packed, it's jammed. This looked like a war zone or a ghost. I wouldn't say war zone, I would say a ghost. I would say it looked like a weekend in the summer when everyone's out of state. It was empty. It was quiet. You didn't hear a sound. It was eerie. You were like, \"What is happening?\"",
+    "speaker_turn": 168,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "169": {
+    "link_turn_id": [
+      168
+    ],
+    "words": "Spooky.",
+    "speaker_turn": 169,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "170": {
+    "link_turn_id": [
+      168,
+      169
+    ],
+    "words": "Yeah, it's very spooky, and you barely saw people on the street. The only people you saw on the street were really young people in our situation, that young couple or something going to their parents and they had...",
+    "speaker_turn": 170,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "171": {
+    "link_turn_id": [
+      168,
+      170
+    ],
+    "words": "Were all the grocery stores open, I assume?",
+    "speaker_turn": 171,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "172": {
+    "link_turn_id": [
+      171
+    ],
+    "words": "Yes.",
+    "speaker_turn": 172,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "173": {
+    "link_turn_id": [
+      168,
+      171
+    ],
+    "words": "Mostly they were. I didn't let my kids out. If anybody went out, it was only myself because I didn't want to expose this thing. I would go and be with gloves and a mask and my husband wouldn't even go. He would just drive me and he would just wait in the car. We had to be there for Passover, we needed the food. It was my first time doing this all on my own, because I lived in Brooklyn before that. It was my first year. And I'll never forget my daughter, right before he just took her, he told her to go into the store. It was the day before Passover. He's like, \"She didn't have a mask.\" And he was like, she walked in and then he called her and he said, \"Come out.\" He says, \"But maybe you should sit in your room because you were exposed.\" It was just like we didn't know any answer what to do.",
+    "speaker_turn": 173,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "174": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "[inaudible].",
+    "speaker_turn": 174,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "175": {
+    "link_turn_id": [
+      173
+    ],
+    "words": "But even within our community, like you're saying regarding there are different variances. There are some of our community base that are very strongly for the vaccine and some that are not. So if you want join their organization, based on what they feel, that you have to be vaccinated. Because that's their point in their place.",
+    "speaker_turn": 175,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "176": {
+    "link_turn_id": [
+      175
+    ],
+    "words": "Okay, good. Last question before wrap up. What will a post pandemic future look like in your community? How can community organizations help your community thrive in the future?",
+    "speaker_turn": 176,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "177": {
+    "link_turn_id": [
+      176
+    ],
+    "words": "I think they provide you- [inaudible]",
+    "speaker_turn": 177,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "178": {
+    "link_turn_id": [
+      176
+    ],
+    "words": "This is a wrap up so any lingering thoughts or anything you want to...",
+    "speaker_turn": 178,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "179": {
+    "link_turn_id": [
+      175,
+      176
+    ],
+    "words": "... I think that the way that they can definitely help our community going forward is by providing a unified voice. As much as that's possible and everybody has their own opinions, but as much as possible, just so that we can be unified and that you know there's some ways to go when something does happen. I know now people are coming out and say against polio that they were saying get vaccinated. Honestly, there wasn't as much of a push really as there could have been. Polio is very serious. People don't know that because we don't know polio. Polio is a very foreign thing that nobody could relate to in this community, thank God, or anywhere really around the world, I think pretty much. But really, if this is something that's for real and they found whatever they found and they're telling everybody you have to get vaccinated, there should have been a stronger push for everybody to make sure that you're up to date with your polio vaccines.",
+    "speaker_turn": 179,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "180": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Still again.",
+    "speaker_turn": 180,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "181": {
+    "link_turn_id": [
+      179
+    ],
+    "words": "Yeah. It's a very, very serious disease.",
+    "speaker_turn": 181,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "182": {
+    "link_turn_id": [
+      181
+    ],
+    "words": "Absolutely.",
+    "speaker_turn": 182,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "183": {
+    "link_turn_id": [
+      179,
+      181
+    ],
+    "words": "But years ago they did say that it was. Polio was out and as soon as the vaccine came, their parents lined them up and they all got vaccinated. They saw the kids with polio and they said they're not taking the risk of getting it. They saw the effects of that.",
+    "speaker_turn": 183,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "184": {
+    "link_turn_id": [
+      183,
+      179
+    ],
+    "words": "For us, I have a great aunt that had polio. So she lives, that's it that I know. I don't see, that's the only effect that I see, but I do think about polio. I think had it been before the COVID pandemic, I feel like everyone would've got the vaccinated. You know what I mean? I feel like it just would've been, if we knew polio, of course we'd get vaccinated. Now I feel like the concept of maybe we don't need to get vaccinated. The vaccines aren't going to work, or maybe it's just the government pushing us to do stuff. All these thoughts that people never thought about are in their head, and it's hard to know which vaccine do you really need to get. Especially when the polio cases so far have been very small. There haven't been that many. So we don't see the effects of polio. People are like, \"Why do I really need to get it?\" No one's got polio in the past, I don't know, four decades, five or more.",
+    "speaker_turn": 184,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "185": {
+    "link_turn_id": [
+      183,
+      184
+    ],
+    "words": "Yesterday we watched this video on from a polio survivor and she said something at the end that was really, really powerful. She said, \"I really feel bad for the young mothers of today, because the hardships that you face and the mental game that you face to get your children vaccinated. For my parents, it was a no brainer.\"",
+    "speaker_turn": 185,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "186": {
+    "link_turn_id": [
+      185
+    ],
+    "words": "It wasn't even a decision.",
+    "speaker_turn": 186,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "187": {
+    "link_turn_id": [
+      186,
+      185
+    ],
+    "words": "It wasn't a decision. You saw polio, you saw a vaccine, you took it today, you don't know what polio is, and you had all those nay sayers out there. She was like, \"You need to know that it's a very real thing, and the effects of polio are devastating and it's so important to get vaccinated.\" And I think that that was very powerful to watch.",
+    "speaker_turn": 187,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "188": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "But going back to the actual question.",
+    "speaker_turn": 188,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "189": {
+    "link_turn_id": [
+      187,
+      184
+    ],
+    "words": "I think when you're forced to do something, human nature is to overthink it, why am I forced? Is it another reason involved? There were many other vaccines that people took that were never forced.",
+    "speaker_turn": 189,
+    "speaker_name": "Rebecca",
+    "conversation_id": 2364
+  },
+  "190": {
+    "link_turn_id": [
+      189
+    ],
+    "words": "True.",
+    "speaker_turn": 190,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "191": {
+    "link_turn_id": [
+      184,
+      189
+    ],
+    "words": "It's like everyone thinks it's ulterior motives. It's big pharma [inaudible].",
+    "speaker_turn": 191,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "192": {
+    "link_turn_id": [
+      189,
+      184
+    ],
+    "words": "I never thought about the flu vax and flu shot. Ever since I was a kid, I always got it. Never thought about it. I don't know. Should I take the flu vaccine? I don't know. I just took it and all of a sudden everyone's like, maybe you shouldn't take the flu shot because maybe it's not going to even help. Maybe it's not. Who cares, just take it. But for the actual question, I think the fact, learning from COVID and what...",
+    "speaker_turn": 192,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "193": {
+    "link_turn_id": [
+      192
+    ],
+    "words": "That's the question. What did we learn?",
+    "speaker_turn": 193,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "194": {
+    "link_turn_id": [
+      193
+    ],
+    "words": "What we learned? First of all, I think we're learning now. There's a lot of emotional backlash. Even more in a way than physical backlash from COVID and from, I don't know if you could say the way it was dealt with, but just the fact that you're taking a community that their basic way of life is interacting with each other every single week and always. And then you dump in all the holidays and then it becomes three times a week and the men go to pray three times a day. You're taking such a community, you're just telling them stay in your houses. The emotional backlash of being told to not go anywhere and not talk to anyone and not do anything, I think is coming out now more than before. Because everyone's just dealing with the very real physical ramifications, which were people getting sick, people dying. People were still recovering from that until now, but now it's two years, it's around two years past that.",
+    "speaker_turn": 194,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "195": {
+    "link_turn_id": [
+      194
+    ],
+    "words": "Okay. So that's an interesting direction. God forbid. What if there was something else, not COVID, but in February, March, another virus that required a shutdown. What do you think we should do differently?",
+    "speaker_turn": 195,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "196": {
+    "link_turn_id": [
+      195
+    ],
+    "words": "I don't know if the shutdown is the way to go.",
+    "speaker_turn": 196,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "197": {
+    "link_turn_id": [
+      196
+    ],
+    "words": "I don't know if the shutdown is the way to go. Shutdown as a complete and total shutdown.",
+    "speaker_turn": 197,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "198": {
+    "link_turn_id": [
+      196,
+      195
+    ],
+    "words": "I don't know if that's the way to go with this community.",
+    "speaker_turn": 198,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "199": {
+    "link_turn_id": [
+      198
+    ],
+    "words": "I don't think this community...",
+    "speaker_turn": 199,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "200": {
+    "link_turn_id": [
+      198,
+      197,
+      199,
+      196
+    ],
+    "words": "[inaudible] Everybody get it and then just go out and about. That's what they were hoping for.",
+    "speaker_turn": 200,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "201": {
+    "link_turn_id": [
+      198,
+      196,
+      195
+    ],
+    "words": "I don't think people could handle another shutdown. Honestly, the older people and the kids, the amounts of kids that are still being traumatized. My mother's a first grade teacher and she said there are kids that you can still see the effects of sitting home and not having structure and she could see it on the kids. Some of them just can't sit. It's just not happening. And you speak to their teachers before then the kid was fine. I don't know what the perfect solution would be, there shouldn't be anything. But I think a complete and total shutdown, first of all, I just think the community would run. Either no would listen or everyone would just run. Everyone would disappear. Everyone would go upstate. I don't know. No one would stay here and stay home. It just wouldn't happen.",
+    "speaker_turn": 201,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "202": {
+    "link_turn_id": [
+      199,
+      201
+    ],
+    "words": "I could say that's what I did. When the shutdown happened, we didn't stay local. At that point, I was working here, but I was looking at a job where I went to go in once a week. We had a rotation system where each employee came in once a week by themselves so that nobody interacted with each other and whatever you had to do in the office. Because everybody had a few things that just had to be done in the office. So I came in, I had to go in once a week, which was a Monday, Monday evening. Me and my husband would drive upstate, we would be there the entire week. We would come home on Sunday evening, I would call [inaudible]-",
+    "speaker_turn": 202,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "203": {
+    "link_turn_id": [
+      202
+    ],
+    "words": "Because things were a little looser upstate?",
+    "speaker_turn": 203,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "204": {
+    "link_turn_id": [
+      203
+    ],
+    "words": "Yeah, and you could go outside. You could leave.",
+    "speaker_turn": 204,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "205": {
+    "link_turn_id": [
+      204
+    ],
+    "words": "There were state laws but...",
+    "speaker_turn": 205,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "206": {
+    "link_turn_id": [
+      204,
+      202
+    ],
+    "words": "Even if you stay at your apartment, you have to go out here in Brooklyn, where you go, you walk outside, you bumped into a person. You're in the next neighbor's doorway. [inaudible]",
+    "speaker_turn": 206,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "207": {
+    "link_turn_id": [
+      202,
+      204,
+      203
+    ],
+    "words": "There are a lot of people upstate. A lot of people that own summer homes upstate were upstate. The winterized homes, people were there. First of all, it's fresh air, it was great. You had room, you were able to breathe.",
+    "speaker_turn": 207,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "208": {
+    "link_turn_id": [
+      207,
+      201,
+      202
+    ],
+    "words": "I'm just curious, is there anything that a broad park JCC or any leadership that they could do? Hopefully this conversation's not going to matter, but based on what everyone learned three years ago, it's almost three years. I'm just wondering. Where I live, you have two huge parks in four block walking distance. Well ones it's cemetery, but it's huge and it got more volume in those four or five weeks than it probably got in last 10 years. And people just were going, because it was this... If you don't mind it being silly, is there a law against... You're allowed to walk around it. It's like a park. It's amazing. It's a very beautiful place. So where I was, Prospect Park was open and people took advantage of it and all.",
+    "speaker_turn": 208,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "209": {
+    "link_turn_id": [
+      208
+    ],
+    "words": "Right. Exactly.",
+    "speaker_turn": 209,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "210": {
+    "link_turn_id": [
+      208
+    ],
+    "words": "Right",
+    "speaker_turn": 210,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "211": {
+    "link_turn_id": [
+      208
+    ],
+    "words": "But that's so far from here.",
+    "speaker_turn": 211,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "212": {
+    "link_turn_id": [
+      208,
+      207
+    ],
+    "words": "Exactly. I live in Staten Island and we have property around. With that, my husband in the beginning kept the door locked and he wouldn't let the kids out because he was nervous. We thought who knows what's in the air, and we didn't know in the beginning of what's happening. Haven't had accounts, didn't have an organization.",
+    "speaker_turn": 212,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "213": {
+    "link_turn_id": [
+      212,
+      208
+    ],
+    "words": "Exactly.",
+    "speaker_turn": 213,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "214": {
+    "link_turn_id": [
+      212
+    ],
+    "words": "It's not right. The basic information.",
+    "speaker_turn": 214,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "215": {
+    "link_turn_id": [
+      214
+    ],
+    "words": "Basic information.",
+    "speaker_turn": 215,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "216": {
+    "link_turn_id": [
+      212,
+      208
+    ],
+    "words": "Governor Cuomo and his health deputies every day would've a briefing, and people felt that that was hugely impactful, including my wife, would listen to him every single day. She couldn't wait to go on and to this day, you could say a bad word about this guy. She's waiting for him to come back, because in those critical two months where he would get up and he would tell people, this is what you can do today. And his two health experts, it wasn't like he was... He was surrounded by them and people felt that was very, very, very, very, very helpful. Reassuring. It was official. It was the official rep. It was the leader of the state of New York, surrounded by his health deputies, and he would provide guidance day by day.",
+    "speaker_turn": 216,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "217": {
+    "link_turn_id": [
+      216
+    ],
+    "words": "Something like that-",
+    "speaker_turn": 217,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "218": {
+    "link_turn_id": [
+      216
+    ],
+    "words": "You get to watch him. Nobody knew [inaudible] interested.",
+    "speaker_turn": 218,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "219": {
+    "link_turn_id": [
+      216
+    ],
+    "words": "A lot of people don't have the internet. Let's say someone for an organization, would've taken upon himself to, let's say, watch those briefings and then descended information, translate it. A lot of people don't have internet connection, so figure out a way to get home people.",
+    "speaker_turn": 219,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "220": {
+    "link_turn_id": [
+      219
+    ],
+    "words": "I think it's important this year.",
+    "speaker_turn": 220,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "221": {
+    "link_turn_id": [
+      219
+    ],
+    "words": "That would've been great.",
+    "speaker_turn": 221,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "222": {
+    "link_turn_id": [
+      220
+    ],
+    "words": "That was a very, I'm not trying to offend or criticize, but that certainly I think most people feel was a very, very important-",
+    "speaker_turn": 222,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "223": {
+    "link_turn_id": [
+      222
+    ],
+    "words": "Yeah, for sure.",
+    "speaker_turn": 223,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "224": {
+    "link_turn_id": [
+      222,
+      216
+    ],
+    "words": "... Part of COVID. And I can talk to people like my wife, she would say that was the most important thing that happened the whole time was to be able to watch, listen to him. He was very reassuring. It was like history knocked on his door and he rose to the occasion for two months.",
+    "speaker_turn": 224,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "225": {
+    "link_turn_id": [
+      224
+    ],
+    "words": "I think also a thing, I speak in theory, I don't know if any of this is possible, but in the event there has to be, hopefully not, God forbid, but let's say there is another lockdown and everyone's stuck at home with their children and their families. I know it wasn't that... One of the things that was really, really challenging was trying to keep these children occupied for a full day.",
+    "speaker_turn": 225,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "226": {
+    "link_turn_id": [
+      225
+    ],
+    "words": "Extremely challenging.",
+    "speaker_turn": 226,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "227": {
+    "link_turn_id": [
+      225,
+      226
+    ],
+    "words": "It's just so hard.",
+    "speaker_turn": 227,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "228": {
+    "link_turn_id": [
+      225,
+      227
+    ],
+    "words": "Plus different ages.",
+    "speaker_turn": 228,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "229": {
+    "link_turn_id": [
+      225,
+      228,
+      227
+    ],
+    "words": "Different ages and all that. I don't know if there's maybe something that they can do to help that issue.",
+    "speaker_turn": 229,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "230": {
+    "link_turn_id": [
+      225,
+      229
+    ],
+    "words": "I think it's a very important issue because I worked on that. I was trying to help get the childcare centers reopened and it was just like, every day people were calling me going, \"You got to get them open. You have to get open. Mothers are going crazy.\"",
+    "speaker_turn": 230,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "231": {
+    "link_turn_id": [
+      230
+    ],
+    "words": "Yes.",
+    "speaker_turn": 231,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "232": {
+    "link_turn_id": [
+      230
+    ],
+    "words": "And I said we were appealing to the city with different strategies and just saying, \"You can't keep it up. You have to open the centers.\"",
+    "speaker_turn": 232,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "233": {
+    "link_turn_id": [
+      232,
+      230
+    ],
+    "words": "It got to a point where parents were like, \"They're not even getting exposed. We don't care.\"",
+    "speaker_turn": 233,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "234": {
+    "link_turn_id": [
+      225,
+      232,
+      230
+    ],
+    "words": "[inaudible] And then the summer when things started to ease a little bit and kids were being destructive and doing stuff and we would come to the parents. It's COVID. This is coming from sitting in the house and you better get the schools open. You better get things open because these kids are being destructive, because they have nothing to their day. I remember them doing something upstate, and I'm like, \"These are COVID kids.\"",
+    "speaker_turn": 234,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "235": {
+    "link_turn_id": [
+      234
+    ],
+    "words": "Right. Yeah.",
+    "speaker_turn": 235,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "236": {
+    "link_turn_id": [
+      234
+    ],
+    "words": "It's going to take a long time to reverse this.",
+    "speaker_turn": 236,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "237": {
+    "link_turn_id": [
+      236
+    ],
+    "words": "Especially for our community.",
+    "speaker_turn": 237,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "238": {
+    "link_turn_id": [
+      236,
+      234,
+      237
+    ],
+    "words": "So that's why it should be happening at people with little kids.",
+    "speaker_turn": 238,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "239": {
+    "link_turn_id": [
+      238
+    ],
+    "words": "There should be something in place.",
+    "speaker_turn": 239,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "240": {
+    "link_turn_id": [
+      236,
+      239,
+      237
+    ],
+    "words": "Something is going to have to be figured out from the community in order to make this work so that we don't end up with big problems because these kids are still suffering mentally.",
+    "speaker_turn": 240,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "241": {
+    "link_turn_id": [
+      240,
+      239,
+      237
+    ],
+    "words": "Also, school has done over the phone and it was only done for whatever it was, an hour maybe or two hours a day.",
+    "speaker_turn": 241,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "242": {
+    "link_turn_id": [
+      241
+    ],
+    "words": "It was the whole time, and I know my kids had to participate in. Until today, they tell us that they were the only kids that were on the line. [inaudible] because we just felt it was structured to their day. It kept them still with they're studying or whatever.",
+    "speaker_turn": 242,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "243": {
+    "link_turn_id": [
+      241,
+      242
+    ],
+    "words": "But that was you, for the teachers... You can't tell a family with six kids how many followers they have. [inaudible] But not everyone did that. Right. And those kids, they were- [inaudible]",
+    "speaker_turn": 243,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "244": {
+    "link_turn_id": [
+      242
+    ],
+    "words": "My daughter, now she's graduating and she says, \"Do you know that I was the only kid there? I still went back and I replayed the lesson and I rewrote everything.",
+    "speaker_turn": 244,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "245": {
+    "link_turn_id": [
+      241
+    ],
+    "words": "During the whole emergency period of March, April, May, the city had these programs for the workers, the what do you call it? The urgent...",
+    "speaker_turn": 245,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "246": {
+    "link_turn_id": [
+      245
+    ],
+    "words": "The nurses and first responders.",
+    "speaker_turn": 246,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "247": {
+    "link_turn_id": [
+      245,
+      246
+    ],
+    "words": "Whatever they call the urgent workers and so that they would have a place to bring their children. The essential workers and that included the cooks, there's a lot of different parts, and they were allowed to go to a city run childcare program and drop their kids off. We asked the city, would you extend that to the orthodox community that you could open up a few of these places? And they said no, but I think that's something, it's called preemptively, set it up now before it happens. So when it happens, the structure will be in place.",
+    "speaker_turn": 247,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "248": {
+    "link_turn_id": [
+      241,
+      247,
+      243
+    ],
+    "words": "There are also so many children, unfortunately, that because of this are so behind, so delayed. And I know a first grade teacher and she sees that so much and she's like, \"It's such a shame. It's really, really heartbreaking to see these kids that would've really been on the right track, but they were home for three months with an hour of education every single day.\" That doesn't really do much, and it's over the phone because our community doesn't really do so much.",
+    "speaker_turn": 248,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "249": {
+    "link_turn_id": [
+      241,
+      248
+    ],
+    "words": "Right. We didn't have Zoom.",
+    "speaker_turn": 249,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "250": {
+    "link_turn_id": [
+      249,
+      248
+    ],
+    "words": "We didn't have Zoom. There's no interaction with the teacher.",
+    "speaker_turn": 250,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "251": {
+    "link_turn_id": [
+      250,
+      249,
+      248
+    ],
+    "words": "[Inaudible] So when you're having it over the phone, I don't what the solution is to that because I don't think that everybody.",
+    "speaker_turn": 251,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "252": {
+    "link_turn_id": [
+      248,
+      251
+    ],
+    "words": "That's a tough one because yeah, now you travel around, because we also were in summer camp using these title one funds, bro Park in Williamsburg over the phone. And I was like [inaudible], but they said, \"No, we can do it,\" and they're explaining it.",
+    "speaker_turn": 252,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "253": {
+    "link_turn_id": [
+      252
+    ],
+    "words": "They were dry.",
+    "speaker_turn": 253,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "254": {
+    "link_turn_id": [
+      252,
+      251
+    ],
+    "words": "You put the phone-",
+    "speaker_turn": 254,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "255": {
+    "link_turn_id": [
+      252
+    ],
+    "words": "They figured it out.",
+    "speaker_turn": 255,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "256": {
+    "link_turn_id": [
+      252
+    ],
+    "words": "... But it's kind of a disgrace.",
+    "speaker_turn": 256,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "257": {
+    "link_turn_id": [
+      252,
+      256
+    ],
+    "words": "But it was either that or nothing.",
+    "speaker_turn": 257,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "258": {
+    "link_turn_id": [
+      257
+    ],
+    "words": "Right. Yes.",
+    "speaker_turn": 258,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "259": {
+    "link_turn_id": [
+      257,
+      258
+    ],
+    "words": "You know what mean?",
+    "speaker_turn": 259,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "260": {
+    "link_turn_id": [
+      257
+    ],
+    "words": "But I know that my daughter, she was in kindergarten and she waited for that phone call from her teacher.",
+    "speaker_turn": 260,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "261": {
+    "link_turn_id": [
+      259
+    ],
+    "words": "Okay, all right. Well, there you go.",
+    "speaker_turn": 261,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "262": {
+    "link_turn_id": [
+      260
+    ],
+    "words": "And she waited and that kept her going.",
+    "speaker_turn": 262,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "263": {
+    "link_turn_id": [
+      260,
+      262
+    ],
+    "words": "In the summer or during school year?",
+    "speaker_turn": 263,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "264": {
+    "link_turn_id": [
+      263
+    ],
+    "words": "This was still in April, in May time.",
+    "speaker_turn": 264,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  },
+  "265": {
+    "link_turn_id": [
+      260,
+      262,
+      264
+    ],
+    "words": "Okay. I understand. Yeah. Well if you have Zoom, it's almost like it's a disruption, but it's not...",
+    "speaker_turn": 265,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "266": {
+    "link_turn_id": [
+      265
+    ],
+    "words": "It's not so bad.",
+    "speaker_turn": 266,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "267": {
+    "link_turn_id": [
+      266,
+      265
+    ],
+    "words": "It's not a serious disruption, because one of my kids was at home. You just had to make sure he was awake to Zoom. A lot of the kids didn't show up, but the teacher was there. Unfortunately they didn't have a... They should have had more... Some schools at 9:00 in the morning, it started and every hour a different teacher taught. So it was like school.",
+    "speaker_turn": 267,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "268": {
+    "link_turn_id": [
+      267
+    ],
+    "words": "That's probably my school.",
+    "speaker_turn": 268,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "269": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Anyways. Well, I appreciate everyone's input. Very valuable, very interesting, and I think unless you have any questions that wraps up our session today.",
+    "speaker_turn": 269,
+    "speaker_name": "David [Surname]",
+    "conversation_id": 2364
+  },
+  "270": {
+    "link_turn_id": [
+      269
+    ],
+    "words": "Thank you.",
+    "speaker_turn": 270,
+    "speaker_name": "Rachel",
+    "conversation_id": 2364
+  },
+  "271": {
+    "link_turn_id": [
+      270,
+      269
+    ],
+    "words": "Thank you.",
+    "speaker_turn": 271,
+    "speaker_name": "Mozart",
+    "conversation_id": 2364
+  },
+  "272": {
+    "link_turn_id": [
+      269
+    ],
+    "words": "Thank you.",
+    "speaker_turn": 272,
+    "speaker_name": "Jacqueline",
+    "conversation_id": 2364
+  }
+}

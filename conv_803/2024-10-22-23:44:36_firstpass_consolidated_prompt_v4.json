@@ -1,0 +1,821 @@
+{
+  "1": {
+    "words": "really say that or ...",
+    "link_turn_id": [
+      "NA"
+    ],
+    "speaker_turn": 1,
+    "speaker_name": "Gia",
+    "conversation_id": 803
+  },
+  "2": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Welcome Gia.",
+    "speaker_turn": 2,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "3": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Hi. Sorry I'm on the phone. Hi. I'm having problems hearing.",
+    "speaker_turn": 3,
+    "speaker_name": "Gia",
+    "conversation_id": 803
+  },
+  "4": {
+    "link_turn_id": [
+      3
+    ],
+    "words": "Okay. Let's get that together before we start. We can hear you wonderfully. Do you have headphones Shaquota?",
+    "speaker_turn": 4,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "5": {
+    "link_turn_id": [
+      4
+    ],
+    "words": "I wish. I'm just going to log in on my tablet. I'm going to log out and log back in. Sorry.",
+    "speaker_turn": 5,
+    "speaker_name": "Shaquota",
+    "conversation_id": 803
+  },
+  "6": {
+    "link_turn_id": [
+      3,
+      4,
+      5
+    ],
+    "words": "My people. Okay. Okay, like I said, welcome this is a conversation between Cortico's Local Voices Network and the Foundation for Black Women's Wellness. Thanks for agreeing to participate in this conversation. We have begun recording at this time. I'm going to share a little bit of information with you before we begin our conversation. Number one, only the audio is going to be recorded. As beautiful as you all look, it will not be video of your faces, so just of your voice recording. There are three main purposes for this conversation. One, we want to create a new space for folks to listen and learn from each other. Welcome. Second, we want to connect, build relationships with one another. Third, we want to create a unique opportunity to hear from black women. We are inviting you to have a conversation. It's going to be personal stories from your lived experience. We have a couple ground rules that you already saw within your invitation. Those are speak for speak for yourselves, out of your own experience. Allow others to speak for themselves. Share the time. If you like to talk a lot like I do, make sure the others are having some time as well. Feel free to stay curious, ask questions. Listen, pause, take time for reflection. Then if possible, I know you guys are super busy, you have your phones, I know we all have our phones, we're like connected to them, but if we can turn it over, flip it down, so that we're not focusing on that, that would be great. All right. Everybody on board? Thumbs up. Awesome. Quita can you hear us now or Shaquota can you hear us now? Awesome-",
+    "speaker_turn": 6,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "7": {
+    "link_turn_id": [
+      6
+    ],
+    "words": "Yes.",
+    "speaker_turn": 7,
+    "speaker_name": "Shaquota",
+    "conversation_id": 803
+  },
+  "8": {
+    "link_turn_id": [
+      6,
+      7
+    ],
+    "words": "Perfect. Wonderful. Okay. So, we are going to take some turns, it's called the circle process where we're each going to have an opportunity to introduce ourselves, so we are going to be asking you for your first name or pseudonym if you don't want to use your real name. A little bit about your background, who you are, where you live, what you do, stuff like that and then a value that is important to you and how it is related to what brought you here today. I'll just do a quick example of that. My name is Alia, I am the Chief Programs Officer with the Foundation for Black Women's Wellness. I live in Sun Prairie, which is the city right outside of Madison and Wisconsin. A value that is important to me that I want to bring into today's conversation is honesty. I'm really excited for an honest conversation about the state of black women's health here in Wisconsin. We'll go in an order. I'm going to type it up in here just so you know when it's your turn, but we'll start with April, followed by Shaquota, Gia, Asia and then Pilar.",
+    "speaker_turn": 8,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "9": {
+    "link_turn_id": [
+      8
+    ],
+    "words": "Hi, my name is April, I'm the Special Project Manager for the Foundation of Black Women's Wellness, and I live in Middleton Wisconsin. A value that's important to me is family, and I want to bring that to this conversation because I had some pregnancy complications that I'll talk about that relate to family and medical care.",
+    "speaker_turn": 9,
+    "speaker_name": "April",
+    "conversation_id": 803
+  },
+  "10": {
+    "link_turn_id": [
+      8,
+      9
+    ],
+    "words": "Thank you. Shaquota?",
+    "speaker_turn": 10,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "11": {
+    "link_turn_id": [
+      8,
+      9
+    ],
+    "words": "Hello, my name is Shaquota. I am a licensing specialist for the Department of Health Services. What's important to me, I want to bring to the conversation is honesty. That goes with having the conversation in family and all of that. Honesty.",
+    "speaker_turn": 11,
+    "speaker_name": "Shaquota",
+    "conversation_id": 803
+  },
+  "12": {
+    "link_turn_id": [
+      11
+    ],
+    "words": "Thank you.",
+    "speaker_turn": 12,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "13": {
+    "link_turn_id": [
+      8,
+      10
+    ],
+    "words": "Hi my name is Gia and I work for [inaudible] Alumni Engagement. What I want to bring to the conversation is ... Oh, okay I have two things. The first thing that came to mind was integrity. The second thing that came to mind was just time and self care. That I want to bring to the space.",
+    "speaker_turn": 13,
+    "speaker_name": "Gia",
+    "conversation_id": 803
+  },
+  "14": {
+    "link_turn_id": [
+      13
+    ],
+    "words": "Thank you. Asia. (silence).",
+    "speaker_turn": 14,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "15": {
+    "link_turn_id": [
+      14
+    ],
+    "words": "We can't hear you Asia.",
+    "speaker_turn": 15,
+    "speaker_name": "Shaquota",
+    "conversation_id": 803
+  },
+  "16": {
+    "link_turn_id": [
+      8,
+      14,
+      15
+    ],
+    "words": "Sorry. I'm Asia. I'm a full time student at UW Milwaukee. A value, something that I value is family. It got me to where I am today. Pushed me to get to college and continue to be determined, and just follow my dreams and my passions, so yeah.",
+    "speaker_turn": 16,
+    "speaker_name": "Asia",
+    "conversation_id": 803
+  },
+  "17": {
+    "link_turn_id": [
+      16
+    ],
+    "words": "Thank you. Pilar.",
+    "speaker_turn": 17,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "18": {
+    "link_turn_id": [
+      16,
+      13
+    ],
+    "words": "I'm Pilar. I'm also a full time student at UWM. Hi Asia. One value that's important to me is just learning and willing to learn about your mental health and what self care works for you and just constantly learning different things about yourself in education too.",
+    "speaker_turn": 18,
+    "speaker_name": "Pilar",
+    "conversation_id": 803
+  },
+  "19": {
+    "link_turn_id": [
+      18
+    ],
+    "words": "I love that. This is so good. I'm excited for this conversation. The next thing that we're going to do is we're just going to speak not in order, but just kind of when thoughts come to you, take turns, again, stay on mute while someone else is talking. Just remember, our audio is being recorded, so only share things that you feel comfortable being recorded. Yeah, I have a question, and that is, tell me about a time when you felt healthiest in your life and what were some of the things that were in place that supported you to feel that way? For example, time I felt most healthy in my life was last year. I was in tip-top health, both mentally and emotionally and the things that were in place for me during that time, I can remember I had a great job, good benefits, good health benefits. I had financial support to be able to go to the gym and make sure I was really prioritizing my health. I have a great group of friends, a great social network that is definitely necessary living here in Madison, so that would be my story, that's an example. Anybody feel free to go.",
+    "speaker_turn": 19,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "20": {
+    "link_turn_id": [
+      19
+    ],
+    "words": "Well I'll say, mine was about five years ago. I was losing weight, I was eating right, I was exercising, my family was good. My kids were thriving, my sister had just became cancer-free. About five years ago, I felt like I was at my best. Of course that changed, so sorry.",
+    "speaker_turn": 20,
+    "speaker_name": "Shaquota",
+    "conversation_id": 803
+  },
+  "21": {
+    "link_turn_id": [
+      20
+    ],
+    "words": "And we will get to that conversation about some barriers and when that changed. Thanks so much for sharing that.",
+    "speaker_turn": 21,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "22": {
+    "link_turn_id": [
+      21
+    ],
+    "words": "Thank you.",
+    "speaker_turn": 22,
+    "speaker_name": "Shaquota",
+    "conversation_id": 803
+  },
+  "23": {
+    "link_turn_id": [
+      18
+    ],
+    "words": "I believe that I'm in my healthiest time period. Pilar brought up a great point about learning, wanting to learn, so I'm learning about myself every day. The more I learn, the more healthier I can be for myself, so I'm just trying to be on the healthy journey, I'm trying to have a health journey.",
+    "speaker_turn": 23,
+    "speaker_name": "Asia",
+    "conversation_id": 803
+  },
+  "24": {
+    "link_turn_id": [
+      23
+    ],
+    "words": "Thank you Asia.",
+    "speaker_turn": 24,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "25": {
+    "link_turn_id": [
+      23
+    ],
+    "words": "Similar to Asia, I feel like in this current moment is my best time because I'm advocating for myself. I feel like within this past year, six months to a year, I feel like I've always spoken up, but I feel like I'm speaking up even more both in my job and personally. Yeah, it's all the same as her.",
+    "speaker_turn": 25,
+    "speaker_name": "Gia",
+    "conversation_id": 803
+  },
+  "26": {
+    "link_turn_id": [
+      25
+    ],
+    "words": "Thank you Gia.",
+    "speaker_turn": 26,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "27": {
+    "link_turn_id": [
+      19
+    ],
+    "words": "Me, I think mine is probably when I was in my 20s, which was a long time ago. Only because I think then my mental health, physical health, all of that combined was at its best. Right now, I'm on a journey to fix some of those things, so I would say it's probably long time ago.",
+    "speaker_turn": 27,
+    "speaker_name": "Pilar",
+    "conversation_id": 803
+  },
+  "28": {
+    "link_turn_id": [
+      "27"
+    ],
+    "words": "Thank you. All right, another question for ... Uh-oh, I feel like I'm missing a question here. Okay, but we're going to go to it. Now we're going to talk about places, organizations or people that make you feel nurtured, make you feel well, so I want you to tel a story from your experience. Talk about whether it's an organization, like the Foundation for Black Women's Wellness or another one or a person in your life that has helped you or supported you in feeling your best?",
+    "speaker_turn": 28,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "29": {
+    "link_turn_id": [
+      25
+    ],
+    "words": "Mine is actually on this call, Gia. I'm going to try not to cry. I probably will. I've been going through a lot of personal things on my life recently. Gia, in addition to a couple other people have really been my rock. Just in terms of being there for me, and not only physically, but emotionally. It just empowered me, giving me the confidence to do what I need to do in what's best for me and my family. I thought about, I don't know, do I get her a card? There's really nothing that ... There's no way for me to express how much she has helped me personally. I mean, she's always a cheerful person and I think we've gotten a lot closer in this past year, and I just want to say Gia thank you for everything that you've done for me up until this point, and I know that you will continue to do for me because you're always there for me and the kids as well, so thank you.",
+    "speaker_turn": 29,
+    "speaker_name": "April",
+    "conversation_id": 803
+  },
+  "30": {
+    "link_turn_id": [
+      29
+    ],
+    "words": "Make us cry up in here.",
+    "speaker_turn": 30,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "31": {
+    "link_turn_id": [
+      29
+    ],
+    "words": "You're welcome April.",
+    "speaker_turn": 31,
+    "speaker_name": "Gia",
+    "conversation_id": 803
+  },
+  "32": {
+    "link_turn_id": [
+      30
+    ],
+    "words": "Sorry.",
+    "speaker_turn": 32,
+    "speaker_name": "April",
+    "conversation_id": 803
+  },
+  "33": {
+    "link_turn_id": [
+      29
+    ],
+    "words": "[crosstalk] and the kids.",
+    "speaker_turn": 33,
+    "speaker_name": "Gia",
+    "conversation_id": 803
+  },
+  "34": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "[crosstalk] my thing is-",
+    "speaker_turn": 34,
+    "speaker_name": "Shaquota",
+    "conversation_id": 803
+  },
+  "35": {
+    "link_turn_id": [
+      29
+    ],
+    "words": "That was beautiful.",
+    "speaker_turn": 35,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "36": {
+    "link_turn_id": [
+      28,
+      29
+    ],
+    "words": "I can't just say one person. It's two people that are on this call and my husband that is in the next room, and I have just this core group of friends that have supported me and talked with me and walked through my journey with me. I know that I am a better person for them being in my life.",
+    "speaker_turn": 36,
+    "speaker_name": "Shaquota",
+    "conversation_id": 803
+  },
+  "37": {
+    "link_turn_id": [
+      35,
+      36,
+      29
+    ],
+    "words": "This just going to be a cry call, huh? That's what this going to be.",
+    "speaker_turn": 37,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "38": {
+    "link_turn_id": [
+      37
+    ],
+    "words": "Don't be talking about your lives.",
+    "speaker_turn": 38,
+    "speaker_name": "Shaquota",
+    "conversation_id": 803
+  },
+  "39": {
+    "link_turn_id": [
+      36
+    ],
+    "words": "I would have to say my mom. For folks who know me, I'm really close with my mom, she knows pretty much everything. Of course there's some things she won't know. We all take things to the grave, right? probably I know that I can always call on her. We do everything together. I want to be able to always give her the world, and she knows that. It didn't dawn on me until a friend of mine brought it up because we were talking about doing something and that was traveling. I was like, \"Oh, can my mom come?\" Then it was funny because they kind of paused. Then they were like, \"Sure.\" Then they ended up texting me. They were like, \"You know, I know you and your mom are really close, but if you have another friend, it is your birthday, but if you have another friend ...\" I was just kind of like, \"Oh, okay.\" Because I just want her to experience and travel because she doesn't always. Growing up she had me at a young age, so she didn't do a lot of that, so if there's an opportunity to do that, I want to be able to experience that with her.",
+    "speaker_turn": 39,
+    "speaker_name": "Gia",
+    "conversation_id": 803
+  },
+  "40": {
+    "link_turn_id": [
+      36,
+      39
+    ],
+    "words": "Sorry, I was putting the wrong question up in there. The question is to tell us about an individual or an organization that supports you being at your best. A story or a time or an organization that does that.",
+    "speaker_turn": 40,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "41": {
+    "link_turn_id": [
+      40
+    ],
+    "words": "For me, I would say my aunt. She passed away five years ago, she was just always there for me, she lived in a different state, in Chicago. Whenever I would see her or be with her, I would just always feel good. Just her presence, we wouldn't even be doing anything, just like riding somewhere and just being in her presence just really gave me the best feeling.",
+    "speaker_turn": 41,
+    "speaker_name": "Pilar",
+    "conversation_id": 803
+  },
+  "42": {
+    "link_turn_id": [
+      41
+    ],
+    "words": "That's beautiful.",
+    "speaker_turn": 42,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "43": {
+    "link_turn_id": [
+      40,
+      39
+    ],
+    "words": "I would say my mother because she is the only person that is always there for me. She's got me through so many challenges that I've had to overcome like struggling from a learning disability. I recently just found ... I mean I knew it my whole life, but I really just started really embracing it. Yeah, I didn't realize that I had a learning disability until my first year. I talked to my mom about it. She struggles with the same. It helped that she went through that so I could get through this. Just the only person I can really talk to about everything ... Without feeling judged, but if it is judged, it's coming from the right place.",
+    "speaker_turn": 43,
+    "speaker_name": "Asia",
+    "conversation_id": 803
+  },
+  "44": {
+    "link_turn_id": [
+      43
+    ],
+    "words": "Your mom is an amazing person. Okay. As the Foundation for Black Women's Wellness begins to set our policy priorities moving forward, we're interested in hearing from you about what gets in the way of being a well black woman in Wisconsin? What is your barrier to wellness here? If you could share a story from your experience that would help us understand that better?",
+    "speaker_turn": 44,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "45": {
+    "link_turn_id": [
+      44
+    ],
+    "words": "Healthcare providers listening. Actually listening to what you're saying and not just putting their own kind of take on what you're going through and just assuming that it's something else. It took me about 12 years to figure out that I had fibroids. I had seven pounds and I was in so much pain. Just couldn't see why they can't figure out what's wrong with my stomach. Why is my stomach hurting like this. Why is my menstrual heavy like this? Why does it feel like I'm giving birth every month? It's just crazy that it took that long for me to switch my doctors and say, \"I'm no longer talking to you because I'm telling you exactly what's wrong with me and you are the doctor, not me, you have to figure it out. I'm telling you what's wrong.\" It took me to switch my doctors, and my doctor did one exam and sent me to a specialist and figured out what was wrong with me. Being it took so long and I was in so much pain I had to get a partial hysterectomy. That might have not happened if my doctor actually listened to me and listened to everything that I was telling him that was really wrong with me and not just shooing it off like, \"Oh here we go, here's another stomach problem, here's another pain, here take this medicine and be on your way.\" Just actually listening. Listening to if we say something, that's what it is and it's not to be taken lightly.",
+    "speaker_turn": 45,
+    "speaker_name": "Shaquota",
+    "conversation_id": 803
+  },
+  "46": {
+    "link_turn_id": [
+      44,
+      45
+    ],
+    "words": "Mine is same. Healthcare providers not listening. My third pregnancy, I think I was nine weeks or something like that and I had this really bad pain. I called urban care, came in like \"Oh, it's probably nothing, you're fine.\" I was like, \"No, this is different, this is my third pregnancy, I know something is wrong.\" Still didn't do anything. Then I went to my doctor, I think it was a week later. She was like, \"Oh, no, everything is fine.\" I ended up going to the E.R. one night just because the pain was so bad, it was in a weird place and so. They did the test where they test your HCG and it's supposed to double every 24 hours, whatever. It was double, and said \"Oh no, you're fine. I'm like \"No, I need an ultrasound.\" Something is not right. Finally, I got ultrasound a couple days later and they found that I was pregnant with twins and one of the eggs or whatever embryos was in my fallopian tube and it was on the verge of exploding, so I had to have an emergency DNC to get it out. The thing was it took two weeks. I switched doctors after that. It was crazy because my doctor's like, \"Oh no, you're fine, don't worry about it.\" I'm like, \"No, this is my third pregnancy. I know something is wrong,\" but they just don't believe you. I think especially with black women, there's this notion of, and there's studies that have proved this, that they think that we have a higher pain tolerance or we're out to get some sort of drug or something and so we're faking this. It's just very frustrating because I could have died and there have many women that have died as a result of something similar because the healthcare provider's not listening. I also think there's this misconception that in Wisconsin that the reason why the infant mortality and maternal mortality rates are high is because something about lack of healthcare. It's not about the lack of healthcare. We all have access to healthcare. It's just when we go to the healthcare providers, we're not listened to. Then that prevents people from going because if the doctor's not listening to you, you're not going to want to go back, and then that's why we don't get care. It's not because we don't have access to it. There's just this misconception I think that people just automatically assume why things are happening and don't realize the innate racism that's occurring out the healthcare system.",
+    "speaker_turn": 46,
+    "speaker_name": "April",
+    "conversation_id": 803
+  },
+  "47": {
+    "link_turn_id": [
+      44,
+      45,
+      46
+    ],
+    "words": "Mm-hmm (affirmative). (silence). Anybody else want to talk about what is getting in the way of you being a well black woman in Wisconsin.",
+    "speaker_turn": 47,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "48": {
+    "link_turn_id": [
+      45,
+      46
+    ],
+    "words": "I agree with what you both just said about healthcare providers. I feel like most black women have a story about not being listened to. More recently I had a problem with my wrist. It just was in a lot of pain. I thought it was sprained or broken because it was just that much pain and I went to my primary healthcare provider and she ordered X-rays and it wasn't broken or sprained, but it was still in so much pain. I went to a specialist and she was just like, \"Oh, it's nothing, it's not really that big of a deal. Just wrap it, wear a brace for a couple months and you'll be fine.\" I was just kind of like, \"Well, this is a lot of pain. This doesn't feel like it's going to be fine, but I'll wear the brace and I'll do what you said.\" I wear the brace for two months all the time. It did not help at all. I just was kind of afraid to go back to that specialist or just my provider because I don't know what's going on with my wrist, but they weren't offering any type of assistance until last month I finally switched doctors and he just said \"Yeah, we're not going to go back to her, we're going to get someone that can listen to you.\" We found out what the issue was and now it's completely better. I probably wouldn't have had to get shots and steroids in my wrist if they would have just tried to figure out what the problem was in the beginning and actually acknowledge the pain that I was in.",
+    "speaker_turn": 48,
+    "speaker_name": "Pilar",
+    "conversation_id": 803
+  },
+  "49": {
+    "link_turn_id": [
+      44,
+      47
+    ],
+    "words": "I guess mines a little different. I haven't had a lot of health care issues. I have some, but for me I just kept looking at the question and reading the question over and over again and I felt like, was like, \"Oh I guess I was talking myself into my answer needs to be health related, and it is but not in that sense.\" The thing that keeps coming to mind was just whiteness gets in the way of being a well black woman. I kept thinking like, \"What do I say, what do I say?\" It's a lot of stress. Right. I work in a predominantly white organization, just living here in Wisconsin is just I'm not from here and I don't have family here. Right, I mean I have close friends. I have April, I have other close friends. It's my family and I just ... It can be draining always having to prove yourself. Always having to prove your work and your worth. For me, that's what I feel like can get in the way of me being a well black woman because I start having imposter syndrome and second guessing myself and the work that I'm doing and I do extra work. Someone would write a one page paper and I'm writing three page papers. I'm doing all this extra just to makr sure that I'm being respected. Then valued. Right. I think for me, it's a lot about respect. I feel like that's what's gets in the way a lot of times for me being a well black woman. What has put me in a position to now ask which it has been approved, but it's ... I did ask my employer to relocate me to Atlanta to tele-work since we've been doing it for seven months. They approved it, so I will be moving to Atlanta next summer. It's funny, I just got the official letter. We're reading through the book when it's my husband and, of course they put it in there, it'll be discontinued for any reason or no reason. At the end of the day yeah, it's a business, but it's getting me out of here. If that is the case, if six months from when I move if they say we don't have the finances, if they say, I just have to be prepared for that, but at the same time, I'm looking forward to the future and being around more melanin.",
+    "speaker_turn": 49,
+    "speaker_name": "Gia",
+    "conversation_id": 803
+  },
+  "50": {
+    "link_turn_id": [
+      47
+    ],
+    "words": "Anybody else want to talk about what gets in the way of being a well black woman in Wisconsin? (silence). Okay. Now we're going to bring a voice from someone who participated in a previous conversation with the Local Voices Network and the foundation. I want you to imagine this person's in the room right now. She's making this comment. Then I'm going to invite you to share any of your responses or insights you have from listening to her comments. Let's take a listen.",
+    "speaker_turn": 50,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "51": {
+    "link_turn_id": [
+      48,
+      49,
+      45,
+      46
+    ],
+    "words": "I continue this journey, this medical journey. Every time it just adds to the physical ramifications of being black in this community. I think for me it is a mix of culture along with systems that just de-humanize us, will not listen to us, constantly have the criticism when we do speak up. Along with the lack of, and thank goodness, a patient and other organizations for this [inaudible 00:27:40], folks who are coming new to our community and helping to bridge these gaps. The isolation and the aloneness. Everybody says that more often than not is the one thing that tips you from not surviving. It is that isolation that prevents you from actually not even being able to start to survive much less thrive. I think it's a combination of these things. We'll talk at some other point about how you get back to policy and systems changes, but we really do have to work on how the eco-system, black folks, POC folks and white folks are engaging with us all as individuals, because if we don't get that piece, it's going to be, you can have all the policies and practices and stuff written down on paper, but it's not going to help, right? For me, that's super hard. And ...",
+    "speaker_turn": 51,
+    "speaker_name": "Highlight",
+    "conversation_id": 803
+  },
+  "52": {
+    "link_turn_id": [
+      "51"
+    ],
+    "words": "Reflections on what Michelle just shared.",
+    "speaker_turn": 52,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "53": {
+    "link_turn_id": [
+      49,
+      51
+    ],
+    "words": "Isolation. For sure, I feel isolated. Like what Asia was saying, when I was a kid, they put me I'm a box with a learning disability. That's like, in my own head I know what's going on, I can figure it out, it's just not calculating it the way one plus one is not equaling two to me. It's not calculating right, but you put me in this box over here. That's not working for me because I don't feel like I needed to be in that box. I think you just needed to teach me a different kind of way. They're getting better at it, but there's still, having a learning disability doesn't mean that you can't read. Does not mean that you can't learn. I just learn a different way. I see stuff and letters get mixed around. I put it in its wrong place. They weren't ... No one was trying to figure that part out. I felt isolated. I felt like I didn't belong in a regular class and I for sure didn't belong in a disability class. That goes the same with right now with just my job and just life too. Sometimes I feel like I am isolated. Say I'm playing a game, I feel like I'm playing a different game than everybody else because the way my mind reacts and my mind thinks. It thinks differently. It might take me a little longer or it might get it like, I don't know, something just clicked in there and there you go. Definitely isolation, feeling like you don't belong where you belong.",
+    "speaker_turn": 53,
+    "speaker_name": "Shaquota",
+    "conversation_id": 803
+  },
+  "54": {
+    "link_turn_id": [
+      51,
+      53
+    ],
+    "words": "Thank you Shaquota. Any other thoughts about what Michelle shared? (silence). I'm pausing. People are thinking about feeling isolated in Madison or Milwaukee or other places before we move on. Okay. Here's a question for more reflection. Given our conversation about what enhances our wellness, what are things that stand in the way of our wellness, what would a Wisconsin look like, so we're going to vision future, what would a Wisconsin look like where all black women could be well. What would it feel like? What would it look like?",
+    "speaker_turn": 54,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "55": {
+    "link_turn_id": [
+      48,
+      51,
+      46
+    ],
+    "words": "I think it's minuscule in the big picture, but I think it's a start to have more healthcare providers that look like us from the mental health field to the doctors, surgeons. I think that would help us feel more comfortable and feel actually heard when we go to the doctor. If there's representation, but understanding that that happens at the elementary level, right, we have to get our kids interested and let them know that they're able to be doctors and nurses and these health care professionals. I think we have to attack it from multiple angles, but I think that would be a start.",
+    "speaker_turn": 55,
+    "speaker_name": "April",
+    "conversation_id": 803
+  },
+  "56": {
+    "link_turn_id": [
+      54,
+      55
+    ],
+    "words": "What else? What would a Wisconsin look like?",
+    "speaker_turn": 56,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "57": {
+    "link_turn_id": [
+      54,
+      55
+    ],
+    "words": "I think more ... Oh I'm sorry. You should go. Okay. I think that more black women would be more willing to be themselves and be open even with healthcare providers and stuff like that being able to just actually voice your concerns and feel like you're being heard and then get those nipped in the bud instead of having to constantly have that pain or have that health issue. Just being able to target and pinpoint any type of issues and concerns that you're having, even regarding mental health too and being able to fix them and just be feeling better. Like how we were talking about before with what was that person or organization that made you feel good and well. I feel like there would be more of that al the time and that would be really nice to have.",
+    "speaker_turn": 57,
+    "speaker_name": "Pilar",
+    "conversation_id": 803
+  },
+  "58": {
+    "link_turn_id": [
+      57,
+      55
+    ],
+    "words": "I just agree. I agree. It sounds like disagree, sorry, but I agree with both Pilar and April in that just role models and having individuals that look like us in positions in health care and education. I think about my daughter and just the things that she has experienced and may not of course understand, but as a mama bear I do. I would just say just making sure that we have more representation in Wisconsin, not just Madison, but in a Wisconsin as a whole. And less people wanting to touch our hair. Because I may have this today and I my afro tomorrow, but that's none of your business but that's none of your business. Right?",
+    "speaker_turn": 58,
+    "speaker_name": "Gia",
+    "conversation_id": 803
+  },
+  "59": {
+    "link_turn_id": [
+      57,
+      58,
+      55
+    ],
+    "words": "That's awesome.",
+    "speaker_turn": 59,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "60": {
+    "link_turn_id": [
+      57,
+      58,
+      55
+    ],
+    "words": "I think we need the representation also, but the representation that we have need to be open to the conversation with us. Because we have teachers and doctors and lawyers that are African American women and men, but they also have to be open and willing to talk to us, and not us feel like we don't belong with them, that they're better, that we can't get to their height of education understanding wellness. They have to also got to be a real black person, all the way through, and love your black community at the same time. We have them, but they just got to be willing to, open to have the conversation to talk with us and listen to us also. That's more important than the white doctors and the white nurses and lawyers and all that.",
+    "speaker_turn": 60,
+    "speaker_name": "Shaquota",
+    "conversation_id": 803
+  },
+  "61": {
+    "link_turn_id": [
+      60
+    ],
+    "words": "Shaquota's getting deep. All right. What else? What does Wisconsin look like? What does it feel like?",
+    "speaker_turn": 61,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "62": {
+    "link_turn_id": [
+      58,
+      60,
+      55
+    ],
+    "words": "It feels like unconditional love. If we're all there for each other and we see what we look like, people that look like us in higher spots, we feel like it is possible for us to get to that point. I just feel like it'd be a really progressive state if every ... I don't know where I was going with that, but.",
+    "speaker_turn": 62,
+    "speaker_name": "Asia",
+    "conversation_id": 803
+  },
+  "63": {
+    "link_turn_id": [
+      62
+    ],
+    "words": "Love. Yeah, what does that look like in Wisconsin if we were loved, how does that show up in our wellness? No, I completely understand where you're going with that Asia. Okay. Reflecting on that conversation we just had, what is one change that you would like to see happen in Wisconsin? One change ... in order to be more well. One.",
+    "speaker_turn": 63,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "64": {
+    "link_turn_id": [
+      63
+    ],
+    "words": "I would like to see less division between groups of people. (silence).",
+    "speaker_turn": 64,
+    "speaker_name": "Asia",
+    "conversation_id": 803
+  },
+  "65": {
+    "link_turn_id": [
+      64
+    ],
+    "words": "What else? I know one is hard. One change.",
+    "speaker_turn": 65,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "66": {
+    "link_turn_id": [
+      64
+    ],
+    "words": "I would like to see black women come together. We have a lot of division even just in Madison, well outside of Madison because I live in Middleton in Sun Prairie, but just in our immediate area for us to come together because there's a lot of competition amongst us. That's getting us nowhere. I think we're definitely stronger in numbers, and once we recognize that and put all of our pettiness and other stuff aside, we can really build and gain momentum to make change, but I feel like we can't do that until we come together as one.",
+    "speaker_turn": 66,
+    "speaker_name": "April",
+    "conversation_id": 803
+  },
+  "67": {
+    "link_turn_id": [
+      64,
+      66,
+      63
+    ],
+    "words": "I think to love one another more, you have start with that self love and a lot of the time people don't know they haven't been taught self-love, so it's hard to love everybody else if you don't love yourself. Teaching self love someway somehow we just need more advocacy of that.",
+    "speaker_turn": 67,
+    "speaker_name": "Asia",
+    "conversation_id": 803
+  },
+  "68": {
+    "link_turn_id": [
+      67
+    ],
+    "words": "Mm-hmm (affirmative).",
+    "speaker_turn": 68,
+    "speaker_name": "April",
+    "conversation_id": 803
+  },
+  "69": {
+    "link_turn_id": [
+      66
+    ],
+    "words": "To let African, black women know that someone out there cares and where to find that. Where can you find that? Have a phone number or website that we can just call and say, \"I'm feeling like this doesn't matter and have someone find some kind of resource that you can, besides therapy or doctor just to have someone give a crap about you, period.\"",
+    "speaker_turn": 69,
+    "speaker_name": "Shaquota",
+    "conversation_id": 803
+  },
+  "70": {
+    "link_turn_id": [
+      66,
+      67,
+      69
+    ],
+    "words": "Just being in community.",
+    "speaker_turn": 70,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "71": {
+    "link_turn_id": [
+      69
+    ],
+    "words": "Mm-hmm (affirmative).",
+    "speaker_turn": 71,
+    "speaker_name": "Shaquota",
+    "conversation_id": 803
+  },
+  "72": {
+    "link_turn_id": [
+      66,
+      69
+    ],
+    "words": "Yeah. What else? What is one thing you would change in Wisconsin to make it more well for black women?",
+    "speaker_turn": 72,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "73": {
+    "link_turn_id": [
+      72,
+      69,
+      70
+    ],
+    "words": "Some more strong black men. Caring about black women.",
+    "speaker_turn": 73,
+    "speaker_name": "Shaquota",
+    "conversation_id": 803
+  },
+  "74": {
+    "link_turn_id": [
+      72
+    ],
+    "words": "Maybe ... how are education is structured. I would have liked to learn more about black history when I was going to high school and middle school, I never really learned about my history, so that kind of really just set me apart and isolated me even more because I didn't even know who I am, where I come from.",
+    "speaker_turn": 74,
+    "speaker_name": "Asia",
+    "conversation_id": 803
+  },
+  "75": {
+    "link_turn_id": [
+      74
+    ],
+    "words": "So important. So important. That's where that self-love comes from, right? Knowing who you are, where you came from. Yes. Any other thoughts before I move to the next question? (silence). All right, for our last question, excuse me, I invite you to share what is one thing that you heard today from these fantastic amazing women that you'll be taking away from this conversation?",
+    "speaker_turn": 75,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "76": {
+    "link_turn_id": [
+      74,
+      75,
+      69,
+      70
+    ],
+    "words": "I think this might sound clich\u00e9, but just that we're not alone, like there are other women who are thinking and feeling the same way that we are, whether it's in regards to health or being isolated. There's a network of people here that we can connect with.",
+    "speaker_turn": 76,
+    "speaker_name": "April",
+    "conversation_id": 803
+  },
+  "77": {
+    "link_turn_id": [
+      76
+    ],
+    "words": "I agree completely. I think that's really important to acknowledge that we're not alone in all of this and all it takes is just to start the conversation and once you start that, keep it going and actually learn that hey we have similar experiences. We're all going through pretty much the same thing and if we just talk about it, maybe we can find ways to fix it and change it, so it doesn't keep happening to our kids and their kid's kids and stuff like that so it doesn't continue. (silence).",
+    "speaker_turn": 77,
+    "speaker_name": "Pilar",
+    "conversation_id": 803
+  },
+  "78": {
+    "link_turn_id": [
+      74,
+      76,
+      77
+    ],
+    "words": "[crosstalk 00:44:08]. But what Asia's point, more education. An educational system improving. Then, the other piece both Shaquota and April hit on which is the division that's here in Madison and how we as a community should come together. I think it's also important to understand that it's structured that way because white people want it to be that way. Right, if you're giving one person a dollar, another person 50 cents, then you'll scrabble who's going to get the most money and funding. I think once we all realize that, and I think a lot of us talk about it. It's interesting because I feel like everybody in their circles are talking about it. But at the same time, you have your missions, you're trying to ... Everybody's mission is important and is meeting a need and so I think that's what hard, Is just because it's like your mission is meeting a need. Then, I guess people may feel like if they do come together once again, they're going to get less than, right. I think just speaking for myself, I've been in this community for 12 years. I think I mean the most I've been active in the community is within this last year, maybe two years. That's telling because when I first came, I did try and go, not try, but I went to some of the black networking events. You feel it. Right? 12 years ago when I came I felt like there were these cliques, and I didn't fit in and I did not fit in. Educated or not, I wasn't from here, I'd only been here a little bit of time. I hadn't put in the work. Over time people, yes, got to know me, but then personally my lie began to change and I had a family. I wasn't coming out. It was homework, take care of baby. Now she's older and I'm trying to get back out. A lot of it too is my role. It's allowed me a little bit more flexibility in the community that I work with, they're older. But at the same time it's like there's a missed opportunity personally. I could have made an effort, but at the same time individuals who are in position to make that outreach didn't. I think really making sure that those people that are in positions and not ... What I felt is how some of my alumni feel when they go to white events. They go to a chapter and they're being told, \"Oh, are you catering?\" Right? It's just a cycle of how we all do it. White people do it to us, we do it to our own people. Right, and so until we understand. Going back to ... It's a lot of things that others said, it's self-love, self-care, just networking, connecting, uplifting, it's just all important. It's like, where do you start? You don't finish. It's a continuation. I think that that's what people are ... It's like, \"Okay, we started it, now we're done.\" Then, we dropped the ball. It's a marathon.",
+    "speaker_turn": 78,
+    "speaker_name": "Gia",
+    "conversation_id": 803
+  },
+  "79": {
+    "link_turn_id": [
+      78
+    ],
+    "words": "Mm-hmm (affirmative).",
+    "speaker_turn": 79,
+    "speaker_name": "Pilar",
+    "conversation_id": 803
+  },
+  "80": {
+    "link_turn_id": [
+      75
+    ],
+    "words": "What are y'all going to take away. I won't say one thing because I got about two things. What do y'all kind of take away from the conversation?",
+    "speaker_turn": 80,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "81": {
+    "link_turn_id": [
+      75,
+      76,
+      77,
+      78
+    ],
+    "words": "Well listening to these young ladies I'm taking away that these young girls needed to be listened to, chatted with, converse. We need to connect with them more, so then when they become our age that they don't feel like we feel. We need to get them young. They college students, they are at their most vulnerable where everybody's coming in their face. The white man is all in their face. Okay, so we need to talk to them more and communicate with them more. Let them know that they do belong and they are wanted and they're important.",
+    "speaker_turn": 81,
+    "speaker_name": "Shaquota",
+    "conversation_id": 803
+  },
+  "82": {
+    "link_turn_id": [
+      81,
+      75,
+      76,
+      78
+    ],
+    "words": "Yeah, just going to say just what I'm taking away from this conversation is just to continue to self-love and encourage other people to continue their journey with self-love and just having those conversations with people and letting them know that I am here for them if they need me, and I hope that you're there for me if I need you. We're supposed to be in this together, togetherness is everything.",
+    "speaker_turn": 82,
+    "speaker_name": "Asia",
+    "conversation_id": 803
+  },
+  "83": {
+    "link_turn_id": [
+      82,
+      78
+    ],
+    "words": "My cup so full. I know I'm the facilitator, but I must say what my takeaways are. My takeaways are I'm so impressed with these young folk here who are already thinking about these things and already prioritizing their health. I can't think of a time at this age where I was prioritizing mine. That is beautiful. The other thing I'm taking away is just the incredible impact that love has had, this conversations been filled with the word love. I look forward to going back and counting. I know that this system allows counting how many times we talked about love and just the beautiful expressions of love between black women, whether child and mother or friendships, sisters, sister circles. That was really, really super encouraging to me. All those things I'm going to take away from this conversation. Are there any final comments, thoughts before we end the conversation today?",
+    "speaker_turn": 83,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  },
+  "84": {
+    "link_turn_id": [
+      83
+    ],
+    "words": "I just want to say all these different shades of melanin is giving me all life. Okay, all the life. Yes, thank you. We come in all shades, yay.",
+    "speaker_turn": 84,
+    "speaker_name": "Shaquota",
+    "conversation_id": 803
+  },
+  "85": {
+    "link_turn_id": [
+      84
+    ],
+    "words": "I love that. So true. I should take a picture. And she pulls out the phone. Y'all prepare. Anything else before we end the call? All right, well I just want to thank each one of you so much for joining the conversation and sharing your thoughts. If you have any questions, we can stop recording now.",
+    "speaker_turn": 85,
+    "speaker_name": "Alia",
+    "conversation_id": 803
+  }
+}

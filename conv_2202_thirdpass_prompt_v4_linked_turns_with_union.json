@@ -1,0 +1,3190 @@
+{
+  "1": {
+    "words": "While we're waiting, I did want to say, if anyone is interested in picking up... We have some notepads, stress balls, water, candy, any masks, you can reach out to me, I'll put my phone number and my email in the chat now, but please reach out to me after this and then I can give you directions to our office, so that you can pick those things up. All right everyone, so thank you so much for joining this community conversation with the Public Health Course Storytelling Project. I'll start by just sharing some information about our purpose today and your role in this conversation and in this project. So we're almost two and a half years into the pandemic and the struggle around accurate, reliable and trusted information is still real. The initiative that you're joining today aims to change that, this conversation is part of an ongoing community powered initiative called the Public Health Core, and that's a citywide effort with the mission to expand the public health workforce by partnering with community groups and community health workers to eliminate the COVID-19 inequities through outreach and education and so the stories and the experiences that you share will be part of a citywide story library that amplifies the experience of you and other community members that are navigating the COVID-19 pandemic. We are recording the audio of today's conversations and the video portion will be immediately discarded, we'll get rid of the video and just keep the audio. To protect your confidentiality, we ask that you use a pseudonym, so you don't have to go by the name that is on your Zoom account right now, if you'd like to use a pseudonym, you can go ahead and change your zoom name now and I'll just walk you through how to do that. So to change your Zoom name, you hover over your zoom screen and click the three dots in the right hand corner, the top right hand corner and when you click on rename, you can enter your desired name and then click \"Okay\". We do encourage you to share your stories and experiences openly and to respond to all of the questions, but keep in mind that you may choose not to answer a question at any time. Before I begin, I'm going to read a consent statement and ask you all to give us permission to use your voice and to use your story as a part of this project. I'm going to put an order of the participants right now in the chat, so that we are all able to verbally give our consent after I've read this statement. Okay. So as a participant in this conversation, you are providing consent to the New York City Public Health Core to use the recording in accordance with this mission, you also understand that the conversation will be part of a collection of Cortico's Local Voices Network, whose mission is to foster conversations in communities and in the media that improve our understanding of one another, Cortico will collect, retain, and analyze these conversations in keeping with that mission. If you understand and agree to this, please say \"I agree\" and I'll put the order of our participants right now, so that you can each unmute to say I agree. Can we have our first participant respond? If you understand and agree to this, please say \"I agree\".",
+    "link_turn_id": [
+      "NA"
+    ],
+    "speaker_turn": 1,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {},
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ]
+  },
+  "2": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "I do, I agree, I'm Mariluz Garc\u00eda.",
+    "speaker_turn": 2,
+    "speaker_name": "Mary",
+    "conversation_id": 2202,
+    "segments": {
+      "1": {
+        "segment_words": "I do, I agree",
+        "link_turn_id": 1,
+        "linked_words": "If you understand and agree to this, please say \"I agree\"",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "3": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "I do, I agree.",
+    "speaker_turn": 3,
+    "speaker_name": "Sheri",
+    "conversation_id": 2202,
+    "segments": {
+      "1": {
+        "segment_words": "I do, I agree.",
+        "link_turn_id": 1,
+        "linked_words": "If you understand and agree to this, please say \"I agree\".",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "4": {
+    "link_turn_id": [
+      3,
+      2
+    ],
+    "words": "Thank you. Two more participants.",
+    "speaker_turn": 4,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "3": {
+        "segment_words": "Thank you.",
+        "link_turn_id": 3,
+        "linked_words": "I do, I agree.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "2": {
+        "segment_words": "Thank you.",
+        "link_turn_id": 2,
+        "linked_words": "I do, I agree, I'm Mariluz Garc\u00eda.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "2",
+      "3",
+      "2",
+      "3",
+      "2",
+      "3"
+    ]
+  },
+  "5": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "I agree.",
+    "speaker_turn": 5,
+    "speaker_name": "Ally",
+    "conversation_id": 2202,
+    "segments": {
+      "1": {
+        "segment_words": "I agree.",
+        "link_turn_id": 1,
+        "linked_words": "If you understand and agree to this, please say \"I agree\" and I'll put the order of our participants right now, so that you can each unmute to say I agree.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "1",
+      "4",
+      "1",
+      "1"
+    ]
+  },
+  "6": {
+    "link_turn_id": [
+      1,
+      4
+    ],
+    "words": "Yeah, I agree.",
+    "speaker_turn": 6,
+    "speaker_name": "Levi",
+    "conversation_id": 2202,
+    "segments": {
+      "1": {
+        "segment_words": "Yeah, I agree.",
+        "link_turn_id": 1,
+        "linked_words": "If you understand and agree to this, please say \"I agree\".",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "4": {
+        "segment_words": "Yeah, I agree.",
+        "link_turn_id": 4,
+        "linked_words": "Thank you.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "1",
+      "4",
+      "1",
+      "1",
+      "4"
+    ]
+  },
+  "7": {
+    "link_turn_id": [
+      3,
+      5,
+      1,
+      4,
+      2,
+      6
+    ],
+    "words": "Thank you all. We want to make sure that everyone gets the chance to both share and to learn from others in the conversation and to support those goals, we just have a few guidelines for our conversation today, speak about yourself and out of your own experiences, allow others to speak for themselves, share the time, allow others to finish speaking, take turns, stay curious, ask each other questions and honest questions, at that, don't feel like you don't have the chance to pause, take your time for reflection, listen generously, assume good intentions while recognizing that your own words have an impact and when possible, close unnecessary programs, applications and notifications as well as put your phone on silent for as much of this conversation as you can. So let's go around, just quickly, and introduce ourselves, we can share our first name, where we're joining from, and just let us know how you're feeling, whether it's physically, intellectually, emotionally or spiritually. And so I'll start, my name is [inaudible], I'm joining us from the 10455 area of the Bronx and I will be checking in, emotionally, right now, I'm feeling very calm, so we can all go around. Would anyone like to start?",
+    "speaker_turn": 7,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "3": {
+        "segment_words": "Thank you all.",
+        "link_turn_id": 3,
+        "linked_words": "I do, I agree.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "5": {
+        "segment_words": "Thank you all.",
+        "link_turn_id": 5,
+        "linked_words": "I agree.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "1": {
+        "segment_words": "So let's go around, just quickly, and introduce ourselves, we can share our first name, where we're joining from, and just let us know how you're feeling, whether it's physically, intellectually, emotionally or spiritually.",
+        "link_turn_id": 1,
+        "linked_words": "Can we have our first participant respond? If you understand and agree to this, please say \"I agree\".",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "4": {
+        "segment_words": "we can all go around. Would anyone like to start?",
+        "link_turn_id": 4,
+        "linked_words": "Two more participants.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "2": {
+        "segment_words": "So let's go around, just quickly, and introduce ourselves, we can share our first name, where we're joining from, and just let us know how you're feeling, whether it's physically, intellectually, emotionally or spiritually.",
+        "link_turn_id": 2,
+        "linked_words": "I do, I agree, I'm Mariluz Garc\u00eda.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "6": {
+        "segment_words": "Thank you all.",
+        "link_turn_id": 6,
+        "linked_words": "Yeah, I agree.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  "8": {
+    "link_turn_id": [
+      7
+    ],
+    "words": "I'll go. Hi, everyone. My name is Alexa, I am joining from the 10003 area of Manhattan and physically, I'm feeling a little tired, I think it's because the sun is setting earlier every day.",
+    "speaker_turn": 8,
+    "speaker_name": "Ally",
+    "conversation_id": 2202,
+    "segments": {
+      "7": {
+        "segment_words": "Hi, everyone. My name is Alexa, I am joining from the 10003 area of Manhattan and physically, I'm feeling a little tired,",
+        "link_turn_id": 7,
+        "linked_words": "So let's go around, just quickly, and introduce ourselves, we can share our first name, where we're joining from, and just let us know how you're feeling, whether it's physically, intellectually, emotionally or spiritually.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "7",
+      "7",
+      "7"
+    ]
+  },
+  "9": {
+    "link_turn_id": [
+      8
+    ],
+    "words": "Thank you.",
+    "speaker_turn": 9,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "8": {
+        "segment_words": "Thank you.",
+        "link_turn_id": 8,
+        "linked_words": "Hi, everyone. My name is Alexa, I am joining from the 10003 area of Manhattan and physically, I'm feeling a little tired, I think it's because the sun is setting earlier every day.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "8",
+      "8",
+      "8"
+    ]
+  },
+  "10": {
+    "link_turn_id": [
+      8,
+      7
+    ],
+    "words": "Good afternoon, my name is Mariluz, I am from 10458 ZIP code, physically I'm opposed to Alexa, I'm feeling motivated today, I don't know, but today I feel energy, now is more than 6:00 PM and I'm feeling energy, I'm feeling good today.",
+    "speaker_turn": 10,
+    "speaker_name": "Mary",
+    "conversation_id": 2202,
+    "segments": {
+      "8": {
+        "segment_words": "physically I'm opposed to Alexa, I'm feeling motivated today, I don't know, but today I feel energy, now is more than 6:00 PM and I'm feeling energy, I'm feeling good today.",
+        "link_turn_id": 8,
+        "linked_words": "physically, I'm feeling a little tired, I think it's because the sun is setting earlier every day.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "7": {
+        "segment_words": "my name is Mariluz, I am from 10458 ZIP code, physically I'm opposed to Alexa, I'm feeling motivated today, I don't know, but today I feel energy, now is more than 6:00 PM and I'm feeling energy, I'm feeling good today.",
+        "link_turn_id": 7,
+        "linked_words": "we can share our first name, where we're joining from, and just let us know how you're feeling, whether it's physically, intellectually, emotionally or spiritually.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "7",
+      "8",
+      "7",
+      "8",
+      "7",
+      "8"
+    ]
+  },
+  "11": {
+    "link_turn_id": [
+      10
+    ],
+    "words": "Thank you. Glad to hear, thank you. Would love to hear from our other two participants, feel free to unmute and introduce yourself, please.",
+    "speaker_turn": 11,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "10": {
+        "segment_words": "Glad to hear, thank you.",
+        "link_turn_id": 10,
+        "linked_words": "I'm feeling motivated today, I don't know, but today I feel energy, now is more than 6:00 PM and I'm feeling energy, I'm feeling good today.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "10",
+      "10",
+      "10"
+    ]
+  },
+  "12": {
+    "link_turn_id": [
+      7,
+      11
+    ],
+    "words": "Hello? Yeah, I'm joining from ZIP code 13323 and I'm feeling very delighted and happy to be here, thank you.",
+    "speaker_turn": 12,
+    "speaker_name": "Levi",
+    "conversation_id": 2202,
+    "segments": {
+      "7": {
+        "segment_words": "Hello? Yeah, I'm joining from ZIP code 13323 and I'm feeling very delighted and happy to be here",
+        "link_turn_id": 7,
+        "linked_words": "we can share our first name, where we're joining from, and just let us know how you're feeling, whether it's physically, intellectually, emotionally or spiritually",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "11": {
+        "segment_words": "Hello? Yeah, I'm joining from ZIP code 13323 and I'm feeling very delighted and happy to be here, thank you.",
+        "link_turn_id": 11,
+        "linked_words": "Would love to hear from our other two participants, feel free to unmute and introduce yourself, please.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "7",
+      "8",
+      "10",
+      "11",
+      "7",
+      "11",
+      "7",
+      "11"
+    ]
+  },
+  "13": {
+    "link_turn_id": [
+      12
+    ],
+    "words": "Thank you so much, we're happy to have you.",
+    "speaker_turn": 13,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "12": {
+        "segment_words": "we're happy to have you.",
+        "link_turn_id": 12,
+        "linked_words": "I'm feeling very delighted and happy to be here",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "12",
+      "12",
+      "12"
+    ]
+  },
+  "14": {
+    "link_turn_id": [
+      7,
+      11
+    ],
+    "words": "Hello, I'm joining, I'm Daniel from ZIP code 1234, I feel so emotionally happy to be here, [inaudible] to be here, thank you.",
+    "speaker_turn": 14,
+    "speaker_name": "Sheri",
+    "conversation_id": 2202,
+    "segments": {
+      "7": {
+        "segment_words": "Hello, I'm joining, I'm Daniel from ZIP code 1234, I feel so emotionally happy to be here",
+        "link_turn_id": 7,
+        "linked_words": "we can share our first name, where we're joining from, and just let us know how you're feeling, whether it's physically, intellectually, emotionally or spiritually",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "11": {
+        "segment_words": "Hello, I'm joining, I'm Daniel from ZIP code 1234",
+        "link_turn_id": 11,
+        "linked_words": "Would love to hear from our other two participants, feel free to unmute and introduce yourself, please.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "7",
+      "11",
+      "7",
+      "11",
+      "7",
+      "11"
+    ]
+  },
+  "15": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Awesome, thank you all. We believe that the people closest to the issue or problem are always the most important to hear from and to listen to. And so we would like to start our conversation today by talking about the challenges that you've come across during the pandemic in your communities and to identify any possible opportunities. What COVID-19 resources have been most helpful for you during the pandemic and why?",
+    "speaker_turn": 15,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {},
+    "union_linked_turn_ids": [
+      "14",
+      "12",
+      "10",
+      "8",
+      "NA",
+      "NA"
+    ]
+  },
+  "16": {
+    "link_turn_id": [
+      15
+    ],
+    "words": "I can start this question, in my own experience during the COVID-19 pandemic, I can say the most helpful resources I found in my area was food pantries, I remember that this place in Western, that they give food every day, this a place already exists before the pandemic, but during the pandemic they extend the services and also I remember to went to get food from other resources, but the food that this pantry provide to the community was a food that we used to use in my Hispanic culture, beans and things that we are used to cook I found in that place, so I think this resource was very helpful for me.",
+    "speaker_turn": 16,
+    "speaker_name": "Mary",
+    "conversation_id": 2202,
+    "segments": {
+      "15": {
+        "segment_words": "the most helpful resources I found in my area was food pantries, I remember that this place in Western, that they give food every day, this a place already exists before the pandemic, but during the pandemic they extend the services and also I remember to went to get food from other resources, but the food that this pantry provide to the community was a food that we used to use in my Hispanic culture, beans and things that we are used to cook I found in that place, so I think this resource was very helpful for me.",
+        "link_turn_id": 15,
+        "linked_words": "What COVID-19 resources have been most helpful for you during the pandemic and why?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "15",
+      "15",
+      "15"
+    ]
+  },
+  "17": {
+    "link_turn_id": [
+      16
+    ],
+    "words": "Would anyone else like to share what COVID-19 resources have been most helpful for you during the pandemic and why?",
+    "speaker_turn": 17,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "16": {
+        "segment_words": "what COVID-19 resources have been most helpful for you during the pandemic and why?",
+        "link_turn_id": 16,
+        "linked_words": "the most helpful resources I found in my area was food pantries",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "16",
+      "16",
+      "15",
+      "16"
+    ]
+  },
+  "18": {
+    "link_turn_id": [
+      17,
+      15
+    ],
+    "words": "I will go, so some of the financial resources that were really helpful for me, personally, were some of the student loan forgiveness programs, as well as just putting those student loans on hold, up until this day, a lot of people didn't have a surplus of money, some people lost their jobs and it was just really helpful just not to worry about that during the pandemic as we were worrying about so many other things and in that same topic, the stimulus checks were also really helpful, just so you don't have to worry about financial things, you can worry about the health and safety of yourself and your family and your friends and focus on that, as opposed to the stresses of finances, it's a little alleviation.",
+    "speaker_turn": 18,
+    "speaker_name": "Ally",
+    "conversation_id": 2202,
+    "segments": {
+      "17": {
+        "segment_words": "some of the financial resources that were really helpful for me, personally, were some of the student loan forgiveness programs, as well as just putting those student loans on hold, up until this day... and in that same topic, the stimulus checks were also really helpful",
+        "link_turn_id": 17,
+        "linked_words": "what COVID-19 resources have been most helpful for you during the pandemic and why?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "15": {
+        "segment_words": "so some of the financial resources that were really helpful for me, personally, were some of the student loan forgiveness programs, as well as just putting those student loans on hold, up until this day, [...] and in that same topic, the stimulus checks were also really helpful, just so you don't have to worry about financial things",
+        "link_turn_id": 15,
+        "linked_words": "What COVID-19 resources have been most helpful for you during the pandemic and why?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "17",
+      "15",
+      "16",
+      "17",
+      "15",
+      "17"
+    ]
+  },
+  "19": {
+    "link_turn_id": [
+      16,
+      18
+    ],
+    "words": "Thank you, both. I welcome any other thoughts on this question and keep in mind that you can choose to pass on this question.",
+    "speaker_turn": 19,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "16": {
+        "segment_words": "Thank you, both.",
+        "link_turn_id": 16,
+        "linked_words": "I can start this question, in my own experience during the COVID-19 pandemic, I can say the most helpful resources I found in my area was food pantries...",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "18": {
+        "segment_words": "Thank you, both.",
+        "link_turn_id": 18,
+        "linked_words": "I will go, so some of the financial resources that were really helpful for me, personally, were some of the student loan forgiveness programs, as well as just putting those student loans on hold, up until this day, a lot of people didn't have a surplus of money, some people lost their jobs and it was just really helpful just not to worry about that during the pandemic as we were worrying about so many other things and in that same topic, the stimulus checks were also really helpful, just so you don't have to worry about financial things, you can worry about the health and safety of yourself and your family and your friends and focus on that, as opposed to the stresses of finances, it's a little alleviation.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "16",
+      "18",
+      "16",
+      "18",
+      "16",
+      "18"
+    ]
+  },
+  "20": {
+    "link_turn_id": [
+      17,
+      18
+    ],
+    "words": "Hello. I will say, it's all a really big play on the financial expectation and on the funding aspect of it, [inaudible] but it's okay, it's fine.",
+    "speaker_turn": 20,
+    "speaker_name": "Sheri",
+    "conversation_id": 2202,
+    "segments": {
+      "17": {
+        "segment_words": "I will say, it's all a really big play on the financial expectation and on the funding aspect of it",
+        "link_turn_id": 17,
+        "linked_words": "what COVID-19 resources have been most helpful for you",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "18": {
+        "segment_words": "it's all a really big play on the financial expectation and on the funding aspect of it",
+        "link_turn_id": 18,
+        "linked_words": "some of the financial resources that were really helpful for me, personally, were some of the student loan forgiveness programs, as well as just putting those student loans on hold, up until this day, a lot of people didn't have a surplus of money, some people lost their jobs and it was just really helpful just not to worry about that during the pandemic as we were worrying about so many other things and in that same topic, the stimulus checks were also really helpful, just so you don't have to worry about financial things, you can worry about the health and safety of yourself and your family and your friends and focus on that, as opposed to the stresses of finances, it's a little alleviation.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "17",
+      "18",
+      "19",
+      "17",
+      "18",
+      "17",
+      "18"
+    ]
+  },
+  "21": {
+    "link_turn_id": [
+      20,
+      18
+    ],
+    "words": "Thank you. I welcome any other responses, if there are any. Okay, so we heard some of the resources that have been helpful to some of us, my next question is just what challenges did you have finding and using resources that were intended to help you with COVID-19?",
+    "speaker_turn": 21,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "20": {
+        "segment_words": "Thank you. I welcome any other responses, if there are any.",
+        "link_turn_id": 20,
+        "linked_words": "Hello.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "18": {
+        "segment_words": "Okay, so we heard some of the resources that have been helpful to some of us, my next question is just what challenges did you have finding and using resources that were intended to help you with COVID-19?",
+        "link_turn_id": 18,
+        "linked_words": "some of the financial resources that were really helpful for me, personally, were some of the student loan forgiveness programs, as well as just putting those student loans on hold, up until this day, a lot of people didn't have a surplus of money, some people lost their jobs and it was just really helpful just not to worry about that during the pandemic as we were worrying about so many other things and in that same topic, the stimulus checks were also really helpful, just so you don't have to worry about financial things",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "18",
+      "20",
+      "16",
+      "18",
+      "18",
+      "20"
+    ]
+  },
+  "22": {
+    "link_turn_id": [
+      21
+    ],
+    "words": "I can say, at the beginning of the vaccine, making appointment for vaccine was terrible, I remember [inaudible] day and night to take one appointment for the first COVID-19 doses, I never forgot that the first doses I take, I choose the 2:00 AM, because they have a places in which they work 24 hours and the only time I get the vaccine was 12:00 AM, at the middle of the night, was very cold, that was my experience with my first COVID-19 doses, so finding a appointment for vaccine at the beginning was a challenge, I remember I wake up too early and I'm going to spend hour and hour and hour trying to get a place to get my first doses, so the first one, middle of the night at 12:00 AM.",
+    "speaker_turn": 22,
+    "speaker_name": "Mary",
+    "conversation_id": 2202,
+    "segments": {
+      "21": {
+        "segment_words": "so finding a appointment for vaccine at the beginning was a challenge",
+        "link_turn_id": 21,
+        "linked_words": "what challenges did you have finding and using resources that were intended to help you with COVID-19?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "21",
+      "21",
+      "21"
+    ]
+  },
+  "23": {
+    "link_turn_id": [
+      21
+    ],
+    "words": "Okay, can I come in?",
+    "speaker_turn": 23,
+    "speaker_name": "Levi",
+    "conversation_id": 2202,
+    "segments": {
+      "21": {
+        "segment_words": "Okay, can I come in?",
+        "link_turn_id": 21,
+        "linked_words": "I welcome any other responses, if there are any.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "NA",
+      "21",
+      "21"
+    ]
+  },
+  "24": {
+    "link_turn_id": [
+      23
+    ],
+    "words": "Yes, go ahead.",
+    "speaker_turn": 24,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "23": {
+        "segment_words": "Yes, go ahead.",
+        "link_turn_id": 23,
+        "linked_words": "Okay, can I come in?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "23",
+      "23",
+      "23"
+    ]
+  },
+  "25": {
+    "link_turn_id": [
+      21
+    ],
+    "words": "Okay. For me, basically it was some orientations and I wasn't quite more enlightened than the facilities that were available and that really served as a barrier, yeah.",
+    "speaker_turn": 25,
+    "speaker_name": "Levi",
+    "conversation_id": 2202,
+    "segments": {
+      "21": {
+        "segment_words": "it was some orientations and I wasn't quite more enlightened than the facilities that were available and that really served as a barrier",
+        "link_turn_id": 21,
+        "linked_words": "what challenges did you have finding and using resources that were intended to help you with COVID-19",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "21",
+      "21",
+      "21"
+    ]
+  },
+  "26": {
+    "link_turn_id": [
+      22,
+      21,
+      25
+    ],
+    "words": "I welcome any other responses to challenges that we had finding and using resources for COVID-19?",
+    "speaker_turn": 26,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "22": {
+        "segment_words": "challenges that we had finding and using resources for COVID-19?",
+        "link_turn_id": 22,
+        "linked_words": "finding a appointment for vaccine at the beginning was a challenge",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "21": {
+        "segment_words": "I welcome any other responses to challenges that we had finding and using resources for COVID-19?",
+        "link_turn_id": 21,
+        "linked_words": "my next question is just what challenges did you have finding and using resources that were intended to help you with COVID-19?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "25": {
+        "segment_words": "responses to challenges that we had finding and using resources for COVID-19?",
+        "link_turn_id": 25,
+        "linked_words": "wasn't quite more enlightened than the facilities that were available and that really served as a barrier",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "21",
+      "22",
+      "25",
+      "21",
+      "22",
+      "25",
+      "21",
+      "22",
+      "25"
+    ]
+  },
+  "27": {
+    "link_turn_id": [
+      22
+    ],
+    "words": "I agree with Mariluz, I was going to say the same thing. When the vaccine first came out, it was really difficult to find appointments and it was that really scary time, people were still getting extremely, extremely sick, so you felt this pressure to get it as soon as possible and there was just no appointments available, as well as before the at-home tests were available in drug stores and things like that, they were also really hard to get a hold of and then sometimes CityMD or other urgent cares had hour-long lines, I remember some people waited in line for seven hours just to get a COVID test, whether it was to go to work, school or to know if they needed to isolate from whoever they were living with, so just the access to those direct COVID resources were really difficult.",
+    "speaker_turn": 27,
+    "speaker_name": "Ally",
+    "conversation_id": 2202,
+    "segments": {
+      "22": {
+        "segment_words": "When the vaccine first came out, it was really difficult to find appointments and it was that really scary time, people were still getting extremely, extremely sick, so you felt this pressure to get it as soon as possible and there was just no appointments available,",
+        "link_turn_id": 22,
+        "linked_words": "at the beginning of the vaccine, making appointment for vaccine was terrible, I remember [inaudible] day and night to take one appointment for the first COVID-19 doses",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "22",
+      "22",
+      "22"
+    ]
+  },
+  "28": {
+    "link_turn_id": [
+      22,
+      27
+    ],
+    "words": "Yeah, [inaudible], yeah. I totally agree, was really, really stressful getting COVID-19 vaccinated, it was really, really stressful, so that was my only challenge. Getting COVID-19 was stressful, was very, very stressful and that's it, that was the challenges I've got.",
+    "speaker_turn": 28,
+    "speaker_name": "Sheri",
+    "conversation_id": 2202,
+    "segments": {
+      "22": {
+        "segment_words": "was really, really stressful getting COVID-19 vaccinated, it was really, really stressful",
+        "link_turn_id": 22,
+        "linked_words": "making appointment for vaccine was terrible, I remember [inaudible] day and night to take one appointment for the first COVID-19 doses, I never forgot that the first doses I take, I choose the 2:00 AM, because they have a places in which they work 24 hours and the only time I get the vaccine was 12:00 AM, at the middle of the night, was very cold, that was my experience with my first COVID-19 doses, so finding a appointment for vaccine at the beginning was a challenge, I remember I wake up too early and I'm going to spend hour and hour and hour trying to get a place to get my first doses",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "27": {
+        "segment_words": "I totally agree, was really, really stressful getting COVID-19 vaccinated, it was really, really stressful, so that was my only challenge.",
+        "link_turn_id": 27,
+        "linked_words": "When the vaccine first came out, it was really difficult to find appointments and it was that really scary time, people were still getting extremely, extremely sick, so you felt this pressure to get it as soon as possible and there was just no appointments available",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "22",
+      "27",
+      "21",
+      "22",
+      "27",
+      "27"
+    ]
+  },
+  "29": {
+    "link_turn_id": [
+      28,
+      25,
+      22,
+      27,
+      21
+    ],
+    "words": "Thank you all for your thoughts. You named a lot of really impactful and serious challenges, who can help address these challenges and how can they help address these challenges?",
+    "speaker_turn": 29,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "28": {
+        "segment_words": "you named a lot of really impactful and serious challenges",
+        "link_turn_id": 28,
+        "linked_words": "that was my only challenge. Getting COVID-19 was stressful, was very, very stressful",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "25": {
+        "segment_words": "who can help address these challenges and how can they help address these challenges?",
+        "link_turn_id": 25,
+        "linked_words": "and that really served as a barrier, yeah.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "22": {
+        "segment_words": "You named a lot of really impactful and serious challenges",
+        "link_turn_id": 22,
+        "linked_words": "making appointment for vaccine was terrible",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "27": {
+        "segment_words": "You named a lot of really impactful and serious challenges, who can help address these challenges and how can they help address these challenges?",
+        "link_turn_id": 27,
+        "linked_words": "the vaccine first came out, it was really difficult to find appointments and it was that really scary time, people were still getting extremely, extremely sick, so you felt this pressure to get it as soon as possible and there was just no appointments available, as well as before the at-home tests were available in drug stores and things like that, they were also really hard to get a hold of and then sometimes CityMD or other urgent cares had hour-long lines, I remember some people waited in line for seven hours just to get a COVID test, whether it was to go to work, school or to know if they needed to isolate from whoever they were living with, so just the access to those direct COVID resources were really difficult.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "21": {
+        "segment_words": "You named a lot of really impactful and serious challenges,",
+        "link_turn_id": 21,
+        "linked_words": "what challenges did you have finding and using resources that were intended to help you with COVID-19?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "21",
+      "22",
+      "25",
+      "27",
+      "28",
+      "21",
+      "22",
+      "25",
+      "27",
+      "28",
+      "21",
+      "22",
+      "25",
+      "27",
+      "28"
+    ]
+  },
+  "30": {
+    "link_turn_id": [
+      29
+    ],
+    "words": "For me, I think creating more enlightenment, probably through workshops and seminars and posters could really serve as a [inaudible] base to help enlighten people, yeah.",
+    "speaker_turn": 30,
+    "speaker_name": "Levi",
+    "conversation_id": 2202,
+    "segments": {
+      "29": {
+        "segment_words": "creating more enlightenment, probably through workshops and seminars and posters could really serve",
+        "link_turn_id": 29,
+        "linked_words": "how can they help address these challenges?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "29",
+      "29",
+      "29"
+    ]
+  },
+  "31": {
+    "link_turn_id": [
+      30,
+      29
+    ],
+    "words": "I welcome any other responses to who can help address these challenges and how?",
+    "speaker_turn": 31,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "30": {
+        "segment_words": "who can help address these challenges and how?",
+        "link_turn_id": 30,
+        "linked_words": "creating more enlightenment, probably through workshops and seminars and posters",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "29": {
+        "segment_words": "who can help address these challenges and how?",
+        "link_turn_id": 29,
+        "linked_words": "who can help address these challenges and how can they help address these challenges?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "29",
+      "30",
+      "29",
+      "30",
+      "29",
+      "30"
+    ]
+  },
+  "32": {
+    "link_turn_id": [
+      31,
+      29
+    ],
+    "words": "Our access for any sort of pandemic, I think it really starts at the federal government having these resources available even when there isn't a pandemic or a health crisis going on, so having these stockpiles available and able to be sent out to the cities and having the cities have the infrastructure to make sure that all parts of the city gets the same amount of resources, same amount of time, slots and days available, so the city equitably distributing those resources, they have to have an infrastructure for that as well.",
+    "speaker_turn": 32,
+    "speaker_name": "Ally",
+    "conversation_id": 2202,
+    "segments": {
+      "31": {
+        "segment_words": "Our access for any sort of pandemic, I think it really starts at the federal government having these resources available even when there isn't a pandemic or a health crisis going on, so having these stockpiles available and able to be sent out to the cities and having the cities have the infrastructure to make sure that all parts of the city gets the same amount of resources, same amount of time, slots and days available, so the city equitably distributing those resources, they have to have an infrastructure for that as well.",
+        "link_turn_id": 31,
+        "linked_words": "who can help address these challenges and how?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "29": {
+        "segment_words": "Our access for any sort of pandemic, I think it really starts at the federal government having these resources available even when there isn't a pandemic or a health crisis going on, so having these stockpiles available and able to be sent out to the cities and having the cities have the infrastructure to make sure that all parts of the city gets the same amount of resources, same amount of time, slots and days available, so the city equitably distributing those resources, they have to have an infrastructure for that as well.",
+        "link_turn_id": 29,
+        "linked_words": "who can help address these challenges and how can they help address these challenges?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "29",
+      "31",
+      "29",
+      "31",
+      "29",
+      "31"
+    ]
+  },
+  "33": {
+    "link_turn_id": [
+      31,
+      32
+    ],
+    "words": "Would anyone else like to share for this question? Keep in mind that you do have the option to pass on the question. Okay. Thank you all for those responses. Now I'd like to invite you to share how you make your decision about the COVID-19 vaccine, can you describe a key moment that influenced your decision?",
+    "speaker_turn": 33,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "31": {
+        "segment_words": "Would anyone else like to share for this question?",
+        "link_turn_id": 31,
+        "linked_words": "I welcome any other responses to who can help address these challenges and how?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "32": {
+        "segment_words": "Thank you all for those responses.",
+        "link_turn_id": 32,
+        "linked_words": "Our access for any sort of pandemic, I think it really starts at the federal government having these resources available even when there isn't a pandemic or a health crisis going on, so having these stockpiles available and able to be sent out to the cities and having the cities have the infrastructure to make sure that all parts of the city gets the same amount of resources, same amount of time, slots and days available, so the city equitably distributing those resources, they have to have an infrastructure for that as well.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "31",
+      "32",
+      "31",
+      "32",
+      "32",
+      "31",
+      "30",
+      "29"
+    ]
+  },
+  "34": {
+    "link_turn_id": [
+      33
+    ],
+    "words": "I decide to take the vaccine, because before the vaccine I was apart or isolate with my family, my grandson, I remember one time that I don't see my daughter and grandson for six months, first, because she work in a hospital and she was scared that from the hospital to get the virus to my house, second, I think it was the most motivation I have to take the vaccine and that time, I remember that in my mind after I get the vaccine... I have the vision that after that I'm going to be better protect to see my grandson, I miss my grandson, in that time was difficult, from there and there to make video calls that never in the past I used to do, but I think that's it, the more motivation I have to the decision to take the vaccine, the first doses, for the second doses, I continue to reading about the studies, the information coming, so the first one was my family, be separate from them was difficult, because it's not easy, it's not easy.",
+    "speaker_turn": 34,
+    "speaker_name": "Mary",
+    "conversation_id": 2202,
+    "segments": {
+      "33": {
+        "segment_words": "I decide to take the vaccine, because before the vaccine I was apart or isolate with my family, my grandson, I remember one time that I don't see my daughter and grandson for six months, first, because she work in a hospital and she was scared that from the hospital to get the virus to my house, second, I think it was the most motivation I have to take the vaccine and that time, I remember that in my mind after I get the vaccine... I have the vision that after that I'm going to be better protect to see my grandson, I miss my grandson, in that time was difficult, from there and there to make video calls that never in the past I used to do, but I think that's it, the more motivation I have to the decision to take the vaccine, the first doses, for the second doses, I continue to reading about the studies, the information coming, so the first one was my family, be separate from them was difficult, because it's not easy, it's not easy.",
+        "link_turn_id": 33,
+        "linked_words": "Now I'd like to invite you to share how you make your decision about the COVID-19 vaccine, can you describe a key moment that influenced your decision?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "33",
+      "33",
+      "33"
+    ]
+  },
+  "35": {
+    "link_turn_id": [
+      33,
+      34
+    ],
+    "words": "How did the rest of us make our decisions around the vaccine? Were there any key moments that influenced that decision?",
+    "speaker_turn": 35,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "33": {
+        "segment_words": "Were there any key moments that influenced that decision?",
+        "link_turn_id": 33,
+        "linked_words": "can you describe a key moment that influenced your decision?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "34": {
+        "segment_words": "Were there any key moments that influenced that decision?",
+        "link_turn_id": 34,
+        "linked_words": "I miss my grandson, in that time was difficult, from there and there to make video calls that never in the past I used to do, but I think that's it, the more motivation I have to the decision to take the vaccine",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "33",
+      "34",
+      "33",
+      "33",
+      "34"
+    ]
+  },
+  "36": {
+    "link_turn_id": [
+      35,
+      33,
+      34
+    ],
+    "words": "I think it was a bunch of small moments for me, as opposed to one key moment, so I have a lot of elderly members in my family, that I just wanted to get vaccinated for them, at the time the first dose of vaccines were coming out I was working in a hospital, so I was lucky enough to be offered one of the earlier vaccines, so I knew that I had to do my duty to my community, where I live and to my family and friends, and since I was able to get the vaccine, do that for everyone and not just myself, and then also just being in a hospital, seeing all my friends working around the clock, as nurses or as doctors, and putting themselves at risks, so I also did it to honor them as well.",
+    "speaker_turn": 36,
+    "speaker_name": "Ally",
+    "conversation_id": 2202,
+    "segments": {
+      "35": {
+        "segment_words": "I think it was a bunch of small moments for me, as opposed to one key moment, so I have a lot of elderly members in my family, that I just wanted to get vaccinated for them, at the time the first dose of vaccines were coming out I was working in a hospital, so I was lucky enough to be offered one of the earlier vaccines, so I knew that I had to do my duty to my community, where I live and to my family and friends, and since I was able to get the vaccine, do that for everyone and not just myself, and then also just being in a hospital, seeing all my friends working around the clock, as nurses or as doctors, and putting themselves at risks, so I also did it to honor them as well.",
+        "link_turn_id": 35,
+        "linked_words": "Were there any key moments that influenced that decision?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "33": {
+        "segment_words": "a key moment that influenced your decision?",
+        "link_turn_id": 33,
+        "linked_words": "I think it was a bunch of small moments for me, as opposed to one key moment, so I have a lot of elderly members in my family, that I just wanted to get vaccinated for them, at the time the first dose of vaccines were coming out I was working in a hospital, so I was lucky enough to be offered one of the earlier vaccines, so I knew that I had to do my duty to my community, where I live and to my family and friends, and since I was able to get the vaccine, do that for everyone and not just myself, and then also just being in a hospital, seeing all my friends working around the clock, as nurses or as doctors, and putting themselves at risks, so I also did it to honor them as well.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "34": {
+        "segment_words": "at the time the first dose of vaccines were coming out I was working in a hospital, so I was lucky enough to be offered one of the earlier vaccines, so I knew that I had to do my duty to my community, where I live and to my family and friends, and since I was able to get the vaccine, do that for everyone and not just myself, and then also just being in a hospital, seeing all my friends working around the clock, as nurses or as doctors, and putting themselves at risks, so I also did it to honor them as well.",
+        "link_turn_id": 34,
+        "linked_words": "first, because she work in a hospital and she was scared that from the hospital to get the virus to my house",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "33",
+      "34",
+      "35",
+      "33",
+      "35",
+      "33",
+      "34",
+      "35"
+    ]
+  },
+  "37": {
+    "link_turn_id": [
+      35
+    ],
+    "words": "Okay. For me, basically I did it for just the basic need of... Because it was necessary and also because I was aware of how beneficial it was, yeah.",
+    "speaker_turn": 37,
+    "speaker_name": "Levi",
+    "conversation_id": 2202,
+    "segments": {
+      "35": {
+        "segment_words": "For me, basically I did it for just the basic need of... Because it was necessary and also because I was aware of how beneficial it was, yeah.",
+        "link_turn_id": 35,
+        "linked_words": "How did the rest of us make our decisions around the vaccine?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "35",
+      "35",
+      "35",
+      "36"
+    ]
+  },
+  "38": {
+    "link_turn_id": [
+      35,
+      37,
+      36
+    ],
+    "words": "Thank you, all. Any other responses towards how we made our decisions around the vaccine and any key moments that influence us in making the decision? Okay. Reflecting on this experience that you just shared, what information or circumstances helped you make that decision?",
+    "speaker_turn": 38,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "35": {
+        "segment_words": "Any other responses towards how we made our decisions around the vaccine and any key moments that influence us in making the decision?",
+        "link_turn_id": 35,
+        "linked_words": "How did the rest of us make our decisions around the vaccine? Were there any key moments that influenced that decision?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "37": {
+        "segment_words": "Reflecting on this experience that you just shared, what information or circumstances helped you make that decision?",
+        "link_turn_id": 37,
+        "linked_words": "Because it was necessary and also because I was aware of how beneficial it was",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "36": {
+        "segment_words": "Reflecting on this experience that you just shared, what information or circumstances helped you make that decision?",
+        "link_turn_id": 36,
+        "linked_words": "I think it was a bunch of small moments for me, as opposed to one key moment, so I have a lot of elderly members in my family, that I just wanted to get vaccinated for them, at the time the first dose of vaccines were coming out I was working in a hospital, so I was lucky enough to be offered one of the earlier vaccines, so I knew that I had to do my duty to my community, where I live and to my family and friends, and since I was able to get the vaccine, do that for everyone and not just myself, and then also just being in a hospital, seeing all my friends working around the clock, as nurses or as doctors, and putting themselves at risks, so I also did it to honor them as well.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "35",
+      "36",
+      "37",
+      "35",
+      "36",
+      "37",
+      "35",
+      "36",
+      "37"
+    ]
+  },
+  "39": {
+    "link_turn_id": [
+      35,
+      38
+    ],
+    "words": "So I feel like my answer might be really different from everyone else's, just because when the vaccine was coming out I worked in a clinical child's department, so I really understood how long these medications and vaccines are tested for and how they're tested and how many people look at the safety and how well they work, so just knowing that background made me really secure that all these people, these extremely smart people, are looking at the effectiveness, the safety, against other types of vaccines and just knowing that background, I felt really secure that... What vaccinations are getting put out are... What is best for myself and my loved ones.",
+    "speaker_turn": 39,
+    "speaker_name": "Ally",
+    "conversation_id": 2202,
+    "segments": {
+      "35": {
+        "segment_words": "just because when the vaccine was coming out I worked in a clinical child's department, so I really understood how long these medications and vaccines are tested for and how they're tested and how many people look at the safety and how well they work, so just knowing that background made me really secure that all these people, these extremely smart people, are looking at the effectiveness, the safety, against other types of vaccines and just knowing that background, I felt really secure that... What vaccinations are getting put out are... What is best for myself and my loved ones.",
+        "link_turn_id": 35,
+        "linked_words": "Were there any key moments that influenced that decision?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "38": {
+        "segment_words": "just knowing that background made me really secure that all these people, these extremely smart people, are looking at the effectiveness, the safety, against other types of vaccines and just knowing that background, I felt really secure that... What vaccinations are getting put out are... What is best for myself and my loved ones.",
+        "link_turn_id": 38,
+        "linked_words": "what information or circumstances helped you make that decision?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "35",
+      "38",
+      "35",
+      "36",
+      "38",
+      "35",
+      "38"
+    ]
+  },
+  "40": {
+    "link_turn_id": [
+      38,
+      35,
+      39
+    ],
+    "words": "In my case, yes, similar to Alexa. I remember before and after the first doses, I start to be interesting in data. When people take the first dose, the hospitalization, I remember we do a lot, that was important information to me in that time, understand the benefit for the vaccine, because if the vaccine reduce hospitalization, that means it's work for me, so that part was important for me. Follow the data, what happening with the people after the vaccines and also I remember when I get the first doses, in the same day, they give me the appointment for the second dose and that's was in February 14, Valentine day, I have a... Oh my god, sweet experience with the second dose too, and the data was important, was important, see in the news that the hospitalization degrees, so...",
+    "speaker_turn": 40,
+    "speaker_name": "Mary",
+    "conversation_id": 2202,
+    "segments": {
+      "38": {
+        "segment_words": "In my case, yes, similar to Alexa. I remember before and after the first doses, I start to be interesting in data... understand the benefit for the vaccine, because if the vaccine reduce hospitalization, that means it's work for me, so that part was important for me.",
+        "link_turn_id": 38,
+        "linked_words": "what information or circumstances helped you make that decision?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "35": {
+        "segment_words": "I remember before and after the first doses, I start to be interesting in data. When people take the first dose, the hospitalization, I remember we do a lot, that was important information to me in that time, understand the benefit for the vaccine, because if the vaccine reduce hospitalization, that means it's work for me, so that part was important for me.",
+        "link_turn_id": 35,
+        "linked_words": "Were there any key moments that influenced that decision?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "39": {
+        "segment_words": "because if the vaccine reduce hospitalization, that means it's work for me, so that part was important for me. Follow the data, what happening with the people after the vaccines",
+        "link_turn_id": 39,
+        "linked_words": "so I really understood how long these medications and vaccines are tested for and how they're tested and how many people look at the safety and how well they work",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "38",
+      "36",
+      "35",
+      "39",
+      "35",
+      "38",
+      "39"
+    ]
+  },
+  "41": {
+    "link_turn_id": [
+      35,
+      38
+    ],
+    "words": "Oh, for me, it's all basically [inaudible].",
+    "speaker_turn": 41,
+    "speaker_name": "Sheri",
+    "conversation_id": 2202,
+    "segments": {
+      "35": {
+        "segment_words": "Oh, for me, it's all basically [inaudible].",
+        "link_turn_id": 35,
+        "linked_words": "Were there any key moments that influenced that decision?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "38": {
+        "segment_words": "it's all basically [inaudible]",
+        "link_turn_id": 38,
+        "linked_words": "Any other responses towards how we made our decisions around the vaccine and any key moments that influence us in making the decision?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "35",
+      "38",
+      "35",
+      "38",
+      "38"
+    ]
+  },
+  "42": {
+    "link_turn_id": [
+      41
+    ],
+    "words": "Would you like to say a little more about that? Okay.",
+    "speaker_turn": 42,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "41": {
+        "segment_words": "Would you like to say a little more about that?",
+        "link_turn_id": 41,
+        "linked_words": "it's all basically [inaudible]",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "41",
+      "41",
+      "41"
+    ]
+  },
+  "43": {
+    "link_turn_id": [
+      42
+    ],
+    "words": "Yeah, can you hear me?",
+    "speaker_turn": 43,
+    "speaker_name": "Sheri",
+    "conversation_id": 2202,
+    "segments": {
+      "42": {
+        "segment_words": "Yeah, can you hear me?",
+        "link_turn_id": 42,
+        "linked_words": "Okay.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "42",
+      "42",
+      "42"
+    ]
+  },
+  "44": {
+    "link_turn_id": [
+      43
+    ],
+    "words": "Yes, go ahead.",
+    "speaker_turn": 44,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "43": {
+        "segment_words": "Yes",
+        "link_turn_id": 43,
+        "linked_words": "can you hear me?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "43",
+      "43",
+      "43"
+    ]
+  },
+  "45": {
+    "link_turn_id": [
+      36,
+      39
+    ],
+    "words": "Yeah, for me, it's basically the safety for wellbeing of my family and trying some... making everyone safe for me.",
+    "speaker_turn": 45,
+    "speaker_name": "Sheri",
+    "conversation_id": 2202,
+    "segments": {
+      "36": {
+        "segment_words": "the safety for wellbeing of my family and trying some... making everyone safe for me.",
+        "link_turn_id": 36,
+        "linked_words": "I just wanted to get vaccinated for them, at the time the first dose of vaccines were coming out I was working in a hospital, so I was lucky enough to be offered one of the earlier vaccines, so I knew that I had to do my duty to my community, where I live and to my family and friends",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "39": {
+        "segment_words": "it's basically the safety for wellbeing of my family",
+        "link_turn_id": 39,
+        "linked_words": "just knowing that background made me really secure that all these people, these extremely smart people, are looking at the effectiveness, the safety",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "36",
+      "37",
+      "39",
+      "40",
+      "36",
+      "39",
+      "38",
+      "42",
+      "44"
+    ]
+  },
+  "46": {
+    "link_turn_id": [
+      38,
+      40,
+      45,
+      39
+    ],
+    "words": "Thank you so much for your responses. I'm definitely noticing some connections in some of the stories that you're all sharing. I welcome any other responses on information or circumstances that helped us in our decision making.",
+    "speaker_turn": 46,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "38": {
+        "segment_words": "I welcome any other responses on information or circumstances that helped us in our decision making.",
+        "link_turn_id": 38,
+        "linked_words": "Reflecting on this experience that you just shared, what information or circumstances helped you make that decision?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "40": {
+        "segment_words": "I welcome any other responses on information or circumstances that helped us in our decision making.",
+        "link_turn_id": 40,
+        "linked_words": "Follow the data, what happening with the people after the vaccines and also I remember when I get the first doses, in the same day, they give me the appointment for the second dose",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "45": {
+        "segment_words": "Thank you so much for your responses.",
+        "link_turn_id": 45,
+        "linked_words": "Yeah, for me, it's basically the safety for wellbeing of my family and trying some... making everyone safe for me.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "39": {
+        "segment_words": "Thank you so much for your responses.",
+        "link_turn_id": 39,
+        "linked_words": "So I feel like my answer might be really different from everyone else's, just because when the vaccine was coming out I worked in a clinical child's department, so I really understood how long these medications and vaccines are tested for and how they're tested and how many people look at the safety and how well they work, so just knowing that background made me really secure that all these people, these extremely smart people, are looking at the effectiveness, the safety, against other types of vaccines and just knowing that background, I felt really secure that... What vaccinations are getting put out are... What is best for myself and my loved ones.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "38",
+      "39",
+      "45",
+      "38",
+      "39",
+      "40",
+      "45",
+      "38",
+      "39",
+      "40",
+      "41",
+      "45"
+    ]
+  },
+  "47": {
+    "link_turn_id": [
+      46
+    ],
+    "words": "Okay, can I come in?",
+    "speaker_turn": 47,
+    "speaker_name": "Levi",
+    "conversation_id": 2202,
+    "segments": {
+      "46": {
+        "segment_words": "Okay, can I come in?",
+        "link_turn_id": 46,
+        "linked_words": "I welcome any other responses on information or circumstances that helped us in our decision making.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "46",
+      "46",
+      "46"
+    ]
+  },
+  "48": {
+    "link_turn_id": [
+      47
+    ],
+    "words": "Yeah, sure. It's [inaudible].",
+    "speaker_turn": 48,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "47": {
+        "segment_words": "Yeah, sure.",
+        "link_turn_id": 47,
+        "linked_words": "can I come in?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "47",
+      "47",
+      "47"
+    ]
+  },
+  "49": {
+    "link_turn_id": [
+      46
+    ],
+    "words": "Okay, basically, for me the information that really helped were, most especially, the ones I got from the internet, I actually met some research, I got it from my medical practitioners and my families and friends and I think that happened very, very helpful, yeah.",
+    "speaker_turn": 49,
+    "speaker_name": "Levi",
+    "conversation_id": 2202,
+    "segments": {
+      "46": {
+        "segment_words": "the information that really helped were, most especially, the ones I got from the internet, I actually met some research, I got it from my medical practitioners and my families and friends",
+        "link_turn_id": 46,
+        "linked_words": "I welcome any other responses on information or circumstances that helped us in our decision making.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "46",
+      "46",
+      "46"
+    ]
+  },
+  "50": {
+    "link_turn_id": [
+      49,
+      46
+    ],
+    "words": "Thank you so much, everyone, for responding. So how did those community organizations impact decisions related to COVID-19 vaccinations in your neighborhood? So, now taking this a little bit broader, and I'll put the question in the chat as well. So we've spent some time reflecting on our own experiences and things that have helped us create our decisions, and as a follow up to that, how did those community organizations impact decisions related to vaccination in your neighborhood?",
+    "speaker_turn": 50,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "49": {
+        "segment_words": "we've spent some time reflecting on our own experiences and things that have helped us create our decisions",
+        "link_turn_id": 49,
+        "linked_words": "for me the information that really helped were, most especially, the ones I got from the internet, I actually met some research, I got it from my medical practitioners and my families and friends and I think that happened very, very helpful, yeah.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "46": {
+        "segment_words": "as a follow up to that, how did those community organizations impact decisions related to vaccination in your neighborhood?",
+        "link_turn_id": 46,
+        "linked_words": "I welcome any other responses on information or circumstances that helped us in our decision making.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "46",
+      "49",
+      "46",
+      "49",
+      "46",
+      "49"
+    ]
+  },
+  "51": {
+    "link_turn_id": [
+      50
+    ],
+    "words": "I think by reducing barriers, so I know some of the organizations in my area, when the vaccines first came out, they were really focusing on getting people who don't have cell phones or computers appointments, because you couldn't call and make an appointment, so they reduced that barrier or they found individuals, rides, whether it was through a ride share like Uber or they themselves took an individual to get vaccinated, so the communal organizations really were identifying the needs and the barriers and did their best to alleviate those barriers. So I think that allowed for a lot more people to get vaccinated when they might not have otherwise.",
+    "speaker_turn": 51,
+    "speaker_name": "Ally",
+    "conversation_id": 2202,
+    "segments": {
+      "50": {
+        "segment_words": "I think by reducing barriers, so I know some of the organizations in my area, when the vaccines first came out, they were really focusing on getting people who don't have cell phones or computers appointments, because you couldn't call and make an appointment, so they reduced that barrier or they found individuals, rides, whether it was through a ride share like Uber or they themselves took an individual to get vaccinated, so the communal organizations really were identifying the needs and the barriers and did their best to alleviate those barriers. So I think that allowed for a lot more people to get vaccinated when they might not have otherwise.",
+        "link_turn_id": 50,
+        "linked_words": "how did those community organizations impact decisions related to vaccination in your neighborhood?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "50",
+      "50",
+      "50"
+    ]
+  },
+  "52": {
+    "link_turn_id": [
+      51,
+      50
+    ],
+    "words": "Would anyone else like to share around community organization impact on COVID vaccination in your neighborhood?",
+    "speaker_turn": 52,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "51": {
+        "segment_words": "community organization impact on COVID vaccination in your neighborhood?",
+        "link_turn_id": 51,
+        "linked_words": "the communal organizations really were identifying the needs and the barriers and did their best to alleviate those barriers.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "50": {
+        "segment_words": "around community organization impact on COVID vaccination in your neighborhood?",
+        "link_turn_id": 50,
+        "linked_words": "how did those community organizations impact decisions related to COVID-19 vaccinations in your neighborhood?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "50",
+      "51",
+      "50",
+      "51",
+      "50",
+      "51"
+    ]
+  },
+  "53": {
+    "link_turn_id": [
+      51,
+      50
+    ],
+    "words": "For me, I can say the banks or buses around to get the vaccine, that was helpful because people have access to tests or vaccine, I remember in my ZIP code, that I used to work in the afternoon and I see the banks offering the COVID test or vaccine and I think it's very easy resource to... Sometimes the people have to make a long line, but that's not happen every day. Have access on the street, when you working, after work, it was helpful, now they reduce I think, because I don't see any more bus providing COVID-19 vaccine, I don't know if they are not working anymore, I think they don't, but that resource was accessible for a lot of people.",
+    "speaker_turn": 53,
+    "speaker_name": "Mary",
+    "conversation_id": 2202,
+    "segments": {
+      "51": {
+        "segment_words": "For me, I can say the banks or buses around to get the vaccine, that was helpful because people have access to tests or vaccine, I remember in my ZIP code, that I used to work in the afternoon and I see the banks offering the COVID test or vaccine and I think it's very easy resource",
+        "link_turn_id": 51,
+        "linked_words": "so they reduced that barrier or they found individuals, rides, whether it was through a ride share like Uber or they themselves took an individual to get vaccinated, so the communal organizations really were identifying the needs and the barriers and did their best to alleviate those barriers",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "50": {
+        "segment_words": "For me, I can say the banks or buses around to get the vaccine, that was helpful because people have access to tests or vaccine, I remember in my ZIP code, that I used to work in the afternoon and I see the banks offering the COVID test or vaccine and I think it's very easy resource to...",
+        "link_turn_id": 50,
+        "linked_words": "how did those community organizations impact decisions related to COVID-19 vaccinations in your neighborhood?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "50",
+      "51",
+      "50",
+      "51",
+      "50",
+      "51"
+    ]
+  },
+  "54": {
+    "link_turn_id": [
+      51,
+      53
+    ],
+    "words": "Thank you both, for sharing. I welcome any other responses to this question. All right. Can you share a story or experience about how the community organizations in your neighborhood supported you and your community during the pandemic? Feel free to take a few minutes to think about a story or experience about how community organizations in your neighborhood supported you or how they supported your community during the pandemic.",
+    "speaker_turn": 54,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "51": {
+        "segment_words": "Can you share a story or experience about how the community organizations in your neighborhood supported you and your community during the pandemic?",
+        "link_turn_id": 51,
+        "linked_words": "the communal organizations really were identifying the needs and the barriers and did their best to alleviate those barriers.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "53": {
+        "segment_words": "Thank you both, for sharing.",
+        "link_turn_id": 53,
+        "linked_words": "For me, I can say the banks or buses around to get the vaccine, that was helpful because people have access to tests or vaccine, I remember in my ZIP code, that I used to work in the afternoon and I see the banks offering the COVID test or vaccine and I think it's very easy resource to... Sometimes the people have to make a long line, but that's not happen every day. Have access on the street, when you working, after work, it was helpful, now they reduce I think, because I don't see any more bus providing COVID-19 vaccine, I don't know if they are not working anymore, I think they don't, but that resource was accessible for a lot of people.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "51",
+      "53",
+      "51",
+      "53",
+      "50",
+      "51",
+      "53"
+    ]
+  },
+  "55": {
+    "link_turn_id": [
+      53
+    ],
+    "words": "I say about the buses around the city provided the vaccine and remember my first two doses, I went to the facility by appointment, when I have to get the first bus there, I was working without thinking in vaccine appointment, I went to the bus and took half hour to take my first bus there and also my second bus there, so it's related, the hard time I pass at the beginning to make my first doses appointment and how I was allowed to get the bus there without appointment and just... I was working in that [inaudible] and then get my vaccine, so that's what helpful in my community.",
+    "speaker_turn": 55,
+    "speaker_name": "Mary",
+    "conversation_id": 2202,
+    "segments": {
+      "53": {
+        "segment_words": "I say about the buses around the city provided the vaccine and remember my first two doses, I went to the facility by appointment, when I have to get the first bus there, I was working without thinking in vaccine appointment, I went to the bus and took half hour to take my first bus there and also my second bus there, so it's related, the hard time I pass at the beginning to make my first doses appointment and how I was allowed to get the bus there without appointment",
+        "link_turn_id": 53,
+        "linked_words": "that was helpful because people have access to tests or vaccine, I remember in my ZIP code, that I used to work in the afternoon and I see the banks offering the COVID test or vaccine and I think it's very easy resource to... Sometimes the people have to make a long line, but that's not happen every day. Have access on the street, when you working, after work, it was helpful",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "53",
+      "53",
+      "53"
+    ]
+  },
+  "56": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Hello?",
+    "speaker_turn": 56,
+    "speaker_name": "Sheri",
+    "conversation_id": 2202,
+    "segments": {},
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ]
+  },
+  "57": {
+    "link_turn_id": [
+      56
+    ],
+    "words": "Yes, go ahead.",
+    "speaker_turn": 57,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "56": {
+        "segment_words": "Yes, go ahead.",
+        "link_turn_id": 56,
+        "linked_words": "Hello?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "56",
+      "56",
+      "56"
+    ]
+  },
+  "58": {
+    "link_turn_id": [
+      54
+    ],
+    "words": "The feeding program was really helpful for me, for my family, it really helps my child, my neighborhood in [inaudible] and so it was really, really helpful. [inaudible] that was my only experience in it.",
+    "speaker_turn": 58,
+    "speaker_name": "Sheri",
+    "conversation_id": 2202,
+    "segments": {
+      "54": {
+        "segment_words": "The feeding program was really helpful for me, for my family, it really helps my child, my neighborhood in [inaudible] and so it was really, really helpful.",
+        "link_turn_id": 54,
+        "linked_words": "Can you share a story or experience about how the community organizations in your neighborhood supported you and your community during the pandemic?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "54",
+      "54",
+      "54"
+    ]
+  },
+  "59": {
+    "link_turn_id": [
+      58,
+      54
+    ],
+    "words": "Thank you, for sharing. Did we have any other experiences or stories that came to mind with community organizations that supported you or your neighborhood during the pandemic?",
+    "speaker_turn": 59,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "58": {
+        "segment_words": "Did we have any other experiences or stories that came to mind with community organizations that supported you or your neighborhood during the pandemic?",
+        "link_turn_id": 58,
+        "linked_words": "that was my only experience in it.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "54": {
+        "segment_words": "Did we have any other experiences or stories that came to mind with community organizations that supported you or your neighborhood during the pandemic?",
+        "link_turn_id": 54,
+        "linked_words": "I welcome any other responses to this question.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "54",
+      "55",
+      "58",
+      "54",
+      "58",
+      "58"
+    ]
+  },
+  "60": {
+    "link_turn_id": [
+      54
+    ],
+    "words": "So for me, I was actually working with a community organization through a council member's office in my area, helping to get elderly individuals vaccine appointments, so I was working with my first individual, she was actually in concentration camps during World War II and she was elderly and couldn't leave her house, but didn't have a computer, didn't have a cell phone, so I spent days trying to get her an appointment, finally we got through, got her an appointment, her niece took her to that appointment and they were just both crying and so thankful that they could get in and then the niece actually came to my apartment and dropped off brownies as a thank you, and just a really, really nice story and we actually keep in touch, still to this day.",
+    "speaker_turn": 60,
+    "speaker_name": "Ally",
+    "conversation_id": 2202,
+    "segments": {
+      "54": {
+        "segment_words": "So for me, I was actually working with a community organization through a council member's office in my area, helping to get elderly individuals vaccine appointments, so I was working with my first individual, she was actually in concentration camps during World War II and she was elderly and couldn't leave her house, but didn't have a computer, didn't have a cell phone, so I spent days trying to get her an appointment, finally we got through, got her an appointment, her niece took her to that appointment and they were just both crying and so thankful that they could get in and then the niece actually came to my apartment and dropped off brownies as a thank you, and just a really, really nice story and we actually keep in touch, still to this day.",
+        "link_turn_id": 54,
+        "linked_words": "Can you share a story or experience about how the community organizations in your neighborhood supported you and your community during the pandemic?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "51",
+      "54",
+      "54",
+      "54"
+    ]
+  },
+  "61": {
+    "link_turn_id": [
+      54,
+      59
+    ],
+    "words": "I welcome any other stories, responses. Thank you so much, for everyone who shared so far. All right. I did ask this question a bit too early, earlier on, so I do want to take some time to ask again now that we've talked more specifically about community based organizations, are there any lingering thoughts on how these community organizations impacted decisions related to COVID-19 vaccinations in your neighborhood? And keep in mind, you do have the option to pass on the question.",
+    "speaker_turn": 61,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "54": {
+        "segment_words": "are there any lingering thoughts on how these community organizations impacted decisions related to COVID-19 vaccinations in your neighborhood?",
+        "link_turn_id": 54,
+        "linked_words": "Can you share a story or experience about how the community organizations in your neighborhood supported you and your community during the pandemic?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "59": {
+        "segment_words": "All right. I did ask this question a bit too early, earlier on, so I do want to take some time to ask again now that we've talked more specifically about community based organizations, are there any lingering thoughts on how these community organizations impacted decisions related to COVID-19 vaccinations in your neighborhood?",
+        "link_turn_id": 59,
+        "linked_words": "Did we have any other experiences or stories that came to mind with community organizations that supported you or your neighborhood during the pandemic?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "54",
+      "59",
+      "54",
+      "59",
+      "54",
+      "59"
+    ]
+  },
+  "62": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Hello?",
+    "speaker_turn": 62,
+    "speaker_name": "Sheri",
+    "conversation_id": 2202,
+    "segments": {},
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ]
+  },
+  "63": {
+    "link_turn_id": [
+      62
+    ],
+    "words": "Yes.",
+    "speaker_turn": 63,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "62": {
+        "segment_words": "Yes.",
+        "link_turn_id": 62,
+        "linked_words": "Hello?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "62",
+      "62",
+      "62"
+    ]
+  },
+  "64": {
+    "link_turn_id": [
+      61
+    ],
+    "words": "I will say public awareness was really helpful, it's still a [inaudible] data by social media and every other media office.",
+    "speaker_turn": 64,
+    "speaker_name": "Sheri",
+    "conversation_id": 2202,
+    "segments": {
+      "61": {
+        "segment_words": "public awareness was really helpful",
+        "link_turn_id": 61,
+        "linked_words": "are there any lingering thoughts on how these community organizations impacted decisions related to COVID-19 vaccinations in your neighborhood?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "61",
+      "61",
+      "59",
+      "61"
+    ]
+  },
+  "65": {
+    "link_turn_id": [
+      64
+    ],
+    "words": "Thank you.",
+    "speaker_turn": 65,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "64": {
+        "segment_words": "Thank you.",
+        "link_turn_id": 64,
+        "linked_words": "I will say public awareness was really helpful, it's still a [inaudible] data by social media and every other media office.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "64",
+      "64",
+      "64"
+    ]
+  },
+  "66": {
+    "link_turn_id": [
+      61,
+      63
+    ],
+    "words": "I welcome any other responses to this question? I know we did discuss it earlier on as well.",
+    "speaker_turn": 66,
+    "speaker_name": "Sheri",
+    "conversation_id": 2202,
+    "segments": {
+      "61": {
+        "segment_words": "I welcome any other responses to this question? I know we did discuss it earlier on as well.",
+        "link_turn_id": 61,
+        "linked_words": "I welcome any other stories, responses. Thank you so much, for everyone who shared so far. All right. I did ask this question a bit too early, earlier on, so I do want to take some time to ask again now that we've talked more specifically about community based organizations, are there any lingering thoughts on how these community organizations impacted decisions related to COVID-19 vaccinations in your neighborhood?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "63": {
+        "segment_words": "I welcome any other responses to this question?",
+        "link_turn_id": 63,
+        "linked_words": "Yes.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "61",
+      "63",
+      "63",
+      "61",
+      "61"
+    ]
+  },
+  "67": {
+    "link_turn_id": [
+      66
+    ],
+    "words": "Okay, can I come in?",
+    "speaker_turn": 67,
+    "speaker_name": "Levi",
+    "conversation_id": 2202,
+    "segments": {
+      "66": {
+        "segment_words": "Okay, can I come in?",
+        "link_turn_id": 66,
+        "linked_words": "I welcome any other responses to this question?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "65",
+      "66",
+      "66",
+      "66"
+    ]
+  },
+  "68": {
+    "link_turn_id": [
+      67
+    ],
+    "words": "Yes, please.",
+    "speaker_turn": 68,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "67": {
+        "segment_words": "Yes, please.",
+        "link_turn_id": 67,
+        "linked_words": "Okay, can I come in?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "67",
+      "67",
+      "67"
+    ]
+  },
+  "69": {
+    "link_turn_id": [
+      66,
+      61
+    ],
+    "words": "Okay. Basically I would say that the community organizations impacted decisions related to COVID-19 in my neighborhood positively, because they created an awareness and enlightenment about the necessities and facilities available at our disposal and that has really been very, very helpful, yeah.",
+    "speaker_turn": 69,
+    "speaker_name": "Levi",
+    "conversation_id": 2202,
+    "segments": {
+      "66": {
+        "segment_words": "Basically I would say that the community organizations impacted decisions related to COVID-19 in my neighborhood positively, because they created an awareness and enlightenment about the necessities and facilities available at our disposal and that has really been very, very helpful, yeah.",
+        "link_turn_id": 66,
+        "linked_words": "I welcome any other responses to this question?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "61": {
+        "segment_words": "the community organizations impacted decisions related to COVID-19 in my neighborhood positively, because they created an awareness and enlightenment about the necessities and facilities available at our disposal",
+        "link_turn_id": 61,
+        "linked_words": "how these community organizations impacted decisions related to COVID-19 vaccinations in your neighborhood?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "61",
+      "66",
+      "61",
+      "66",
+      "61",
+      "66"
+    ]
+  },
+  "70": {
+    "link_turn_id": [
+      69
+    ],
+    "words": "Thank you, all. Let's now think about the future, I'd like you to reflect on how the pandemic continues to impact your community, what will a post pandemic future look like in your community, how can community organizations help your community thrive in the future?",
+    "speaker_turn": 70,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "69": {
+        "segment_words": "how can community organizations help your community thrive in the future?",
+        "link_turn_id": 69,
+        "linked_words": "the community organizations impacted decisions related to COVID-19 in my neighborhood positively, because they created an awareness and enlightenment about the necessities and facilities available at our disposal and that has really been very, very helpful",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "61",
+      "69",
+      "69",
+      "69"
+    ]
+  },
+  "71": {
+    "link_turn_id": [
+      70
+    ],
+    "words": "I think that the post pandemic future is... We don't know how they will come, because see around, outside on the street buses, the people is not using mask anymore, very curious, last Saturday in the train, I'm not used to use the train often, but last Saturday I saw this CDC flyer that say \"Mask is not required, but is recommend to use\", but people don't use the mask and now it's time to other virus, because the light flu, because the cold weather, I think, in my own opinion, I think that the future will be that more people going to be infected, because if they don't use mask and the cold weather coming, the flu too, it's a lot viruses around, I hope the people is thinking to get all vaccine and that can be helpful, but if the people continue to use the mask, at least inside the train or buses, this will be more hospitalization or more people infected.",
+    "speaker_turn": 71,
+    "speaker_name": "Mary",
+    "conversation_id": 2202,
+    "segments": {
+      "70": {
+        "segment_words": "I think that the post pandemic future is... We don't know how they will come, because see around, outside on the street buses, the people is not using mask anymore, very curious, last Saturday in the train, I'm not used to use the train often, but last Saturday I saw this CDC flyer that say \"Mask is not required, but is recommend to use\", but people don't use the mask and now it's time to other virus, because the light flu, because the cold weather, I think, in my own opinion, I think that the future will be that more people going to be infected, because if they don't use mask and the cold weather coming, the flu too, it's a lot viruses around, I hope the people is thinking to get all vaccine and that can be helpful, but if the people continue to use the mask, at least inside the train or buses, this will be more hospitalization or more people infected.",
+        "link_turn_id": 70,
+        "linked_words": "what will a post pandemic future look like in your community",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "70",
+      "70",
+      "70"
+    ]
+  },
+  "72": {
+    "link_turn_id": [
+      71,
+      70
+    ],
+    "words": "What do we think? What's the post pandemic future going to look like in your community, how can community organizations help?",
+    "speaker_turn": 72,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "71": {
+        "segment_words": "What's the post pandemic future going to look like in your community, how can community organizations help?",
+        "link_turn_id": 71,
+        "linked_words": "I think that the post pandemic future is... We don't know how they will come, because see around, outside on the street buses, the people is not using mask anymore, very curious, last Saturday in the train, I'm not used to use the train often, but last Saturday I saw this CDC flyer that say \"Mask is not required, but is recommend to use\", but people don't use the mask and now it's time to other virus, because the light flu, because the cold weather, I think, in my own opinion, I think that the future will be that more people going to be infected, because if they don't use mask and the cold weather coming, the flu too, it's a lot viruses around, I hope the people is thinking to get all vaccine and that can be helpful, but if the people continue to use the mask, at least inside the train or buses, this will be more hospitalization or more people infected.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "70": {
+        "segment_words": "What's the post pandemic future going to look like in your community, how can community organizations help?",
+        "link_turn_id": 70,
+        "linked_words": "what will a post pandemic future look like in your community, how can community organizations help your community thrive in the future?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "70",
+      "71",
+      "70",
+      "71",
+      "70",
+      "71"
+    ]
+  },
+  "73": {
+    "link_turn_id": [
+      72,
+      70
+    ],
+    "words": "I think, education, I think that's one of the things that community organizations really do well, they give out information that is trusted, that is updated, that is reliable and they're open to having conversations with individuals and just talking through all the information if people have questions or concerns, so really that education component, I think is really important for the community, and that's really the important work that the community organizations do.",
+    "speaker_turn": 73,
+    "speaker_name": "Ally",
+    "conversation_id": 2202,
+    "segments": {
+      "72": {
+        "segment_words": "they give out information that is trusted, that is updated, that is reliable and they're open to having conversations with individuals and just talking through all the information if people have questions or concerns, so really that education component, I think is really important for the community, and that's really the important work that the community organizations do.",
+        "link_turn_id": 72,
+        "linked_words": "how can community organizations help?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "70": {
+        "segment_words": "I think, education, I think that's one of the things that community organizations really do well, they give out information that is trusted, that is updated, that is reliable and they're open to having conversations with individuals and just talking through all the information if people have questions or concerns, so really that education component, I think is really important for the community, and that's really the important work that the community organizations do.",
+        "link_turn_id": 70,
+        "linked_words": "how can community organizations help your community thrive in the future?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "70",
+      "72",
+      "70",
+      "72",
+      "70",
+      "72"
+    ]
+  },
+  "74": {
+    "link_turn_id": [
+      72,
+      73,
+      70
+    ],
+    "words": "I welcome any other responses as to regarding the future. All right. Thank you, all so much for those responses. Those are all the questions that we have for you today. Do you have any closing thoughts that you'd like to share or other general reflections on the conversation as well as do you have any questions for us?",
+    "speaker_turn": 74,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "72": {
+        "segment_words": "I welcome any other responses as to regarding the future.",
+        "link_turn_id": 72,
+        "linked_words": "What do we think? What's the post pandemic future going to look like in your community",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "73": {
+        "segment_words": "Thank you, all so much for those responses.",
+        "link_turn_id": 73,
+        "linked_words": "the important work that the community organizations do.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "70": {
+        "segment_words": "Thank you, all so much for those responses.",
+        "link_turn_id": 70,
+        "linked_words": "Thank you, all.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "70",
+      "71",
+      "72",
+      "73",
+      "70",
+      "72",
+      "73",
+      "66",
+      "70",
+      "72",
+      "73"
+    ]
+  },
+  "75": {
+    "link_turn_id": [
+      74
+    ],
+    "words": "No question from me.",
+    "speaker_turn": 75,
+    "speaker_name": "Levi",
+    "conversation_id": 2202,
+    "segments": {
+      "74": {
+        "segment_words": "No question from me.",
+        "link_turn_id": 74,
+        "linked_words": "do you have any questions for us?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "74",
+      "74",
+      "74"
+    ]
+  },
+  "76": {
+    "link_turn_id": [
+      74,
+      75
+    ],
+    "words": "Thank you. Any closing thoughts or any other thoughts that you want to share that we didn't get to discuss earlier?",
+    "speaker_turn": 76,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "74": {
+        "segment_words": "Any closing thoughts or any other thoughts that you want to share that we didn't get to discuss earlier?",
+        "link_turn_id": 74,
+        "linked_words": "Do you have any closing thoughts that you'd like to share or other general reflections on the conversation as well",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "75": {
+        "segment_words": "Thank you.",
+        "link_turn_id": 75,
+        "linked_words": "No question from me.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "74",
+      "74",
+      "75",
+      "74",
+      "75"
+    ]
+  },
+  "77": {
+    "link_turn_id": [
+      76,
+      74
+    ],
+    "words": "Okay. This has really been a very interesting session and it's been quite [inaudible] and I really appreciate you for organizing this and I really say that if the community members had to, would I say, incorporate with the community organizations employees, I think they would really form a mutually beneficial relationship that would be for the development and growth in the economy and community, yeah.",
+    "speaker_turn": 77,
+    "speaker_name": "Levi",
+    "conversation_id": 2202,
+    "segments": {
+      "76": {
+        "segment_words": "if the community members had to, would I say, incorporate with the community organizations employees, I think they would really form a mutually beneficial relationship that would be for the development and growth in the economy and community, yeah.",
+        "link_turn_id": 76,
+        "linked_words": "Any closing thoughts or any other thoughts that you want to share that we didn't get to discuss earlier?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "74": {
+        "segment_words": "if the community members had to, would I say, incorporate with the community organizations employees, I think they would really form a mutually beneficial relationship that would be for the development and growth in the economy and community",
+        "link_turn_id": 74,
+        "linked_words": "Do you have any closing thoughts that you'd like to share or other general reflections on the conversation",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "74",
+      "76",
+      "70",
+      "74",
+      "76",
+      "74",
+      "76"
+    ]
+  },
+  "78": {
+    "link_turn_id": [
+      76
+    ],
+    "words": "Oh, sorry, no question, it's all really nice and if [inaudible], I really appreciate it.",
+    "speaker_turn": 78,
+    "speaker_name": "Sheri",
+    "conversation_id": 2202,
+    "segments": {
+      "76": {
+        "segment_words": "Oh, sorry, no question, it's all really nice",
+        "link_turn_id": 76,
+        "linked_words": "Any closing thoughts or any other thoughts that you want to share that we didn't get to discuss earlier?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "76",
+      "74",
+      "76",
+      "76"
+    ]
+  },
+  "79": {
+    "link_turn_id": [
+      74
+    ],
+    "words": "I just want to point out how similar a lot of our reasonings were to get the vaccine and why we did it, I feel like there's a lot of similarities, so it just shows no matter where people are living or all the different experiences, there is definitely some common thread between everyone and I think that's just something important that came up through this conversation.",
+    "speaker_turn": 79,
+    "speaker_name": "Ally",
+    "conversation_id": 2202,
+    "segments": {
+      "74": {
+        "segment_words": "that's just something important that came up through this conversation.",
+        "link_turn_id": 74,
+        "linked_words": "Do you have any closing thoughts that you'd like to share or other general reflections on the conversation",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "74",
+      "74",
+      "77",
+      "71",
+      "73"
+    ]
+  },
+  "80": {
+    "link_turn_id": [
+      72,
+      74,
+      79
+    ],
+    "words": "To close, I want to say, thank you, for this opportunity, it the first time I take the time to think why I'm take the first dose, the second, the third, and fourth and the first time I decide why, I know, pretty sure because my grandson and remember the process, also this opportunity is very helpful for me to reflection, think about the future of the pandemic, we don't know, but as I say, the last in train for me is important.",
+    "speaker_turn": 80,
+    "speaker_name": "Mary",
+    "conversation_id": 2202,
+    "segments": {
+      "72": {
+        "segment_words": "this opportunity is very helpful for me to reflection, think about the future of the pandemic, we don't know",
+        "link_turn_id": 72,
+        "linked_words": "What's the post pandemic future going to look like in your community",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "74": {
+        "segment_words": "this opportunity is very helpful for me to reflection, think about the future of the pandemic, we don't know",
+        "link_turn_id": 74,
+        "linked_words": "Do you have any closing thoughts that you'd like to share or other general reflections on the conversation as well as do you have any questions for us?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "79": {
+        "segment_words": "this opportunity is very helpful for me to reflection, think about the future of the pandemic",
+        "link_turn_id": 79,
+        "linked_words": "I feel like there's a lot of similarities, so it just shows no matter where people are living or all the different experiences, there is definitely some common thread between everyone",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "74",
+      "79",
+      "72",
+      "79",
+      "79",
+      "76",
+      "74",
+      "72",
+      "71"
+    ]
+  },
+  "81": {
+    "link_turn_id": [
+      79,
+      80
+    ],
+    "words": "Definitely.",
+    "speaker_turn": 81,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "79": {
+        "segment_words": "Definitely.",
+        "link_turn_id": 79,
+        "linked_words": "I think that's just something important that came up through this conversation.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "80": {
+        "segment_words": "Definitely.",
+        "link_turn_id": 80,
+        "linked_words": "this opportunity is very helpful for me to reflection, think about the future of the pandemic",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "79",
+      "80",
+      "79",
+      "80"
+    ]
+  },
+  "82": {
+    "link_turn_id": [
+      74,
+      80
+    ],
+    "words": "I don't have a question, but in general reflection this section give me the opportunity to reflect on what happening two year and a half with the pandemic, thank you.",
+    "speaker_turn": 82,
+    "speaker_name": "Mary",
+    "conversation_id": 2202,
+    "segments": {
+      "74": {
+        "segment_words": "in general reflection this section give me the opportunity to reflect on what happening two year and a half with the pandemic, thank you.",
+        "link_turn_id": 74,
+        "linked_words": "other general reflections on the conversation",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "80": {
+        "segment_words": "this section give me the opportunity to reflect on what happening two year and a half with the pandemic",
+        "link_turn_id": 80,
+        "linked_words": "this opportunity is very helpful for me to reflection, think about the future of the pandemic",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    },
+    "union_linked_turn_ids": [
+      "80",
+      "74",
+      "76",
+      "80",
+      "74",
+      "80"
+    ]
+  },
+  "83": {
+    "link_turn_id": [
+      74
+    ],
+    "words": "Thank you, all so much for participating in this community storytelling project, your participation and your voice are integral to this effort and we look forward to sharing the story library with you. And as a thank you for your time and your participation, you'll receive a $50 gift card via email within three business days. I once again just want to put in, if you're interested in picking up a notepad, a stress ball, water, candy, and masks, we have all of those available at our office. Please feel free to reach out to me, my phone number is there as well as my email address and I believe you have my email address, I sent you an email earlier, but just in case it's also here in the chat, so please reach out, let me know if you're willing to come and pick those things up and I can gather them for you and give you directions to our office. Other than that, thank you, all so much, have a great evening.",
+    "speaker_turn": 83,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "74": {
+        "segment_words": "Other than that, thank you, all so much, have a great evening.",
+        "link_turn_id": 74,
+        "linked_words": "Thank you, all so much for those responses.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "74",
+      "74",
+      "76",
+      "83",
+      "NA"
+    ]
+  },
+  "84": {
+    "link_turn_id": [
+      83
+    ],
+    "words": "Thanks so much.",
+    "speaker_turn": 84,
+    "speaker_name": "Ally",
+    "conversation_id": 2202,
+    "segments": {
+      "83": {
+        "segment_words": "Thanks so much.",
+        "link_turn_id": 83,
+        "linked_words": "Thank you, all so much for participating in this community storytelling project, your participation and your voice are integral to this effort and we look forward to sharing the story library with you.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "83",
+      "83",
+      "83"
+    ]
+  },
+  "85": {
+    "link_turn_id": [
+      83
+    ],
+    "words": "Thank you, so much, bye.",
+    "speaker_turn": 85,
+    "speaker_name": "Sheri",
+    "conversation_id": 2202,
+    "segments": {
+      "83": {
+        "segment_words": "Thank you, so much, bye.",
+        "link_turn_id": 83,
+        "linked_words": "Thank you, all so much, have a great evening.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "83",
+      "83",
+      "83"
+    ]
+  },
+  "86": {
+    "link_turn_id": [
+      84,
+      83,
+      85
+    ],
+    "words": "Thank you, good night.",
+    "speaker_turn": 86,
+    "speaker_name": "Facilitator",
+    "conversation_id": 2202,
+    "segments": {
+      "84": {
+        "segment_words": "Thank you,",
+        "link_turn_id": 84,
+        "linked_words": "Thanks so much.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "83": {
+        "segment_words": "good night.",
+        "link_turn_id": 83,
+        "linked_words": "have a great evening.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "85": {
+        "segment_words": "Thank you",
+        "link_turn_id": 85,
+        "linked_words": "Thank you, so much",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "83",
+      "84",
+      "85",
+      "83",
+      "84",
+      "85",
+      "83",
+      "84",
+      "85"
+    ]
+  },
+  "87": {
+    "link_turn_id": [
+      83,
+      86
+    ],
+    "words": "Thank you.",
+    "speaker_turn": 87,
+    "speaker_name": "Levi",
+    "conversation_id": 2202,
+    "segments": {
+      "83": {
+        "segment_words": "Thank you.",
+        "link_turn_id": 83,
+        "linked_words": "Thank you, all so much for participating in this community storytelling project, your participation and your voice are integral to this effort and we look forward to sharing the story library with you.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "86": {
+        "segment_words": "Thank you.",
+        "link_turn_id": 86,
+        "linked_words": "Thank you,",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    },
+    "union_linked_turn_ids": [
+      "83",
+      "86",
+      "83",
+      "83",
+      "86"
+    ]
+  }
+}

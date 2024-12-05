@@ -1,0 +1,3014 @@
+{
+  "1": {
+    "words": "Welcome to this special community celebration conversation, hosted by Cortico's Local Voice Network, and United Way of Dane County. Thanks for agreeing to participate in this conversation, and I have begun recording. I'm just going to go over some things, just some key ground rules. Just to speak for yourself, and out of your own experiences. Allow others to speak for themselves. Share the time. Stay curious, pause, listen generously, and also stay present. I just want to make sure everyone's onboard with these guidelines, we just shared in the large group, and if there's anything you would like to add or change. Okay, perfect. Now we'll move on to some introductory questions, and to make this conversation a little bit easier, in the beginning, we'll use a modified circle. So we'll start with Jessie, Amy, and then go to Martinez. Please tell me if I got your names right. I'm ... Okay, perfect. We'll just use this modified circle to make things run more smoothly. I also want to mention, you can always pass, and we can come back to you, or if you just don't want to answer that question, you don't have to. Feel no obligation there. We're just going to do a quick round of introductions. So, we're just going to ask if you would share your first name, your gender pronouns if you're comfortable doing so, and also, in addition, just share a little bit of background info about who you are and a value that's important to you. I'll go first. My name's Anna. My pronouns are she, her, hers. A value that's important to me is honesty. I really value people being honest and wanting to share their ... Just what they think. I think it just makes it a lot easier and a lot better. This value relates to the community and why I'm here today, because where would I be if people weren't honest? I feel like you can only get so far, and if people aren't truthful, then you're just being held back in the past, and you're not really present, in the moment. With that, I 'll pass it to Jessie.",
+    "link_turn_id": [
+      "NA"
+    ],
+    "speaker_turn": 1,
+    "speaker_name": "Anna",
+    "conversation_id": 1113,
+    "segments": {}
+  },
+  "2": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "Hi, everybody. My name is Jessie. My pronouns are she, her. A little bit about myself, I'm a nurse. I'm born and raised in Madison, although I've lived some other places. I ended up coming right on back here, so ... I love Madison, and I love it so much, that I want to see it fulfill its potential. I would say that, a value that's important to me is, the idea of constant growth. I think that, that includes accepting mistakes that you've made in the past as growth, in addition to looking to the future and accepting the way that you are, as constantly transitioning.",
+    "speaker_turn": 2,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "1": {
+        "segment_words": "Hi, everybody. My name is Jessie. My pronouns are she, her. A little bit about myself,",
+        "link_turn_id": 1,
+        "linked_words": "So, we're just going to ask if you would share your first name, your gender pronouns if you're comfortable doing so, and also, in addition, just share a little bit of background info about who you are and a value that's important to you.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "3": {
+    "link_turn_id": [
+      2
+    ],
+    "words": "Thank you. Then we'll move on to Amy.",
+    "speaker_turn": 3,
+    "speaker_name": "Anna",
+    "conversation_id": 1113,
+    "segments": {
+      "2": {
+        "segment_words": "Thank you.",
+        "link_turn_id": 2,
+        "linked_words": "Hi, everybody. My name is Jessie. My pronouns are she, her. A little bit about myself, I'm a nurse. I'm born and raised in Madison, although I've lived some other places. I ended up coming right on back here, so ... I love Madison, and I love it so much, that I want to see it fulfill its potential. I would say that, a value that's important to me is, the idea of constant growth. I think that, that includes accepting mistakes that you've made in the past as growth, in addition to looking to the future and accepting the way that you are, as constantly transitioning.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "4": {
+    "link_turn_id": [
+      2
+    ],
+    "words": "Good morning. I'm Amy [Surname]. I was in Madison as a teacher for 23 years, and I just shifted to Sun Prairie. I'm an instructional coach at an elementary school in Sun Prairie. Something ... Jessie, I also want to help see Madison find its potential. We are so far from it, we have a lot of work yet to do but, it's great to know that there's other people who know that there's a lot of promise in our children, and our families, and beyond. My pronouns are she, hers. I would say that a value that I really hold true is, I really appreciate persistence and perseverance. Things are hard and we need to go through that productive struggle. I think Jessie spoke to making mistakes, and I just taught a group of fourth graders this morning, that making mistakes literally creates new patterns in our brains. They grow our brains, and so, yep, we're going to screw up along the way, and that's okay, as long as we get back up and try again. I'm grateful to be here. I will do my best to be fully present, that's my commitment, to do my best.",
+    "speaker_turn": 4,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "2": {
+        "segment_words": "Jessie, I also want to help see Madison find its potential.",
+        "link_turn_id": 2,
+        "linked_words": "I love Madison, and I love it so much, that I want to see it fulfill its potential.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "5": {
+    "link_turn_id": [
+      4
+    ],
+    "words": "Thank you. I definitely agree with what you just told the class you just taught. That's something that resonates with me. Then, Martinez?",
+    "speaker_turn": 5,
+    "speaker_name": "Anna",
+    "conversation_id": 1113,
+    "segments": {
+      "4": {
+        "segment_words": "I definitely agree with what you just told the class you just taught.",
+        "link_turn_id": 4,
+        "linked_words": "I just taught a group of fourth graders this morning, that making mistakes literally creates new patterns in our brains.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "6": {
+    "link_turn_id": [
+      1,
+      2,
+      4
+    ],
+    "words": "Good afternoon, everyone. I'm Martinez. I'm excited to be here. I'm a newly installed development director here, at the United Way of Dane County, so I'm excited in my role. I wanted to be a part of today's conversation to understand new perspectives, and I think that's something that is one of my biggest values, is open mindedness. It's been said here in many different ways, having a growth mindset, and being open to new ideas, and being able to empathize with other people, even though you might not have that same lived experience. That's something that I hold true to my heart, as a value, and as a moral of mine. My pronouns are he and him, and I'm excited to be here, so let's keep the conversation going.",
+    "speaker_turn": 6,
+    "speaker_name": "Martinez",
+    "conversation_id": 1113,
+    "segments": {
+      "1": {
+        "segment_words": "I'm Martinez. I'm excited to be here. I'm a newly installed development director here, at the United Way of Dane County, so I'm excited in my role. I wanted to be a part of today's conversation to understand new perspectives, and I think that's something that is one of my biggest values, is open mindedness.",
+        "link_turn_id": 1,
+        "linked_words": "We're just going to do a quick round of introductions. So, we're just going to ask if you would share your first name, your gender pronouns if you're comfortable doing so, and also, in addition, just share a little bit of background info about who you are and a value that's important to you.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "2": {
+        "segment_words": "It's been said here in many different ways, having a growth mindset, and being open to new ideas, and being able to empathize with other people, even though you might not have that same lived experience.",
+        "link_turn_id": 2,
+        "linked_words": "a value that's important to me is, the idea of constant growth.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "4": {
+        "segment_words": "It's been said here in many different ways, having a growth mindset, and being open to new ideas, and being able to empathize with other people, even though you might not have that same lived experience.",
+        "link_turn_id": 4,
+        "linked_words": "I really appreciate persistence and perseverance. Things are hard and we need to go through that productive struggle. I think Jessie spoke to making mistakes, and I just taught a group of fourth graders this morning, that making mistakes literally creates new patterns in our brains. They grow our brains, and so, yep, we're going to screw up along the way, and that's okay, as long as we get back up and try again.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "7": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Thank you. With that, I would like to move away from the modified circle, so we can have more of a conversation, so just feel free to pitch in whenever you want, after I introduce this next question. We basically just want to move on to conversations about your hopes and concerns for this community. As you know, this conversation will be used, and form United Way priorities, in years to come. Before we move into the conversation, I just want to ask, what do you think United Way of Dane County, does in our community?",
+    "speaker_turn": 7,
+    "speaker_name": "Anna",
+    "conversation_id": 1113,
+    "segments": {}
+  },
+  "8": {
+    "link_turn_id": [
+      7
+    ],
+    "words": "Raise money, and distribute it.",
+    "speaker_turn": 8,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "7": {
+        "segment_words": "Raise money, and distribute it.",
+        "link_turn_id": 7,
+        "linked_words": "what do you think United Way of Dane County, does in our community?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "9": {
+    "link_turn_id": [
+      8
+    ],
+    "words": "Yes, that's a good one.",
+    "speaker_turn": 9,
+    "speaker_name": "Anna",
+    "conversation_id": 1113,
+    "segments": {
+      "8": {
+        "segment_words": "that's a good one",
+        "link_turn_id": 8,
+        "linked_words": "Raise money, and distribute it.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "10": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "You're muted, Amy.",
+    "speaker_turn": 10,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {}
+  },
+  "11": {
+    "link_turn_id": [
+      10
+    ],
+    "words": "Amy, I think you're muted.",
+    "speaker_turn": 11,
+    "speaker_name": "Anna",
+    "conversation_id": 1113,
+    "segments": {
+      "10": {
+        "segment_words": "Amy, I think you're muted.",
+        "link_turn_id": 10,
+        "linked_words": "You're muted, Amy.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "12": {
+    "link_turn_id": [
+      8,
+      9,
+      11
+    ],
+    "words": "Thanks. Right, and then importantly, they uniquely distribute it to different agencies that they're familiar with, that they have access to. That wouldn't ... If I donate to Goodman Community Center, because my son goes there, that's one avenue, but United Way channels it beyond that. I think.",
+    "speaker_turn": 12,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "8": {
+        "segment_words": "and then importantly, they uniquely distribute it to different agencies that they're familiar with, that they have access to.",
+        "link_turn_id": 8,
+        "linked_words": "distribute it.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "9": {
+        "segment_words": "Thanks.",
+        "link_turn_id": 9,
+        "linked_words": "Yes, that's a good one.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "11": {
+        "segment_words": "Thanks.",
+        "link_turn_id": 11,
+        "linked_words": "Amy, I think you're muted.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "13": {
+    "link_turn_id": [
+      12
+    ],
+    "words": "Yes, that's definitely some of what they do. Martinez, do you have any ... You probably have more insight.",
+    "speaker_turn": 13,
+    "speaker_name": "Anna",
+    "conversation_id": 1113,
+    "segments": {
+      "12": {
+        "segment_words": "Yes, that's definitely some of what they do.",
+        "link_turn_id": 12,
+        "linked_words": "Right, and then importantly, they uniquely distribute it to different agencies that they're familiar with, that they have access to.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "14": {
+    "link_turn_id": [
+      12,
+      13
+    ],
+    "words": "Yeah, that's most accurate. It's more like the center of a wheelhouse, where all of the different spokes come in to a center piece and a nucleus. United way is that nucleus, for us to make sure that we can get the funds dispersed in an equitable fashion, but also in a way where we're going to be able to find measurable results. So we're looking at the root causes of some of the challenges we see in our communities, and what we can do to get to the bedrock of some of the issues, so we can solve them over the course of time. Not immediately, but over the course of years and generations, to make sure we have intergenerational impact.",
+    "speaker_turn": 14,
+    "speaker_name": "Martinez",
+    "conversation_id": 1113,
+    "segments": {
+      "12": {
+        "segment_words": "United way is that nucleus, for us to make sure that we can get the funds dispersed in an equitable fashion, but also in a way where we're going to be able to find measurable results.",
+        "link_turn_id": 12,
+        "linked_words": "but United Way channels it beyond that. I think.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "13": {
+        "segment_words": "Yeah, that's most accurate. It's more like the center of a wheelhouse, where all of the different spokes come in to a center piece and a nucleus.",
+        "link_turn_id": 13,
+        "linked_words": "You probably have more insight.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "15": {
+    "link_turn_id": [
+      14
+    ],
+    "words": "I just want to say, I love that the words, \"root causes,\" just really was like, \"Mmm, mmm,\" because I think that's been a part of what's been missing in Madison. There's been a whole lot of studying, and examining, and finding out, but then just Band-Aids. Discussions, surface discussions, and so I think examination of root causes and action at the roots, is what ... I guess we'll see, right? We'll see, we'll see. I hope that, that will be the answer.",
+    "speaker_turn": 15,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "14": {
+        "segment_words": "I just want to say, I love that the words, \"root causes,\" just really was like, \"Mmm, mmm,\" because I think that's been a part of what's been missing in Madison.",
+        "link_turn_id": 14,
+        "linked_words": "So we're looking at the root causes of some of the challenges we see in our communities, and what we can do to get to the bedrock of some of the issues, so we can solve them over the course of time.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "16": {
+    "link_turn_id": [
+      15
+    ],
+    "words": "And Jessie, I would add to yours, action and inaction. I think that's kind of what you're speaking to, right? And so -",
+    "speaker_turn": 16,
+    "speaker_name": "Anna",
+    "conversation_id": 1113,
+    "segments": {
+      "15": {
+        "segment_words": "I think that's kind of what you're speaking to, right?",
+        "link_turn_id": 15,
+        "linked_words": "so I think examination of root causes and action at the roots, is what ... I guess we'll see, right?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "17": {
+    "link_turn_id": [
+      16
+    ],
+    "words": "Mm-hmm (affirmative).",
+    "speaker_turn": 17,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "16": {
+        "segment_words": "Mm-hmm (affirmative).",
+        "link_turn_id": 16,
+        "linked_words": "I think that's kind of what you're speaking to, right?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "18": {
+    "link_turn_id": [
+      16,
+      15
+    ],
+    "words": "... Yeah. Good stuff.",
+    "speaker_turn": 18,
+    "speaker_name": "Anna",
+    "conversation_id": 1113,
+    "segments": {
+      "16": {
+        "segment_words": "Yeah. Good stuff.",
+        "link_turn_id": 16,
+        "linked_words": "And so -",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "15": {
+        "segment_words": "Yeah. Good stuff.",
+        "link_turn_id": 15,
+        "linked_words": "I love that the words, \"root causes,\" just really was like, \"Mmm, mmm,\" because I think that's been a part of what's been missing in Madison.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "19": {
+    "link_turn_id": [
+      14,
+      15
+    ],
+    "words": "Yeah, root causes, definitely struck with me. I also liked how you used the wheelhouse analogy to talk about what United Way does, because when I first thought of United Way, I was like, \"Oh, money.\" But I don't really know how that plays with what they do, so it was very interesting to find out more, during my time at the Local Voices Network, and their partnership with United Way.",
+    "speaker_turn": 19,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "14": {
+        "segment_words": "Yeah, root causes, definitely struck with me. I also liked how you used the wheelhouse analogy to talk about what United Way does,",
+        "link_turn_id": 14,
+        "linked_words": "So we're looking at the root causes of some of the challenges we see in our communities, and what we can do to get to the bedrock of some of the issues, so we can solve them over the course of time. Not immediately, but over the course of years and generations, to make sure we have intergenerational impact.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "15": {
+        "segment_words": "Yeah, root causes, definitely struck with me.",
+        "link_turn_id": 15,
+        "linked_words": "\"I love that the words, 'root causes,' just really was like, 'Mmm, mmm,' because I think that's been a part of what's been missing in Madison.\"",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "20": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "With that question, I want to move on, and I'm going to ask, what do you most appreciate about Dane County? I know for me, I spend most of my time in Madison, so I really enjoy the lake and being able to just go out and sit at Memorial Union and watch the lake, go up to Picnic Point, with a group of friends, so that's something I really enjoy.",
+    "speaker_turn": 20,
+    "speaker_name": "Anna",
+    "conversation_id": 1113,
+    "segments": {}
+  },
+  "21": {
+    "link_turn_id": [
+      20
+    ],
+    "words": "I grew up outside Chicago, so I appreciate how Dane County allows me to be my city mouse, country mouse. I can feel like I can seamlessly go between Madison proper and into rural areas, to explore the out of doors. I think the reason that I stuck around here, is because, I think, the families. I love the families, many of whom have come up from Chicago. There's just something about the families here that I love, and the children.",
+    "speaker_turn": 21,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "20": {
+        "segment_words": "I appreciate how Dane County allows me to be my city mouse, country mouse. I can feel like I can seamlessly go between Madison proper and into rural areas, to explore the out of doors.",
+        "link_turn_id": 20,
+        "linked_words": "what do you most appreciate about Dane County?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "22": {
+    "link_turn_id": [
+      20,
+      21
+    ],
+    "words": "I like the resourcefulness of Madison. I'm originally from Milwaukee, but I've lived half my life here, in Madison. I went to college here, as early as 16 years old, so at 31 years old, my life has been installed and been built here, in the Dane County community. I just think that it's a place where you can really put some roots down and build something monumental. There are a lot of good resources, and a lot of good organizations that are working to change the image of our state, and also our national impact, as a participant in national politics, national education development, things of that sort. So I appreciate everything being here, that gives us the opportunity to build exponentially, and not in a slow fashion.",
+    "speaker_turn": 22,
+    "speaker_name": "Martinez",
+    "conversation_id": 1113,
+    "segments": {
+      "20": {
+        "segment_words": "I just think that it's a place where you can really put some roots down and build something monumental. There are a lot of good resources, and a lot of good organizations that are working to change the image of our state, and also our national impact, as a participant in national politics, national education development, things of that sort.",
+        "link_turn_id": 20,
+        "linked_words": "and I'm going to ask, what do you most appreciate about Dane County?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "21": {
+        "segment_words": "I just think that it's a place where you can really put some roots down and build something monumental.",
+        "link_turn_id": 21,
+        "linked_words": "I think the reason that I stuck around here, is because, I think, the families.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "23": {
+    "link_turn_id": [
+      22
+    ],
+    "words": "Martinez, it was not lost on me that you just said that you went to college at the age of 16 years old. Isn't that right?",
+    "speaker_turn": 23,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "22": {
+        "segment_words": "you just said that you went to college at the age of 16 years old. Isn't that right?",
+        "link_turn_id": 22,
+        "linked_words": "I went to college here, as early as 16 years old,",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "24": {
+    "link_turn_id": [
+      23
+    ],
+    "words": "That's true.",
+    "speaker_turn": 24,
+    "speaker_name": "Martinez",
+    "conversation_id": 1113,
+    "segments": {
+      "23": {
+        "segment_words": "That's true.",
+        "link_turn_id": 23,
+        "linked_words": "you just said that you went to college at the age of 16 years old. Isn't that right?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "25": {
+    "link_turn_id": [
+      24,
+      23
+    ],
+    "words": "So yesterday then, that same fourth grade group, with learning Dr. Martin Luther King also went to school at the age of 15.",
+    "speaker_turn": 25,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "24": {
+        "segment_words": "So yesterday then, that same fourth grade group, with learning Dr. Martin Luther King also went to school at the age of 15.",
+        "link_turn_id": 24,
+        "linked_words": "That's true.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "23": {
+        "segment_words": "also went to school at the age of 15.",
+        "link_turn_id": 23,
+        "linked_words": "you just said that you went to college at the age of 16 years old.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "26": {
+    "link_turn_id": [
+      24
+    ],
+    "words": "Yep.",
+    "speaker_turn": 26,
+    "speaker_name": "Martinez",
+    "conversation_id": 1113,
+    "segments": {
+      "24": {
+        "segment_words": "Yep.",
+        "link_turn_id": 24,
+        "linked_words": "That's true.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "27": {
+    "link_turn_id": [
+      24,
+      25,
+      26,
+      23
+    ],
+    "words": "And a lot of the kids are attributing it to his being smart, and I just want to flip it to he's a hard worker, and that is not to discount your smartness, but smart's is something, and hardworking, we can all attain, if we try. So, bravo.",
+    "speaker_turn": 27,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "24": {
+        "segment_words": "but smart's is something, and hardworking, we can all attain, if we try.",
+        "link_turn_id": 24,
+        "linked_words": "That's true.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "25": {
+        "segment_words": "And a lot of the kids are attributing it to his being smart, and I just want to flip it to he's a hard worker, and that is not to discount your smartness, but smart's is something, and hardworking, we can all attain, if we try.",
+        "link_turn_id": 25,
+        "linked_words": "with learning Dr. Martin Luther King also went to school at the age of 15.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "26": {
+        "segment_words": "And a lot of the kids are attributing it to his being smart, and I just want to flip it to he's a hard worker, and that is not to discount your smartness, but smart's is something, and hardworking, we can all attain, if we try.",
+        "link_turn_id": 26,
+        "linked_words": "Yep.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "23": {
+        "segment_words": "And a lot of the kids are attributing it to his being smart, and I just want to flip it to he's a hard worker, and that is not to discount your smartness, but smart's is something, and hardworking, we can all attain, if we try.",
+        "link_turn_id": 23,
+        "linked_words": "Martinez, it was not lost on me that you just said that you went to college at the age of 16 years old.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "28": {
+    "link_turn_id": [
+      27
+    ],
+    "words": "I love what you just said, that's very true. That's very true. It's that, we are all born with a toolkit, and it's up to us which one's we actually use along the way. Yeah, I agree with that.",
+    "speaker_turn": 28,
+    "speaker_name": "Martinez",
+    "conversation_id": 1113,
+    "segments": {
+      "27": {
+        "segment_words": "It's that, we are all born with a toolkit, and it's up to us which one's we actually use along the way.",
+        "link_turn_id": 27,
+        "linked_words": "hardworking, we can all attain, if we try.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "29": {
+    "link_turn_id": [
+      20,
+      21,
+      22
+    ],
+    "words": "I love that. I would say, what I love about Dane County, partly, it's the green. Just because a lot of times when I'm ... One of the things that I noticed when I moved away ... I fled Madison and Wisconsin, and when I came back, I really was struck by how beautiful all the trees are. Do you know what I mean? That I never really appreciated before. I was like, \"Whoa.\" And also, I think, kind of piggybacking on some of what was already said, I think that Madison does have a willingness to be different, that I think is commendable. It's not ... I don't think that always, Madison achieves that, or Dane County achieves that, and maybe not as much as we think, but I think there is a willingness to be innovative and to be like, we're not like any other place. And I think that is a strength.",
+    "speaker_turn": 29,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "20": {
+        "segment_words": "I would say, what I love about Dane County, partly, it's the green. Just because a lot of times when I'm ... One of the things that I noticed when I moved away ... I fled Madison and Wisconsin, and when I came back, I really was struck by how beautiful all the trees are.",
+        "link_turn_id": 20,
+        "linked_words": "what do you most appreciate about Dane County?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "21": {
+        "segment_words": "kind of piggybacking on some of what was already said, I think that Madison does have a willingness to be different, that I think is commendable.",
+        "link_turn_id": 21,
+        "linked_words": "I appreciate how Dane County allows me to be my city mouse, country mouse. I can feel like I can seamlessly go between Madison proper and into rural areas, to explore the out of doors.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "22": {
+        "segment_words": "I think, kind of piggybacking on some of what was already said, I think that Madison does have a willingness to be different, that I think is commendable.",
+        "link_turn_id": 22,
+        "linked_words": "There are a lot of good resources, and a lot of good organizations that are working to change the image of our state, and also our national impact, as a participant in national politics, national education development, things of that sort.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "30": {
+    "link_turn_id": [
+      29,
+      21,
+      22
+    ],
+    "words": "Thank you, everyone for that. Basically, I just want to ask if you have any stories that reflect what you like about Dane County, or something that you've seen happen to someone else that reflects this good community, this good environment, that we see.",
+    "speaker_turn": 30,
+    "speaker_name": "Anna",
+    "conversation_id": 1113,
+    "segments": {
+      "29": {
+        "segment_words": "Basically, I just want to ask if you have any stories that reflect what you like about Dane County, or something that you've seen happen to someone else that reflects this good community, this good environment, that we see.",
+        "link_turn_id": 29,
+        "linked_words": "I would say, what I love about Dane County, partly, it's the green. Just because a lot of times when I'm ... One of the things that I noticed when I moved away ... I fled Madison and Wisconsin, and when I came back, I really was struck by how beautiful all the trees are. Do you know what I mean? That I never really appreciated before. I was like, \"Whoa.\" And also, I think, kind of piggybacking on some of what was already said, I think that Madison does have a willingness to be different, that I think is commendable.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "21": {
+        "segment_words": "if you have any stories that reflect what you like about Dane County, or something that you've seen happen to someone else that reflects this good community, this good environment, that we see.",
+        "link_turn_id": 21,
+        "linked_words": "I think the reason that I stuck around here, is because, I think, the families. I love the families, many of whom have come up from Chicago.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "22": {
+        "segment_words": "ask if you have any stories that reflect what you like about Dane County",
+        "link_turn_id": 22,
+        "linked_words": "I just think that it's a place where you can really put some roots down and build something monumental. There are a lot of good resources, and a lot of good organizations that are working to change the image of our state, and also our national impact, as a participant in national politics, national education development, things of that sort. So I appreciate everything being here, that gives us the opportunity to build exponentially, and not in a slow fashion.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "31": {
+    "link_turn_id": [
+      29,
+      30
+    ],
+    "words": "In the recent past, I worked with a group of students who went on a college tour, about a year or so back, and it was a group of students who emerged from an underprivileged environment, who got a chance to see ... Through a local church here in Madison, who got a chance to see what college looks like at a HBCU, or Historically Black College or University. For me, I thought that, that was really unique, in the sense that these students are getting a chance to see what their future could look like now. One of the guys actually moved on to do some acting work, and he's been featured on a couple national TV shows. So I thought it was really cool to build his desire for acting, through education. Then him go on to go to college, and then to start, early on in college, already embarking on an acting career. And it all started from some local work that was done here, and the community people, who wanted to see Black kids have access to Black, higher education. That's important to me, and I think education has been a theme here, and it's one of our items on the agenda for change. So I think that, that's really dynamic that kids get a chance to see something bigger and better, and then get a chance to manifest their destiny in those different realms.",
+    "speaker_turn": 31,
+    "speaker_name": "Martinez",
+    "conversation_id": 1113,
+    "segments": {
+      "29": {
+        "segment_words": "that's important to me, and I think education has been a theme here, and it's one of our items on the agenda for change.",
+        "link_turn_id": 29,
+        "linked_words": "I think, kind of piggybacking on some of what was already said, I think that Madison does have a willingness to be different, that I think is commendable.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "30": {
+        "segment_words": "In the recent past, I worked with a group of students who went on a college tour, about a year or so back, and it was a group of students who emerged from an underprivileged environment, who got a chance to see ... Through a local church here in Madison, who got a chance to see what college looks like at a HBCU, or Historically Black College or University. For me, I thought that, that was really unique, in the sense that these students are getting a chance to see what their future could look like now. One of the guys actually moved on to do some acting work, and he's been featured on a couple national TV shows. So I thought it was really cool to build his desire for acting, through education. Then him go on to go to college, and then to start, early on in college, already embarking on an acting career. And it all started from some local work that was done here, and the community people, who wanted to see Black kids have access to Black, higher education. That's important to me, and I think education has been a theme here, and it's one of our items on the agenda for change. So I think that, that's really dynamic that kids get a chance to see something bigger and better, and then get a chance to manifest their destiny in those different realms.",
+        "link_turn_id": 30,
+        "linked_words": "Basically, I just want to ask if you have any stories that reflect what you like about Dane County, or something that you've seen happen to someone else that reflects this good community, this good environment, that we see.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "32": {
+    "link_turn_id": [
+      31
+    ],
+    "words": "Yeah, Martinez. I would piggyback on that. You made me think about one positive thing that the Madison school district has done, is invest in AVID, so the program that's Advancement via Individual Determination. While some of your kids benefited from, I'm guessing, church membership, this is a public school entity. And then, they also partner with Boys & Girls Club, so that these kids get mentorship and internship opportunities during the summer. Now, that's just reaching some kids, right? And so, only certain kids are allowed in. It's available at middle and high school. I see some of y'all nodding your heads, you know about it somewhat. But the investment speaks to a care, a desire to raise all ships, so, that's a good thing.",
+    "speaker_turn": 32,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "31": {
+        "segment_words": "Yeah, Martinez. I would piggyback on that. You made me think about one positive thing that the Madison school district has done, is invest in AVID, so the program that's Advancement via Individual Determination. While some of your kids benefited from, I'm guessing, church membership, this is a public school entity.",
+        "link_turn_id": 31,
+        "linked_words": "In the recent past, I worked with a group of students who went on a college tour, about a year or so back, and it was a group of students who emerged from an underprivileged environment, who got a chance to see ... Through a local church here in Madison, who got a chance to see what college looks like at a HBCU, or Historically Black College or University.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "33": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "I'm sorry. Can you repeat the question?",
+    "speaker_turn": 33,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {}
+  },
+  "34": {
+    "link_turn_id": [
+      33
+    ],
+    "words": "Oh, yeah. Of course. If you have a story that you would like to share, that has happened to you or that you've seen happen to someone else, that reflects what you like about Dane County.",
+    "speaker_turn": 34,
+    "speaker_name": "Anna",
+    "conversation_id": 1113,
+    "segments": {
+      "33": {
+        "segment_words": "Of course. If you have a story that you would like to share, that has happened to you or that you've seen happen to someone else, that reflects what you like about Dane County.",
+        "link_turn_id": 33,
+        "linked_words": "Can you repeat the question?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "35": {
+    "link_turn_id": [
+      34,
+      30
+    ],
+    "words": "Let's see. I would say that, more recently now, as I am older, I think that I have recognized that things don't always have to be the way they seem. I remember a local leader said something that really stood out to me about ... I was talking to some friends about this, this is why this stands out in my mind. About the idea that women don't get along, or don't support each other, or stick together. I think that, for some people, that really resonates. But she said, \"I hear that, and that just really hasn't been my experience.\" I just remember, as a young person taking in these kinds of ideas that Black girls and Black women, we don't stick together, we don't, whatever. But as I have talked to my friend group from high school, that we're still tight, we're even tighter since COVID, we talked about this. We talked about this story, and realized that, that's kind of been the same for us. That hasn't really been our experience. I don't know, it sticks in my mind, and that's why I was kind of hesitating, because I'm like, \"I don't know if this exactly fits,\" but it really sticks in my mind, along the theme that so much is possible, and that this is a place that you can find support and find community -",
+    "speaker_turn": 35,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "34": {
+        "segment_words": "I don't know, it sticks in my mind, and that's why I was kind of hesitating, because I'm like, \"I don't know if this exactly fits,\" but it really sticks in my mind, along the theme that so much is possible, and that this is a place that you can find support and find community -",
+        "link_turn_id": 34,
+        "linked_words": "If you have a story that you would like to share, that has happened to you or that you've seen happen to someone else, that reflects what you like about Dane County.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "30": {
+        "segment_words": "I don't know if this exactly fits, but it really sticks in my mind, along the theme that so much is possible, and that this is a place that you can find support and find community -",
+        "link_turn_id": 30,
+        "linked_words": "if you have any stories that reflect what you like about Dane County, or something that you've seen happen to someone else that reflects this good community, this good environment, that we see.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "36": {
+    "link_turn_id": [
+      35
+    ],
+    "words": "Mm-hmm (affirmative).",
+    "speaker_turn": 36,
+    "speaker_name": "Martinez",
+    "conversation_id": 1113,
+    "segments": {
+      "35": {
+        "segment_words": "Mm-hmm (affirmative).",
+        "link_turn_id": 35,
+        "linked_words": "Along the theme that so much is possible, and that this is a place that you can find support and find community",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "37": {
+    "link_turn_id": [
+      35
+    ],
+    "words": "... Despite what you might hear.",
+    "speaker_turn": 37,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "35": {
+        "segment_words": "Despite what you might hear.",
+        "link_turn_id": 35,
+        "linked_words": "About the idea that women don't get along, or don't support each other, or stick together. I think that, for some people, that really resonates. But she said, \"I hear that, and that just really hasn't been my experience.\"",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "38": {
+    "link_turn_id": [
+      35,
+      37
+    ],
+    "words": "Mm-hmm (affirmative).",
+    "speaker_turn": 38,
+    "speaker_name": "Martinez",
+    "conversation_id": 1113,
+    "segments": {
+      "35": {
+        "segment_words": "Mm-hmm (affirmative).",
+        "link_turn_id": 35,
+        "linked_words": "\"I don't know, it sticks in my mind, and that's why I was kind of hesitating, because I'm like, \\\"I don't know if this exactly fits,\\\" but it really sticks in my mind, along the theme that so much is possible, and that this is a place that you can find support and find community -\"",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "37": {
+        "segment_words": "Mm-hmm (affirmative).",
+        "link_turn_id": 37,
+        "linked_words": "Despite what you might hear.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "39": {
+    "link_turn_id": [
+      35,
+      37
+    ],
+    "words": "I think you have to find that for yourself. You know?",
+    "speaker_turn": 39,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "35": {
+        "segment_words": "I think you have to find that for yourself. You know?",
+        "link_turn_id": 35,
+        "linked_words": "so much is possible, and that this is a place that you can find support and find community",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "37": {
+        "segment_words": "I think you have to find that for yourself.",
+        "link_turn_id": 37,
+        "linked_words": "Despite what you might hear.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "40": {
+    "link_turn_id": [
+      39
+    ],
+    "words": "Mm-hmm (affirmative).",
+    "speaker_turn": 40,
+    "speaker_name": "Martinez",
+    "conversation_id": 1113,
+    "segments": {
+      "39": {
+        "segment_words": "Mm-hmm (affirmative).",
+        "link_turn_id": 39,
+        "linked_words": "You know?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "41": {
+    "link_turn_id": [
+      "39",
+      "35"
+    ],
+    "words": "So, I don't know.",
+    "speaker_turn": 41,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "39": {
+        "segment_words": "I don't know.",
+        "link_turn_id": "39",
+        "linked_words": "You know?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "35": {
+        "segment_words": "I don't know.",
+        "link_turn_id": "35",
+        "linked_words": "I don't know if this exactly fits,",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "42": {
+    "link_turn_id": [
+      35,
+      39
+    ],
+    "words": "It makes us have initiative, as young people. It kind of forces you, so when you get to an environment that's already set up for success, it'll be a fluid opportunity for you to network even more, because you -",
+    "speaker_turn": 42,
+    "speaker_name": "Martinez",
+    "conversation_id": 1113,
+    "segments": {
+      "35": {
+        "segment_words": "It makes us have initiative, as young people.",
+        "link_turn_id": 35,
+        "linked_words": "so much is possible, and that this is a place that you can find support and find community",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "39": {
+        "segment_words": "It makes us have initiative, as young people.",
+        "link_turn_id": 39,
+        "linked_words": "I think you have to find that for yourself.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "43": {
+    "link_turn_id": [
+      42
+    ],
+    "words": "Mm-hmm (affirmative).",
+    "speaker_turn": 43,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "42": {
+        "segment_words": "Mm-hmm (affirmative).",
+        "link_turn_id": 42,
+        "linked_words": "It makes us have initiative, as young people.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "44": {
+    "link_turn_id": [
+      42
+    ],
+    "words": "... Flexed your muscles, here in this environment. So Madison gives you the choice, it gives you the freewill to make something of yourself, or succumb to the status quo. And those of us that push forward, we become the opinion leaders for the other youth that are coming behind us, who may not have that same toolkit of resilience and endurance, and making sure that they connect with others outside of their comfort zone. So it forces you to be a world class citizen, by living in this town, in this city. I think so.",
+    "speaker_turn": 44,
+    "speaker_name": "Martinez",
+    "conversation_id": 1113,
+    "segments": {
+      "42": {
+        "segment_words": "So it forces you to be a world class citizen, by living in this town, in this city.",
+        "link_turn_id": 42,
+        "linked_words": "It kind of forces you, so when you get to an environment that's already set up for success, it'll be a fluid opportunity for you to network even more, because you -",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "45": {
+    "link_turn_id": [
+      44
+    ],
+    "words": "Yeah. I think it's ... Go ahead, sorry. Go ahead, Amy.",
+    "speaker_turn": 45,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "44": {
+        "segment_words": "Yeah. I think it's ...",
+        "link_turn_id": 44,
+        "linked_words": "I think so.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "46": {
+    "link_turn_id": [
+      44,
+      45
+    ],
+    "words": "No, you're good. I appreciate the optimism and the hope. I think that it's really important that we have leaders who are something to strive for. I regret, my internet farted, Jessie, when you said, \"Who.\" What's the narrative of who don't get along?",
+    "speaker_turn": 46,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "44": {
+        "segment_words": "I appreciate the optimism and the hope. I think that it's really important that we have leaders who are something to strive for.",
+        "link_turn_id": 44,
+        "linked_words": "And those of us that push forward, we become the opinion leaders for the other youth that are coming behind us, who may not have that same toolkit of resilience and endurance, and making sure that they connect with others outside of their comfort zone.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "45": {
+        "segment_words": "I regret, my internet farted, Jessie, when you said, \"Who.\"",
+        "link_turn_id": 45,
+        "linked_words": "Go ahead, sorry. Go ahead, Amy.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "47": {
+    "link_turn_id": [
+      46
+    ],
+    "words": "Black women and Black girls.",
+    "speaker_turn": 47,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "46": {
+        "segment_words": "Black women and Black girls.",
+        "link_turn_id": 46,
+        "linked_words": "What's the narrative of who don't get along?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "48": {
+    "link_turn_id": [
+      47
+    ],
+    "words": "Don't get along with one another, or with like -",
+    "speaker_turn": 48,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "47": {
+        "segment_words": "one another, or with like -",
+        "link_turn_id": 47,
+        "linked_words": "Black women and Black girls.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "49": {
+    "link_turn_id": [
+      48
+    ],
+    "words": "Yes.",
+    "speaker_turn": 49,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "48": {
+        "segment_words": "Yes.",
+        "link_turn_id": 48,
+        "linked_words": "Don't get along with one another, or with like -",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "50": {
+    "link_turn_id": [
+      49
+    ],
+    "words": "Oh.",
+    "speaker_turn": 50,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "49": {
+        "segment_words": "Oh.",
+        "link_turn_id": 49,
+        "linked_words": "Yes.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "51": {
+    "link_turn_id": [
+      50
+    ],
+    "words": "Yep.",
+    "speaker_turn": 51,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "50": {
+        "segment_words": "Yep.",
+        "link_turn_id": 50,
+        "linked_words": "Oh.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "52": {
+    "link_turn_id": [
+      49,
+      51
+    ],
+    "words": "Interesting.",
+    "speaker_turn": 52,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "49": {
+        "segment_words": "Interesting.",
+        "link_turn_id": 49,
+        "linked_words": "Yes.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "51": {
+        "segment_words": "Interesting.",
+        "link_turn_id": 51,
+        "linked_words": "Yep.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "53": {
+    "link_turn_id": [
+      52
+    ],
+    "words": "Yep.",
+    "speaker_turn": 53,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "52": {
+        "segment_words": "Yep.",
+        "link_turn_id": 52,
+        "linked_words": "Interesting.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "54": {
+    "link_turn_id": [
+      53
+    ],
+    "words": "Okay.",
+    "speaker_turn": 54,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "53": {
+        "segment_words": "Okay.",
+        "link_turn_id": 53,
+        "linked_words": "Yep.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "55": {
+    "link_turn_id": [
+      48,
+      54,
+      46
+    ],
+    "words": "And, I think that you could say that, that is the narrative. There's many groups that you could use to fill in the blank, that blank and blank don't get along. Blank and blank don't like each other, don't like you, don't like us, and I just think that, as I've gotten older, I've realized that as a young person, it's so easy to take that in, and to ... It's just floating around in the air. You know what I mean? It's just so easy to be like, \"Well, that's just reality.\" But the reality is, like you said Martinez, it's almost like a muscle you learn to strengthen. It's like, do you ... You can go ahead and believe that, and just make that your reality then, but understanding that you get to decide. You know? So, I think that's maybe something that, as I've gotten older, it's kind of like, \"Wow. Well, I didn't know that.\" I didn't know that.",
+    "speaker_turn": 55,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "48": {
+        "segment_words": "There's many groups that you could use to fill in the blank, that blank and blank don't get along. Blank and blank don't like each other, don't like you, don't like us,",
+        "link_turn_id": 48,
+        "linked_words": "Don't get along with one another,",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "54": {
+        "segment_words": "And, I think that you could say that, that is the narrative.",
+        "link_turn_id": 54,
+        "linked_words": "Okay.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "46": {
+        "segment_words": "there's many groups that you could use to fill in the blank, that blank and blank don't get along.",
+        "link_turn_id": 46,
+        "linked_words": "\"What's the narrative of who don't get along?\"",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "56": {
+    "link_turn_id": [
+      55
+    ],
+    "words": "Maybe it wasn't named. You guys, help me. I don't understand. What does it look like when Black girls and Black women don't get along? Give me an example of that.",
+    "speaker_turn": 56,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "55": {
+        "segment_words": "What does it look like when Black girls and Black women don't get along?",
+        "link_turn_id": 55,
+        "linked_words": "There's many groups that you could use to fill in the blank, that blank and blank don't get along.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "57": {
+    "link_turn_id": [
+      56
+    ],
+    "words": "Well, I think it's kind of like any sort of a mean girl's scenario that you might see or hear about. Like I said, I would broaden it, even to -",
+    "speaker_turn": 57,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "56": {
+        "segment_words": "Well, I think it's kind of like any sort of a mean girl's scenario that you might see or hear about.",
+        "link_turn_id": 56,
+        "linked_words": "What does it look like when Black girls and Black women don't get along? Give me an example of that.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "58": {
+    "link_turn_id": [
+      57,
+      55
+    ],
+    "words": "Yeah, different groups.",
+    "speaker_turn": 58,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "57": {
+        "segment_words": "different groups",
+        "link_turn_id": 57,
+        "linked_words": "I would broaden it",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "55": {
+        "segment_words": "Yeah, different groups.",
+        "link_turn_id": 55,
+        "linked_words": "There's many groups that you could use to fill in the blank, that blank and blank don't get along.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "59": {
+    "link_turn_id": [
+      56,
+      57
+    ],
+    "words": "... Any. Yeah, any stereotype that you'd see, that, these people don't like these people. You know what I mean?",
+    "speaker_turn": 59,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "56": {
+        "segment_words": "Yeah, any stereotype that you'd see, that, these people don't like these people.",
+        "link_turn_id": 56,
+        "linked_words": "What does it look like when Black girls and Black women don't get along? Give me an example of that.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "57": {
+        "segment_words": "Yeah, any stereotype that you'd see, that, these people don't like these people.",
+        "link_turn_id": 57,
+        "linked_words": "I would broaden it, even to -",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "60": {
+    "link_turn_id": [
+      56
+    ],
+    "words": "And there's a stereotype that Black women don't like Black girls and vice versa.",
+    "speaker_turn": 60,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "56": {
+        "segment_words": "And there's a stereotype that Black women don't like Black girls and vice versa.",
+        "link_turn_id": 56,
+        "linked_words": "What does it look like when Black girls and Black women don't get along?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "61": {
+    "link_turn_id": [
+      56,
+      57,
+      59
+    ],
+    "words": "No. It's like, not liking each other. It's like I said, a mean girl, sort of show up for competition, sort of thing.",
+    "speaker_turn": 61,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "56": {
+        "segment_words": "It's like I said, a mean girl, sort of show up for competition, sort of thing.",
+        "link_turn_id": 56,
+        "linked_words": "What does it look like when Black girls and Black women don't get along? Give me an example of that.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "57": {
+        "segment_words": "It's like I said, a mean girl, sort of show up for competition, sort of thing.",
+        "link_turn_id": 57,
+        "linked_words": "Like I said, I would broaden it, even to -",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "59": {
+        "segment_words": "not liking each other",
+        "link_turn_id": 59,
+        "linked_words": "these people don't like these people",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "62": {
+    "link_turn_id": [
+      61
+    ],
+    "words": "Oh.",
+    "speaker_turn": 62,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "61": {
+        "segment_words": "Oh.",
+        "link_turn_id": 61,
+        "linked_words": "It's like I said, a mean girl, sort of show up for competition, sort of thing.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "63": {
+    "link_turn_id": [
+      60,
+      61
+    ],
+    "words": "It's a false narrative. It's a false narrative.",
+    "speaker_turn": 63,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "60": {
+        "segment_words": "It's a false narrative. It's a false narrative.",
+        "link_turn_id": 60,
+        "linked_words": "there's a stereotype that Black women don't like Black girls and vice versa.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "61": {
+        "segment_words": "It's a false narrative.",
+        "link_turn_id": 61,
+        "linked_words": "It's like, not liking each other.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "64": {
+    "link_turn_id": [
+      63
+    ],
+    "words": "I hear you, and thanks. You're saying it doesn't live out in your peer group either?",
+    "speaker_turn": 64,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "63": {
+        "segment_words": "You're saying it doesn't live out in your peer group either?",
+        "link_turn_id": 63,
+        "linked_words": "It's a false narrative.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "65": {
+    "link_turn_id": [
+      64
+    ],
+    "words": "Correct. Yep.",
+    "speaker_turn": 65,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "64": {
+        "segment_words": "Correct. Yep.",
+        "link_turn_id": 64,
+        "linked_words": "You're saying it doesn't live out in your peer group either?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "66": {
+    "link_turn_id": [
+      65
+    ],
+    "words": "That's interesting.",
+    "speaker_turn": 66,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "65": {
+        "segment_words": "That's interesting.",
+        "link_turn_id": 65,
+        "linked_words": "Correct. Yep.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "67": {
+    "link_turn_id": [
+      66
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 67,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "66": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 66,
+        "linked_words": "That's interesting.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "68": {
+    "link_turn_id": [
+      66,
+      67
+    ],
+    "words": "That's really interesting. I haven't really heard that before, so it's new and I'm trying to process it, but I can't, at the same time. You kind of touched on some things that are concerning you, so the next question I want to ask are, what are your concerns about your life in Dane County? Also, if you have a story that you want to tell, that will help us understand this concern a little bit better.",
+    "speaker_turn": 68,
+    "speaker_name": "Anna",
+    "conversation_id": 1113,
+    "segments": {
+      "66": {
+        "segment_words": "That's really interesting.",
+        "link_turn_id": 66,
+        "linked_words": "That's interesting.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "67": {
+        "segment_words": "You kind of touched on some things that are concerning you, so the next question I want to ask are, what are your concerns about your life in Dane County?",
+        "link_turn_id": 67,
+        "linked_words": "Yeah.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "69": {
+    "link_turn_id": [
+      68
+    ],
+    "words": "Here's what I would share. I have this unique experience. I intentionally left Madison schools after 23 years, where I just loved the children and loved what I did. I was given an opportunity to move to Sun Prairie, and I feel like I've gotten a new leash on life. But I no longer have the diversity that Madison afforded me, so I've lost that. But interestingly, I feel like I've gained a staff that has tremendous willingness for growth. A growth mindset to learn, and eager to want to be the change. Even though at our school, it's the, who we create when they leave our walls, that we aspire to. Because we just ... Our diversity is we have 20 children who identify as Black in this building, and that may be multi-racial Black, as African-American being one of the indicators. So we aspire to create strong individuals, as they leave our system, who are those global citizens. I don't know that, that same growth mindset was pervasive in Madison. I feel like ... And that's my experience, and the schools where I experienced. There were some schools that I have been touched by, as somebody whose been out of the classroom supporting schools, that have growth mindset. But some ... I was just ... I'm blown away by the growth mindset out here in the suburbs, I have to tell you. That's kind of what I'm saying. There's promise, and I just don't know why I was faced with something like a fixed mindset, like an entitlement, I guess, in MSD. By some.",
+    "speaker_turn": 69,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "68": {
+        "segment_words": "I intentionally left Madison schools after 23 years, where I just loved the children and loved what I did. I was given an opportunity to move to Sun Prairie, and I feel like I've gotten a new leash on life. But I no longer have the diversity that Madison afforded me, so I've lost that. But interestingly, I feel like I've gained a staff that has tremendous willingness for growth.",
+        "link_turn_id": 68,
+        "linked_words": "what are your concerns about your life in Dane County?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "70": {
+    "link_turn_id": [
+      69
+    ],
+    "words": "Were people not willing to change their programs, or what was that fixed mindset like? Oh, I'm sorry. You're muted, Amy.",
+    "speaker_turn": 70,
+    "speaker_name": "Anna",
+    "conversation_id": 1113,
+    "segments": {
+      "69": {
+        "segment_words": "what was that fixed mindset like?",
+        "link_turn_id": 69,
+        "linked_words": "I just don't know why I was faced with something like a fixed mindset, like an entitlement, I guess, in MSD.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "71": {
+    "link_turn_id": [
+      70
+    ],
+    "words": "That's a good question. I would say that people on the surface, would say that they were woke, if you will, or say that they were working to support all students with an equity mind. But as we know the data suggests, and shows clearly, students of color are disproportionately disciplined, and the most appropriate, the least restrictive environment is not always used as the classroom environment. Students are given me, to come in and be the savior. So I just don't know that there's that ownership of students, and I don't know that there's that in my current experience either. I don't know. What was your question?",
+    "speaker_turn": 71,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "70": {
+        "segment_words": "That's a good question. I would say that people on the surface, would say that they were woke, if you will, or say that they were working to support all students with an equity mind. But as we know the data suggests, and shows clearly, students of color are disproportionately disciplined, and the most appropriate, the least restrictive environment is not always used as the classroom environment.",
+        "link_turn_id": 70,
+        "linked_words": "Were people not willing to change their programs, or what was that fixed mindset like?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "72": {
+    "link_turn_id": [
+      70,
+      71
+    ],
+    "words": "I was just wondering about, what made a fixed mindset, in the school system. I know that there has been a lot of talk about the differences in the schools on the East side and the West side of Madison, so I don't know if you want to touch on that a little bit.",
+    "speaker_turn": 72,
+    "speaker_name": "Anna",
+    "conversation_id": 1113,
+    "segments": {
+      "70": {
+        "segment_words": "I was just wondering about, what made a fixed mindset, in the school system.",
+        "link_turn_id": 70,
+        "linked_words": "Were people not willing to change their programs, or what was that fixed mindset like?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "71": {
+        "segment_words": "I was just wondering about, what made a fixed mindset, in the school system.",
+        "link_turn_id": 71,
+        "linked_words": "That's a good question. I would say that people on the surface, would say that they were woke, if you will, or say that they were working to support all students with an equity mind. But as we know the data suggests, and shows clearly, students of color are disproportionately disciplined, and the most appropriate, the least restrictive environment is not always used as the classroom environment.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "73": {
+    "link_turn_id": [
+      72,
+      68
+    ],
+    "words": "Jessie or Martinez, do either of you have experience with the schools, as the parent or community member?",
+    "speaker_turn": 73,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "72": {
+        "segment_words": "do either of you have experience with the schools",
+        "link_turn_id": 72,
+        "linked_words": "there has been a lot of talk about the differences in the schools on the East side and the West side of Madison",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "68": {
+        "segment_words": "Jessie or Martinez, do either of you have experience with the schools, as the parent or community member?",
+        "link_turn_id": 68,
+        "linked_words": "what are your concerns about your life in Dane County?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "74": {
+    "link_turn_id": [
+      73
+    ],
+    "words": "As a community member, and I think as someone that's been transient and has kind of built, over the course of time, my livelihood in Madison, I think I realized that, there are a lot of students who are part of the pipeline programs at the university level, at the collegiate level, who are first gen, who are still experiencing this bastardization of their part of the state. So if you come from Milwaukee, or you come from Racine, Kenosha, Southeastern Wisconsin, and you come to Madison as a PEOPLE program scholar, or even as a POSSE scholar from LA, from Chicago, from DC, from all these other places, you come here ... I think there's a lack of engagement beyond the campus environment, for people to get acclimated to the city, and to the community, so they see it as a viable option when they graduate. That's kind of a little bit of brain drain, that I see here in Madison, when it comes to, specifically young, Black professionals, and young millennials of color, who are all different races and backgrounds, but who just don't feel the vibe, and don't feel the connection to the city, beyond the campus. So I think that's the area of opportunity at the higher level, at the higher education level, because we're getting all of these multi-talented students from around the world coming here, and then they leave here.",
+    "speaker_turn": 74,
+    "speaker_name": "Martinez",
+    "conversation_id": 1113,
+    "segments": {
+      "73": {
+        "segment_words": "As a community member, and I think as someone that's been transient and has kind of built, over the course of time, my livelihood in Madison, I think I realized that, there are a lot of students who are part of the pipeline programs at the university level, at the collegiate level, who are first gen, who are still experiencing this bastardization of their part of the state.",
+        "link_turn_id": 73,
+        "linked_words": "Martinez, do either of you have experience with the schools, as the parent or community member?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "75": {
+    "link_turn_id": [
+      74
+    ],
+    "words": "Aren't you in a position ... I love that. I think about a guy I grew up with who came to Madison. He has no idea where off campus is. He's never left campus. What? How are you not going to leave campus? Campus is stupid. No offense. Campus ... There's so much more in Madison. There's neighborhoods and people, and homes and schools. Can United Way serve as that spoke?",
+    "speaker_turn": 75,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "74": {
+        "segment_words": "He has no idea where off campus is. He's never left campus.",
+        "link_turn_id": 74,
+        "linked_words": "I think there's a lack of engagement beyond the campus environment, for people to get acclimated to the city, and to the community, so they see it as a viable option when they graduate.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "76": {
+    "link_turn_id": [
+      74,
+      75
+    ],
+    "words": "I think, as far as making Dane County an attractive place to be. When we ask young people to get involved early on, with being a part of stewardship, that creates the relationship with the environment that they live in. There's some opportunity for United Way and other organizations here, other agencies that we work with, to make this a more attractive, and a more alluring place to be, for young professionals of color. So they won't think about jumping straight to Chicago. there's a lot of work to be done in that space, so we could keep the smart people here too.",
+    "speaker_turn": 76,
+    "speaker_name": "Martinez",
+    "conversation_id": 1113,
+    "segments": {
+      "74": {
+        "segment_words": "make this a more attractive, and a more alluring place to be, for young professionals of color. So they won't think about jumping straight to Chicago.",
+        "link_turn_id": 74,
+        "linked_words": "That's kind of a little bit of brain drain, that I see here in Madison, when it comes to, specifically young, Black professionals, and young millennials of color, who are all different races and backgrounds, but who just don't feel the vibe, and don't feel the connection to the city, beyond the campus.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "75": {
+        "segment_words": "There's some opportunity for United Way and other organizations here, other agencies that we work with, to make this a more attractive, and a more alluring place to be, for young professionals of color.",
+        "link_turn_id": 75,
+        "linked_words": "Can United Way serve as that spoke?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "77": {
+    "link_turn_id": [
+      74,
+      76
+    ],
+    "words": "Yeah. I actually go ... I'm a student at UW-Madison, so when I think of Madison, I just think of the University. And when I think of Dane County, I only think of downtown Madison. I don't think about the surrounding parts of Madison, so it's crazy to think ... It was kind of ... When I learned that Dane County included these different areas, I was like, \"Really? Are you sure?\" So, it's funny that there's this whole life within Dane County that most students don't know about. I don't know if Jessie has any experience with that, or if you went to school in Madison or something like that?",
+    "speaker_turn": 77,
+    "speaker_name": "Anna",
+    "conversation_id": 1113,
+    "segments": {
+      "74": {
+        "segment_words": "So, it's funny that there's this whole life within Dane County that most students don't know about.",
+        "link_turn_id": 74,
+        "linked_words": "I think there's a lack of engagement beyond the campus environment, for people to get acclimated to the city, and to the community, so they see it as a viable option when they graduate.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "76": {
+        "segment_words": "It's funny that there's this whole life within Dane County that most students don't know about.",
+        "link_turn_id": 76,
+        "linked_words": "When we ask young people to get involved early on, with being a part of stewardship, that creates the relationship with the environment that they live in.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "78": {
+    "link_turn_id": [
+      76,
+      77
+    ],
+    "words": "Like I said, I left Madison as fast I could, when I graduated from high school, to go to an HBCU. Even though I ended up ... I graduated from UW-Madison. Eventually, I came home and finished school here but ... It's hard. I don't necessarily have the perspective of ever thinking of Dane County as only the campus because honestly, partly because I was an adult student when I was at UW-Madison. So I didn't have those 18, 19, 20, early 20s experiences that so many UW-Madison students have. I didn't ever really think of myself as part of that kind of student community, but I definitely could see ... I think that for Black professionals and really any professionals of color to want to stay in Madison, I feel like they need to see themselves represented to a greater degree. I think that our communities of color seem to be hidden, to people who come to Madison looking for community and some place where people look like them, speak their language and check their food. You know what I'm saying? I think it's like, you have to have an inside tract to be able to find ... And I just think that thought really carries through, as far as, even the communities who are native to Madison, who are communities of color, feeling a part of the infrastructure. It feels like inclusion to somebody else's structure and system. I think that's part of the problem, and .... I don't know. As far as I know, it's been like that. It's like we have our own, but it's not really a part of where the power in Madison resides.",
+    "speaker_turn": 78,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "76": {
+        "segment_words": "I think that for Black professionals and really any professionals of color to want to stay in Madison, I feel like they need to see themselves represented to a greater degree.",
+        "link_turn_id": 76,
+        "linked_words": "there's a lot of work to be done in that space, so we could keep the smart people here too.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "77": {
+        "segment_words": "I don't necessarily have the perspective of ever thinking of Dane County as only the campus because honestly, partly because I was an adult student when I was at UW-Madison. So I didn't have those 18, 19, 20, early 20s experiences that so many UW-Madison students have.",
+        "link_turn_id": 77,
+        "linked_words": "Yeah. I actually go ... I'm a student at UW-Madison, so when I think of Madison, I just think of the University. And when I think of Dane County, I only think of downtown Madison. I don't think about the surrounding parts of Madison, so it's crazy to think ...",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "79": {
+    "link_turn_id": [
+      78
+    ],
+    "words": "Mm-hmm (affirmative).",
+    "speaker_turn": 79,
+    "speaker_name": "Martinez",
+    "conversation_id": 1113,
+    "segments": {
+      "78": {
+        "segment_words": "Mm-hmm (affirmative).",
+        "link_turn_id": 78,
+        "linked_words": "I think that for Black professionals and really any professionals of color to want to stay in Madison, I feel like they need to see themselves represented to a greater degree.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "80": {
+    "link_turn_id": [
+      78
+    ],
+    "words": "I think that's changing. I think that's evolving. I think that's part of the evolution of Madison, but I think that kind of thought really carries through to the school districts, to city and state government, and all kinds of the structures that change things. The university, so ...",
+    "speaker_turn": 80,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "78": {
+        "segment_words": "I think that's changing.",
+        "link_turn_id": 78,
+        "linked_words": "I think that's part of the problem, and .... I don't know. As far as I know, it's been like that.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "81": {
+    "link_turn_id": [
+      74,
+      76,
+      77,
+      78,
+      80
+    ],
+    "words": "One of those opening quotes was something about the fabric of Madison. We need ... The fabric of Madison is not yet in the favor of the non-dominant culture, the White culture, so we need to shift that. Right? I also need to get off my conscience, I'm sorry I called campus stupid. Mainly what I'm trying to say is, Madison, there's so much good in this city, and the reason that I stuck around is because I got to know the kids and their families, and I wasn't going to leave. So as you're speaking, Martinez, I got to know community, and when I got to know community, I felt compelled to stick around, and not return home to Chicago. But I did that through volunteering, and then I did that through gainful, after school employment. So I appreciate your thinking through how to get people to stick around, especially so that people do see Black and Brown faces as leaders and viable community members, doing what our city needs, which is just good work. One of the things that you said, Jessie, at the beginning, was the idea of root causes stuck with you, when Anna prompted us. And then, in your next sharing, you shared that you fled. So, at some point, it'd be interesting to unpack what root causes pushed you to ... It sounds like you fled, like you got on out of here. Right? But then, here you are. So what next, for us? Not for you, for us.",
+    "speaker_turn": 81,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "74": {
+        "segment_words": "So as you're speaking, Martinez, I got to know community, and when I got to know community, I felt compelled to stick around, and not return home to Chicago. But I did that through volunteering, and then I did that through gainful, after school employment. So I appreciate your thinking through how to get people to stick around, especially so that people do see Black and Brown faces as leaders and viable community members, doing what our city needs, which is just good work.",
+        "link_turn_id": 74,
+        "linked_words": "I think there's a lack of engagement beyond the campus environment, for people to get acclimated to the city, and to the community, so they see it as a viable option when they graduate. That's kind of a little bit of brain drain, that I see here in Madison, when it comes to, specifically young, Black professionals, and young millennials of color, who are all different races and backgrounds, but who just don't feel the vibe, and don't feel the connection to the city, beyond the campus. So I think that's the area of opportunity at the higher level, at the higher education level, because we're getting all of these multi-talented students from around the world coming here, and then they leave here.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "76": {
+        "segment_words": "So as you're speaking, Martinez, I got to know community, and when I got to know community, I felt compelled to stick around, and not return home to Chicago. But I did that through volunteering, and then I did that through gainful, after school employment. So I appreciate your thinking through how to get people to stick around, especially so that people do see Black and Brown faces as leaders and viable community members, doing what our city needs, which is just good work.",
+        "link_turn_id": 76,
+        "linked_words": "So they won't think about jumping straight to Chicago. there's a lot of work to be done in that space, so we could keep the smart people here too.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "77": {
+        "segment_words": "And then, in your next sharing, you shared that you fled. So, at some point, it'd be interesting to unpack what root causes pushed you to ... It sounds like you fled, like you got on out of here. Right?",
+        "link_turn_id": 77,
+        "linked_words": "I don't know if Jessie has any experience with that, or if you went to school in Madison or something like that?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "78": {
+        "segment_words": "One of the things that you said, Jessie, at the beginning, was the idea of root causes stuck with you, when Anna prompted us. And then, in your next sharing, you shared that you fled. So, at some point, it'd be interesting to unpack what root causes pushed you to ... It sounds like you fled, like you got on out of here.",
+        "link_turn_id": 78,
+        "linked_words": "Like I said, I left Madison as fast I could, when I graduated from high school, to go to an HBCU. ...I think that for Black professionals and really any professionals of color to want to stay in Madison, I feel like they need to see themselves represented to a greater degree.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "80": {
+        "segment_words": "I appreciate your thinking through how to get people to stick around, especially so that people do see Black and Brown faces as leaders and viable community members, doing what our city needs, which is just good work.",
+        "link_turn_id": 80,
+        "linked_words": "I think that's part of the evolution of Madison, but I think that kind of thought really carries through to the school districts, to city and state government, and all kinds of the structures that change things.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "82": {
+    "link_turn_id": [
+      81
+    ],
+    "words": "Mm-hmm (affirmative).",
+    "speaker_turn": 82,
+    "speaker_name": "Martinez",
+    "conversation_id": 1113,
+    "segments": {
+      "81": {
+        "segment_words": "Mm-hmm (affirmative).",
+        "link_turn_id": 81,
+        "linked_words": "So as you're speaking, Martinez, I got to know community, and when I got to know community, I felt compelled to stick around, and not return home to Chicago. But I did that through volunteering, and then I did that through gainful, after school employment. So I appreciate your thinking through how to get people to stick around, especially so that people do see Black and Brown faces as leaders and viable community members, doing what our city needs, which is just good work.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "83": {
+    "link_turn_id": [
+      80,
+      81,
+      78
+    ],
+    "words": "I grew up on the West side. This is the West side, East side thing too, because I grew up on the West side, but I really love ... I live on the North side now, I love it. I love it. I don't know. I think that, kind of how I talked about in my story, about the whole mindset and the reality that is created for you or presented to you, as a young person in Madison, is the limit. There's so many limits, there's so many boundaries, and there's so much that you are told that you can be and can not be, and these are your options, rather than really, that your options are limitless, and that you're in control. I think that, just like with parenting, it's like, I can tell you, this is an equitable society here, and we're all equal or whatever. But, I think that kids learn in practice and through their eyes that, that's not true. I just think that ... I knew that something wasn't right, and I just wanted to be in a place where it wasn't ... That I wasn't the only Black person in a space, or that there's the Black table. I never ... I think I had one Black instructor throughout my whole educational experience, until I went away to college.",
+    "speaker_turn": 83,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "80": {
+        "segment_words": "I think that, kind of how I talked about in my story, about the whole mindset and the reality that is created for you or presented to you, as a young person in Madison, is the limit. There's so many limits, there's so many boundaries, and there's so much that you are told that you can be and can not be, and these are your options, rather than really, that your options are limitless, and that you're in control.",
+        "link_turn_id": 80,
+        "linked_words": "I think that's evolving. I think that's part of the evolution of Madison, but I think that kind of thought really carries through to the school districts, to city and state government, and all kinds of the structures that change things.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "81": {
+        "segment_words": "I just think that ... I knew that something wasn't right, and I just wanted to be in a place where it wasn't ... That I wasn't the only Black person in a space, or that there's the Black table.",
+        "link_turn_id": 81,
+        "linked_words": "So, at some point, it'd be interesting to unpack what root causes pushed you to ... It sounds like you fled, like you got on out of here.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "78": {
+        "segment_words": "I just wanted to be in a place where it wasn't ... That I wasn't the only Black person in a space, or that there's the Black table.",
+        "link_turn_id": 78,
+        "linked_words": "I think that for Black professionals and really any professionals of color to want to stay in Madison, I feel like they need to see themselves represented to a greater degree.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "84": {
+    "link_turn_id": [
+      83
+    ],
+    "words": "Mm-hmm (affirmative).",
+    "speaker_turn": 84,
+    "speaker_name": "Martinez",
+    "conversation_id": 1113,
+    "segments": {
+      "83": {
+        "segment_words": "Mm-hmm (affirmative).",
+        "link_turn_id": 83,
+        "linked_words": "I think that, just like with parenting, it's like, I can tell you, this is an equitable society here, and we're all equal or whatever. But, I think that kids learn in practice and through their eyes that, that's not true.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "85": {
+    "link_turn_id": [
+      83,
+      78
+    ],
+    "words": "I wanted more of us, of me. You know what I mean? I wanted to see myself in so many other ways, than I was being offered.",
+    "speaker_turn": 85,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "83": {
+        "segment_words": "I wanted more of us, of me. You know what I mean? I wanted to see myself in so many other ways, than I was being offered.",
+        "link_turn_id": 83,
+        "linked_words": "I just wanted to be in a place where it wasn't ... That I wasn't the only Black person in a space, or that there's the Black table. I never ... I think I had one Black instructor throughout my whole educational experience, until I went away to college.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "78": {
+        "segment_words": "I wanted more of us, of me. You know what I mean? I wanted to see myself in so many other ways, than I was being offered.",
+        "link_turn_id": 78,
+        "linked_words": "I feel like they need to see themselves represented to a greater degree.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "86": {
+    "link_turn_id": [
+      85
+    ],
+    "words": "That's great.",
+    "speaker_turn": 86,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "85": {
+        "segment_words": "That's great.",
+        "link_turn_id": 85,
+        "linked_words": "I wanted to see myself in so many other ways, than I was being offered.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "87": {
+    "link_turn_id": [
+      81,
+      83,
+      85
+    ],
+    "words": "How do you think we can solve these problems? What is one area of attack, where we start change, or where do you think would be the most helpful to look at first?",
+    "speaker_turn": 87,
+    "speaker_name": "Anna",
+    "conversation_id": 1113,
+    "segments": {
+      "81": {
+        "segment_words": "How do you think we can solve these problems?",
+        "link_turn_id": 81,
+        "linked_words": "So what next, for us? Not for you, for us.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "83": {
+        "segment_words": "How do you think we can solve these problems?",
+        "link_turn_id": 83,
+        "linked_words": "I think that kids learn in practice and through their eyes that, that's not true. I just think that ... I knew that something wasn't right, and I just wanted to be in a place where it wasn't ... That I wasn't the only Black person in a space, or that there's the Black table.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "85": {
+        "segment_words": "How do you think we can solve these problems? What is one area of attack, where we start change, or where do you think would be the most helpful to look at first?",
+        "link_turn_id": 85,
+        "linked_words": "I wanted to see myself in so many other ways, than I was being offered.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "88": {
+    "link_turn_id": [
+      81,
+      87
+    ],
+    "words": "I work on a committee, Downtown Madison Inc. has a committee, the Business Improvement District, where we're looking at the future of downtown Madison. What it needs to be, to be enjoyable by different, inclusive communities. Some of the ... We're doing a big landscape approach to ... Just a new vision. What id could really be, if it was perfect. If it was utopian downtown Madison, what it would look like. Some of the things that have come up, from just within the in group, is places where young professionals of color, where they typically congregate. We need different types of food venues downtown. We need different areas where Black women and young Black men can get their hair cut, or get it done at a salon. We need those comfortable spaces that normally exist within metropolitan, of Black folks and young people of color, where you might see in Chicago or Atlanta, Dallas, things of that sort, but not just here. It's just not here in Madison. So some of those small things, some of those cultural things, because culture is a meaning and people together. If we have all these people and they don't have a common understanding, there can be no culture, so we're looking to create a culture and craft a new vision for what it means to be a part of this community, and be a young person of color. Do you have the things downtown that signify, and are sign posts, for you to be comfortable in that environment? If you see a country club, you might think of a certain profile of a person that's going to be comfortable in that space, versus seeing a youth center or a skating rink, and some Black restaurant food nearby. So we have to create those spaces for people to coexist, and build, and feel safe. It happens in other parts of the country, it's just not happening here, just yet. But we're on the precipice of change right now. So yeah, I'm excited. I'm definitely excited for folks like Jessie to be back in this environment, for innovative thinkers like Amy, who's been around for a while, to think about how we can make this even better.",
+    "speaker_turn": 88,
+    "speaker_name": "Martinez",
+    "conversation_id": 1113,
+    "segments": {
+      "81": {
+        "segment_words": "I'm definitely excited for folks like Jessie to be back in this environment, for innovative thinkers like Amy, who's been around for a while, to think about how we can make this even better.",
+        "link_turn_id": 81,
+        "linked_words": "One of the things that you said, Jessie, at the beginning, was the idea of root causes stuck with you, when Anna prompted us. And then, in your next sharing, you shared that you fled. So, at some point, it'd be interesting to unpack what root causes pushed you to ... It sounds like you fled, like you got on out of here. Right? But then, here you are. So what next, for us? Not for you, for us.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "87": {
+        "segment_words": "Some of the things that have come up, from just within the in group, is places where young professionals of color, where they typically congregate. We need different types of food venues downtown. We need different areas where Black women and young Black men can get their hair cut, or get it done at a salon. We need those comfortable spaces that normally exist within metropolitan, of Black folks and young people of color, where you might see in Chicago or Atlanta, Dallas, things of that sort, but not just here. It's just not here in Madison. So some of those small things, some of those cultural things, because culture is a meaning and people together.",
+        "link_turn_id": 87,
+        "linked_words": "What is one area of attack, where we start change, or where do you think would be the most helpful to look at first?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "89": {
+    "link_turn_id": [
+      88
+    ],
+    "words": "And if COVID's done nothing, we got to burn it down and rebuild it. Right? State Street's disseminated right now. What an opportunity. I love that. Thank you. I couldn't have even thought about that. I just wouldn't have thought ... When I go on Western or on Clark Street in Chicago, what makes it a place where people feel like they're home? It's taquerias, it's hair places, it's good to be ... And State Street doesn't have that yet, or downtown really doesn't. So thank you for giving me those concrete examples, sign posts -",
+    "speaker_turn": 89,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "88": {
+        "segment_words": "State Street doesn't have that yet, or downtown really doesn't. So thank you for giving me those concrete examples, sign posts -",
+        "link_turn_id": 88,
+        "linked_words": "Do you have the things downtown that signify, and are sign posts, for you to be comfortable in that environment? If you see a country club, you might think of a certain profile of a person that's going to be comfortable in that space, versus seeing a youth center or a skating rink, and some Black restaurant food nearby. So we have to create those spaces for people to coexist, and build, and feel safe.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "90": {
+    "link_turn_id": [
+      "89"
+    ],
+    "words": "Mm-hmm (affirmative).",
+    "speaker_turn": 90,
+    "speaker_name": "Martinez",
+    "conversation_id": 1113,
+    "segments": {
+      "89": {
+        "segment_words": "Mm-hmm (affirmative).",
+        "link_turn_id": "89",
+        "linked_words": "State Street's disseminated right now. What an opportunity. I love that. Thank you. I couldn't have even thought about that.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "91": {
+    "link_turn_id": [
+      88,
+      89
+    ],
+    "words": "... Of culture that really ... Sometimes I feel ignorant. I don't know ... Like, when you were like, what do you we do? Thank you, Martinez, for those concrete examples of how we create space that is inviting and inclusive, and centers Black folk. Because we know currently, it's pretty centered around White folk. I feel very comfortable in that area, and I will continue to, I'm imagining, but if it could shift to have a little bit less of me, and more of diversity, then it would be a desirable place for folks to stick around and come to.",
+    "speaker_turn": 91,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "88": {
+        "segment_words": "Thank you, Martinez, for those concrete examples of how we create space that is inviting and inclusive, and centers Black folk. Because we know currently, it's pretty centered around White folk.",
+        "link_turn_id": 88,
+        "linked_words": "So some of those small things, some of those cultural things, because culture is a meaning and people together. If we have all these people and they don't have a common understanding, there can be no culture, so we're looking to create a culture and craft a new vision for what it means to be a part of this community, and be a young person of color. Do you have the things downtown that signify, and are sign posts, for you to be comfortable in that environment? If you see a country club, you might think of a certain profile of a person that's going to be comfortable in that space, versus seeing a youth center or a skating rink, and some Black restaurant food nearby. So we have to create those spaces for people to coexist, and build, and feel safe.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "89": {
+        "segment_words": "Thank you, Martinez, for those concrete examples of how we create space that is inviting and inclusive, and centers Black folk.",
+        "link_turn_id": 89,
+        "linked_words": "So thank you for giving me those concrete examples, sign posts",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "92": {
+    "link_turn_id": [
+      88,
+      89
+    ],
+    "words": "They got that Michelangelo's, down there. That Michelangelo's Coffee, maybe they need to do a MichelMichael Jackson's or something. I don't know what they need to do.",
+    "speaker_turn": 92,
+    "speaker_name": "Martinez",
+    "conversation_id": 1113,
+    "segments": {
+      "88": {
+        "segment_words": "maybe they need to do a MichelMichael Jackson's or something.",
+        "link_turn_id": 88,
+        "linked_words": "we need different types of food venues downtown.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "89": {
+        "segment_words": "That Michelangelo's Coffee, maybe they need to do a MichelMichael Jackson's or something.",
+        "link_turn_id": 89,
+        "linked_words": "And State Street doesn't have that yet, or downtown really doesn't. So thank you for giving me those concrete examples, sign posts -",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "93": {
+    "link_turn_id": [
+      92
+    ],
+    "words": "That's a little bit contentious. You know, he comes with his own set of stuff.",
+    "speaker_turn": 93,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "92": {
+        "segment_words": "That's a little bit contentious.",
+        "link_turn_id": 92,
+        "linked_words": "maybe they need to do a MichelMichael Jackson's or something.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "94": {
+    "link_turn_id": [
+      "92",
+      "93"
+    ],
+    "words": "Interesting. Yeah.",
+    "speaker_turn": 94,
+    "speaker_name": "Anna",
+    "conversation_id": 1113,
+    "segments": {
+      "92": {
+        "segment_words": "Interesting.",
+        "link_turn_id": "92",
+        "linked_words": "I don't know what they need to do.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "93": {
+        "segment_words": "Interesting.",
+        "link_turn_id": "93",
+        "linked_words": "That's a little bit contentious.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "95": {
+    "link_turn_id": [
+      88,
+      92
+    ],
+    "words": "Or a Black coffee shop or something that's more centered around, like what we have on Willie Street. It's kind of far out there.",
+    "speaker_turn": 95,
+    "speaker_name": "Martinez",
+    "conversation_id": 1113,
+    "segments": {
+      "88": {
+        "segment_words": "Or a Black coffee shop or something that's more centered around, like what we have on Willie Street.",
+        "link_turn_id": 88,
+        "linked_words": "We need different types of food venues downtown. We need different areas where Black women and young Black men can get their hair cut, or get it done at a salon. We need those comfortable spaces that normally exist within metropolitan, of Black folks and young people of color, where you might see in Chicago or Atlanta, Dallas, things of that sort, but not just here.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "92": {
+        "segment_words": "Or a Black coffee shop or something that's more centered around, like what we have on Willie Street.",
+        "link_turn_id": 92,
+        "linked_words": "maybe they need to do a MichelMichael Jackson's or something. I don't know what they need to do.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "96": {
+    "link_turn_id": [
+      88,
+      95
+    ],
+    "words": "Could you imagine, if a student on campus had that? Like right up the street? Willie Street, I'm thinking about Jamerica, I'm thinking about Buraka. So we have a Jamaican joint, it's now closed. Buraka's still there, and amazing Ethiopian. I would say that Willie Street's also ... There just aren't a lot ... Once you get to [Atworth], there's a barbershop, so I don't know. Thank you for your vision and bringing that to the city.",
+    "speaker_turn": 96,
+    "speaker_name": "Anna",
+    "conversation_id": 1113,
+    "segments": {
+      "88": {
+        "segment_words": "Thank you for your vision and bringing that to the city.",
+        "link_turn_id": 88,
+        "linked_words": "So some of those small things, some of those cultural things, because culture is a meaning and people together. If we have all these people and they don't have a common understanding, there can be no culture, so we're looking to create a culture and craft a new vision for what it means to be a part of this community, and be a young person of color.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "95": {
+        "segment_words": "Could you imagine, if a student on campus had that? Like right up the street? Willie Street, I'm thinking about Jamerica, I'm thinking about Buraka.",
+        "link_turn_id": 95,
+        "linked_words": "Or a Black coffee shop or something that's more centered around, like what we have on Willie Street.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "97": {
+    "link_turn_id": [
+      88,
+      89
+    ],
+    "words": "Yeah, I second that. I think that, just like you said, I do feel hopeful for the future. I do feel we're on the verge of change, and we're having conversations we've never had before. We're hearing people say things out loud and in public forums that have only been acceptable behind closed doors. Do you know what I mean? I agree, I think, especially downtown Madison and on campus, it's almost like the absence of culture and pushing certain things to the forefront. It's the face that we feel that we want to show to the world, because people from all over the world come to campus. I think the absence ... When you feel that there's an absence of you and your culture, it feels like you're being disowned. It's like, \"We're saying that we don't want anybody to know that you're here.\"",
+    "speaker_turn": 97,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "88": {
+        "segment_words": "I do feel we're on the verge of change, and we're having conversations we've never had before.",
+        "link_turn_id": 88,
+        "linked_words": "But we're on the precipice of change right now.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "89": {
+        "segment_words": "I think, especially downtown Madison and on campus, it's almost like the absence of culture and pushing certain things to the forefront.",
+        "link_turn_id": 89,
+        "linked_words": "And State Street doesn't have that yet, or downtown really doesn't.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "98": {
+    "link_turn_id": [
+      97
+    ],
+    "words": "Right.",
+    "speaker_turn": 98,
+    "speaker_name": "Martinez",
+    "conversation_id": 1113,
+    "segments": {
+      "97": {
+        "segment_words": "Right.",
+        "link_turn_id": 97,
+        "linked_words": "Do you know what I mean?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "99": {
+    "link_turn_id": [
+      97
+    ],
+    "words": "That's ... There's something embarrassing about that, to us. We don't want people to think that it's too Black here. We have a cultural center, but you can't go listen to music downtown. Madison and hip hop culture have a relationship that is not like this ...",
+    "speaker_turn": 99,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "97": {
+        "segment_words": "That's ... There's something embarrassing about that, to us. We don't want people to think that it's too Black here.",
+        "link_turn_id": 97,
+        "linked_words": "It's like, \"We're saying that we don't want anybody to know that you're here.\"",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "100": {
+    "link_turn_id": [
+      99
+    ],
+    "words": "Right.",
+    "speaker_turn": 100,
+    "speaker_name": "Martinez",
+    "conversation_id": 1113,
+    "segments": {
+      "99": {
+        "segment_words": "Right.",
+        "link_turn_id": 99,
+        "linked_words": "That's ... There's something embarrassing about that, to us. We don't want people to think that it's too Black here. We have a cultural center, but you can't go listen to music downtown. Madison and hip hop culture have a relationship that is not like this ...",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "101": {
+    "link_turn_id": [
+      97,
+      99
+    ],
+    "words": "I think that, to be able to see ourselves downtown and on campus, I think has, even an additional meaning. Because we know that this is a place where people come, when they come to Madison for the first time.",
+    "speaker_turn": 101,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "97": {
+        "segment_words": "I think that, to be able to see ourselves downtown and on campus, I think has, even an additional meaning.",
+        "link_turn_id": 97,
+        "linked_words": "I agree, I think, especially downtown Madison and on campus, it's almost like the absence of culture and pushing certain things to the forefront.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "99": {
+        "segment_words": "to be able to see ourselves downtown and on campus, I think has, even an additional meaning.",
+        "link_turn_id": 99,
+        "linked_words": "We have a cultural center, but you can't go listen to music downtown.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "102": {
+    "link_turn_id": [
+      96,
+      99,
+      101,
+      95
+    ],
+    "words": "Right. There's a silencing, right? I'm going to correct myself, and I'm going to shout out the music venue of Hanah Jon Taylor, is also on Willie Street, and I failed to recognize it. But that's not goth, the negative connotation, goth, the positive one.",
+    "speaker_turn": 102,
+    "speaker_name": "Amy",
+    "conversation_id": 1113,
+    "segments": {
+      "96": {
+        "segment_words": "Hanah Jon Taylor, is also on Willie Street, and I failed to recognize it.",
+        "link_turn_id": 96,
+        "linked_words": "Willie Street, I'm thinking about Jamerica, I'm thinking about Buraka.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "99": {
+        "segment_words": "I'm going to correct myself, and I'm going to shout out the music venue of Hanah Jon Taylor, is also on Willie Street, and I failed to recognize it.",
+        "link_turn_id": 99,
+        "linked_words": "We have a cultural center, but you can't go listen to music downtown.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "101": {
+        "segment_words": "Right. There's a silencing, right?",
+        "link_turn_id": 101,
+        "linked_words": "I think has, even an additional meaning. Because we know that this is a place where people come, when they come to Madison for the first time.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "95": {
+        "segment_words": "and I'm going to shout out the music venue of Hanah Jon Taylor, is also on Willie Street, and I failed to recognize it.",
+        "link_turn_id": 95,
+        "linked_words": "like what we have on Willie Street.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "103": {
+    "link_turn_id": [
+      "102"
+    ],
+    "words": "Thank you all. Sorry. Go ahead.",
+    "speaker_turn": 103,
+    "speaker_name": "Anna",
+    "conversation_id": 1113,
+    "segments": {
+      "102": {
+        "segment_words": "Go ahead.",
+        "link_turn_id": "102",
+        "linked_words": "But that's not goth, the negative connotation, goth, the positive one.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "104": {
+    "link_turn_id": [
+      "97",
+      "99",
+      "101"
+    ],
+    "words": "[crosstalk] pretty involved with the United Way already, Jessie, what's your relationship with the United Way right now, just as a volunteer?",
+    "speaker_turn": 104,
+    "speaker_name": "Martinez",
+    "conversation_id": 1113,
+    "segments": {
+      "97": {
+        "segment_words": "Jessie, what's your relationship with the United Way right now, just as a volunteer?",
+        "link_turn_id": "97",
+        "linked_words": "I do feel we're on the verge of change, and we're having conversations we've never had before.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "99": {
+        "segment_words": "Jessie, what's your relationship with the United Way right now, just as a volunteer?",
+        "link_turn_id": "99",
+        "linked_words": "There's something embarrassing about that, to us. We don't want people to think that it's too Black here. We have a cultural center, but you can't go listen to music downtown.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "101": {
+        "segment_words": "Jessie, what's your relationship with the United Way right now, just as a volunteer?",
+        "link_turn_id": "101",
+        "linked_words": "I think that, to be able to see ourselves downtown and on campus, I think has, even an additional meaning. Because we know that this is a place where people come, when they come to Madison for the first time.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "105": {
+    "link_turn_id": [
+      104
+    ],
+    "words": "I've been a donor. I'm familiar with some of the people who are volunteers or leaders, or just affiliated with the organization in different ways, but personally, not directly involved.",
+    "speaker_turn": 105,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "104": {
+        "segment_words": "personally, not directly involved.",
+        "link_turn_id": 104,
+        "linked_words": "what's your relationship with the United Way right now, just as a volunteer?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "106": {
+    "link_turn_id": [
+      105
+    ],
+    "words": "Perfect. I would love to connect with you offline, to talk more about your vision for this city, knowing that this is a place that you grew up in, and that you're repatriating back to.",
+    "speaker_turn": 106,
+    "speaker_name": "Martinez",
+    "conversation_id": 1113,
+    "segments": {
+      "105": {
+        "segment_words": "Perfect. I would love to connect with you offline, to talk more about your vision for this city, knowing that this is a place that you grew up in, and that you're repatriating back to.",
+        "link_turn_id": 105,
+        "linked_words": "I'm familiar with some of the people who are volunteers or leaders, or just affiliated with the organization in different ways, but personally, not directly involved.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "107": {
+    "link_turn_id": [
+      106
+    ],
+    "words": "Absolutely. I'd love it. I'd love it.",
+    "speaker_turn": 107,
+    "speaker_name": "Jessie",
+    "conversation_id": 1113,
+    "segments": {
+      "106": {
+        "segment_words": "Absolutely. I'd love it. I'd love it.",
+        "link_turn_id": 106,
+        "linked_words": "I would love to connect with you offline, to talk more about your vision for this city",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "108": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Well, thank you guys so much for sharing. I do want to be mindful of the time, but I invite you to participate in the future conversations we're having. They're a little bit more in depth and a little bit longer, so we can talk more, and just have a more in depth conversation, and talk about more things. Basically, I just wanted to remind everyone that these are being recorded and transcribed. Only the audio recording will be saved, and I just wanted to thank you so much again, for joining us and sharing your thoughts. I'm going to put this in the chat quickly, before they close all the breakout rooms. If you could please fill that out, that would be great.",
+    "speaker_turn": 108,
+    "speaker_name": "Anna",
+    "conversation_id": 1113,
+    "segments": {}
+  }
+}

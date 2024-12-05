@@ -1,0 +1,881 @@
+[
+  null,
+  {
+    "link_turn_id": [
+      1
+    ],
+    "speaker_turn": 2,
+    "speaker_name": "Curtis"
+  },
+  {
+    "link_turn_id": [
+      2
+    ],
+    "speaker_turn": 3,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      1,
+      3
+    ],
+    "speaker_turn": 4,
+    "speaker_name": "Emily"
+  },
+  {
+    "link_turn_id": [
+      4
+    ],
+    "speaker_turn": 5,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      5
+    ],
+    "speaker_turn": 6,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      6
+    ],
+    "speaker_turn": 7,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      7
+    ],
+    "speaker_turn": 8,
+    "speaker_name": "Speaker 5"
+  },
+  {
+    "link_turn_id": [
+      8
+    ],
+    "speaker_turn": 9,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      9
+    ],
+    "speaker_turn": 10,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      9,
+      10
+    ],
+    "speaker_turn": 11,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      11
+    ],
+    "speaker_turn": 12,
+    "speaker_name": "Curtis"
+  },
+  {
+    "link_turn_id": [
+      12
+    ],
+    "speaker_turn": 13,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      11,
+      13
+    ],
+    "speaker_turn": 14,
+    "speaker_name": "Curtis"
+  },
+  {
+    "link_turn_id": [
+      14
+    ],
+    "speaker_turn": 15,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      11
+    ],
+    "speaker_turn": 16,
+    "speaker_name": "Emily"
+  },
+  {
+    "link_turn_id": [
+      16
+    ],
+    "speaker_turn": 17,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      11,
+      17
+    ],
+    "speaker_turn": 18,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      18
+    ],
+    "speaker_turn": 19,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      18
+    ],
+    "speaker_turn": 20,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      20
+    ],
+    "speaker_turn": 21,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      21
+    ],
+    "speaker_turn": 22,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      "22"
+    ],
+    "speaker_turn": 23,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      23
+    ],
+    "speaker_turn": 24,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      24
+    ],
+    "speaker_turn": 25,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      25
+    ],
+    "speaker_turn": 26,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      24,
+      25
+    ],
+    "speaker_turn": 27,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      27
+    ],
+    "speaker_turn": 28,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      28
+    ],
+    "speaker_turn": 29,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      24,
+      27
+    ],
+    "speaker_turn": 30,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      30
+    ],
+    "speaker_turn": 31,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      24,
+      30
+    ],
+    "speaker_turn": 32,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      24,
+      31,
+      32
+    ],
+    "speaker_turn": 33,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      33
+    ],
+    "speaker_turn": 34,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      34
+    ],
+    "speaker_turn": 35,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      33,
+      34
+    ],
+    "speaker_turn": 36,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      36
+    ],
+    "speaker_turn": 37,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      37
+    ],
+    "speaker_turn": 38,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      36,
+      38
+    ],
+    "speaker_turn": 39,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      "39"
+    ],
+    "speaker_turn": 40,
+    "speaker_name": "Curtis"
+  },
+  {
+    "link_turn_id": [
+      33,
+      39
+    ],
+    "speaker_turn": 41,
+    "speaker_name": "Emily"
+  },
+  {
+    "link_turn_id": [
+      41
+    ],
+    "speaker_turn": 42,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      36,
+      41
+    ],
+    "speaker_turn": 43,
+    "speaker_name": "Emily"
+  },
+  {
+    "link_turn_id": [
+      39
+    ],
+    "speaker_turn": 44,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      39,
+      44
+    ],
+    "speaker_turn": 45,
+    "speaker_name": "Curtis"
+  },
+  {
+    "link_turn_id": [
+      43,
+      45
+    ],
+    "speaker_turn": 46,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      46
+    ],
+    "speaker_turn": 47,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      46,
+      44
+    ],
+    "speaker_turn": 48,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      47,
+      48
+    ],
+    "speaker_turn": 49,
+    "speaker_name": "Emily"
+  },
+  {
+    "link_turn_id": [
+      49
+    ],
+    "speaker_turn": 50,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      49,
+      50
+    ],
+    "speaker_turn": 51,
+    "speaker_name": "Emily"
+  },
+  {
+    "link_turn_id": [
+      51
+    ],
+    "speaker_turn": 52,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      44,
+      45,
+      52
+    ],
+    "speaker_turn": 53,
+    "speaker_name": "Emily"
+  },
+  {
+    "link_turn_id": [
+      48
+    ],
+    "speaker_turn": 54,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      54
+    ],
+    "speaker_turn": 55,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      51,
+      52,
+      53,
+      54
+    ],
+    "speaker_turn": 56,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      56
+    ],
+    "speaker_turn": 57,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      53,
+      54,
+      57
+    ],
+    "speaker_turn": 58,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      58
+    ],
+    "speaker_turn": 59,
+    "speaker_name": "Curtis"
+  },
+  {
+    "link_turn_id": [
+      53,
+      58
+    ],
+    "speaker_turn": 60,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      60
+    ],
+    "speaker_turn": 61,
+    "speaker_name": "Curtis"
+  },
+  {
+    "link_turn_id": [
+      57,
+      58,
+      60
+    ],
+    "speaker_turn": 62,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      56,
+      62
+    ],
+    "speaker_turn": 63,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      63
+    ],
+    "speaker_turn": 64,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      64
+    ],
+    "speaker_turn": 65,
+    "speaker_name": "Emily"
+  },
+  {
+    "link_turn_id": [
+      65
+    ],
+    "speaker_turn": 66,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      64
+    ],
+    "speaker_turn": 67,
+    "speaker_name": "Emily"
+  },
+  {
+    "link_turn_id": [
+      67
+    ],
+    "speaker_turn": 68,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      64,
+      68
+    ],
+    "speaker_turn": 69,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      69
+    ],
+    "speaker_turn": 70,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      70
+    ],
+    "speaker_turn": 71,
+    "speaker_name": "Curtis"
+  },
+  {
+    "link_turn_id": [
+      71
+    ],
+    "speaker_turn": 72,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      71
+    ],
+    "speaker_turn": 73,
+    "speaker_name": "Curtis"
+  },
+  {
+    "link_turn_id": [
+      71,
+      73
+    ],
+    "speaker_turn": 74,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      70,
+      74
+    ],
+    "speaker_turn": 75,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      75
+    ],
+    "speaker_turn": 76,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      74,
+      75,
+      76
+    ],
+    "speaker_turn": 77,
+    "speaker_name": "Emily"
+  },
+  {
+    "link_turn_id": [
+      77
+    ],
+    "speaker_turn": 78,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      77
+    ],
+    "speaker_turn": 79,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      79,
+      77,
+      78
+    ],
+    "speaker_turn": 80,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      80,
+      76
+    ],
+    "speaker_turn": 81,
+    "speaker_name": "Emily"
+  },
+  {
+    "link_turn_id": [
+      78,
+      80,
+      81
+    ],
+    "speaker_turn": 82,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      80,
+      82
+    ],
+    "speaker_turn": 83,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      83
+    ],
+    "speaker_turn": 84,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      82,
+      84
+    ],
+    "speaker_turn": 85,
+    "speaker_name": "Emily"
+  },
+  {
+    "link_turn_id": [
+      85
+    ],
+    "speaker_turn": 86,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      84
+    ],
+    "speaker_turn": 87,
+    "speaker_name": "Curtis"
+  },
+  {
+    "link_turn_id": [
+      87
+    ],
+    "speaker_turn": 88,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      "88"
+    ],
+    "speaker_turn": 89,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      89
+    ],
+    "speaker_turn": 90,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      89,
+      90
+    ],
+    "speaker_turn": 91,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      89,
+      91
+    ],
+    "speaker_turn": 92,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      88
+    ],
+    "speaker_turn": 93,
+    "speaker_name": "Curtis"
+  },
+  {
+    "link_turn_id": [
+      93
+    ],
+    "speaker_turn": 94,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      93,
+      88
+    ],
+    "speaker_turn": 95,
+    "speaker_name": "Curtis"
+  },
+  {
+    "link_turn_id": [
+      93,
+      95
+    ],
+    "speaker_turn": 96,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      96
+    ],
+    "speaker_turn": 97,
+    "speaker_name": "Curtis"
+  },
+  {
+    "link_turn_id": [
+      96,
+      97
+    ],
+    "speaker_turn": 98,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      98,
+      96
+    ],
+    "speaker_turn": 99,
+    "speaker_name": "Emily"
+  },
+  {
+    "link_turn_id": [
+      99
+    ],
+    "speaker_turn": 100,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      100
+    ],
+    "speaker_turn": 101,
+    "speaker_name": "Emily"
+  },
+  {
+    "link_turn_id": [
+      101
+    ],
+    "speaker_turn": 102,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      102
+    ],
+    "speaker_turn": 103,
+    "speaker_name": "Emily"
+  },
+  {
+    "link_turn_id": [
+      99,
+      101
+    ],
+    "speaker_turn": 104,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      104,
+      100
+    ],
+    "speaker_turn": 105,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      "105"
+    ],
+    "speaker_turn": 106,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      105,
+      106
+    ],
+    "speaker_turn": 107,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      105,
+      107
+    ],
+    "speaker_turn": 108,
+    "speaker_name": "Curtis"
+  },
+  {
+    "link_turn_id": [
+      108
+    ],
+    "speaker_turn": 109,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      105,
+      107
+    ],
+    "speaker_turn": 110,
+    "speaker_name": "Emily"
+  },
+  {
+    "link_turn_id": [
+      "106",
+      "107",
+      "108",
+      "110"
+    ],
+    "speaker_turn": 111,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      111
+    ],
+    "speaker_turn": 112,
+    "speaker_name": "Emily"
+  },
+  {
+    "link_turn_id": [
+      111,
+      112
+    ],
+    "speaker_turn": 113,
+    "speaker_name": "Curtis"
+  },
+  {
+    "link_turn_id": [
+      113
+    ],
+    "speaker_turn": 114,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      112,
+      113
+    ],
+    "speaker_turn": 115,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      112,
+      113,
+      115
+    ],
+    "speaker_turn": 116,
+    "speaker_name": "Jae Jin"
+  },
+  {
+    "link_turn_id": [
+      116
+    ],
+    "speaker_turn": 117,
+    "speaker_name": "Dariusz"
+  },
+  {
+    "link_turn_id": [
+      116
+    ],
+    "speaker_turn": 118,
+    "speaker_name": "Jae Jin"
+  }
+]

@@ -1,0 +1,4187 @@
+{
+  "1": {
+    "words": "Hit the record before you start that.",
+    "link_turn_id": [
+      "NA"
+    ],
+    "speaker_turn": 1,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 2187,
+    "segments": {}
+  },
+  "2": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "It's started. Welcome to this conversation hosted by me, myself, Chauntia [Surname], and our technology partner, the Local Voices Network. Thanks for joining us. Here's our plan for the next 75 to 90 minutes. We'll be going over a few details about this project, establishing some conversations, guidelines, introducing ourselves, and then moving into a conversation. We share our vision and experience around community engagement in Durham. We're focusing this conversation and experience of residents of Braggtown area. I have begun recording at this time, and I need to share a little information with you before we begin our conversation. There are three reasons we are having this conversation today. We want to create change based on our experience. We want to make sure that our voices are elevated beyond the moment of conversation itself. And we want to better inform how the city invests money for equitable and green infrastructures. And what that means is that we are all tired of doing surveys, don't speak directly to us, to town meetings, answering surveys, and a lot don't get answered, so basically, that is what to create change base is about. As a participant in this conversation, you are providing consent to the city of Durham to use this recording in accordance with its mission. You also understand that this conversation will be a part of a collection of Cortico's Local Voices Network, whose mission is to foster conversations and communities, and in the media that improves our understanding of one another. Cortico will collect, retain, and analyze these conversations and keep them with permission. If you agree and understand to this, please say, \"I agree.\"",
+    "speaker_turn": 2,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "1": {
+        "segment_words": "I have begun recording at this time,",
+        "link_turn_id": 1,
+        "linked_words": "Hit the record before you start that."
+      }
+    }
+  },
+  "3": {
+    "link_turn_id": [
+      2
+    ],
+    "words": "I agree.",
+    "speaker_turn": 3,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "2": {
+        "segment_words": "I agree.",
+        "link_turn_id": 2,
+        "linked_words": "If you agree and understand to this, please say, \"I agree.\""
+      }
+    }
+  },
+  "4": {
+    "link_turn_id": [
+      2
+    ],
+    "words": "I agree.",
+    "speaker_turn": 4,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "2": {
+        "segment_words": "I agree.",
+        "link_turn_id": 2,
+        "linked_words": "If you agree and understand to this, please say, \"I agree.\""
+      }
+    }
+  },
+  "5": {
+    "link_turn_id": [
+      2
+    ],
+    "words": "Well, we want to make sure that everyone gets a chance to both share and to learn from others in this conversation. And to support those goals, we have a few guidelines for our conversation.",
+    "speaker_turn": 5,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "2": {
+        "segment_words": "we have a few guidelines for our conversation.",
+        "link_turn_id": 2,
+        "linked_words": "establishing some conversations, guidelines"
+      }
+    }
+  },
+  "6": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "I mean, you can just keep talking. We've got plenty of time, so you do your thing.",
+    "speaker_turn": 6,
+    "speaker_name": "Miles (City Staff)",
+    "conversation_id": 2187,
+    "segments": {}
+  },
+  "7": {
+    "link_turn_id": [
+      6
+    ],
+    "words": "She was asking for a pause.",
+    "speaker_turn": 7,
+    "speaker_name": "Ashley",
+    "conversation_id": 2187,
+    "segments": {
+      "6": {
+        "segment_words": "She was asking for a pause.",
+        "link_turn_id": 6,
+        "linked_words": "you can just keep talking"
+      }
+    }
+  },
+  "8": {
+    "link_turn_id": [
+      7
+    ],
+    "words": "Do you want to pause it?",
+    "speaker_turn": 8,
+    "speaker_name": "Miles (City Staff)",
+    "conversation_id": 2187,
+    "segments": {
+      "7": {
+        "segment_words": "Do you want to pause it?",
+        "link_turn_id": 7,
+        "linked_words": "She was asking for a pause."
+      }
+    }
+  },
+  "9": {
+    "link_turn_id": [
+      8
+    ],
+    "words": "No, I'm good.",
+    "speaker_turn": 9,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "8": {
+        "segment_words": "No, I'm good.",
+        "link_turn_id": 8,
+        "linked_words": "Do you want to pause it?"
+      }
+    }
+  },
+  "10": {
+    "link_turn_id": [
+      8,
+      9
+    ],
+    "words": "I mean, if you need to, it's okay. They're going to have my voice up in there anyway.",
+    "speaker_turn": 10,
+    "speaker_name": "Miles (City Staff)",
+    "conversation_id": 2187,
+    "segments": {
+      "8": {
+        "segment_words": "if you need to, it's okay",
+        "link_turn_id": 8,
+        "linked_words": "Do you want to pause it?"
+      },
+      "9": {
+        "segment_words": "if you need to, it's okay.",
+        "link_turn_id": 9,
+        "linked_words": "No, I'm good."
+      }
+    }
+  },
+  "11": {
+    "link_turn_id": [
+      10
+    ],
+    "words": "It's cool.",
+    "speaker_turn": 11,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "10": {
+        "segment_words": "It's cool.",
+        "link_turn_id": 10,
+        "linked_words": "if you need to, it's okay."
+      }
+    }
+  },
+  "12": {
+    "link_turn_id": [
+      8,
+      9
+    ],
+    "words": "She wants to pause it.",
+    "speaker_turn": 12,
+    "speaker_name": "Ashley",
+    "conversation_id": 2187,
+    "segments": {
+      "8": {
+        "segment_words": "She wants to pause it.",
+        "link_turn_id": 8,
+        "linked_words": "Do you want to pause it?"
+      },
+      "9": {
+        "segment_words": "She wants to pause it.",
+        "link_turn_id": 9,
+        "linked_words": "No, I'm good."
+      }
+    }
+  },
+  "13": {
+    "link_turn_id": [
+      12
+    ],
+    "words": "No, it's cool.",
+    "speaker_turn": 13,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "12": {
+        "segment_words": "No, it's cool.",
+        "link_turn_id": 12,
+        "linked_words": "She wants to pause it."
+      }
+    }
+  },
+  "14": {
+    "link_turn_id": [
+      12
+    ],
+    "words": "Go ahead and pause it.",
+    "speaker_turn": 14,
+    "speaker_name": "Miles (City Staff)",
+    "conversation_id": 2187,
+    "segments": {
+      "12": {
+        "segment_words": "Go ahead and pause it.",
+        "link_turn_id": 12,
+        "linked_words": "She wants to pause it."
+      }
+    }
+  },
+  "15": {
+    "link_turn_id": [
+      9,
+      13,
+      11
+    ],
+    "words": "It's cool. So to begin, let's do a quick round introduction. I am Miss [Surname].",
+    "speaker_turn": 15,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "9": {
+        "segment_words": "It's cool.",
+        "link_turn_id": 9,
+        "linked_words": "No, I'm good."
+      },
+      "13": {
+        "segment_words": "It's cool.",
+        "link_turn_id": 13,
+        "linked_words": "No, it's cool."
+      },
+      "11": {
+        "segment_words": "It's cool.",
+        "link_turn_id": 11,
+        "linked_words": "It's cool."
+      }
+    }
+  },
+  "16": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "[inaudible].",
+    "speaker_turn": 16,
+    "speaker_name": "Speaker 7",
+    "conversation_id": 2187,
+    "segments": {}
+  },
+  "17": {
+    "link_turn_id": [
+      15
+    ],
+    "words": "Benetrice [Surname].",
+    "speaker_turn": 17,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "15": {
+        "segment_words": "Benetrice [Surname].",
+        "link_turn_id": 15,
+        "linked_words": "let's do a quick round introduction."
+      }
+    }
+  },
+  "18": {
+    "link_turn_id": [
+      15,
+      17
+    ],
+    "words": "Kimberly.",
+    "speaker_turn": 18,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {
+      "15": {
+        "segment_words": "Kimberly.",
+        "link_turn_id": 15,
+        "linked_words": "let's do a quick round introduction. I am Miss [Surname]."
+      },
+      "17": {
+        "segment_words": "Kimberly.",
+        "link_turn_id": 17,
+        "linked_words": "Benetrice [Surname]."
+      }
+    }
+  },
+  "19": {
+    "link_turn_id": [
+      18,
+      15,
+      17
+    ],
+    "words": "Gilfred.",
+    "speaker_turn": 19,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "18": {
+        "segment_words": "Gilfred.",
+        "link_turn_id": 18,
+        "linked_words": "Kimberly."
+      },
+      "15": {
+        "segment_words": "Gilfred.",
+        "link_turn_id": 15,
+        "linked_words": "let's do a quick round introduction."
+      },
+      "17": {
+        "segment_words": "Gilfred.",
+        "link_turn_id": 17,
+        "linked_words": "Benetrice [Surname]."
+      }
+    }
+  },
+  "20": {
+    "link_turn_id": [
+      18,
+      19,
+      15,
+      17
+    ],
+    "words": "Miss Ashley.",
+    "speaker_turn": 20,
+    "speaker_name": "Ashley",
+    "conversation_id": 2187,
+    "segments": {
+      "18": {
+        "segment_words": "Miss Ashley.",
+        "link_turn_id": 18,
+        "linked_words": "Kimberly."
+      },
+      "19": {
+        "segment_words": "Miss Ashley.",
+        "link_turn_id": 19,
+        "linked_words": "Gilfred."
+      },
+      "15": {
+        "segment_words": "Miss Ashley.",
+        "link_turn_id": 15,
+        "linked_words": "I am Miss [Surname]."
+      },
+      "17": {
+        "segment_words": "Miss Ashley.",
+        "link_turn_id": 17,
+        "linked_words": "Benetrice [Surname]."
+      }
+    }
+  },
+  "21": {
+    "link_turn_id": [
+      15
+    ],
+    "words": "So we will do a quick icebreaker, simple icebreaker. What was your most... we in September now, so we can talk about the summer. What was your most memorable vacation or event during the summer? I will start, mine was GYBL.",
+    "speaker_turn": 21,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "15": {
+        "segment_words": "we will do a quick icebreaker",
+        "link_turn_id": 15,
+        "linked_words": "let's do a quick round introduction"
+      }
+    }
+  },
+  "22": {
+    "link_turn_id": [
+      21
+    ],
+    "words": "Mine was staying cool.",
+    "speaker_turn": 22,
+    "speaker_name": "Speaker 7",
+    "conversation_id": 2187,
+    "segments": {
+      "21": {
+        "segment_words": "Mine was staying cool.",
+        "link_turn_id": 21,
+        "linked_words": "What was your most memorable vacation or event during the summer?"
+      }
+    }
+  },
+  "23": {
+    "link_turn_id": [
+      21,
+      22
+    ],
+    "words": "Mine was celebrating my birthday.",
+    "speaker_turn": 23,
+    "speaker_name": "Ashley",
+    "conversation_id": 2187,
+    "segments": {
+      "21": {
+        "segment_words": "Mine was celebrating my birthday.",
+        "link_turn_id": 21,
+        "linked_words": "What was your most memorable vacation or event during the summer?"
+      },
+      "22": {
+        "segment_words": "Mine was celebrating my birthday.",
+        "link_turn_id": 22,
+        "linked_words": "Mine was staying cool."
+      }
+    }
+  },
+  "24": {
+    "link_turn_id": [
+      23,
+      21,
+      22
+    ],
+    "words": "Mine was my family reunion.",
+    "speaker_turn": 24,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "23": {
+        "segment_words": "Mine was my family reunion.",
+        "link_turn_id": 23,
+        "linked_words": "Mine was celebrating my birthday."
+      },
+      "21": {
+        "segment_words": "Mine was my family reunion.",
+        "link_turn_id": 21,
+        "linked_words": "What was your most memorable vacation or event during the summer?"
+      },
+      "22": {
+        "segment_words": "Mine was my family reunion.",
+        "link_turn_id": 22,
+        "linked_words": "Mine was staying cool."
+      }
+    }
+  },
+  "25": {
+    "link_turn_id": [
+      23,
+      21,
+      22,
+      24
+    ],
+    "words": "Went I got [inaudible] I went to get to Vegas.",
+    "speaker_turn": 25,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "23": {
+        "segment_words": "went to get to Vegas.",
+        "link_turn_id": 23,
+        "linked_words": "celebrating my birthday."
+      },
+      "21": {
+        "segment_words": "I went to get to Vegas.",
+        "link_turn_id": 21,
+        "linked_words": "What was your most memorable vacation or event during the summer?"
+      },
+      "22": {
+        "segment_words": "Went I got [inaudible] I went to get to Vegas.",
+        "link_turn_id": 22,
+        "linked_words": "staying cool."
+      },
+      "24": {
+        "segment_words": "I went to get to Vegas.",
+        "link_turn_id": 24,
+        "linked_words": "Mine was my family reunion."
+      }
+    }
+  },
+  "26": {
+    "link_turn_id": [
+      25
+    ],
+    "words": "Did you say Vegas?",
+    "speaker_turn": 26,
+    "speaker_name": "Miles (City Staff)",
+    "conversation_id": 2187,
+    "segments": {
+      "25": {
+        "segment_words": "Did you say Vegas?",
+        "link_turn_id": 25,
+        "linked_words": "I went to get to Vegas."
+      }
+    }
+  },
+  "27": {
+    "link_turn_id": [
+      26
+    ],
+    "words": "Yeah. I got one coming up.",
+    "speaker_turn": 27,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "26": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 26,
+        "linked_words": "Did you say Vegas?"
+      }
+    }
+  },
+  "28": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "I say grab [inaudible] here.",
+    "speaker_turn": 28,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {}
+  },
+  "29": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "All righty. So we want to start by talking about our vision for our community to get us thinking about the future and what we want. All right. We will reason. Okay, so at this point feel free to share your stories or any experience with the group, but we will start off with the first question of what are your hopes for this community?",
+    "speaker_turn": 29,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {}
+  },
+  "30": {
+    "link_turn_id": [
+      29
+    ],
+    "words": "That's broad.",
+    "speaker_turn": 30,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "29": {
+        "segment_words": "That's broad.",
+        "link_turn_id": 29,
+        "linked_words": "what are your hopes for this community?"
+      }
+    }
+  },
+  "31": {
+    "link_turn_id": [
+      30
+    ],
+    "words": "Very broad.",
+    "speaker_turn": 31,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "30": {
+        "segment_words": "Very broad.",
+        "link_turn_id": 30,
+        "linked_words": "That's broad."
+      }
+    }
+  },
+  "32": {
+    "link_turn_id": [
+      29
+    ],
+    "words": "I think as a community we should be able to come together more, as in supporting each other and what's the needs that we need. That's my opinion.",
+    "speaker_turn": 32,
+    "speaker_name": "Ashley",
+    "conversation_id": 2187,
+    "segments": {
+      "29": {
+        "segment_words": "I think as a community we should be able to come together more, as in supporting each other and what's the needs that we need.",
+        "link_turn_id": 29,
+        "linked_words": "what are your hopes for this community?"
+      }
+    }
+  },
+  "33": {
+    "link_turn_id": [
+      29,
+      32
+    ],
+    "words": "Some bus stops.",
+    "speaker_turn": 33,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "29": {
+        "segment_words": "Some bus stops.",
+        "link_turn_id": 29,
+        "linked_words": "what are your hopes for this community?"
+      },
+      "32": {
+        "segment_words": "Some bus stops.",
+        "link_turn_id": 32,
+        "linked_words": "what's the needs that we need."
+      }
+    }
+  },
+  "34": {
+    "link_turn_id": [
+      33
+    ],
+    "words": "In what area?",
+    "speaker_turn": 34,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "33": {
+        "segment_words": "In what area?",
+        "link_turn_id": 33,
+        "linked_words": "Some bus stops."
+      }
+    }
+  },
+  "35": {
+    "link_turn_id": [
+      34,
+      33
+    ],
+    "words": "On Tenewby and Herbron. On that backside, because that's a long walk. They need bus stops back there.",
+    "speaker_turn": 35,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "34": {
+        "segment_words": "On Tenewby and Herbron.",
+        "link_turn_id": 34,
+        "linked_words": "In what area?"
+      },
+      "33": {
+        "segment_words": "They need bus stops back there.",
+        "link_turn_id": 33,
+        "linked_words": "Some bus stops."
+      }
+    }
+  },
+  "36": {
+    "link_turn_id": [
+      35,
+      34
+    ],
+    "words": "[inaudible] just focus here at one area or all over.",
+    "speaker_turn": 36,
+    "speaker_name": "Ashley",
+    "conversation_id": 2187,
+    "segments": {
+      "35": {
+        "segment_words": "just focus here at one area or all over",
+        "link_turn_id": 35,
+        "linked_words": "They need bus stops back there"
+      },
+      "34": {
+        "segment_words": "one area or all over.",
+        "link_turn_id": 34,
+        "linked_words": "In what area?"
+      }
+    }
+  },
+  "37": {
+    "link_turn_id": [
+      36
+    ],
+    "words": "Yeah, that is.",
+    "speaker_turn": 37,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "36": {
+        "segment_words": "Yeah, that is.",
+        "link_turn_id": 36,
+        "linked_words": "[inaudible] just focus here at one area or all over."
+      }
+    }
+  },
+  "38": {
+    "link_turn_id": [
+      35
+    ],
+    "words": "Because you have to walk to Taco Bell, KFC or walk up to [inaudible] and them.",
+    "speaker_turn": 38,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "35": {
+        "segment_words": "Because you have to walk to Taco Bell, KFC or walk up to [inaudible] and them.",
+        "link_turn_id": 35,
+        "linked_words": "That's a long walk. They need bus stops back there."
+      }
+    }
+  },
+  "39": {
+    "link_turn_id": [
+      35,
+      38
+    ],
+    "words": "To get the bus?",
+    "speaker_turn": 39,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "35": {
+        "segment_words": "To get the bus?",
+        "link_turn_id": 35,
+        "linked_words": "They need bus stops back there."
+      },
+      "38": {
+        "segment_words": "To get the bus?",
+        "link_turn_id": 38,
+        "linked_words": "you have to walk to Taco Bell, KFC or walk up to [inaudible] and them."
+      }
+    }
+  },
+  "40": {
+    "link_turn_id": [
+      39
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 40,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "39": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 39,
+        "linked_words": "To get the bus?"
+      }
+    }
+  },
+  "41": {
+    "link_turn_id": [
+      35,
+      40,
+      38
+    ],
+    "words": "Even with the school back there?",
+    "speaker_turn": 41,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "35": {
+        "segment_words": "Even with the school back there?",
+        "link_turn_id": 35,
+        "linked_words": "On that backside, because that's a long walk."
+      },
+      "40": {
+        "segment_words": "Even with the school back there?",
+        "link_turn_id": 40,
+        "linked_words": "Yeah."
+      },
+      "38": {
+        "segment_words": "Even with the school back there?",
+        "link_turn_id": 38,
+        "linked_words": "Because you have to walk to Taco Bell, KFC or walk up to [inaudible] and them."
+      }
+    }
+  },
+  "42": {
+    "link_turn_id": [
+      41
+    ],
+    "words": "Yeah. It's nothing back there.",
+    "speaker_turn": 42,
+    "speaker_name": "Ashley",
+    "conversation_id": 2187,
+    "segments": {
+      "41": {
+        "segment_words": "It's nothing back there.",
+        "link_turn_id": 41,
+        "linked_words": "the school back there"
+      }
+    }
+  },
+  "43": {
+    "link_turn_id": [
+      35,
+      42
+    ],
+    "words": "Like Magnolia for keep here all of that area.",
+    "speaker_turn": 43,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "35": {
+        "segment_words": "all of that area",
+        "link_turn_id": 35,
+        "linked_words": "On Tenewby and Herbron"
+      },
+      "42": {
+        "segment_words": "Like Magnolia for keep here all of that area.",
+        "link_turn_id": 42,
+        "linked_words": "It's nothing back there."
+      }
+    }
+  },
+  "44": {
+    "link_turn_id": [
+      35,
+      42
+    ],
+    "words": "I didn't realize it.",
+    "speaker_turn": 44,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {
+      "35": {
+        "segment_words": "I didn't realize it.",
+        "link_turn_id": 35,
+        "linked_words": "They need bus stops back there."
+      },
+      "42": {
+        "segment_words": "I didn't realize it.",
+        "link_turn_id": 42,
+        "linked_words": "It's nothing back there."
+      }
+    }
+  },
+  "45": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "It turns off on car.",
+    "speaker_turn": 45,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {}
+  },
+  "46": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Playgrounds.",
+    "speaker_turn": 46,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {}
+  },
+  "47": {
+    "link_turn_id": [
+      46
+    ],
+    "words": "Yeah we need more playgrounds.",
+    "speaker_turn": 47,
+    "speaker_name": "Ashley",
+    "conversation_id": 2187,
+    "segments": {
+      "46": {
+        "segment_words": "Yeah we need more playgrounds.",
+        "link_turn_id": 46,
+        "linked_words": "Playgrounds."
+      }
+    }
+  },
+  "48": {
+    "link_turn_id": [
+      47,
+      46
+    ],
+    "words": "Playgrounds.",
+    "speaker_turn": 48,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "47": {
+        "segment_words": "Playgrounds.",
+        "link_turn_id": 47,
+        "linked_words": "playgrounds."
+      },
+      "46": {
+        "segment_words": "Playgrounds.",
+        "link_turn_id": 46,
+        "linked_words": "Playgrounds."
+      }
+    }
+  },
+  "49": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Updated best by reports.",
+    "speaker_turn": 49,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {}
+  },
+  "50": {
+    "link_turn_id": [
+      49
+    ],
+    "words": "In what area?",
+    "speaker_turn": 50,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "49": {
+        "segment_words": "In what area?",
+        "link_turn_id": 49,
+        "linked_words": "Updated best by reports."
+      }
+    }
+  },
+  "51": {
+    "link_turn_id": [
+      50
+    ],
+    "words": "In Braggtown.",
+    "speaker_turn": 51,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {
+      "50": {
+        "segment_words": "In Braggtown.",
+        "link_turn_id": 50,
+        "linked_words": "In what area?"
+      }
+    }
+  },
+  "52": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "I'm trying to think. Well they fixed the road so that.",
+    "speaker_turn": 52,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {}
+  },
+  "53": {
+    "link_turn_id": [
+      52
+    ],
+    "words": "Yeah, you can't even say that no more.",
+    "speaker_turn": 53,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {
+      "52": {
+        "segment_words": "you can't even say that no more.",
+        "link_turn_id": 52,
+        "linked_words": "they fixed the road so that."
+      }
+    }
+  },
+  "54": {
+    "link_turn_id": [
+      53,
+      52
+    ],
+    "words": "Road is fixed, so... that was one of the biggest issues. I know for me, just going down... I know for me going down Rocboro Road, even just the bus stops, the road is honestly so wide, but it is, I think from times like 2:30 to like 5:00, the traffic is so heavy. And the main reason is, it's multiple bus stops. Like they boom, boom, boom, boom, boom.",
+    "speaker_turn": 54,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "53": {
+        "segment_words": "Road is fixed, so... that was one of the biggest issues.",
+        "link_turn_id": 53,
+        "linked_words": "Yeah, you can't even say that no more."
+      },
+      "52": {
+        "segment_words": "Road is fixed, so... that was one of the biggest issues.",
+        "link_turn_id": 52,
+        "linked_words": "Well they fixed the road so that."
+      }
+    }
+  },
+  "55": {
+    "link_turn_id": [
+      54
+    ],
+    "words": "But it's just that little from Club to...",
+    "speaker_turn": 55,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {
+      "54": {
+        "segment_words": "it's just that little from Club to...",
+        "link_turn_id": 54,
+        "linked_words": "the road is honestly so wide, but it is, I think from times like 2:30 to like 5:00, the traffic is so heavy. And the main reason is, it's multiple bus stops."
+      }
+    }
+  },
+  "56": {
+    "link_turn_id": [
+      55
+    ],
+    "words": "It's from Club all the way down to",
+    "speaker_turn": 56,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "55": {
+        "segment_words": "It's from Club all the way down to",
+        "link_turn_id": 55,
+        "linked_words": "it's just that little from Club to"
+      }
+    }
+  },
+  "57": {
+    "link_turn_id": [
+      56,
+      55
+    ],
+    "words": "Before you get to Durham Regional. Once you get past that...",
+    "speaker_turn": 57,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {
+      "56": {
+        "segment_words": "Once you get past that...",
+        "link_turn_id": 56,
+        "linked_words": "It's from Club all the way down to"
+      },
+      "55": {
+        "segment_words": "Before you get to Durham Regional.",
+        "link_turn_id": 55,
+        "linked_words": "But it's just that little from Club to..."
+      }
+    }
+  },
+  "58": {
+    "link_turn_id": [
+      57
+    ],
+    "words": "Well yeah.",
+    "speaker_turn": 58,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "57": {
+        "segment_words": "Well yeah.",
+        "link_turn_id": 57,
+        "linked_words": "Before you get to Durham Regional."
+      }
+    }
+  },
+  "59": {
+    "link_turn_id": [
+      57,
+      55
+    ],
+    "words": "It's like a different part of, it's just that little stretch right there.",
+    "speaker_turn": 59,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {
+      "57": {
+        "segment_words": "that little stretch right there",
+        "link_turn_id": 57,
+        "linked_words": "Once you get past that"
+      },
+      "55": {
+        "segment_words": "it's just that little stretch right there.",
+        "link_turn_id": 55,
+        "linked_words": "it's just that little from Club to..."
+      }
+    }
+  },
+  "60": {
+    "link_turn_id": [
+      59
+    ],
+    "words": "I know. I think, what is that... Morrie?",
+    "speaker_turn": 60,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "59": {
+        "segment_words": "I think, what is that... Morrie?",
+        "link_turn_id": 59,
+        "linked_words": "It's like a different part of"
+      }
+    }
+  },
+  "61": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "That's their appearance all together.",
+    "speaker_turn": 61,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {}
+  },
+  "62": {
+    "link_turn_id": [
+      54,
+      60
+    ],
+    "words": "I was trying to say how many streets, but the... I mean this Braggtown area is like an elephant. We can't talk about streets off of Morgan Street and, you know what I'm saying? So just the areas that we know is common issues across the board. Outside of the gangs, the drugs in that particular area, which is down... is Northgate Park considered Braggtown?",
+    "speaker_turn": 62,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "54": {
+        "segment_words": "I was trying to say how many streets, but the... I mean this Braggtown area is like an elephant.",
+        "link_turn_id": 54,
+        "linked_words": "Road is fixed, so... that was one of the biggest issues."
+      },
+      "60": {
+        "segment_words": "I mean this Braggtown area is like an elephant.",
+        "link_turn_id": 60,
+        "linked_words": "what is that... Morrie?"
+      }
+    }
+  },
+  "63": {
+    "link_turn_id": [
+      62
+    ],
+    "words": "Just classify. Just say what you're talking about.",
+    "speaker_turn": 63,
+    "speaker_name": "Miles (City Staff)",
+    "conversation_id": 2187,
+    "segments": {
+      "62": {
+        "segment_words": "Just classify. Just say what you're talking about.",
+        "link_turn_id": 62,
+        "linked_words": "We can't talk about streets off of Morgan Street and, you know what I'm saying?"
+      }
+    }
+  },
+  "64": {
+    "link_turn_id": [
+      62
+    ],
+    "words": "So even down from just the community of Braggtown. People don't look at the whole. It starts at churches and end at Durham Regional.",
+    "speaker_turn": 64,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "62": {
+        "segment_words": "People don't look at the whole.",
+        "link_turn_id": 62,
+        "linked_words": "I mean this Braggtown area is like an elephant."
+      }
+    }
+  },
+  "65": {
+    "link_turn_id": [
+      64
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 65,
+    "speaker_name": "Miles (City Staff)",
+    "conversation_id": 2187,
+    "segments": {
+      "64": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 64,
+        "linked_words": "So even down from just the community of Braggtown. People don't look at the whole. It starts at churches and end at Durham Regional."
+      }
+    }
+  },
+  "66": {
+    "link_turn_id": [
+      60,
+      62
+    ],
+    "words": "Even like you said Murray, if you go down Murray Street, you got speed bumps. You come through, even down to Newville, you just, you know Christmas. Yeah. Going through the project speed bumps right there. Slowing down.",
+    "speaker_turn": 66,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {
+      "60": {
+        "segment_words": "Even like you said Murray,",
+        "link_turn_id": 60,
+        "linked_words": "I think, what is that... Morrie?"
+      },
+      "62": {
+        "segment_words": "you go down Murray Street, you got speed bumps. You come through, even down to Newville, you just, you know Christmas. Yeah. Going through the project speed bumps right there.",
+        "link_turn_id": 62,
+        "linked_words": "I was trying to say how many streets, but the... I mean this Braggtown area is like an elephant. We can't talk about streets off of Morgan Street and, you know what I'm saying?"
+      }
+    }
+  },
+  "67": {
+    "link_turn_id": [
+      66
+    ],
+    "words": "I think they... a better upkeep with the business as far as their lawns. I can't, we came down through, what is that? Off the highway? That family all right there. That grass is just ridiculous.",
+    "speaker_turn": 67,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "66": {
+        "segment_words": "I can't, we came down through, what is that? Off the highway?",
+        "link_turn_id": 66,
+        "linked_words": "if you go down Murray Street"
+      }
+    }
+  },
+  "68": {
+    "link_turn_id": [
+      67
+    ],
+    "words": "The store's ridiculous.",
+    "speaker_turn": 68,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "67": {
+        "segment_words": "The store's ridiculous.",
+        "link_turn_id": 67,
+        "linked_words": "That grass is just ridiculous."
+      }
+    }
+  },
+  "69": {
+    "link_turn_id": [
+      68
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 69,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {
+      "68": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 68,
+        "linked_words": "The store's ridiculous."
+      }
+    }
+  },
+  "70": {
+    "link_turn_id": [
+      68
+    ],
+    "words": "Boarded up all the time. Then just boarded up.",
+    "speaker_turn": 70,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "68": {
+        "segment_words": "Boarded up all the time. Then just boarded up.",
+        "link_turn_id": 68,
+        "linked_words": "The store's ridiculous."
+      }
+    }
+  },
+  "71": {
+    "link_turn_id": [
+      67
+    ],
+    "words": "For the lawn. I think they could at least keep the grass cut around those businesses and trim...",
+    "speaker_turn": 71,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "67": {
+        "segment_words": "For the lawn. I think they could at least keep the grass cut around those businesses",
+        "link_turn_id": 67,
+        "linked_words": "I think they... a better upkeep with the business as far as their lawns. I can't"
+      }
+    }
+  },
+  "72": {
+    "link_turn_id": [
+      70,
+      68
+    ],
+    "words": "Make it more inviting. Make you want stop.",
+    "speaker_turn": 72,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "70": {
+        "segment_words": "Make it more inviting.",
+        "link_turn_id": 70,
+        "linked_words": "Boarded up all the time."
+      },
+      "68": {
+        "segment_words": "Make it more inviting.",
+        "link_turn_id": 68,
+        "linked_words": "The store's ridiculous."
+      }
+    }
+  },
+  "73": {
+    "link_turn_id": [
+      72
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 73,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "72": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 72,
+        "linked_words": "Make it more inviting. Make you want stop."
+      }
+    }
+  },
+  "74": {
+    "link_turn_id": [
+      72
+    ],
+    "words": "Not scared to stop right there. Yeah.",
+    "speaker_turn": 74,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "72": {
+        "segment_words": "Not scared to stop right there.",
+        "link_turn_id": 72,
+        "linked_words": "Make you want stop."
+      }
+    }
+  },
+  "75": {
+    "link_turn_id": [
+      74
+    ],
+    "words": "You go like, no, I don't think I going to [inaudible].",
+    "speaker_turn": 75,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "74": {
+        "segment_words": "no, I don't think I going to [inaudible]",
+        "link_turn_id": 74,
+        "linked_words": "Not scared to stop right there"
+      }
+    }
+  },
+  "76": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "And I have nothing against these beautiful murals, that's painted on the ground that y'all see. I have nothing against them, but... it's real money put into those murals. We're talking 30, 40, 50,000. That's real money put into them. So when you think about some color paint or chalk on the ground versus plenty other little bitty things you can do in the community to beautify the community different, but... Okay. All right. So being in this area, we in 2022, so we had to look three to five years from now. If we had to picture this community with the development we know going on, what do you see? I know for me I see nothing but gentrification and then eventually it is just the development is growing from Carver street, Old Oxford Highway. I haven't been past Murray Street but three to five years I see development from low income housing to, as they call it affordable housing. And affordable housing is still not affordable.",
+    "speaker_turn": 76,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {}
+  },
+  "77": {
+    "link_turn_id": [
+      76
+    ],
+    "words": "It's not affordable.",
+    "speaker_turn": 77,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "76": {
+        "segment_words": "It's not affordable.",
+        "link_turn_id": 76,
+        "linked_words": "And affordable housing is still not affordable."
+      }
+    }
+  },
+  "78": {
+    "link_turn_id": [
+      76,
+      77
+    ],
+    "words": "But for those particular, for the majority in the area that it applies to. Do you all see Oxford amount of rent being there in five years?",
+    "speaker_turn": 78,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "76": {
+        "segment_words": "for the majority in the area that it applies to. Do you all see Oxford amount of rent being there in five years?",
+        "link_turn_id": 76,
+        "linked_words": "Okay. All right. So being in this area, we in 2022, so we had to look three to five years from now. If we had to picture this community with the development we know going on, what do you see?"
+      },
+      "77": {
+        "segment_words": "Do you all see Oxford amount of rent being there in five years?",
+        "link_turn_id": 77,
+        "linked_words": "It's not affordable."
+      }
+    }
+  },
+  "79": {
+    "link_turn_id": [
+      78
+    ],
+    "words": "Yes. It's not going nowhere.",
+    "speaker_turn": 79,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "78": {
+        "segment_words": "Yes. It's not going nowhere.",
+        "link_turn_id": 78,
+        "linked_words": "Do you all see Oxford amount of rent being there in five years?"
+      }
+    }
+  },
+  "80": {
+    "link_turn_id": [
+      79
+    ],
+    "words": "You don't think so? I won't say five.",
+    "speaker_turn": 80,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "79": {
+        "segment_words": "You don't think so?",
+        "link_turn_id": 79,
+        "linked_words": "It's not going nowhere."
+      }
+    }
+  },
+  "81": {
+    "link_turn_id": [
+      80,
+      76,
+      78
+    ],
+    "words": "I ain't saying it won't be off the mile, but it won't be... I don't think the project would be, I think what they would do is it'll be affordable housing like you say, I think they going to come in there and reconstruct that whole are.",
+    "speaker_turn": 81,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "80": {
+        "segment_words": "I think what they would do is it'll be affordable housing like you say,",
+        "link_turn_id": 80,
+        "linked_words": "I won't say five."
+      },
+      "76": {
+        "segment_words": "it'll be affordable housing like you say",
+        "link_turn_id": 76,
+        "linked_words": "I see development from low income housing to, as they call it affordable housing"
+      },
+      "78": {
+        "segment_words": "it'll be affordable housing like you say, I think they going to come in there and reconstruct that whole are.",
+        "link_turn_id": 78,
+        "linked_words": "Do you all see Oxford amount of rent being there in five years?"
+      }
+    }
+  },
+  "82": {
+    "link_turn_id": [
+      81
+    ],
+    "words": "I think that's what they're going to do too, cause again, the development on Carver Street, that's going to start in 2020, next year I think, mid 2023,2024. Say that's a three year project.",
+    "speaker_turn": 82,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "81": {
+        "segment_words": "I think that's what they're going to do too",
+        "link_turn_id": 81,
+        "linked_words": "I think what they would do is it'll be affordable housing like you say, I think they going to come in there and reconstruct that whole are."
+      }
+    }
+  },
+  "83": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "What do you recall?",
+    "speaker_turn": 83,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {}
+  },
+  "84": {
+    "link_turn_id": [
+      82
+    ],
+    "words": "You know where the circle at? So when you turn right on the turn about to go to Old Oxford, that's going to be 280 something affordable, single family home.",
+    "speaker_turn": 84,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "82": {
+        "segment_words": "that's going to be 280 something affordable, single family home.",
+        "link_turn_id": 82,
+        "linked_words": "the development on Carver Street"
+      }
+    }
+  },
+  "85": {
+    "link_turn_id": [
+      81,
+      80,
+      84
+    ],
+    "words": "Oh yeah. Right time won't be there. It won't",
+    "speaker_turn": 85,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "81": {
+        "segment_words": "Right time won't be there.",
+        "link_turn_id": 81,
+        "linked_words": "I ain't saying it won't be off the mile, but it won't be..."
+      },
+      "80": {
+        "segment_words": "Right time won't be there. It won't",
+        "link_turn_id": 80,
+        "linked_words": "You don't think so?"
+      },
+      "84": {
+        "segment_words": "Right time won't be there.",
+        "link_turn_id": 84,
+        "linked_words": "You know where the circle at?"
+      }
+    }
+  },
+  "86": {
+    "link_turn_id": [
+      82,
+      84
+    ],
+    "words": "That's what I'm saying, so...",
+    "speaker_turn": 86,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "82": {
+        "segment_words": "That's what I'm saying",
+        "link_turn_id": 82,
+        "linked_words": "I think that's what they're going to do too"
+      },
+      "84": {
+        "segment_words": "That's what I'm saying",
+        "link_turn_id": 84,
+        "linked_words": "280 something affordable, single family home."
+      }
+    }
+  },
+  "87": {
+    "link_turn_id": [
+      85
+    ],
+    "words": "It will still be there.",
+    "speaker_turn": 87,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "85": {
+        "segment_words": "It will still be there.",
+        "link_turn_id": 85,
+        "linked_words": "It won't"
+      }
+    }
+  },
+  "88": {
+    "link_turn_id": [
+      87,
+      85
+    ],
+    "words": "Yeah. It won't be.",
+    "speaker_turn": 88,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {
+      "87": {
+        "segment_words": "It won't be.",
+        "link_turn_id": 87,
+        "linked_words": "It will still be there."
+      },
+      "85": {
+        "segment_words": "It won't be.",
+        "link_turn_id": 85,
+        "linked_words": "It won't"
+      }
+    }
+  },
+  "89": {
+    "link_turn_id": [
+      86
+    ],
+    "words": "Like they're already talking about.",
+    "speaker_turn": 89,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "86": {
+        "segment_words": "Like they're already talking about.",
+        "link_turn_id": 86,
+        "linked_words": "That's what I'm saying"
+      }
+    }
+  },
+  "90": {
+    "link_turn_id": [
+      87,
+      88,
+      85
+    ],
+    "words": "I think it'll be there, but it'll be like they done over at [inaudible].",
+    "speaker_turn": 90,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "87": {
+        "segment_words": "I think it'll be there, but it'll be like they done over at [inaudible].",
+        "link_turn_id": 87,
+        "linked_words": "It will still be there."
+      },
+      "88": {
+        "segment_words": "I think it'll be there, but it'll be like they done over at [inaudible].",
+        "link_turn_id": 88,
+        "linked_words": "Yeah. It won't be."
+      },
+      "85": {
+        "segment_words": "I think it'll be there",
+        "link_turn_id": 85,
+        "linked_words": "It won't"
+      }
+    }
+  },
+  "91": {
+    "link_turn_id": [
+      89
+    ],
+    "words": "Okay, so we can take, yes. [inaudible] guards. And what they're about to do to live in the street.",
+    "speaker_turn": 91,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "89": {
+        "segment_words": "And what they're about to do to live in the street.",
+        "link_turn_id": 89,
+        "linked_words": "Like they're already talking about."
+      }
+    }
+  },
+  "92": {
+    "link_turn_id": [
+      91
+    ],
+    "words": "Street. Yeah.",
+    "speaker_turn": 92,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "91": {
+        "segment_words": "Street. Yeah.",
+        "link_turn_id": 91,
+        "linked_words": "to live in the street."
+      }
+    }
+  },
+  "93": {
+    "link_turn_id": [
+      89,
+      91
+    ],
+    "words": "Which... that's 172 families in Braggtown.",
+    "speaker_turn": 93,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "89": {
+        "segment_words": "that's 172 families in Braggtown",
+        "link_turn_id": 89,
+        "linked_words": "they're already talking about"
+      },
+      "91": {
+        "segment_words": "that's 172 families in Braggtown.",
+        "link_turn_id": 91,
+        "linked_words": "[inaudible] guards. And what they're about to do to live in the street."
+      }
+    }
+  },
+  "94": {
+    "link_turn_id": [
+      93
+    ],
+    "words": "But that's not a... even what they did, you go out and it's not a bad thing, but how do you change the narrative for the people that's in Braggtown to... education, job training...",
+    "speaker_turn": 94,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "93": {
+        "segment_words": "to change the narrative for the people that's in Braggtown",
+        "link_turn_id": 93,
+        "linked_words": "that's 172 families in Braggtown"
+      }
+    }
+  },
+  "95": {
+    "link_turn_id": [
+      94
+    ],
+    "words": "That's when...",
+    "speaker_turn": 95,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "94": {
+        "segment_words": "That's when...",
+        "link_turn_id": 94,
+        "linked_words": "how do you change the narrative for the people that's in Braggtown to... education, job training..."
+      }
+    }
+  },
+  "96": {
+    "link_turn_id": [
+      94
+    ],
+    "words": "To be able to even afford a low income house, like what?",
+    "speaker_turn": 96,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "94": {
+        "segment_words": "like what?",
+        "link_turn_id": 94,
+        "linked_words": "education, job training..."
+      }
+    }
+  },
+  "97": {
+    "link_turn_id": [
+      94,
+      96
+    ],
+    "words": "That's what, look who's...",
+    "speaker_turn": 97,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "94": {
+        "segment_words": "That's what",
+        "link_turn_id": 94,
+        "linked_words": "how do you change the narrative for the people that's in Braggtown to... education, job training..."
+      },
+      "96": {
+        "segment_words": "That's what",
+        "link_turn_id": 96,
+        "linked_words": "like what?"
+      }
+    }
+  },
+  "98": {
+    "link_turn_id": [
+      96
+    ],
+    "words": "What is considered a lower income house?",
+    "speaker_turn": 98,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "96": {
+        "segment_words": "What is considered a lower income house?",
+        "link_turn_id": 96,
+        "linked_words": "a low income house"
+      }
+    }
+  },
+  "99": {
+    "link_turn_id": [
+      94,
+      96,
+      98
+    ],
+    "words": "That's what gets my blood pressure up in every meeting.",
+    "speaker_turn": 99,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "94": {
+        "segment_words": "That's what gets my blood pressure up in every meeting.",
+        "link_turn_id": 94,
+        "linked_words": "how do you change the narrative for the people that's in Braggtown to... education, job training..."
+      },
+      "96": {
+        "segment_words": "That's what gets my blood pressure up in every meeting.",
+        "link_turn_id": 96,
+        "linked_words": "To be able to even afford a low income house, like what?"
+      },
+      "98": {
+        "segment_words": "That's what gets my blood pressure up in every meeting.",
+        "link_turn_id": 98,
+        "linked_words": "What is considered a lower income house?"
+      }
+    }
+  },
+  "100": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 100,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {}
+  },
+  "101": {
+    "link_turn_id": [
+      96,
+      98
+    ],
+    "words": "Because we talk low income, middle class, upper class, right? Affordable housing is what's affordable in upper class. 500,000? What's affordable? So what's affordable for low class?",
+    "speaker_turn": 101,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "96": {
+        "segment_words": "So what's affordable for low class?",
+        "link_turn_id": 96,
+        "linked_words": "To be able to even afford a low income house, like what?"
+      },
+      "98": {
+        "segment_words": "So what's affordable for low class?",
+        "link_turn_id": 98,
+        "linked_words": "What is considered a lower income house?"
+      }
+    }
+  },
+  "102": {
+    "link_turn_id": [
+      101
+    ],
+    "words": "Cause now 300,000 is really not affordable. People making it work and you do what you got to do, out here you doing two, three jobs. But it is really...",
+    "speaker_turn": 102,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "101": {
+        "segment_words": "Cause now 300,000 is really not affordable.",
+        "link_turn_id": 101,
+        "linked_words": "Affordable housing is what's affordable in upper class. 500,000? What's affordable?"
+      }
+    }
+  },
+  "103": {
+    "link_turn_id": [
+      102
+    ],
+    "words": "You shouldn't have to work now.",
+    "speaker_turn": 103,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "102": {
+        "segment_words": "You shouldn't have to work now.",
+        "link_turn_id": 102,
+        "linked_words": "out here you doing two, three jobs."
+      }
+    }
+  },
+  "104": {
+    "link_turn_id": [
+      103
+    ],
+    "words": "No.",
+    "speaker_turn": 104,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "103": {
+        "segment_words": "No.",
+        "link_turn_id": 103,
+        "linked_words": "You shouldn't have to work now."
+      }
+    }
+  },
+  "105": {
+    "link_turn_id": [
+      101,
+      102
+    ],
+    "words": "But that's why... look who stay in the few gardens. What is that area called?",
+    "speaker_turn": 105,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "101": {
+        "segment_words": "But that's why... look who stay in the few gardens.",
+        "link_turn_id": 101,
+        "linked_words": "So what's affordable for low class?"
+      },
+      "102": {
+        "segment_words": "But that's why... look who stay in the few gardens.",
+        "link_turn_id": 102,
+        "linked_words": "out here you doing two, three jobs."
+      }
+    }
+  },
+  "106": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "[inaudible].",
+    "speaker_turn": 106,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {}
+  },
+  "107": {
+    "link_turn_id": [
+      105,
+      101,
+      102
+    ],
+    "words": "It's called something, but look who stay there. Either you are under some type of assistance or you are elderly. It ain't no... our age people, unless they under some housing assistance. So just like with Braggtown, if they going to develop Carver Street, they're not going to have a community at that magnitude with houses that's costing 300, 350,000. It's just not going to happen. So in five years, half the people there, is gone. It's going to start affecting them before five years, but they got to start weeding them out just like [inaudible] street. They got to weed them out. They got to find reasons to put you out, which you should have been put out long time ago. But the reason is going to stick then, so that's going to make it a difference. But it is definitely going to change the development and the beautification of it going change, because the tax dog going to change, it is going change the development.",
+    "speaker_turn": 107,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "105": {
+        "segment_words": "look who stay there. Either you are under some type of assistance or you are elderly.",
+        "link_turn_id": 105,
+        "linked_words": "look who stay in the few gardens. What is that area called?"
+      },
+      "101": {
+        "segment_words": "So just like with Braggtown, if they going to develop Carver Street, they're not going to have a community at that magnitude with houses that's costing 300, 350,000.",
+        "link_turn_id": 101,
+        "linked_words": "Affordable housing is what's affordable in upper class. 500,000? What's affordable?"
+      },
+      "102": {
+        "segment_words": "they're not going to have a community at that magnitude with houses that's costing 300, 350,000. It's just not going to happen.",
+        "link_turn_id": 102,
+        "linked_words": "Cause now 300,000 is really not affordable."
+      }
+    }
+  },
+  "108": {
+    "link_turn_id": [
+      107
+    ],
+    "words": "They already then changed.",
+    "speaker_turn": 108,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "107": {
+        "segment_words": "They already then changed.",
+        "link_turn_id": 107,
+        "linked_words": "it is going change the development"
+      }
+    }
+  },
+  "109": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "So no one here catches the bus. So everybody has their own transportation.",
+    "speaker_turn": 109,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {}
+  },
+  "110": {
+    "link_turn_id": [
+      107
+    ],
+    "words": "That's amazing, because Braggtown is where our grandma raised our-",
+    "speaker_turn": 110,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "107": {
+        "segment_words": "Braggtown is where our grandma raised our-",
+        "link_turn_id": 107,
+        "linked_words": "just like with Braggtown, if they going to develop Carver Street"
+      }
+    }
+  },
+  "111": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Oh, right here baby.",
+    "speaker_turn": 111,
+    "speaker_name": "Ashley",
+    "conversation_id": 2187,
+    "segments": {}
+  },
+  "112": {
+    "link_turn_id": [
+      110
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 112,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "110": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 110,
+        "linked_words": "That's amazing, because Braggtown is where our grandma raised our-"
+      }
+    }
+  },
+  "113": {
+    "link_turn_id": [
+      110
+    ],
+    "words": "I was physically born in Braggtown. Like literally born there.",
+    "speaker_turn": 113,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "110": {
+        "segment_words": "I was physically born in Braggtown.",
+        "link_turn_id": 110,
+        "linked_words": "Braggtown is where our grandma raised our-"
+      }
+    }
+  },
+  "114": {
+    "link_turn_id": [
+      113
+    ],
+    "words": "Thank you.",
+    "speaker_turn": 114,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "113": {
+        "segment_words": "Thank you.",
+        "link_turn_id": 113,
+        "linked_words": "I was physically born in Braggtown. Like literally born there."
+      }
+    }
+  },
+  "115": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "[inaudible].",
+    "speaker_turn": 115,
+    "speaker_name": "GROUP",
+    "conversation_id": 2187,
+    "segments": {}
+  },
+  "116": {
+    "link_turn_id": [
+      113,
+      108,
+      107,
+      110
+    ],
+    "words": "All right. So based on what we have talked about...",
+    "speaker_turn": 116,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "113": {
+        "segment_words": "based on what we have talked about",
+        "link_turn_id": 113,
+        "linked_words": "I was physically born in Braggtown. Like literally born there."
+      },
+      "108": {
+        "segment_words": "So based on what we have talked about...",
+        "link_turn_id": 108,
+        "linked_words": "They already then changed."
+      },
+      "107": {
+        "segment_words": "All right. So based on what we have talked about...",
+        "link_turn_id": 107,
+        "linked_words": "It's called something, but look who stay there."
+      },
+      "110": {
+        "segment_words": "All right.",
+        "link_turn_id": 110,
+        "linked_words": "That's amazing, because Braggtown is where our grandma raised our-"
+      }
+    }
+  },
+  "117": {
+    "link_turn_id": [
+      113,
+      116
+    ],
+    "words": "So I do want to throw this in, not just like some, oh well this has been bad. And identifying what are some things that you would want to see in the area. So if you could fight against gentrification, if you could do something better, not just like what you think is going to happen, but what would you like to see happen? If you could imagine a better brag time, what would it look like?",
+    "speaker_turn": 117,
+    "speaker_name": "Miles (City Staff)",
+    "conversation_id": 2187,
+    "segments": {
+      "113": {
+        "segment_words": "imagine a better brag time, what would it look like?",
+        "link_turn_id": 113,
+        "linked_words": "I was physically born in Braggtown."
+      },
+      "116": {
+        "segment_words": "identifying what are some things that you would want to see in the area. So if you could fight against gentrification, if you could do something better, not just like what you think is going to happen, but what would you like to see happen? If you could imagine a better brag time, what would it look like?",
+        "link_turn_id": 116,
+        "linked_words": "based on what we have talked about"
+      }
+    }
+  },
+  "118": {
+    "link_turn_id": [
+      117
+    ],
+    "words": "For me, it'll look like a cap on public housing. And it requires residents who hasn't worked to get knowledgeable enough as far as whatever it takes. GED, resumes or whatever to move out, because they'll be forced out if they don't prepare to move out.",
+    "speaker_turn": 118,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "117": {
+        "segment_words": "For me, it'll look like a cap on public housing.",
+        "link_turn_id": 117,
+        "linked_words": "what would you like to see happen?"
+      }
+    }
+  },
+  "119": {
+    "link_turn_id": [
+      117,
+      118
+    ],
+    "words": "Some better education for people.",
+    "speaker_turn": 119,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "117": {
+        "segment_words": "Some better education for people.",
+        "link_turn_id": 117,
+        "linked_words": "what would you like to see happen? If you could imagine a better brag time, what would it look like?"
+      },
+      "118": {
+        "segment_words": "Some better education for people.",
+        "link_turn_id": 118,
+        "linked_words": "GED, resumes or whatever to move out, because they'll be forced out if they don't prepare to move out."
+      }
+    }
+  },
+  "120": {
+    "link_turn_id": [
+      119,
+      118
+    ],
+    "words": "I mean the resources are there. It's just we have to depend on them to go to the resources.",
+    "speaker_turn": 120,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "119": {
+        "segment_words": "the resources are there",
+        "link_turn_id": 119,
+        "linked_words": "better education"
+      },
+      "118": {
+        "segment_words": "we have to depend on them to go to the resources.",
+        "link_turn_id": 118,
+        "linked_words": "residents who hasn't worked to get knowledgeable enough as far as whatever it takes. GED, resumes or whatever to move out"
+      }
+    }
+  },
+  "121": {
+    "link_turn_id": [
+      120
+    ],
+    "words": "Right.",
+    "speaker_turn": 121,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "120": {
+        "segment_words": "Right.",
+        "link_turn_id": 120,
+        "linked_words": "I mean the resources are there."
+      }
+    }
+  },
+  "122": {
+    "link_turn_id": [
+      120
+    ],
+    "words": "So the resources are available.",
+    "speaker_turn": 122,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "120": {
+        "segment_words": "the resources are available.",
+        "link_turn_id": 120,
+        "linked_words": "the resources are there."
+      }
+    }
+  },
+  "123": {
+    "link_turn_id": [
+      122
+    ],
+    "words": "[inaudible] basically.",
+    "speaker_turn": 123,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "122": {
+        "segment_words": "basically",
+        "link_turn_id": 122,
+        "linked_words": "the resources are available"
+      }
+    }
+  },
+  "124": {
+    "link_turn_id": [
+      117,
+      120,
+      118
+    ],
+    "words": "I think stipulations and penalties have to be put on public assistance to make people level up, cause if not, then that's why we generational circles in these communities. But again, for Morris Street to churches, we good. From Durham Regional to Infinity, we lose it. It's just that block. It's just that square.",
+    "speaker_turn": 124,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "117": {
+        "segment_words": "if you could do something better, not just like what you think is going to happen, but what would you like to see happen?",
+        "link_turn_id": 117,
+        "linked_words": "I think stipulations and penalties have to be put on public assistance to make people level up, cause if not, then that's why we generational circles in these communities."
+      },
+      "120": {
+        "segment_words": "cause if not, then that's why we generational circles in these communities",
+        "link_turn_id": 120,
+        "linked_words": "we have to depend on them to go to the resources"
+      },
+      "118": {
+        "segment_words": "I think stipulations and penalties have to be put on public assistance to make people level up, cause if not, then that's why we generational circles in these communities.",
+        "link_turn_id": 118,
+        "linked_words": "And it requires residents who hasn't worked to get knowledgeable enough as far as whatever it takes. GED, resumes or whatever to move out, because they'll be forced out if they don't prepare to move out."
+      }
+    }
+  },
+  "125": {
+    "link_turn_id": [
+      124
+    ],
+    "words": "That's where the dark cloud is.",
+    "speaker_turn": 125,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "124": {
+        "segment_words": "That's where the dark cloud is.",
+        "link_turn_id": 124,
+        "linked_words": "From Durham Regional to Infinity, we lose it. It's just that block. It's just that square."
+      }
+    }
+  },
+  "126": {
+    "link_turn_id": [
+      125
+    ],
+    "words": "It's right there.",
+    "speaker_turn": 126,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "125": {
+        "segment_words": "It's right there.",
+        "link_turn_id": 125,
+        "linked_words": "That's where the dark cloud is."
+      }
+    }
+  },
+  "127": {
+    "link_turn_id": [
+      125,
+      126
+    ],
+    "words": "It's the dark cloud right there.",
+    "speaker_turn": 127,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "125": {
+        "segment_words": "It's the dark cloud right there.",
+        "link_turn_id": 125,
+        "linked_words": "That's where the dark cloud is."
+      },
+      "126": {
+        "segment_words": "right there",
+        "link_turn_id": 126,
+        "linked_words": "right there"
+      }
+    }
+  },
+  "128": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Where you from? [inaudible], what is that? Wiggens Street, Duke [Surname]. Dearborn.",
+    "speaker_turn": 128,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {}
+  },
+  "129": {
+    "link_turn_id": [
+      125,
+      127,
+      124
+    ],
+    "words": "So it's that surface. So when we take that circle from, start at churches and go all the way around, go Old Ox Road, come down. Just that circle right there. That's it. If that could do a 360, the whole area, get a different talk. Cause that's the only part of the area that's the bad part is here.",
+    "speaker_turn": 129,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "125": {
+        "segment_words": "that's the bad part is here.",
+        "link_turn_id": 125,
+        "linked_words": "That's where the dark cloud is."
+      },
+      "127": {
+        "segment_words": "That's it. If that could do a 360, the whole area, get a different talk. Cause that's the only part of the area that's the bad part is here.",
+        "link_turn_id": 127,
+        "linked_words": "It's the dark cloud right there."
+      },
+      "124": {
+        "segment_words": "Just that circle right there. That's it.",
+        "link_turn_id": 124,
+        "linked_words": "But again, for Morris Street to churches, we good. From Durham Regional to Infinity, we lose it. It's just that block. It's just that square."
+      }
+    }
+  },
+  "130": {
+    "link_turn_id": [
+      125,
+      129,
+      124
+    ],
+    "words": "And it's really another bad part so to speak, cause a lot of times they don't [inaudible] in the neighborhood, people that come to the [inaudible].",
+    "speaker_turn": 130,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "125": {
+        "segment_words": "it's really another bad part so to speak",
+        "link_turn_id": 125,
+        "linked_words": "That's where the dark cloud is."
+      },
+      "129": {
+        "segment_words": "And it's really another bad part so to speak,",
+        "link_turn_id": 129,
+        "linked_words": "That's the only part of the area that's the bad part is here."
+      },
+      "124": {
+        "segment_words": "cause a lot of times they don't [inaudible] in the neighborhood",
+        "link_turn_id": 124,
+        "linked_words": "cause if not, then that's why we generational circles in these communities"
+      }
+    }
+  },
+  "131": {
+    "link_turn_id": [
+      130
+    ],
+    "words": "You're right.",
+    "speaker_turn": 131,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "130": {
+        "segment_words": "You're right.",
+        "link_turn_id": 130,
+        "linked_words": "And it's really another bad part so to speak, cause a lot of times they don't [inaudible] in the neighborhood, people that come to the [inaudible]."
+      }
+    }
+  },
+  "132": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Any opinions on that far end of the table? Kim, Ashley? I know it's good, but I mean... no thoughts.",
+    "speaker_turn": 132,
+    "speaker_name": "Miles (City Staff)",
+    "conversation_id": 2187,
+    "segments": {}
+  },
+  "133": {
+    "link_turn_id": [
+      132
+    ],
+    "words": "All right. Based on what we just talked about, what do we need to do, or what do we need from the city and how can the city help us turn this vision into reality? Me personally, I hate that question, because in the beginning of the introduction, it's these surveys that get your opinion in. Do they really, really take in consideration? Some projects I think they do, but I think the formal already said it is what it is. We just want to hear what you say. Maybe some modifications can be done after the process, but I don't think the process is based on resident's thoughts and opinions.",
+    "speaker_turn": 133,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "132": {
+        "segment_words": "Me personally, I hate that question, because in the beginning of the introduction, it's these surveys that get your opinion in. Do they really, really take in consideration? Some projects I think they do, but I think the formal already said it is what it is. We just want to hear what you say. Maybe some modifications can be done after the process, but I don't think the process is based on resident's thoughts and opinions.",
+        "link_turn_id": 132,
+        "linked_words": "Any opinions on that far end of the table? Kim, Ashley? I know it's good, but I mean... no thoughts."
+      }
+    }
+  },
+  "134": {
+    "link_turn_id": [
+      133
+    ],
+    "words": "But what if we're doing something new? This is new, this hasn't been done before in the city. What if it's possible?",
+    "speaker_turn": 134,
+    "speaker_name": "Miles (City Staff)",
+    "conversation_id": 2187,
+    "segments": {
+      "133": {
+        "segment_words": "But what if we're doing something new? This is new, this hasn't been done before in the city. What if it's possible?",
+        "link_turn_id": 133,
+        "linked_words": "Me personally, I hate that question, because in the beginning of the introduction, it's these surveys that get your opinion in. Do they really, really take in consideration? Some projects I think they do, but I think the formal already said it is what it is."
+      }
+    }
+  },
+  "135": {
+    "link_turn_id": [
+      134
+    ],
+    "words": "Ask they said...",
+    "speaker_turn": 135,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "134": {
+        "segment_words": "Ask they said...",
+        "link_turn_id": 134,
+        "linked_words": "What if it's possible?"
+      }
+    }
+  },
+  "136": {
+    "link_turn_id": [
+      134,
+      133
+    ],
+    "words": "So, I'll say this and, cause I'm not supposed to be talking, it's supposed to be you guys, but they do know that there is a need for affordable housing. The problem is that the city doesn't build affordable housing by itself. So they have to get developers that come in and want to build affordable housing to build affordable housing in the city. We don't have developers here. Now if we did, if had some people, let's say if all of us decided we had a couple of million dollars to throw around and we wanted to build affordable housing, the city will even give us credits or funds to help build affordable housing. But if nobody comes up, if everybody wants to only build market rate, we end up putting out requests and just the request just end up sitting out there and nothing happens. So to do that, we have to get people who actually want to build affordable housing first for us to be able to have more built in the city.",
+    "speaker_turn": 136,
+    "speaker_name": "Miles (City Staff)",
+    "conversation_id": 2187,
+    "segments": {
+      "134": {
+        "segment_words": "The problem is that the city doesn't build affordable housing by itself. So they have to get developers that come in and want to build affordable housing to build affordable housing in the city.",
+        "link_turn_id": 134,
+        "linked_words": "But what if we're doing something new? This is new, this hasn't been done before in the city."
+      },
+      "133": {
+        "segment_words": "The problem is that the city doesn't build affordable housing by itself.",
+        "link_turn_id": 133,
+        "linked_words": "maybe some modifications can be done after the process, but I don't think the process is based on resident's thoughts and opinions."
+      }
+    }
+  },
+  "137": {
+    "link_turn_id": [
+      136,
+      133
+    ],
+    "words": "But like AB just mentioned, which was in the conversation, you have to prove yourself first, which was a big conversation in the meeting. Like people tired, show us what you can do then maybe we are interested. But for now, no it's just the talk. But...",
+    "speaker_turn": 137,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "136": {
+        "segment_words": "show us what you can do then maybe we are interested",
+        "link_turn_id": 136,
+        "linked_words": "they do know that there is a need for affordable housing. The problem is that the city doesn't build affordable housing by itself. So they have to get developers that come in and want to build affordable housing to build affordable housing in the city."
+      },
+      "133": {
+        "segment_words": "Like people tired, show us what you can do then maybe we are interested.",
+        "link_turn_id": 133,
+        "linked_words": "I think the formal already said it is what it is. We just want to hear what you say. Maybe some modifications can be done after the process, but I don't think the process is based on resident's thoughts and opinions."
+      }
+    }
+  },
+  "138": {
+    "link_turn_id": [
+      137,
+      133
+    ],
+    "words": "Wait, wait. You just brought up a couple minutes ago how the roads used to be so bad and now they're fixing the roads. But here's the thing, I've only been here for a year, but when I got here... wait, I know y'all lived there your whole life. But here's thing. Miss Vanessa came up and took everybody on a bus tour to show them how bad it was. I had to sit down and was having meetings with them for a whole year and a half and then all of a sudden it got done. They found the money, we made enough of a stink and it got taken care of. I don't know what people did before me. I can't say nothing about that. But I can say something has happened in the year that I've been here, where there's been some results. Even just the fact that Chauntia, you are here and you've done a program, this didn't exist. Community partners didn't exist three years ago. And that's something brand new, because we got some people who want to shake up some stuff and said they wanted to do something and had an idea on how to spend the money instead of just waiting to find out. So there is a change. The thing is... it's slow, but that doesn't mean that it's not possible. So I want us to really talk about it being possible, because who knows, I could mess around, bump into the city manager tomorrow and have a long conversation and really tug on some heart stringss and then all of a sudden we able to get whatever we want. I don't know. But I don't want us to approach the conversation and be like, it's never going to happen, because I have seen stuff happen. I've sat at those tables with Sean Egen from the transportation department and said, Hey, we need money to do this, because nothing happened and there's a bunch of complaints in that area. And we've done it specifically for Braggtown. Other areas have not gotten as much stuff in the past two, three years as Braggtown has. So I just want to encourage you all to say that it is possible. Is it going to be the way we want it? I don't know, but at least we got to hear it.",
+    "speaker_turn": 138,
+    "speaker_name": "Miles (City Staff)",
+    "conversation_id": 2187,
+    "segments": {
+      "137": {
+        "segment_words": "I don't know what people did before me. I can't say nothing about that. But I can say something has happened in the year that I've been here, where there's been some results. Even just the fact that Chauntia, you are here and you've done a program, this didn't exist.",
+        "link_turn_id": 137,
+        "linked_words": "But for now, no it's just the talk."
+      },
+      "133": {
+        "segment_words": "But here's the thing, I've only been here for a year, but when I got here... wait, I know y'all lived there your whole life. But here's thing. Miss Vanessa came up and took everybody on a bus tour to show them how bad it was. I had to sit down and was having meetings with them for a whole year and a half and then all of a sudden it got done. They found the money, we made enough of a stink and it got taken care of. I don't know what people did before me. I can't say nothing about that. But I can say something has happened in the year that I've been here, where there's been some results. Even just the fact that Chauntia, you are here and you've done a program, this didn't exist. Community partners didn't exist three years ago.",
+        "link_turn_id": 133,
+        "linked_words": "Do they really, really take in consideration? Some projects I think they do, but I think the formal already said it is what it is. We just want to hear what you say. Maybe some modifications can be done after the process, but I don't think the process is based on resident's thoughts and opinions."
+      }
+    }
+  },
+  "139": {
+    "link_turn_id": [
+      138
+    ],
+    "words": "For me... Anything is possible, but when we're talking and I'm just being honest.",
+    "speaker_turn": 139,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "138": {
+        "segment_words": "Anything is possible",
+        "link_turn_id": 138,
+        "linked_words": "I just want to encourage you all to say that it is possible."
+      }
+    }
+  },
+  "140": {
+    "link_turn_id": [
+      139
+    ],
+    "words": "Be honest.",
+    "speaker_turn": 140,
+    "speaker_name": "Miles (City Staff)",
+    "conversation_id": 2187,
+    "segments": {
+      "139": {
+        "segment_words": "Be honest.",
+        "link_turn_id": 139,
+        "linked_words": "I'm just being honest."
+      }
+    }
+  },
+  "141": {
+    "link_turn_id": [
+      136,
+      138
+    ],
+    "words": "When we are talking handling communities, honestly, do I care about a bus stop? No. I don't care about a bus stop. But do I care about the gun rate and the violence rate in the area? Yes I do. Do I care about if they get a sidewalk? Maybe. Depends on what's around. Do kids go have to walk in the side? It all depends. So certain things as far as sidewalks and affordable housing, those are big projects that are input projects. I get it. I hear what you're saying. But the reality of it is, if they've never seen change, because of... Then it's kind of hard to say, well you got to believe us on this one. We about to make a difference. Tell me what you want. Give me all your ideas. We going to make a difference on this one. And then it's not... you all, it's you all that have to sell the story, you all have to collect all this data and sell the story.",
+    "speaker_turn": 141,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "136": {
+        "segment_words": "I get it. I hear what you're saying. But the reality of it is, if they've never seen change, because of...",
+        "link_turn_id": 136,
+        "linked_words": "The problem is that the city doesn't build affordable housing by itself. So they have to get developers that come in and want to build affordable housing to build affordable housing in the city."
+      },
+      "138": {
+        "segment_words": "if they've never seen change, because of... Then it's kind of hard to say, well you got to believe us on this one.",
+        "link_turn_id": 138,
+        "linked_words": "But I don't want us to approach the conversation and be like, it's never going to happen, because I have seen stuff happen."
+      }
+    }
+  },
+  "142": {
+    "link_turn_id": [
+      141
+    ],
+    "words": "And the struggle is real.",
+    "speaker_turn": 142,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "141": {
+        "segment_words": "And the struggle is real.",
+        "link_turn_id": 141,
+        "linked_words": "But the reality of it is, if they've never seen change, because of... Then it's kind of hard to say, well you got to believe us on this one."
+      }
+    }
+  },
+  "143": {
+    "link_turn_id": [
+      142
+    ],
+    "words": "Huh?",
+    "speaker_turn": 143,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "142": {
+        "segment_words": "Huh?",
+        "link_turn_id": 142,
+        "linked_words": "And the struggle is real."
+      }
+    }
+  },
+  "144": {
+    "link_turn_id": [
+      142
+    ],
+    "words": "The struggle is real.",
+    "speaker_turn": 144,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "142": {
+        "segment_words": "The struggle is real.",
+        "link_turn_id": 142,
+        "linked_words": "the struggle is real."
+      }
+    }
+  },
+  "145": {
+    "link_turn_id": [
+      141
+    ],
+    "words": "So it's like... I think, and which I think the residents need to be in these meetings, but they're not going to get on the Zoom calls. They're not going to be the ones that go to the city hall or city or whatever meetings, but... the vision of it is, it's not the reality.",
+    "speaker_turn": 145,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "141": {
+        "segment_words": "the vision of it is, it's not the reality.",
+        "link_turn_id": 141,
+        "linked_words": "But the reality of it is, if they've never seen change, because of... Then it's kind of hard to say, well you got to believe us on this one."
+      }
+    }
+  },
+  "146": {
+    "link_turn_id": [
+      145,
+      141
+    ],
+    "words": "But we can't even start taking steps in that direction if we don't know.",
+    "speaker_turn": 146,
+    "speaker_name": "Miles (City Staff)",
+    "conversation_id": 2187,
+    "segments": {
+      "145": {
+        "segment_words": "But we can't even start taking steps in that direction if we don't know.",
+        "link_turn_id": 145,
+        "linked_words": "but they're not going to get on the Zoom calls. They're not going to be the ones that go to the city hall or city or whatever meetings"
+      },
+      "141": {
+        "segment_words": "if we don't know.",
+        "link_turn_id": 141,
+        "linked_words": "Give me all your ideas."
+      }
+    }
+  },
+  "147": {
+    "link_turn_id": [
+      145,
+      141
+    ],
+    "words": "That's why I'm saying it's hard. It's hard to... So if we say-",
+    "speaker_turn": 147,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "145": {
+        "segment_words": "That's why I'm saying it's hard.",
+        "link_turn_id": 145,
+        "linked_words": "the residents need to be in these meetings, but they're not going to get on the Zoom calls. They're not going to be the ones that go to the city hall or city or whatever meetings"
+      },
+      "141": {
+        "segment_words": "That's why I'm saying it's hard. It's hard to...",
+        "link_turn_id": 141,
+        "linked_words": "Then it's kind of hard to say, well you got to believe us on this one."
+      }
+    }
+  },
+  "148": {
+    "link_turn_id": [
+      145
+    ],
+    "words": "But why won't they come to the meetings? Why won't they? I guess it is your mindset of-",
+    "speaker_turn": 148,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "145": {
+        "segment_words": "But why won't they come to the meetings? Why won't they?",
+        "link_turn_id": 145,
+        "linked_words": "they're not going to get on the Zoom calls. They're not going to be the ones that go to the city hall or city or whatever meetings"
+      }
+    }
+  },
+  "149": {
+    "link_turn_id": [
+      148
+    ],
+    "words": "The mindset too. You got to change the mindset.",
+    "speaker_turn": 149,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "148": {
+        "segment_words": "The mindset too. You got to change the mindset.",
+        "link_turn_id": 148,
+        "linked_words": "your mindset"
+      }
+    }
+  },
+  "150": {
+    "link_turn_id": [
+      149,
+      148
+    ],
+    "words": "I won't be better for yourself or your kids. You don't have to be a product of your environment. You can live in that environment, but you don't have to be a product of that environment. No. You can't go out there and make everybody put the guns down if you don't stay out here, don't come out here. But we live in Braggtown, we live in Federal Street. Yeah.",
+    "speaker_turn": 150,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "149": {
+        "segment_words": "You don't have to be a product of your environment.",
+        "link_turn_id": 149,
+        "linked_words": "You got to change the mindset."
+      },
+      "148": {
+        "segment_words": "You don't have to be a product of your environment. You can live in that environment, but you don't have to be a product of that environment.",
+        "link_turn_id": 148,
+        "linked_words": "I guess it is your mindset of-"
+      }
+    }
+  },
+  "151": {
+    "link_turn_id": [
+      150,
+      148
+    ],
+    "words": "It's like, but for one the generation is...",
+    "speaker_turn": 151,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "150": {
+        "segment_words": "It's like, but for one the generation is...",
+        "link_turn_id": 150,
+        "linked_words": "You don't have to be a product of your environment. You can live in that environment, but you don't have to be a product of that environment."
+      },
+      "148": {
+        "segment_words": "It's like, but for one the generation is...",
+        "link_turn_id": 148,
+        "linked_words": "But why won't they come to the meetings? Why won't they?"
+      }
+    }
+  },
+  "152": {
+    "link_turn_id": [
+      151
+    ],
+    "words": "It's different.",
+    "speaker_turn": 152,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "151": {
+        "segment_words": "It's different.",
+        "link_turn_id": 151,
+        "linked_words": "It's like, but for one the generation is..."
+      }
+    }
+  },
+  "153": {
+    "link_turn_id": [
+      151,
+      145
+    ],
+    "words": "To me is... if I ain't getting nothing out of, no matter how much it's going to benefit me knowledge wise or in the next three years when you start reading notices saying that third housing authority will no longer be full partners of this community, some of the... like [inaudible] using. So when you don't care day to day living, don't care about six months or what's going happen. It's the day to day.",
+    "speaker_turn": 153,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "151": {
+        "segment_words": "To me is... if I ain't getting nothing out of, no matter how much it's going to benefit me knowledge wise or in the next three years when you start reading notices saying that third housing authority will no longer be full partners of this community, some of the... like [inaudible] using. So when you don't care day to day living, don't care about six months or what's going happen.",
+        "link_turn_id": 151,
+        "linked_words": "It's like, but for one the generation is..."
+      },
+      "145": {
+        "segment_words": "So when you don't care day to day living, don't care about six months or what's going happen. It's the day to day.",
+        "link_turn_id": 145,
+        "linked_words": "but the vision of it is, it's not the reality."
+      }
+    }
+  },
+  "154": {
+    "link_turn_id": [
+      153,
+      150
+    ],
+    "words": "Just think it needs, to me it's just... And I don't want to see nobody without a place to stay. But it's accountability too. You know what I'm saying? It is accountability, holding people accountable, because if these are the rules to live in this area, Braggtown for one. And you don't supposed to have a person you got this, this, this in your house. They're not on your lease. You're putting yourself in your family at jeopardy. So hold that person accountable. We got to, that's the way you clean up the neighborhood. Let's clean up first and then.",
+    "speaker_turn": 154,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "153": {
+        "segment_words": "And I don't want to see nobody without a place to stay. But it's accountability too.",
+        "link_turn_id": 153,
+        "linked_words": "if I ain't getting nothing out of, no matter how much it's going to benefit me knowledge wise or in the next three years"
+      },
+      "150": {
+        "segment_words": "And I don't want to see nobody without a place to stay. But it's accountability too. You know what I'm saying? It is accountability, holding people accountable, because if these are the rules to live in this area, Braggtown for one.",
+        "link_turn_id": 150,
+        "linked_words": "You don't have to be a product of your environment. You can live in that environment, but you don't have to be a product of that environment."
+      }
+    }
+  },
+  "155": {
+    "link_turn_id": [
+      151
+    ],
+    "words": "But she said something, it's the generation she go, what's going on there? You got babies having babies.",
+    "speaker_turn": 155,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "151": {
+        "segment_words": "it's the generation",
+        "link_turn_id": 151,
+        "linked_words": "It's like, but for one the generation is..."
+      }
+    }
+  },
+  "156": {
+    "link_turn_id": [
+      154
+    ],
+    "words": "But even down to property managers, that's who has to take the lead of the property.",
+    "speaker_turn": 156,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "154": {
+        "segment_words": "that's who has to take the lead of the property.",
+        "link_turn_id": 154,
+        "linked_words": "It is accountability, holding people accountable, because if these are the rules to live in this area"
+      }
+    }
+  },
+  "157": {
+    "link_turn_id": [
+      156
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 157,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "156": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 156,
+        "linked_words": "But even down to property managers, that's who has to take the lead of the property."
+      }
+    }
+  },
+  "158": {
+    "link_turn_id": [
+      156
+    ],
+    "words": "We pay you, [inaudible] nothing need to work about you paying your rent. And if it's $50, $25 or whatever it is, it's paying the rent.",
+    "speaker_turn": 158,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "156": {
+        "segment_words": "We pay you, [inaudible] nothing need to work about you paying your rent.",
+        "link_turn_id": 156,
+        "linked_words": "But even down to property managers, that's who has to take the lead of the property."
+      }
+    }
+  },
+  "159": {
+    "link_turn_id": [
+      154,
+      156
+    ],
+    "words": "Cause if you start caring about where you live at, you going to start caring about what it look like outside. So to me that's almost a partnership. What can the city do for my community? What can I do for the city to help them make, it's like a partnership.",
+    "speaker_turn": 159,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {
+      "154": {
+        "segment_words": "What can the city do for my community? What can I do for the city to help them make, it's like a partnership.",
+        "link_turn_id": 154,
+        "linked_words": "It is accountability, holding people accountable, because if these are the rules to live in this area, Braggtown for one."
+      },
+      "156": {
+        "segment_words": "to me that's almost a partnership.",
+        "link_turn_id": 156,
+        "linked_words": "who has to take the lead of the property."
+      }
+    }
+  },
+  "160": {
+    "link_turn_id": [
+      159
+    ],
+    "words": "Make the community great, make it better.",
+    "speaker_turn": 160,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "159": {
+        "segment_words": "Make the community great, make it better.",
+        "link_turn_id": 159,
+        "linked_words": "What can the city do for my community? What can I do for the city to help them make, it's like a partnership."
+      }
+    }
+  },
+  "161": {
+    "link_turn_id": [
+      159
+    ],
+    "words": "So it is a mindset and being transparent and kind of trusting the process.",
+    "speaker_turn": 161,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {
+      "159": {
+        "segment_words": "it is a mindset",
+        "link_turn_id": 159,
+        "linked_words": "So to me that's almost a partnership. What can the city do for my community? What can I do for the city to help them make, it's like a partnership."
+      }
+    }
+  },
+  "162": {
+    "link_turn_id": [
+      159,
+      161
+    ],
+    "words": "But the first step, you got to get involved, didn't you say? Yeah, they don't, they ain't going to come to the meetings they don't want... cause they feel like it ain't going to help them. In their mind, they saying-",
+    "speaker_turn": 162,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "159": {
+        "segment_words": "But the first step, you got to get involved, didn't you say?",
+        "link_turn_id": 159,
+        "linked_words": "What can I do for the city to help them make, it's like a partnership."
+      },
+      "161": {
+        "segment_words": "Yeah, they don't, they ain't going to come to the meetings they don't want... cause they feel like it ain't going to help them. In their mind, they saying-",
+        "link_turn_id": 161,
+        "linked_words": "So it is a mindset"
+      }
+    }
+  },
+  "163": {
+    "link_turn_id": [
+      162
+    ],
+    "words": "So, do you all reach out to the people in the community or you all just come up with.",
+    "speaker_turn": 163,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {
+      "162": {
+        "segment_words": "do you all reach out to the people in the community",
+        "link_turn_id": 162,
+        "linked_words": "Yeah, they don't, they ain't going to come to the meetings"
+      }
+    }
+  },
+  "164": {
+    "link_turn_id": [
+      163
+    ],
+    "words": "That's what this is.",
+    "speaker_turn": 164,
+    "speaker_name": "Miles (City Staff)",
+    "conversation_id": 2187,
+    "segments": {
+      "163": {
+        "segment_words": "That's what this is.",
+        "link_turn_id": 163,
+        "linked_words": "do you all reach out to the people in the community or you all just come up with."
+      }
+    }
+  },
+  "165": {
+    "link_turn_id": [
+      163
+    ],
+    "words": "I mean, like [inaudible] that actually stay there.",
+    "speaker_turn": 165,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {
+      "163": {
+        "segment_words": "that actually stay there.",
+        "link_turn_id": 163,
+        "linked_words": "the people in the community"
+      }
+    }
+  },
+  "166": {
+    "link_turn_id": [
+      163,
+      164
+    ],
+    "words": "Yeah. So right now actually I have to find two people that live off of a couple of streets in Braggtown, because they have the easement of rights for putting out a new ramp right in front of their house. So smooth concrete for ADA compliance. But we want to reach out to them to talk to them first, to at least let them know what's about to happen on their house. So we do reach out. I think the part that people get frustrated with is, we'll reach out and sometimes the same way that if everybody's working from nine to five and I work nine to five and I'm calling you during them hours, I may not catch you. Right. So this meeting specifically is after hours and I have to be flexible to meet people where they're at. The problem is with stuff that's happened in our city for long, especially amongst city workers, is that we were moving in a way where we just thought, oh well if people care they'll show up, and then it would be a meeting at one o'clock in the afternoon on Tuesday and you ain't going to get nobody from the community coming out who work at nine to five, they got two jobs, got kids, got this or that. I'm not about to take off work to be here and talk to you and tell you, why ain't they cut down that tree that fell in my backyard a week ago. But that's the point of these conversations, you know what I mean?",
+    "speaker_turn": 166,
+    "speaker_name": "Miles (City Staff)",
+    "conversation_id": 2187,
+    "segments": {
+      "163": {
+        "segment_words": "So we do reach out.",
+        "link_turn_id": 163,
+        "linked_words": "So, do you all reach out to the people in the community"
+      },
+      "164": {
+        "segment_words": "But that's the point of these conversations, you know what I mean?",
+        "link_turn_id": 164,
+        "linked_words": "That's what this is."
+      }
+    }
+  },
+  "167": {
+    "link_turn_id": [
+      166
+    ],
+    "words": "What about the ones that don't work?",
+    "speaker_turn": 167,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {
+      "166": {
+        "segment_words": "What about the ones that don't work?",
+        "link_turn_id": 166,
+        "linked_words": "I'm not about to take off work to be here and talk to you and tell you, why ain't they cut down that tree that fell in my backyard a week ago."
+      }
+    }
+  },
+  "168": {
+    "link_turn_id": [
+      166,
+      167
+    ],
+    "words": "That don't work? I mean look, Miss Vanessa and it's other Mr. Chambers. I can name some names. You want to hear some names, some people that work that be here, they reach out, they call, they'll get on my nerves. And the thing is that we want you all to understand that cities mess up too. But think about it though, if we're talking about how quick there's turnover all the time and stuff gets lost. So imagine there's been three people in the district three strategist position in the last year. Three people have covered that district, including myself. This is my second time covering their district. But here's the thing, it's not nobody's fault, it's just that's how projects get lost. If somebody has to do something else, something isn't communicated completely to the whole team, something may fall in the cracks. So even when people make complaints, sometimes those things are forgotten because something happens, life happens. I'm literally down three, four people on my team right now and it's up to me to figure out, okay, how do I keep all these things? Yeah much better. How do I keep these things in the air? How do I keep these jobs and these balls in the air to make sure everybody's as happy as they can without me going crazy?",
+    "speaker_turn": 168,
+    "speaker_name": "Miles (City Staff)",
+    "conversation_id": 2187,
+    "segments": {
+      "166": {
+        "segment_words": "I mean look, Miss Vanessa and it's other Mr. Chambers. I can name some names. You want to hear some names, some people that work that be here, they reach out, they call, they'll get on my nerves.",
+        "link_turn_id": 166,
+        "linked_words": "The problem is with stuff that's happened in our city for long, especially amongst city workers, is that we were moving in a way where we just thought, oh well if people care they'll show up, and then it would be a meeting at one o'clock in the afternoon on Tuesday and you ain't going to get nobody from the community coming out who work at nine to five, they got two jobs, got kids, got this or that."
+      },
+      "167": {
+        "segment_words": "That don't work? I mean look, Miss Vanessa and it's other Mr. Chambers. I can name some names. You want to hear some names, some people that work that be here, they reach out, they call, they'll get on my nerves.",
+        "link_turn_id": 167,
+        "linked_words": "What about the ones that don't work?"
+      }
+    }
+  },
+  "169": {
+    "link_turn_id": [
+      168
+    ],
+    "words": "And everything is priority.",
+    "speaker_turn": 169,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "168": {
+        "segment_words": "And everything is priority.",
+        "link_turn_id": 168,
+        "linked_words": "How do I keep these things in the air? How do I keep these jobs and these balls in the air to make sure everybody's as happy as they can without me going crazy?"
+      }
+    }
+  },
+  "170": {
+    "link_turn_id": [
+      166,
+      168,
+      169
+    ],
+    "words": "And every everything... because there's always somebody who looks at their one thing being the most important thing. So stuff gets lost. The thing is though, now we need to really make sure that we're keeping track of it, right. So like I said before, we have a chunk of money. We have a chunk of money that's going to come down and you want to put in your 10 cent, your 2 cent on what you want to have happen with that money. That's what this is, this is an opportunity for you guys to say, Hey, I don't care what everybody else talking about, but can we get some new lights on this street, that street and this street and that be a priority. You guys are first at the table. Literally this is the second meating of this type that we've had so far for the first round of questions. So guess what? They're going to look at you all's stuff. You all information and what you guys want for your area is going to be top on the list before everybody else starts hearing about it. Before everybody else starts saying, well I want this and I want that. You guys are in the front of the line. So that's what this is, this is you saying, hey, you all got 5 million. Well look, some percentage of that needs to go towards lights and a bus stop here. And now the thing is that's not the only money that this information will be able to impact, because we've been building better relationships with Go Triangle with Durham County. So, that means that we may be able to get something, we may say, hey, this is a priority. It may not be out of the funds that we have for the equitable and green infrastructure project, but hey, this is a priority to this neighborhood. How can we address it? Let's figure out until we make some money shake. There's a Durham transit plan that has a whole bunch of money tied up in it there. There's pockets of money everywhere. But we need to at least know what we should be spending that money on. And that's what this is about. Saying, Hey, you all ain't did it before, but I want to make sure that you heard that we need this. This is our complaint, this is what we need, this is what we have to, that this is what we want. And then it's up to you all to trust me to turn around and go and pass it up the chain so that it gets to Wanda Page, so that it gets to all the people who make the decisions and be like, this is what they care about. They don't care about, I'm not going to say any unpopular projects, because I don't want to get torpedoed, but they don't care about X project. They really want Z to happen. So let's figure out how we can make Z to happen. That's what this is. So is it always going to be realistic? No. Is it all going to be immediate? No. But here's the thing, this is the first time that we're going to sit down, we're getting this information and we're collecting it to put it in one place. So whenever that somebody asks, Hey, what do people want? Instead of us having to sit here and send down another 50,000 surveys and it's on one person's hard drive that got forgotten when he changed jobs, it's going to be somewhere safe with the department. So they say whenever we have a question, we going to talk to the community engagement unit and hear what they heard. What do you all already have? Let's take a look at it. That's how we address it. That make sense?",
+    "speaker_turn": 170,
+    "speaker_name": "Miles (City Staff)",
+    "conversation_id": 2187,
+    "segments": {
+      "166": {
+        "segment_words": "Saying, Hey, you all ain't did it before, but I want to make sure that you heard that we need this. This is our complaint, this is what we need, this is what we have to, that this is what we want.",
+        "link_turn_id": 166,
+        "linked_words": "So this meeting specifically is after hours and I have to be flexible to meet people where they're at. The problem is with stuff that's happened in our city for long, especially amongst city workers, is that we were moving in a way where we just thought, oh well if people care they'll show up, and then it would be a meeting at one o'clock in the afternoon on Tuesday and you ain't going to get nobody from the community coming out who work at nine to five, they got two jobs, got kids, got this or that."
+      },
+      "168": {
+        "segment_words": "So stuff gets lost. The thing is though, now we need to really make sure that we're keeping track of it, right.",
+        "link_turn_id": 168,
+        "linked_words": "But here's the thing, it's not nobody's fault, it's just that's how projects get lost. If somebody has to do something else, something isn't communicated completely to the whole team, something may fall in the cracks. So even when people make complaints, sometimes those things are forgotten because something happens, life happens."
+      },
+      "169": {
+        "segment_words": "because there's always somebody who looks at their one thing being the most important thing. So stuff gets lost. The thing is though, now we need to really make sure that we're keeping track of it, right.",
+        "link_turn_id": 169,
+        "linked_words": "And everything is priority."
+      }
+    }
+  },
+  "171": {
+    "link_turn_id": [
+      170
+    ],
+    "words": "It does.",
+    "speaker_turn": 171,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "170": {
+        "segment_words": "It does.",
+        "link_turn_id": 170,
+        "linked_words": "That make sense?"
+      }
+    }
+  },
+  "172": {
+    "link_turn_id": [
+      167
+    ],
+    "words": "Did I answer your question? I'm sorry.",
+    "speaker_turn": 172,
+    "speaker_name": "Miles (City Staff)",
+    "conversation_id": 2187,
+    "segments": {
+      "167": {
+        "segment_words": "Did I answer your question?",
+        "link_turn_id": 167,
+        "linked_words": "What about the ones that don't work?"
+      }
+    }
+  },
+  "173": {
+    "link_turn_id": [
+      172
+    ],
+    "words": "So those are all the questions that we had. Oh no, no, no, I'm sorry, I'm sorry. Oh no, that was it.",
+    "speaker_turn": 173,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "172": {
+        "segment_words": "Oh no, that was it.",
+        "link_turn_id": 172,
+        "linked_words": "Did I answer your question?"
+      }
+    }
+  },
+  "174": {
+    "link_turn_id": [
+      173
+    ],
+    "words": "Wait, did you ask these?",
+    "speaker_turn": 174,
+    "speaker_name": "Miles (City Staff)",
+    "conversation_id": 2187,
+    "segments": {
+      "173": {
+        "segment_words": "Wait, did you ask these?",
+        "link_turn_id": 173,
+        "linked_words": "So those are all the questions that we had."
+      }
+    }
+  },
+  "175": {
+    "link_turn_id": [
+      174
+    ],
+    "words": "Yeah that's what we just talked about.",
+    "speaker_turn": 175,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "174": {
+        "segment_words": "Yeah that's what we just talked about.",
+        "link_turn_id": 174,
+        "linked_words": "Wait, did you ask these?"
+      }
+    }
+  },
+  "176": {
+    "link_turn_id": [
+      170
+    ],
+    "words": "Investments to infrastructure?",
+    "speaker_turn": 176,
+    "speaker_name": "Miles (City Staff)",
+    "conversation_id": 2187,
+    "segments": {
+      "170": {
+        "segment_words": "Investments to infrastructure?",
+        "link_turn_id": 170,
+        "linked_words": "how can we address it?"
+      }
+    }
+  },
+  "177": {
+    "link_turn_id": [
+      176
+    ],
+    "words": "No, I said this one. How the city can help.",
+    "speaker_turn": 177,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "176": {
+        "segment_words": "No, I said this one.",
+        "link_turn_id": 176,
+        "linked_words": "Investments to infrastructure?"
+      }
+    }
+  },
+  "178": {
+    "link_turn_id": [
+      177,
+      170
+    ],
+    "words": "Well let's ask this one. So infrastructure, bus stops, lights, water, sewage, any big things like that, that you all think that they could change that we need to change or focus on?",
+    "speaker_turn": 178,
+    "speaker_name": "Miles (City Staff)",
+    "conversation_id": 2187,
+    "segments": {
+      "177": {
+        "segment_words": "infrastructure, bus stops, lights, water, sewage, any big things like that, that you all think that they could change that we need to change or focus on?",
+        "link_turn_id": 177,
+        "linked_words": "How the city can help."
+      },
+      "170": {
+        "segment_words": "Well let's ask this one. So infrastructure, bus stops, lights, water, sewage, any big things like that, that you all think that they could change that we need to change or focus on?",
+        "link_turn_id": 170,
+        "linked_words": "so that it gets to all the people who make the decisions and be like, this is what they care about. They don't care about, I'm not going to say any unpopular projects, because I don't want to get torpedoed, but they don't care about X project. They really want Z to happen. So let's figure out how we can make Z to happen."
+      }
+    }
+  },
+  "179": {
+    "link_turn_id": [
+      178
+    ],
+    "words": "Prime example, lights.",
+    "speaker_turn": 179,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "178": {
+        "segment_words": "lights",
+        "link_turn_id": 178,
+        "linked_words": "lights"
+      }
+    }
+  },
+  "180": {
+    "link_turn_id": [
+      179
+    ],
+    "words": "You say lights. Yeah, I think we can get a little better lightning.",
+    "speaker_turn": 180,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "179": {
+        "segment_words": "You say lights. Yeah, I think we can get a little better lightning.",
+        "link_turn_id": 179,
+        "linked_words": "Prime example, lights."
+      }
+    }
+  },
+  "181": {
+    "link_turn_id": [
+      179,
+      180
+    ],
+    "words": "What's the purple light? Like the blue lights-",
+    "speaker_turn": 181,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "179": {
+        "segment_words": "What's the purple light? Like the blue lights-",
+        "link_turn_id": 179,
+        "linked_words": "lights"
+      },
+      "180": {
+        "segment_words": "What's the purple light?",
+        "link_turn_id": 180,
+        "linked_words": "lights"
+      }
+    }
+  },
+  "182": {
+    "link_turn_id": [
+      180
+    ],
+    "words": "Cameras. I think.",
+    "speaker_turn": 182,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "180": {
+        "segment_words": "Cameras.",
+        "link_turn_id": 180,
+        "linked_words": "lights."
+      }
+    }
+  },
+  "183": {
+    "link_turn_id": [
+      181,
+      182
+    ],
+    "words": "I thought so. They [inaudible] lights when they shoot...",
+    "speaker_turn": 183,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "181": {
+        "segment_words": "I thought so.",
+        "link_turn_id": 181,
+        "linked_words": "What's the purple light?"
+      },
+      "182": {
+        "segment_words": "I thought so.",
+        "link_turn_id": 182,
+        "linked_words": "Cameras."
+      }
+    }
+  },
+  "184": {
+    "link_turn_id": [
+      180,
+      183
+    ],
+    "words": "It just be in certain neighborhoods though. You go through certain places.",
+    "speaker_turn": 184,
+    "speaker_name": "Ashley",
+    "conversation_id": 2187,
+    "segments": {
+      "180": {
+        "segment_words": "It just be in certain neighborhoods though.",
+        "link_turn_id": 180,
+        "linked_words": "I think we can get a little better lightning."
+      },
+      "183": {
+        "segment_words": "It just be in certain neighborhoods though. You go through certain places.",
+        "link_turn_id": 183,
+        "linked_words": "I thought so. They [inaudible] lights when they shoot..."
+      }
+    }
+  },
+  "185": {
+    "link_turn_id": [
+      184,
+      183
+    ],
+    "words": "Oh that's [inaudible]. What's it called?",
+    "speaker_turn": 185,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "184": {
+        "segment_words": "What's it called?",
+        "link_turn_id": 184,
+        "linked_words": "certain neighborhoods"
+      },
+      "183": {
+        "segment_words": "What's it called?",
+        "link_turn_id": 183,
+        "linked_words": "They [inaudible] lights when they shoot..."
+      }
+    }
+  },
+  "186": {
+    "link_turn_id": [
+      183
+    ],
+    "words": "When the gun fire [inaudible].",
+    "speaker_turn": 186,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {
+      "183": {
+        "segment_words": "When the gun fire [inaudible].",
+        "link_turn_id": 183,
+        "linked_words": "They [inaudible] lights when they shoot..."
+      }
+    }
+  },
+  "187": {
+    "link_turn_id": [
+      184
+    ],
+    "words": "I thought they had that in downtown.",
+    "speaker_turn": 187,
+    "speaker_name": "Ashley",
+    "conversation_id": 2187,
+    "segments": {
+      "184": {
+        "segment_words": "I thought they had that in downtown.",
+        "link_turn_id": 184,
+        "linked_words": "It just be in certain neighborhoods though."
+      }
+    }
+  },
+  "188": {
+    "link_turn_id": [
+      187
+    ],
+    "words": "No, what they had put was something else.",
+    "speaker_turn": 188,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {
+      "187": {
+        "segment_words": "what they had put was something else",
+        "link_turn_id": 187,
+        "linked_words": "they had that in downtown"
+      }
+    }
+  },
+  "189": {
+    "link_turn_id": [
+      188
+    ],
+    "words": "It's coming.",
+    "speaker_turn": 189,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "188": {
+        "segment_words": "It's coming.",
+        "link_turn_id": 188,
+        "linked_words": "something else."
+      }
+    }
+  },
+  "190": {
+    "link_turn_id": [
+      189,
+      182
+    ],
+    "words": "It's like a little camera there they just [inaudible] something, but-",
+    "speaker_turn": 190,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {
+      "189": {
+        "segment_words": "It's like a little camera there they just [inaudible] something, but-",
+        "link_turn_id": 189,
+        "linked_words": "It's coming."
+      },
+      "182": {
+        "segment_words": "It's like a little camera there they just [inaudible] something, but-",
+        "link_turn_id": 182,
+        "linked_words": "Cameras. I think."
+      }
+    }
+  },
+  "191": {
+    "link_turn_id": [
+      184
+    ],
+    "words": "Yeah, cause they got them all down my street.",
+    "speaker_turn": 191,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "184": {
+        "segment_words": "they got them all down my street",
+        "link_turn_id": 184,
+        "linked_words": "It just be in certain neighborhoods though"
+      }
+    }
+  },
+  "192": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "So if we had to talk infrastructure, the whole Dearborn need a sidewalk from the time you turned off, all the way to Colonial, is so much foot traffic and bikes that be on club whatever.",
+    "speaker_turn": 192,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {}
+  },
+  "193": {
+    "link_turn_id": [
+      192
+    ],
+    "words": "And Dearborn.",
+    "speaker_turn": 193,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "192": {
+        "segment_words": "And Dearborn.",
+        "link_turn_id": 192,
+        "linked_words": "the whole Dearborn need a sidewalk"
+      }
+    }
+  },
+  "194": {
+    "link_turn_id": [
+      192
+    ],
+    "words": "But see, the sidewalk don't start till... Yeah, it don't start till after the graveyard, that little piece of sidewalk.",
+    "speaker_turn": 194,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "192": {
+        "segment_words": "Yeah, it don't start till after the graveyard, that little piece of sidewalk.",
+        "link_turn_id": 192,
+        "linked_words": "the whole Dearborn need a sidewalk from the time you turned off, all the way to Colonial"
+      }
+    }
+  },
+  "195": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "What is that, what's the street we come down the back, when we come to turn on or the highway? No coming into Brad County. No, I'm saying-",
+    "speaker_turn": 195,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {}
+  },
+  "196": {
+    "link_turn_id": [
+      192,
+      193
+    ],
+    "words": "Dearborn.",
+    "speaker_turn": 196,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "192": {
+        "segment_words": "Dearborn.",
+        "link_turn_id": 192,
+        "linked_words": "the whole Dearborn"
+      },
+      "193": {
+        "segment_words": "Dearborn.",
+        "link_turn_id": 193,
+        "linked_words": "Dearborn."
+      }
+    }
+  },
+  "197": {
+    "link_turn_id": [
+      192,
+      196,
+      194
+    ],
+    "words": "Dearborn. They need sidewalk.",
+    "speaker_turn": 197,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "192": {
+        "segment_words": "They need sidewalk.",
+        "link_turn_id": 192,
+        "linked_words": "the whole Dearborn need a sidewalk"
+      },
+      "196": {
+        "segment_words": "Dearborn.",
+        "link_turn_id": 196,
+        "linked_words": "Dearborn."
+      },
+      "194": {
+        "segment_words": "They need sidewalk.",
+        "link_turn_id": 194,
+        "linked_words": "the sidewalk don't start"
+      }
+    }
+  },
+  "198": {
+    "link_turn_id": [
+      197,
+      193
+    ],
+    "words": "On both sides.",
+    "speaker_turn": 198,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "197": {
+        "segment_words": "On both sides.",
+        "link_turn_id": 197,
+        "linked_words": "They need sidewalk."
+      },
+      "193": {
+        "segment_words": "On both sides.",
+        "link_turn_id": 193,
+        "linked_words": "And Dearborn."
+      }
+    }
+  },
+  "199": {
+    "link_turn_id": [
+      192,
+      198
+    ],
+    "words": "On both sides. All the way down to, like you said to what's that Club Boulevard.",
+    "speaker_turn": 199,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "192": {
+        "segment_words": "All the way down to, like you said to what's that Club Boulevard.",
+        "link_turn_id": 192,
+        "linked_words": "from the time you turned off, all the way to Colonial, is so much foot traffic and bikes that be on club whatever."
+      },
+      "198": {
+        "segment_words": "On both sides.",
+        "link_turn_id": 198,
+        "linked_words": "On both sides."
+      }
+    }
+  },
+  "200": {
+    "link_turn_id": [
+      192,
+      198,
+      199
+    ],
+    "words": "But it's sidewalks... like it is easy to fix a light. It's easy to get the lights fixed. I know. That's what happens, that's why I said it's got to be a partnership. If we give, don't tear it up. You know?",
+    "speaker_turn": 200,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "192": {
+        "segment_words": "But it's sidewalks... like it is easy to fix a light.",
+        "link_turn_id": 192,
+        "linked_words": "So if we had to talk infrastructure, the whole Dearborn need a sidewalk"
+      },
+      "198": {
+        "segment_words": "But it's sidewalks... it's easy to get the lights fixed.",
+        "link_turn_id": 198,
+        "linked_words": "On both sides."
+      },
+      "199": {
+        "segment_words": "That's what happens, that's why I said it's got to be a partnership.",
+        "link_turn_id": 199,
+        "linked_words": "All the way down to, like you said to what's that Club Boulevard."
+      }
+    }
+  },
+  "201": {
+    "link_turn_id": [
+      200
+    ],
+    "words": "[inaudible] the bus stop [inaudible], cause they tore up to set the trash cans on fire.",
+    "speaker_turn": 201,
+    "speaker_name": "Ashley",
+    "conversation_id": 2187,
+    "segments": {
+      "200": {
+        "segment_words": "cause they tore up to set the trash cans on fire",
+        "link_turn_id": 200,
+        "linked_words": "If we give, don't tear it up."
+      }
+    }
+  },
+  "202": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Even when I used to work at [inaudible].",
+    "speaker_turn": 202,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {}
+  },
+  "203": {
+    "link_turn_id": [
+      200
+    ],
+    "words": "I agree.",
+    "speaker_turn": 203,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "200": {
+        "segment_words": "I agree.",
+        "link_turn_id": 200,
+        "linked_words": "that's why I said it's got to be a partnership."
+      }
+    }
+  },
+  "204": {
+    "link_turn_id": [
+      202,
+      201
+    ],
+    "words": "We did [inaudible], and we did the bus route and even just like recent break time, you would get the people calling saying the bus ain't come or I was just at the bus stop and it went straight by me. What you really want at the bus stop, like you going to walk to the bus stop. Right. So you know what I'm saying? It's like a-",
+    "speaker_turn": 204,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {
+      "202": {
+        "segment_words": "We did [inaudible], and we did the bus route and even just like recent break time, you would get the people calling saying the bus ain't come or I was just at the bus stop and it went straight by me.",
+        "link_turn_id": 202,
+        "linked_words": "Even when I used to work at [inaudible]."
+      },
+      "201": {
+        "segment_words": "I was just at the bus stop and it went straight by me.",
+        "link_turn_id": 201,
+        "linked_words": "the bus stop"
+      }
+    }
+  },
+  "205": {
+    "link_turn_id": [
+      204
+    ],
+    "words": "But that has happened before, watching somebody [inaudible]. Drive right passed the students.",
+    "speaker_turn": 205,
+    "speaker_name": "Ashley",
+    "conversation_id": 2187,
+    "segments": {
+      "204": {
+        "segment_words": "Drive right passed the students.",
+        "link_turn_id": 204,
+        "linked_words": "it went straight by me."
+      }
+    }
+  },
+  "206": {
+    "link_turn_id": [
+      205,
+      204
+    ],
+    "words": "What the school bus? That would've been [inaudible] bad kids, they just-",
+    "speaker_turn": 206,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "205": {
+        "segment_words": "What the school bus?",
+        "link_turn_id": 205,
+        "linked_words": "Drive right passed the students."
+      },
+      "204": {
+        "segment_words": "What the school bus?",
+        "link_turn_id": 204,
+        "linked_words": "you would get the people calling saying the bus ain't come or I was just at the bus stop and it went straight by me"
+      }
+    }
+  },
+  "207": {
+    "link_turn_id": [
+      205,
+      201,
+      204
+    ],
+    "words": "We were just, like the park down there, park down [inaudible]. I used to walk, now... You can't even walk down one, you can't even walk to that park. Kids can't utilize...",
+    "speaker_turn": 207,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "205": {
+        "segment_words": "Kids can't utilize...",
+        "link_turn_id": 205,
+        "linked_words": "Drive right passed the students."
+      },
+      "201": {
+        "segment_words": "You can't even walk down one, you can't even walk to that park.",
+        "link_turn_id": 201,
+        "linked_words": "cause they tore up to set the trash cans on fire."
+      },
+      "204": {
+        "segment_words": "I used to walk, now... You can't even walk",
+        "link_turn_id": 204,
+        "linked_words": "like you going to walk to the bus stop"
+      }
+    }
+  },
+  "208": {
+    "link_turn_id": [
+      207
+    ],
+    "words": "Are you talking about Lakeview Park? The park very close from Lakeview student. Yeah.",
+    "speaker_turn": 208,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "207": {
+        "segment_words": "Are you talking about Lakeview Park?",
+        "link_turn_id": 207,
+        "linked_words": "like the park down there, park down [inaudible]."
+      }
+    }
+  },
+  "209": {
+    "link_turn_id": [
+      200,
+      207
+    ],
+    "words": "So out of everything we talked about, what would be the main priority, if we could say, okay let's fix this.",
+    "speaker_turn": 209,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "200": {
+        "segment_words": "what would be the main priority, if we could say, okay let's fix this.",
+        "link_turn_id": 200,
+        "linked_words": "it's sidewalks... like it is easy to fix a light. It's easy to get the lights fixed."
+      },
+      "207": {
+        "segment_words": "what would be the main priority, if we could say, okay let's fix this.",
+        "link_turn_id": 207,
+        "linked_words": "You can't even walk down one, you can't even walk to that park. Kids can't utilize..."
+      }
+    }
+  },
+  "210": {
+    "link_turn_id": [
+      209
+    ],
+    "words": "Lights. Lights.",
+    "speaker_turn": 210,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {
+      "209": {
+        "segment_words": "Lights. Lights.",
+        "link_turn_id": 209,
+        "linked_words": "what would be the main priority, if we could say, okay let's fix this."
+      }
+    }
+  },
+  "211": {
+    "link_turn_id": [
+      209,
+      210
+    ],
+    "words": "Lights and beautification.",
+    "speaker_turn": 211,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "209": {
+        "segment_words": "Lights and beautification.",
+        "link_turn_id": 209,
+        "linked_words": "what would be the main priority, if we could say, okay let's fix this."
+      },
+      "210": {
+        "segment_words": "Lights",
+        "link_turn_id": 210,
+        "linked_words": "Lights"
+      }
+    }
+  },
+  "212": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Yes. That is going to be a car wash.",
+    "speaker_turn": 212,
+    "speaker_name": "Ashley",
+    "conversation_id": 2187,
+    "segments": {}
+  },
+  "213": {
+    "link_turn_id": [
+      212
+    ],
+    "words": "Right in front of the [inaudible] parking lot.",
+    "speaker_turn": 213,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "212": {
+        "segment_words": "Right in front of the [inaudible] parking lot.",
+        "link_turn_id": 212,
+        "linked_words": "That is going to be a car wash."
+      }
+    }
+  },
+  "214": {
+    "link_turn_id": [
+      213,
+      212
+    ],
+    "words": "Oh Wow. I didn't know that.",
+    "speaker_turn": 214,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "213": {
+        "segment_words": "I didn't know that.",
+        "link_turn_id": 213,
+        "linked_words": "Right in front of the [inaudible] parking lot."
+      },
+      "212": {
+        "segment_words": "I didn't know that.",
+        "link_turn_id": 212,
+        "linked_words": "That is going to be a car wash."
+      }
+    }
+  },
+  "215": {
+    "link_turn_id": [
+      212
+    ],
+    "words": "That's like four car washes on one road.",
+    "speaker_turn": 215,
+    "speaker_name": "Ashley",
+    "conversation_id": 2187,
+    "segments": {
+      "212": {
+        "segment_words": "That's like four car washes on one road.",
+        "link_turn_id": 212,
+        "linked_words": "going to be a car wash."
+      }
+    }
+  },
+  "216": {
+    "link_turn_id": [
+      215
+    ],
+    "words": "That's a set up.",
+    "speaker_turn": 216,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "215": {
+        "segment_words": "That's a set up.",
+        "link_turn_id": 215,
+        "linked_words": "That's like four car washes on one road."
+      }
+    }
+  },
+  "217": {
+    "link_turn_id": [
+      215
+    ],
+    "words": "Car wash wasn't needed, but that location is only going to bring trouble.",
+    "speaker_turn": 217,
+    "speaker_name": "Ashley",
+    "conversation_id": 2187,
+    "segments": {
+      "215": {
+        "segment_words": "but that location is only going to bring trouble.",
+        "link_turn_id": 215,
+        "linked_words": "That's like four car washes on one road."
+      }
+    }
+  },
+  "218": {
+    "link_turn_id": [
+      216
+    ],
+    "words": "I just said, a set up.",
+    "speaker_turn": 218,
+    "speaker_name": "Gilfred",
+    "conversation_id": 2187,
+    "segments": {
+      "216": {
+        "segment_words": "a set up",
+        "link_turn_id": 216,
+        "linked_words": "a set up"
+      }
+    }
+  },
+  "219": {
+    "link_turn_id": [
+      218,
+      217
+    ],
+    "words": "That's going to be the meet up spot. It's going to be, it won't last long. It won't last long just because of the location. But again, if we had the money, tell the city to give us a blank check. We'll show them how.",
+    "speaker_turn": 219,
+    "speaker_name": "Ashley",
+    "conversation_id": 2187,
+    "segments": {
+      "218": {
+        "segment_words": "That's going to be the meet up spot.",
+        "link_turn_id": 218,
+        "linked_words": "a set up."
+      },
+      "217": {
+        "segment_words": "It won't last long just because of the location.",
+        "link_turn_id": 217,
+        "linked_words": "that location is only going to bring trouble."
+      }
+    }
+  },
+  "220": {
+    "link_turn_id": [
+      219
+    ],
+    "words": "Let's revamp the whole inside of [inaudible].",
+    "speaker_turn": 220,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "219": {
+        "segment_words": "Let's revamp the whole inside",
+        "link_turn_id": 219,
+        "linked_words": "if we had the money, tell the city to give us a blank check"
+      }
+    }
+  },
+  "221": {
+    "link_turn_id": [
+      220,
+      219
+    ],
+    "words": "A center for the youth to have something for them to do on the weekends and stuff where they can come and hang out and have some fun in that area.",
+    "speaker_turn": 221,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {
+      "220": {
+        "segment_words": "A center for the youth to have something for them to do on the weekends and stuff where they can come and hang out and have some fun in that area.",
+        "link_turn_id": 220,
+        "linked_words": "revamp the whole inside"
+      },
+      "219": {
+        "segment_words": "something for them to do on the weekends and stuff where they can come and hang out and have some fun in that area.",
+        "link_turn_id": 219,
+        "linked_words": "That's going to be the meet up spot."
+      }
+    }
+  },
+  "222": {
+    "link_turn_id": [
+      221
+    ],
+    "words": "Basketball...",
+    "speaker_turn": 222,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "221": {
+        "segment_words": "Basketball...",
+        "link_turn_id": 221,
+        "linked_words": "something for them to do on the weekends and stuff where they can come and hang out and have some fun"
+      }
+    }
+  },
+  "223": {
+    "link_turn_id": [
+      222
+    ],
+    "words": "Basketball, dancing, [inaudible]. We could do a whole bunch of activities and stuff in there. Have snacks for the kids.",
+    "speaker_turn": 223,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {
+      "222": {
+        "segment_words": "Basketball",
+        "link_turn_id": 222,
+        "linked_words": "Basketball..."
+      }
+    }
+  },
+  "224": {
+    "link_turn_id": [
+      223
+    ],
+    "words": "Yeah. Breakfast, lunch.",
+    "speaker_turn": 224,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "223": {
+        "segment_words": "Breakfast, lunch.",
+        "link_turn_id": 223,
+        "linked_words": "Have snacks for the kids."
+      }
+    }
+  },
+  "225": {
+    "link_turn_id": [
+      223,
+      221
+    ],
+    "words": "On Friday nights, have them come out and have some fun something for them to do during the weekdays and weekends. We don't have nothing for the kids to do.",
+    "speaker_turn": 225,
+    "speaker_name": "Kimberly",
+    "conversation_id": 2187,
+    "segments": {
+      "223": {
+        "segment_words": "On Friday nights, have them come out and have some fun something for them to do during the weekdays and weekends.",
+        "link_turn_id": 223,
+        "linked_words": "We could do a whole bunch of activities and stuff in there."
+      },
+      "221": {
+        "segment_words": "something for them to do during the weekdays and weekends. We don't have nothing for the kids to do.",
+        "link_turn_id": 221,
+        "linked_words": "something for them to do on the weekends and stuff"
+      }
+    }
+  },
+  "226": {
+    "link_turn_id": [
+      225
+    ],
+    "words": "I mean that we don't have nothing for the kids to do. That's when they go into trouble, so when you're not occupying your time... But it also starts at home. It's up to the parents to be a part of their kids life.",
+    "speaker_turn": 226,
+    "speaker_name": "Ashley",
+    "conversation_id": 2187,
+    "segments": {
+      "225": {
+        "segment_words": "I mean that we don't have nothing for the kids to do.",
+        "link_turn_id": 225,
+        "linked_words": "We don't have nothing for the kids to do."
+      }
+    }
+  },
+  "227": {
+    "link_turn_id": [
+      219,
+      225
+    ],
+    "words": "Morris street in the side street. We'll feel like family, cause that those are friendly, well community, neighboring people.",
+    "speaker_turn": 227,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "219": {
+        "segment_words": "Morris street in the side street.",
+        "link_turn_id": 219,
+        "linked_words": "That's going to be the meet up spot."
+      },
+      "225": {
+        "segment_words": "Morris street in the side street. We'll feel like family, cause that those are friendly, well community, neighboring people.",
+        "link_turn_id": 225,
+        "linked_words": "have them come out and have some fun something for them to do during the weekdays and weekends. We don't have nothing for the kids to do."
+      }
+    }
+  },
+  "228": {
+    "link_turn_id": [
+      219
+    ],
+    "words": "We can go to... down in community road, we can choose those sections out of the great cloud and get community meetings and we can go through and say, hey, do you want to do a community walk to watch the show up at the Black Sciences Museum. A lot of people.",
+    "speaker_turn": 228,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "219": {
+        "segment_words": "We can go to... down in community road, we can choose those sections out of the great cloud and get community meetings",
+        "link_turn_id": 219,
+        "linked_words": "That's going to be the meet up spot."
+      }
+    }
+  },
+  "229": {
+    "link_turn_id": [
+      227
+    ],
+    "words": "So when you feel like a community, you feel like a family so you care, so...",
+    "speaker_turn": 229,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "227": {
+        "segment_words": "when you feel like a community, you feel like a family",
+        "link_turn_id": 227,
+        "linked_words": "cause that those are friendly, well community, neighboring people."
+      }
+    }
+  },
+  "230": {
+    "link_turn_id": [
+      228,
+      227
+    ],
+    "words": "And that's those areas.",
+    "speaker_turn": 230,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187,
+    "segments": {
+      "228": {
+        "segment_words": "that's those areas",
+        "link_turn_id": 228,
+        "linked_words": "those sections out of the great cloud"
+      },
+      "227": {
+        "segment_words": "And that's those areas.",
+        "link_turn_id": 227,
+        "linked_words": "Morris street in the side street."
+      }
+    }
+  },
+  "231": {
+    "link_turn_id": [
+      229,
+      227
+    ],
+    "words": "But if I don't like my neighbor and I don't like that one across the street, because they got John staying right there and John don't even supposed to be out there, but we all know John don't supposed to be out there, but they ain't did nothing to Sue, cause Sue is paying her rent like... weed out the bad apples. Like it's a possibility. It's a possibility. I think it's possible, but you got to weed out bad apples.",
+    "speaker_turn": 231,
+    "speaker_name": "Benetrice",
+    "conversation_id": 2187,
+    "segments": {
+      "229": {
+        "segment_words": "we all know John don't supposed to be out there, but they ain't did nothing to Sue, cause Sue is paying her rent like... weed out the bad apples.",
+        "link_turn_id": 229,
+        "linked_words": "when you feel like a community, you feel like a family"
+      },
+      "227": {
+        "segment_words": "But if I don't like my neighbor and I don't like that one across the street, because they got John staying right there and John don't even supposed to be out there, but we all know John don't supposed to be out there, but they ain't did nothing to Sue, cause Sue is paying her rent like... weed out the bad apples. Like it's a possibility. It's a possibility. I think it's possible, but you got to weed out bad apples.",
+        "link_turn_id": 227,
+        "linked_words": "We'll feel like family, cause that those are friendly, well community, neighboring people."
+      }
+    }
+  },
+  "232": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "So... those are all questions that have for you. Do you have any closing thoughts that you's like share or [inaudible]. Any questions for us? No questions. Just a reminder of what will happen with the thoughts that you have shared... [inaudible] or you can search conversations, just the audio slip [inaudible]. You will receive an invitation again to join the [inaudible]. Thanks everyone for attending and giving your thoughts and opinions. We will do a EGI survey, little quick five questions. So if you can answer that and we'll be done. Thanks again.",
+    "speaker_turn": 232,
+    "speaker_name": "Chauntia",
+    "conversation_id": 2187
+  }
+}

@@ -1,0 +1,717 @@
+{
+  "1": {
+    "words": "About people of color, it's worse from there. So I'm really concerned, particularly with COVID, not just the people who have COVID and the risk of getting COVID, but the psychological implications and the pressures that people are kind of dealing with is not what any of us wanted.",
+    "link_turn_id": [
+      "NA"
+    ],
+    "speaker_turn": 1,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "2": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "Okay, great. Well I kind of introduced myself in the beginning. I'm Regina, and I do a lot of facilitation with schools, school districts, and nonprofits around race and identity and how it affects schools, the community, parent/family engagement, governance, discipline, all that rolled together. The COVID-19 is just a part of the process we've all been going through, and it's this big shared experience that we're having that's actually uncovering all the things we haven't paid attention to. It's public healthcare, it's clean water, it's access to resources. Like what you said, Shay, about food deserts, that kind of thing. I think a lot of folks of color are not really surprised of all the things that have been exposed because of this. It's things like, the dominant culture is surprised, shocked, and appalled, and we're not. The old folks used to say \"when white folks get a cold, we get the flu,\" and it's true.",
+    "speaker_turn": 2,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "3": {
+    "link_turn_id": [
+      2
+    ],
+    "words": "Pneumonia.",
+    "speaker_turn": 3,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "4": {
+    "link_turn_id": [
+      1,
+      2
+    ],
+    "words": "Right. So anything that I can do to help figure out how we come out on the other side of this with some answers and some, I found out that Rahm Emanuel said something really interesting. He said \"never waste a good crisis,\" so how can we come out of this interrupting practices that don't work and creating new ways for moving forward, because if we come out of this going back to the same practices, that would be sad.",
+    "speaker_turn": 4,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "5": {
+    "link_turn_id": [
+      4
+    ],
+    "words": "Exactly.",
+    "speaker_turn": 5,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "6": {
+    "link_turn_id": [
+      4,
+      5
+    ],
+    "words": "Yeah, so I am very into figuring that out. Okay. Well thank you for that, go ahead.",
+    "speaker_turn": 6,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "7": {
+    "link_turn_id": [
+      4,
+      6
+    ],
+    "words": "To a certain extent, don't you think that much will remain the same, because the people are making these decisions aren't affected, so they will continue. There's people that are still saying there's no reason to social distance.",
+    "speaker_turn": 7,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "8": {
+    "link_turn_id": [
+      7
+    ],
+    "words": "Oh my gosh. When I see pictures on the news of kids having parties, house parties, people on the beaches, Mayor Lightfoot saying, \"Look, what is the problem here? Adhere to these rules or else more people are going to die.\" I tell my kids and my family, that's why I wake up and go into public education everyday, because we have not taught people how to really be educated and how to listen to the news everyday, and how to find out what's going on in the world around you. Since people can curate what they listen to and what they view, I know grown people that don't look at the news everyday. They don't know what's going on. They don't know that 783 people died yesterday, or we got 1000 new more cases. So if you're living in this bubble, which a lot of our young people are, at least the ones I experience, because school is not working for them, or life isn't working for them, so they create their own bubble. They're just like pigs to slaughter. They don't really get that they are endangering themselves or endangering their families, so it's really sad to see that we've got generations of undereducated people, basically. I could go on for decades on that, but let's move on. The next thing I would like you to do is invite you to share a bit about your background, and take a moment to think of a time in your life where you felt participation in something really made a difference. How did that moment or experience influence who you are today? We're going to do a little quiet time here and let you think about. So I'll read it again: take a moment to think about a time in your life where you felt your participation in something really made a difference. How did that moment or experience influence who you are today?",
+    "speaker_turn": 8,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "9": {
+    "link_turn_id": [
+      8
+    ],
+    "words": "Okay, let me know when you're ready.",
+    "speaker_turn": 9,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "10": {
+    "link_turn_id": [
+      8,
+      9
+    ],
+    "words": "I kind of think I'm ready, but you can get started, you can go. How about you, Shay, you want to have a little bit more time?",
+    "speaker_turn": 10,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "11": {
+    "link_turn_id": [
+      10
+    ],
+    "words": "No, I'm ready.",
+    "speaker_turn": 11,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "12": {
+    "link_turn_id": [
+      11
+    ],
+    "words": "All right. Somehow I knew you'd be ready.",
+    "speaker_turn": 12,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "13": {
+    "link_turn_id": [
+      12
+    ],
+    "words": "I was born ready.",
+    "speaker_turn": 13,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "14": {
+    "link_turn_id": [
+      13
+    ],
+    "words": "Okay, Laurie?",
+    "speaker_turn": 14,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "15": {
+    "link_turn_id": [
+      8
+    ],
+    "words": "Okay, my name is Lorri. My background is in nonprofit administration and management. I've done a lot of work around really kind of building academic enrichment and personal development programs in nontraditional spaces, particularly as it relates to serving communities and people of color, black folks. Blacks and Latinos, if they identify as such. That's been my overall focal point. My basis is project management. I use project management and education as kind of a dual pathway to manifesting, not manifesting, to facilitating these sorts of activities that help communities. A time that I feel that my participation really made a difference, pretty active wherever I am, because I feel like I have a debt that I owe to any community in which I reside, so the one example I'll give you, I can't think of a current one, oh, yes I can. I recently did voter outreach, when we had our last election. At the last minute, I was called on to be an election judge, because there was actually a person that was scheduled in the space that I wound up working on, who left and didn't come back. So I stepped in, and folks came in to actually vote, very appreciative that there were people there, because there was a pretty significant shortage. That made me feel like I was contributing to the community, and contributing to the overall focus of equity.",
+    "speaker_turn": 15,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "16": {
+    "link_turn_id": [
+      15
+    ],
+    "words": "All right, that sounds great. I remember that, when people were bailing. They weren't showing up. Because I have a friend who was an election judge, and she had 20 people and then she had three people. That was crazy. Shay, what about you?",
+    "speaker_turn": 16,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "17": {
+    "link_turn_id": [
+      8,
+      15
+    ],
+    "words": "Well, my background actually is in finance, but I have been educating people in different arenas for a very long time. Due to a need for my children, I came to start working in the school system as what they call a community organizer and working with parents, and helping parents to understand how important it was to be a part of their child's education. But it happened, really, because I had a child that went into the public school system with an IEP, and I noticed the inequities that were happening. There was nobody there to really support me, and they kept telling me all these different things, that they wanted to put my child on medication and everything. It wasn't working for me, I was like, there's got to be another way, other than to have a child constantly on medication and walking through life looking, in my opinion, looking like a zombie. I became very interested in advocating for parents who didn't know any better, and that's what I do now. I actually advocate with parents and help parents to go in and help teachers. But the real thing that helped me and my moment that made me know that I made a difference is when I started doing this work, I went on the other side of the door, because I can tell you what happens as a parent when I'm outside of the school. I had no idea what was on when I walked in the inside, and I saw how the teachers are having to go through different things and not having the support, 30 kids in a classroom, one teacher, no other support, and five of them have an IEP, or 10 of them have an IEP, and she's expected to monitor these children as well as teach the other 20. It's not happening. And if it is happening, it's not happening in an efficient manner. What I do is I help parents to go into the classroom to support the teacher, and one parent came to me, who had two children that had an IEP, and she thanked me, and she said, \"You don't know, I didn't understand, before I came here. You don't know what a difference it makes for me to actually understand how important it is for me to be in here with this teacher and to help this teacher and to help this teacher with, even the other children,\" because once my parents go into the classrooms, they tend to have a whole different aspect of what the school system is really about, and they fall in love with the kids, and the kids, again, enrich them. They come back and they say, \"Thank you for giving me this opportunity. You made a difference. Thank you for letting me understand what really goes on,\" because we have a lot of parents that will complain on the outside of the school door, but they never bother to get involved. They never bother to see what's really happening. They never bother to see is it that the teacher just really doesn't want to get back to me, or the fact that she is so overwhelmed she can't. That's happening in our schools, in our community, but if you go up north, there's all kinds of teachers' aides, and there's such an inequity. I see parents that are leaving CPS and going out to different suburban schools, because they just want to give their child a better opportunity. I'm going to be honest with you, I was one of them. My child started out in Orland.",
+    "speaker_turn": 17,
+    "speaker_name": "Shay",
+    "conversation_id": 516
+  },
+  "18": {
+    "link_turn_id": [
+      17
+    ],
+    "words": "Oh wow.",
+    "speaker_turn": 18,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "19": {
+    "link_turn_id": [
+      17
+    ],
+    "words": "I knew, I lived right around the corner, I tell you, I lived in Roslyn. I lived in Roslyn when she was born, but I drove to Orland everyday because I wanted to give her the best opportunity. The only reason why I ended up coming back to CPS is because it became too big of a financial burden.",
+    "speaker_turn": 19,
+    "speaker_name": "Shay",
+    "conversation_id": 516
+  },
+  "20": {
+    "link_turn_id": [
+      17,
+      19
+    ],
+    "words": "Right, I can imagine. Wow, thanks for sharing that. Yeah, it's a lot. Parents aren't really encouraged to be involved either, and it's not made convenient for parents either, especially if you work two jobs, you work shift work. That's a whole, well, thank you for the work that you're doing with parents, because they need you. I guess my story is, I don't know, sometimes I wake up and think I'm not making a difference most mornings. There's been a couple times where, and the one that I'll share is one of my last public school positions, I have worked for CPS. I still work in CPS now, as a community partner, but I was up at Evanston Township High School, where I was for about six years, and I was a district-wide administrator. I was their first literacy coordinator, so it was about how do you get reading achievement up on a high school level? I was brought in to solve that big huge problem, and it was tough. But the one thing I will say that I was able to do was get every teacher and every department to know that they had to give kids reading strategies in order to, what am I trying to say? Deal with the content. To access the content. Because if you can't read, it doesn't matter what it says in your science book, because you can't read. You might know how a cell works in your head, but if you can't read it, you can't take the test. If you can't take the test, you know the story. I was able to do that, so integrate reading strategies in every content area, and we detracked humanities, which is English, social studies, and then, eventually, freshman biology. If you know how tracking works, kids take a test, and they get placed in a certain class based on that score, and they're in that track that whole four years. You can't get out of it, no matter if you got straight As the whole time you were there. If you get placed in a lower level class, you can never take an honors class, you can never take an AP class, because you're in that track. What we did was we got rid of tracking for those subjects for freshmen, so that, when they were initially placed, if they were able to achieve, then they were able to move up by just merit alone, and they were able to access honors classes and AP classes, and I was very happy about that, because you don't get into the good universities unless you have honors or AP, period. I found that out with my own kids. When we were going to school, it was like, have a good admissions essay, have some decent grades, and get a decent ACT score, right? But now you can have pretty much a top ACT or SAT, you can have a great essay, but if you do not have honors or AP, they don't consider it a college prep curriculum, and you do not have access to those top tier schools. That's the new gatekeeper, it's the AP and honors. Tell your parents that. When they go to high school, make sure they have honors or AP, it doesn't matter. My kid went to St. Rita, and he took three years of science, three years of math, two years of Latin. You know what I mean, I'm like, okay. And he got turned down by DePaul, Loyola, and it was another one, exactly. I'm just like, \"Wait a second. What is happening?\" But one guy at DePaul finally told me, and I was frustrated, as a parent, my kid is crying every night because he can't get into a college, that that was a new gate. Nobody informed me, but he said, \"You don't have an AP or an honors, and that's what they look at now.\" So who tells the parents, right?",
+    "speaker_turn": 20,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "21": {
+    "link_turn_id": [
+      20
+    ],
+    "words": "Some parents know.",
+    "speaker_turn": 21,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "22": {
+    "link_turn_id": [
+      "20"
+    ],
+    "words": "Some parents know. Somebody had to tell them, but I'm just saying, I sent my kid to a private school and nobody pulled me to the side and said, \"You know, your son really needs to go into AP Biology. He's getting good grades, he needs to go into XYZ.\" So anyway, that was something that happened with me and Evanston, and I was proud that it happened, because I think kids should be able to have access to opportunities based on their merit, not some random score that they achieved in July at some freshman placement test. All right, let's move on to COVID-19. We want to move on to the conversations about your hopes and concerns about COVID-19 in your community. We know this is a depressing issue before us as a nation, and we are already gearing up for two other events of huge consequence for us in 2020, before this hit, the election and the census. We're here today in light of COVID to reflect on what matters most as it will be reflected in the census and the election. So I've got a few questions to start us off, but I hope this will be a time for some back and forth among us as we share our stories. For the next part of the conversation, we'll move from the format of taking turns speaking to a more natural back and forth conversation. I think we're pretty much there. I'd invite you to respond to the points that resonate for you when they are made by others in the group, while being mindful that everyone who wants to participate has an opportunity to do so. So, first question: what strength has COVID-19 revealed or uncovered about your community or neighborhood? Share a story from your experience that will help us understand a little better. So what strengths has COVID-19 revealed or uncovered about your community or neighborhood?",
+    "speaker_turn": 22,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "23": {
+    "link_turn_id": [
+      22
+    ],
+    "words": "I'll start in Roslyn, because one of the things that, and I'll be honest with you, I'm not the most personable neighbor. I speak to everybody, but I'm not always trying to go and find all your kids and all that kind of stuff. That's just not me. I'm going to wave at you, how you doing, but I can tell you half the people on my block, and I've been here 20 years, I don't know their names. That's sad, it really is. But I've found that the people that I do know, and, in certain circumstances, they came up and they started talking and they were like, \"Well, you know what? I understand these are hard times. I just want to share with you the resource that I have. There's a food bank on the corner.\" Had no idea. Again, I've been here 20 years. Had no idea there was a food bank on the corner. It was like, \"I don't know if you need the services or not, but if you know someone that does, can you please share it?\" And I did share it, and there were people that actually went up and utilized it, and I actually even took people over there myself to the food bank for them to utilize that. I was like, oh my goodness, it's that take care of your neighbor that came up. I speak to the gentleman all the time, we wave or whatever, but he was like, \"Hey, look, I just want to share this with you, because I know you have kids.\" He didn't see me leaving out to go to work anymore. Are you being affected by not going to work? Luckily, I can work from home, but he didn't know that. He just thought, \"Okay, you might need some help.\" Stepped up to give me that help and to offer that help. Originally, my parents are from down south, and down south, that's what you did. You helped your neighbor. Everybody in the neighborhood ate. If you had something to eat, you made sure your neighbor had something to eat. That mentality has come back because of COVID-19. I'm seeing that come back. People are sharing resources. I have another neighbor who called me up and said, \"Shay, guess what. My sewing machine, I'm going to start making masks. Can I give you guys some?\"",
+    "speaker_turn": 23,
+    "speaker_name": "Shay",
+    "conversation_id": 516
+  },
+  "24": {
+    "link_turn_id": [
+      23
+    ],
+    "words": "Wow. That was great. How about you, Lorri?",
+    "speaker_turn": 24,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "25": {
+    "link_turn_id": [
+      23
+    ],
+    "words": "I guess my circumstances are a little bit different. I live in Naperville, and it is not a community of color. There are people of color here, but they all consider them to themselves, so they kind of identify as being not people of color. Enclave people that I interact with within that space-",
+    "speaker_turn": 25,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "26": {
+    "link_turn_id": [
+      25
+    ],
+    "words": "Oh, I'm losing you a little bit. Can you repeat what you just said?",
+    "speaker_turn": 26,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "27": {
+    "link_turn_id": [
+      26
+    ],
+    "words": "[inaudible 00:21:51]. And-",
+    "speaker_turn": 27,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "28": {
+    "link_turn_id": [
+      27
+    ],
+    "words": "Lorri, can you repeat what you just said?",
+    "speaker_turn": 28,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "29": {
+    "link_turn_id": [
+      26,
+      28
+    ],
+    "words": "Which part?",
+    "speaker_turn": 29,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "30": {
+    "link_turn_id": [
+      25,
+      29
+    ],
+    "words": "Well, you said something about we're not a community of color but there are people of color here.",
+    "speaker_turn": 30,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "31": {
+    "link_turn_id": [
+      25,
+      30
+    ],
+    "words": "I live in Naperville, and the area in which I live in is diverse in that there are people of color and people that are not of color, but the caveat is the people that are of color, that aren't black, don't identify themselves as people of color. They identify as being white. So it creates a really interesting dynamic. That said, there is a small enclave of people that are here and there's really no place where people can kind of congregate together consistently. But, when I go to the grocery store, I was saying that I see so many black men without face covering. I've seen black women without face covering, and you kind of have to assess the situation before you say things to people, because people are very sensitive these days, but when I feel or find that someone is approachable, I'll talk to them about it, like, \"Hey, do you need a mask? What's going on? Have you heard? It's hitting us harder than anybody else. You really need to protect yourself.\" Beyond my immediate surroundings, and my sister and I share a home, and we are both very much quarantined, because we have underlying conditions, like a lot of people of color, but one of the things I've also done is that I've reached out to, I have a couple of friends that are actually suffering with COVID, and really kind of supporting them with an extended community reach, and making sure that they have what they need, talking to them, checking on them everyday, that sort of thing.",
+    "speaker_turn": 31,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "32": {
+    "link_turn_id": [
+      23,
+      31
+    ],
+    "words": "Wow. Well, I can piggyback to what Shay was saying about the strengths. I've noticed that, and I've lived in my house exactly 20 years, and yes, there's people on the block I don't know, and I've watched new families come in. But there are some folks that live immediately around me that I do know, and so it's sharing the resources, it's like, \"Hey, they're going to be giving out masks here.\" Or \"I got this food from a food bank and I have tons of potatoes, do you want them? Or tons of bananas, do you want them?\" My neighbor, her kids are eligible to get the meals they're handing out, so she shares whatever they don't use. So it's a lot of sharing, but we were kind of like that before, but it's nice to see it. But the wellbeing check-ins are key. It's kind of like how are you doing, what's going on, how's your extended family, is everybody good? That kind of thing. Sharing stuff like, hey, the Walmart has senior hours, right? And the senior starts at 55, it doesn't start at 60 and up or 65, so you can go. I live right below Beverly, so I was around the Walmart that had COVID-19, I think it was 20 people and two people died. I haven't gone near there in eight weeks.",
+    "speaker_turn": 32,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "33": {
+    "link_turn_id": [
+      32
+    ],
+    "words": "Me either.",
+    "speaker_turn": 33,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "34": {
+    "link_turn_id": [
+      32
+    ],
+    "words": "I'll just pay the higher price.",
+    "speaker_turn": 34,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "35": {
+    "link_turn_id": [
+      32,
+      33
+    ],
+    "words": "I used to shop there all the time.",
+    "speaker_turn": 35,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "36": {
+    "link_turn_id": [
+      31,
+      32
+    ],
+    "words": "Right? But a neighbor said, \"Hey, go to the one out on 130th. It's more organized, it's quieter, plus you can get in there early and do what you need to do.\" It's little bits of information like that that get shared about the best way to go about navigating this stuff. But I have seen, when I've driven, not in my own community, but I have seen those little, there used to be those little community libraries, people had those little stands in their yard where you can lend a book, donate a book, borrow a book kind of thing, and people have been putting food in there now instead of books, so I've been seeing that happen, where people who need food can kind of just go and just take the canned goods or whatever. That's been nice. That's been nice. But not seeing, and I've stopped people and said, \"Look, man, where's your mask?\" Or it was three or four guys kind of congregating outside and I opened up my door and I said, \"Hey, six feet apart, you guys,\" you know what I mean? Even though as soon as I went back inside, they went back to getting closer to each other, but I can only do what I can do. But I think, we have always, as a community of color, like you said, Shay, down south, we've always kind of taken care of each other. We had to. So it's about loaning somebody a couple of eggs if they need it. I remember my mother saying, \"Hey, go next door and see if she's got sugar and I'll pay her back when I get it again,\" that kind of thing, but we've always kind of done that. I think it's with communities that have had everything at their fingertips, I think they're finding it really hard to kind of depend on people or kind of say, \"Oh my gosh, I'm out here, I'm anxious, I'm freaking out, what to do next,\" that kind of thing. We've always had those kind of informal networks where we can call each other, check in on each other, see what each other needs, that kind of thing. And then I see organizations like-",
+    "speaker_turn": 36,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "37": {
+    "link_turn_id": [
+      36
+    ],
+    "words": "If I could add to-",
+    "speaker_turn": 37,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "38": {
+    "link_turn_id": [
+      37
+    ],
+    "words": "-My Block, My Hood, My City. Have you heard of Jamal Cole? My Block, My Hood, My City? He is out there handing out care boxes to the seniors everyday, that kind of stuff. We've been doing that, community-based organizations been doing that forever in our communities. Go ahead, Laurie, I'm sorry. You wanted to add something?",
+    "speaker_turn": 38,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "39": {
+    "link_turn_id": [
+      38
+    ],
+    "words": "To your point, it's kind of interesting, because out here, people were losing their minds, it was amazing, and I ran into-",
+    "speaker_turn": 39,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "40": {
+    "link_turn_id": [
+      39
+    ],
+    "words": "Really?",
+    "speaker_turn": 40,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "41": {
+    "link_turn_id": [
+      32,
+      36,
+      38
+    ],
+    "words": "-While shopping. It was funny, and because I would run into people of color, like black women, and a couple of them said, \"Are we underreacting to this? Because you don't see us out here doing what they're doing.\" People were buying freezers. Freezers, literal freezers. Freezers, like deep freezes like my black family had. What I said to each of those folks was that we're always prepared. This is the same old three, six, nine for us. We've always got a freezer, we're always going to have some backup food, we always have some sort of network [crosstalk 00:28:56]. Just the idea, I was amazed that people were buying cleaning products, because my thought was, \"What were you cleaning with before?\" It's been an interesting dynamic to watch, for sure. I think the thing too is this is, and that might be one of the problems that we're having and why we're so affected health-wise, because this is not, they keep calling it the new normal. This is not a new normal for us. We've been in survival mode for a long time as the black community.",
+    "speaker_turn": 41,
+    "speaker_name": "Shay",
+    "conversation_id": 516
+  },
+  "42": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "[inaudible 00:29:29].",
+    "speaker_turn": 42,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "43": {
+    "link_turn_id": [
+      41
+    ],
+    "words": "Right, and like you said, everybody had a freezer in their basement, to store that food or to get that stuff when it was on sale. You had 10 bags of whatever because it was on sale in your freezer, right? That's always been, but it's interesting. What you said really makes me think about the resiliency. And I kind of felt the same thing. I was like, \"Yes, this is terrible, yes we've never seen anything like this in our lifetime, but you do what you need to do to get through it.\" But sitting there, sweating, crying, and rocking back and forth, that doesn't do anything. But you're right, a lot of my colleagues, who are white, are just so anxious. They're not sleeping, they're going through this big crisis. They feel completely powerless.",
+    "speaker_turn": 43,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "44": {
+    "link_turn_id": [
+      41,
+      43
+    ],
+    "words": "I believe that's because this, again, like I said, this is not new to us as a community. It's not new to us, so, again, we've always stayed in survival mode. Even if it comes from our ancestors from down south. We've always stayed in survival mode, so when this happened, it's horrible, but we didn't, I think, panic as much, simply because we've been here for a long time, and I've been listening to different faith-based organizations. My church, even though we can't go to church right now, and I think that's where we're struggling with the fact that we can't all go to church, but the church came to us [inaudible 00:31:24]. There was another comfort level that was put in there, and I think when we're talking about some of the young black people that are like, \"What's the big deal? I don't get it,\" because we've always been here, and that's why I think they're also putting themselves at risk, because they've always been here, so they don't see the urgency. They don't see, I was horrified when I saw those pictures of the party that happened. I'm like, \"Do you not get it?\" But they've always been in this mindset to, we've always been in crisis, so we might as well go ahead, life as normal, because we've always been here.",
+    "speaker_turn": 44,
+    "speaker_name": "Shay",
+    "conversation_id": 516
+  },
+  "45": {
+    "link_turn_id": [
+      41,
+      44
+    ],
+    "words": "And this is their first big crisis, really. Even my kids. My kids are in their early 30s. This is their first big deal. When I grew up, it was Vietnam War, it was riots at Gage Park High School when they were integrating, it was stuff happening, and that's why I feel like I have a sensibility that my kids, even though I've tried to instill it in them, and they have it to a certain degree, but it's always about fighting for something. It's always about being an advocate for something. It's always about defending your community and all that kind of stuff. They're kind of like, \"Yeah, that's nice,\" and me, it's part of my DNA because I grew up in the late '60s and throughout the '70s. This is their first crisis, and I think a part of them doesn't want to deal with how urgent it is. There was one other thing I wanted to say too and I forgot. It'll come back. It was good too, but it'll come back. Go ahead.",
+    "speaker_turn": 45,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "46": {
+    "link_turn_id": [
+      45
+    ],
+    "words": "While you're thinking, I'd like to add my thoughts. My youngest daughter is 26, and so she called me. And she said, \"I'll be over this weekend because they're going to lift the restrictions,\" and I was like, \"Whoa.\"",
+    "speaker_turn": 46,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "47": {
+    "link_turn_id": [
+      46
+    ],
+    "words": "Right.",
+    "speaker_turn": 47,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "48": {
+    "link_turn_id": [
+      46
+    ],
+    "words": "She said, \"Well, they're lifting the restrictions,.\" I said, \"I don't let the government determine when I lift the quarantine.\" I'm looking at CDC, I'm looking at folks who really know, plus I'm taking into account my own challenges. She was like, \"Okay,\" but it's just that whole idea that all of a sudden the government's going to open up the country and then we'll all be okay. That's not it.",
+    "speaker_turn": 48,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "49": {
+    "link_turn_id": [
+      48
+    ],
+    "words": "Right, and we grew up kind of in an era where you could kind of trust the government, if they were going to open, you kind of figured they did the research obviously, and so maybe, but now-",
+    "speaker_turn": 49,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "50": {
+    "link_turn_id": [
+      49
+    ],
+    "words": "Have we? Have we?",
+    "speaker_turn": 50,
+    "speaker_name": "Shay",
+    "conversation_id": 516
+  },
+  "51": {
+    "link_turn_id": [
+      49,
+      50
+    ],
+    "words": "I don't trust them.",
+    "speaker_turn": 51,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "52": {
+    "link_turn_id": [
+      50,
+      51
+    ],
+    "words": "No, now no.",
+    "speaker_turn": 52,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "53": {
+    "link_turn_id": [
+      51,
+      52
+    ],
+    "words": "That's always a tenuous relationship.",
+    "speaker_turn": 53,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "54": {
+    "link_turn_id": [
+      49,
+      51,
+      53
+    ],
+    "words": "But I think, even though we had, yes, we had governments that had lied to us over the decades, but it was just a certain line when it came to something like this, it's like everybody kind of banded together. The wars, and that kind of thing, like look. We need to act as a group and we need to do this. I don't know, it was like the CIA got paid attention to, the scientists for the National Institutes of Health got paid attention to. They didn't get fired like they do now, you know what I mean?",
+    "speaker_turn": 54,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "55": {
+    "link_turn_id": [
+      49,
+      54
+    ],
+    "words": "To contextualize it, I think it's more our particular administration. I guess I just struggle with agreeing that we've ever been told the truth.",
+    "speaker_turn": 55,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "56": {
+    "link_turn_id": [
+      55
+    ],
+    "words": "Yeah, that's true. I kind of went out on a limb on that, but I just feel like now, you can't believe anything. You can't, nothing.",
+    "speaker_turn": 56,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "57": {
+    "link_turn_id": [
+      55,
+      56
+    ],
+    "words": "No, because this administration is just Booboo the fool and his friends.",
+    "speaker_turn": 57,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "58": {
+    "link_turn_id": [
+      49,
+      54,
+      56
+    ],
+    "words": "This is the point I was going to just throw out there. My brother worked for Illinois Department of Human Services probably about, let me see. Over 10 years ago. And we were doing work in Englewood, I was working with some schools, and he actually was working with Englewood, because his job was to go out and tell people in the community of all these grant programs and resources that the state of Illinois offers that people didn't know about. One of his key projects was emergency preparedness, and I remember him giving presentations to people about we are so vulnerable, we don't even know it. If our power grid got taken out, we would be literally in survival mode. There would be no cell phones, there would be no refrigeration for food. There would be no computers, there would be no getting money out of the bank. There would be nothing, so you have to prepare. He would help people figure out how do I prepare for an emergency? I remember people would say, \"Wow, that's really interesting,\" but nobody ever took it seriously. It was kind of like he was \"womp womp womp,\" and people didn't take it seriously. But he kind of planted the seed in me, and now, as I look back 15 years later, I'm like, \"Man, you were warning people. You were warning people that things like this could happen.\" We're not ready, and being prepared for an emergency is a privilege. Like you said, not a lot of us have money to go out to [inaudible] and buy freezers or build bunkers or panic rooms or have all this food stored up. It's really a privilege to be prepared for an emergency. That's a whole 'nother question, how do we get our neighbors prepared? Because this is not the last emergency that's going to happen. Matter of fact, they might start happening closer and closer. So that was something that I kind of thought of. Whose right is it to survive an emergency situation? And it comes down to the ones that have the sweeter privileges. How do poor people survive a national emergency? We don't. Go ahead. I'm sorry?",
+    "speaker_turn": 58,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "59": {
+    "link_turn_id": [
+      58
+    ],
+    "words": "We should be able to.",
+    "speaker_turn": 59,
+    "speaker_name": "Shay",
+    "conversation_id": 516
+  },
+  "60": {
+    "link_turn_id": [
+      59
+    ],
+    "words": "Yes, we should be able to.",
+    "speaker_turn": 60,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "61": {
+    "link_turn_id": [
+      58,
+      60
+    ],
+    "words": "But you're right, we don't. We sit around and we live for things like the stimulus that's happening, and we hope that that's going to get us through. It's not, it's a temporary fix. It's a bandaid. It's a simple bandaid. Like you're putting a bandaid on a gushing wound.",
+    "speaker_turn": 61,
+    "speaker_name": "Shay",
+    "conversation_id": 516
+  },
+  "62": {
+    "link_turn_id": [
+      61
+    ],
+    "words": "Right, and it's kind of like remember back in the day when Bush gave us $300? Mailed out a $300 check to everybody and everybody got so happy they got $300, and I'm like, \"What does that really do?\"",
+    "speaker_turn": 62,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "63": {
+    "link_turn_id": [
+      61,
+      62
+    ],
+    "words": "Exactly, because guess what? Rent was due this month too. Thank you.",
+    "speaker_turn": 63,
+    "speaker_name": "Shay",
+    "conversation_id": 516
+  },
+  "64": {
+    "link_turn_id": [
+      63
+    ],
+    "words": "Right.",
+    "speaker_turn": 64,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "65": {
+    "link_turn_id": [
+      61,
+      63
+    ],
+    "words": "Thank you for April, but rent's due this month too. Now you're telling me, oh, it looks like we've got to stop. You're telling me, \"Okay, I'm going to ask your landlord not to charge you for rent.\" Okay, thank you for doing that, but that's not going to happen. That landlord is going to be expecting his money, and I just got laid off. I have no place to live now. Or I have no place to put my kids. This is a temporary fix. What's going to happen when I need to have a place for my kids to live in July?",
+    "speaker_turn": 65,
+    "speaker_name": "Shay",
+    "conversation_id": 516
+  },
+  "66": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Right. I am going to play a quote for you, and I want you to, these are quotes from other conversations. Let me see. It's bringing a voice of someone who participated in a similar conversation in the Local Voices Network in another part of the country, and I want you to imagine that this person is in the room with us and listen closely to their comments. I'll then invite you to share any responses or insights you gain from listening to these comments, okay? I'm on the page with the comments. Let me see if, let's see if this will work here.",
+    "speaker_turn": 66,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "67": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "I don't know what to say other than-",
+    "speaker_turn": 67,
+    "speaker_name": "Speaker 4",
+    "conversation_id": 516
+  },
+  "68": {
+    "link_turn_id": [
+      66
+    ],
+    "words": "Could you hear that, yes?",
+    "speaker_turn": 68,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "69": {
+    "link_turn_id": [
+      68
+    ],
+    "words": "Mm-hmm (affirmative). Yes.",
+    "speaker_turn": 69,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "70": {
+    "link_turn_id": [
+      66
+    ],
+    "words": "Okay, let me see if I can, I'll try to find a particular one. Of course it's not working, but they have a lot of comments here. Let's see here. Okay. Okay, I'm going to play this one and then we can react to it.",
+    "speaker_turn": 70,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "71": {
+    "link_turn_id": [
+      65
+    ],
+    "words": "My concern is that we won't find a cure in time, so it's going to impact those neighborhoods like North Birmingham, Collegeville, those type of neighborhoods because we have the older residents. Also, the fact that you have the older residents, and a lot of them are scared to go to the hospital because of the coronavirus, but they have other comorbidities that they need to be seeing their doctors for to stay healthy, but they're afraid to go out to seek that help, so they're not seeking the help for the diabetes, the high blood pressure, the heart disease, because they're afraid to go out, so that's my concern. If it's not corona, by them not seeking the medical attention they need to keep themselves healthy and upkeep their health, then they'll be suffering with those things and they'll get worse, which, once again, would make them more susceptible to the coronavirus, because they're actually afraid. That's my concern.",
+    "speaker_turn": 71,
+    "speaker_name": "Highlight",
+    "conversation_id": 516
+  },
+  "72": {
+    "link_turn_id": [
+      71
+    ],
+    "words": "So, reactions?",
+    "speaker_turn": 72,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "73": {
+    "link_turn_id": [
+      71
+    ],
+    "words": "I don't think coronavirus is going to ease up. I think it's going to continue to intensify, as they indicated. I think what's important is for us to figure out some sort of way to reach these folks to help keep them healthy and to help give them more supports. We're all a vulnerable population, and I do agree with that. I actually have a friend whose brother got sick. She's in another country. Brother got sick, they didn't take him to the hospital because they were afraid of coronavirus. When they finally had to take him to the hospital, he wound up dying, because the team that was there to take care of patients without corona didn't know how to deal with his situation, because they were residents. It's a lot. It's a lot on the system, it's a lot on the people, there's a lot of fear. There just has to me more infrastructure and consideration put into place.",
+    "speaker_turn": 73,
+    "speaker_name": "Lorri",
+    "conversation_id": 516
+  },
+  "74": {
+    "link_turn_id": [
+      65
+    ],
+    "words": "Shay?",
+    "speaker_turn": 74,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  },
+  "75": {
+    "link_turn_id": [
+      71,
+      73
+    ],
+    "words": "I agree, and I understand. I don't think corona is going away either. I think it's going to be something that's similar to the flu. It's going to keep coming back. Hopefully they will find a vaccine for us in order to help us, but in the meantime, what does happen if I have diabetes? I had a niece who got appendicitis, and I was telling my little brother, \"You can't take her to the hospital.\" He was like, \"What do you mean I can't take her to the hospital? She has appendicitis, she has to have surgery.\" I was so fearful. So I understand how those people are feeling. I don't want to go out there, because I'm putting myself at risk, but if I stay at home, I'm still putting myself at risk, so it's a situation they, excuse my French, but I'm damned if I do, I'm damned if don't. The thing with that is I don't know what the solution is. I wish I had a solution. I think you need to take care of yourself. I think you need to put a mask on and take the chances, but if it's a situation similar to what Laurie was saying, then you go in and you have the residents taking care of me. They don't know how to take care of me anyway, so I've now put myself at risk for no reason.",
+    "speaker_turn": 75,
+    "speaker_name": "Shay",
+    "conversation_id": 516
+  },
+  "76": {
+    "link_turn_id": [
+      72,
+      73,
+      75
+    ],
+    "words": "First of all, I want to say thank you guys for participating in this conversation. It was great. The other thing I wanted to just add on what you're saying is that institutions have not been trustworthy resources for us. Public schools, hospitals, state agencies, and that adds to the people not going to get help when they need to, because you don't want to go in a hospital because you don't know what's going to happen, right?",
+    "speaker_turn": 76,
+    "speaker_name": "Regina",
+    "conversation_id": 516
+  }
+}
