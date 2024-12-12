@@ -4,9 +4,9 @@ d3.json('convo_dict copy.json').then(function (conversations) {
   
   // Select the SVG element
   const svg = d3.select("#conversation-viz");
-  const mainG = svg.append("g")
-    .attr("class", "main-group")
-    .attr("transform", `translate(${margin.left},${margin.top})`);
+  const zoomG = svg.append('g');
+  const mainG = zoomG.append('g')
+    .attr('transform', `translate(${margin.left},${margin.top})`);
   
   // Add zoom buttons to the control panel
   const zoomButtonContainer = d3.select("#button-container")
@@ -728,4 +728,18 @@ d3.json('convo_dict copy.json').then(function (conversations) {
 
   substantiveItem.append("span")
     .text("Substantive Response");
+
+  // Add zoom behavior
+  const zoom = d3.zoom()
+    .scaleExtent([0.5, 3])  // Limit zoom scale
+    .on('zoom', (event) => {
+      zoomG.attr('transform', event.transform);
+    });
+
+  // Enable zoom on SVG
+  svg.call(zoom)
+    .call(zoom.transform, d3.zoomIdentity);  // Start at identity transform
+
+  // Disable zoom on double-click (prevents default d3 double-click zoom behavior)
+  svg.on("dblclick.zoom", null);
 });
