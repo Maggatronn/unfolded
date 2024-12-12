@@ -682,6 +682,50 @@ d3.json('convo_dict copy.json').then(function (conversations) {
   d3.select('#tooltip-container')
     .style('position', 'fixed')
     .style('width', '500px')
+    .style('scrollbar-width', 'none')
     .style('overflow-y', 'auto')
     .style('padding-right', '10px');  // Add some padding for the scrollbar
+
+  // Add legend to control panel after the existing elements
+  const legend = d3.select("#control-panel")
+    .append("div")
+    // .style("margin-top", "20px")
+    .style("padding", "5px")
+    .style("border", "1px solid #ccc")
+    .style("border-radius", "4px");
+
+  // Add title
+  // legend.append("div")
+  //   .style("font-weight", "bold")
+  //   .style("margin-bottom", "10px")
+  //   .text("Response Types");
+
+  // Add mechanical response legend item
+  const mechanicalItem = legend.append("div")
+    .style("display", "flex")
+    .style("align-items", "center")
+    .style("margin-bottom", "5px");
+
+  mechanicalItem.append("div")
+    .style("width", "20px")
+    .style("height", "2px")
+    .style("background", "black")
+    .style("margin-right", "8px");
+
+  mechanicalItem.append("span")
+    .text("Mechanical Response");
+
+  // Add substantive response legend item
+  const substantiveItem = legend.append("div")
+    .style("display", "flex")
+    .style("align-items", "center");
+
+  substantiveItem.append("div")
+    .style("width", "20px")
+    .style("height", "2px")
+    .style("background", "red")
+    .style("margin-right", "8px");
+
+  substantiveItem.append("span")
+    .text("Substantive Response");
 });
