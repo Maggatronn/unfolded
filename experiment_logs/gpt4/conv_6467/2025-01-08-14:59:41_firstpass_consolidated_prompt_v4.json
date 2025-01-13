@@ -1,0 +1,1572 @@
+{
+  "1": {
+    "words": "First is the purpose of this conversation. We want to create a new space across the city to facilitate more constructive listening across neighborhoods and communities, and build an ecosystem of listening where every community member's story contributes to our shared understanding and a stronger, more inclusive Boston. To achieve this goal, we invite you to engage in a new kind of conversation. One centered on sharing personal stories from our own lives and experiences, rather than beginning the conversation with our positions on issues. This approach aims to help build connections and facilitate conversations that deepen mutual understanding. Secondly, I want to address what will happen to the recording of this conversation. Following our meeting today, the audio recording will become part of a collection of conversations. This conversation, along with all the other conversations that are taking place throughout the city, will be shared with members of the Real Talk at Boston team, which consists of 14 community-based organizations in the city of Boston and the MIT Center for Constructive Communication. Thirdly, all conversations that will be part of this effort will become part of the conversation platform that is developed by the non-profit organization, Cortico CCC's deployment arm. The FORA system creates a transcript for each recorded conversation and uploads both the transcript and audio recording to the Explorer tool. The system highlights keywords that emerge across the different conversations and allows users to search conversations, listen to audio snippets, and discover patterns. What we want to accomplish today is to begin the process of weaving a virtual tapestry of conversations across the city. As a participant in this conversation, you are providing consent to the MIT Center for Constructive Communication to retain the recording of this conversation in accordance with the mission of the Real Talk at Boston in transforming Boston into a listening city. You also understand that the conversation will be part of the Real Talk at Boston Public Conversation Collection with a goal to foster constructive conversations across the city. CCC will collect, retain and analyze these conversations in keeping with that goal and with the mission to develop methods and tools that foster constructive communication in local communities. Participation in this conversation is voluntary, and you can withdraw at any time without consequences. Sessions will be recorded, but you can opt out and have this recording deleted. Only the research team at the MIT CCC will have access to your data. Your identity will be protected, and information won't be shared without permission unless required by law. There are minimal foreseen risks. However, as with any conversation, there is a chance that you'll hear stories that elicit strong emotions. I will support you in hosting a safe conversation where you only share what you feel comfortable sharing. Do you consent to this? If you understand and agree to this, please say, \"I agree.\"",
+    "link_turn_id": [
+      "NA"
+    ],
+    "speaker_turn": 1,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 12.16,
+    "end_time": 215.995,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ]
+  },
+  "2": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "I agree.",
+    "speaker_turn": 2,
+    "speaker_name": "Peter Kirby",
+    "conversation_id": 6467,
+    "start_time": 219.375,
+    "end_time": 220.355,
+    "union_linked_turn_ids": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "3": {
+    "link_turn_id": [
+      2
+    ],
+    "words": "Thank you.",
+    "speaker_turn": 3,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 220.355,
+    "end_time": 221.015,
+    "union_linked_turn_ids": [
+      "2",
+      "2",
+      "2"
+    ]
+  },
+  "4": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "I agree.",
+    "speaker_turn": 4,
+    "speaker_name": "Samson",
+    "conversation_id": 6467,
+    "start_time": 221.015,
+    "end_time": 221.955,
+    "union_linked_turn_ids": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "5": {
+    "link_turn_id": [
+      4
+    ],
+    "words": "Thank you.",
+    "speaker_turn": 5,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 222.355,
+    "end_time": 223.215,
+    "union_linked_turn_ids": [
+      "4",
+      "4",
+      "4"
+    ]
+  },
+  "6": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "I agree.",
+    "speaker_turn": 6,
+    "speaker_name": "Speaker 7",
+    "conversation_id": 6467,
+    "start_time": 225.355,
+    "end_time": 226.415,
+    "union_linked_turn_ids": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "7": {
+    "link_turn_id": [
+      6
+    ],
+    "words": "Thank you. I think we still need Peace Kane.",
+    "speaker_turn": 7,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 226.995,
+    "end_time": 233.975,
+    "union_linked_turn_ids": [
+      "6",
+      "6",
+      "6"
+    ]
+  },
+  "8": {
+    "link_turn_id": [
+      7
+    ],
+    "words": "I agree.",
+    "speaker_turn": 8,
+    "speaker_name": "Peace Kane",
+    "conversation_id": 6467,
+    "start_time": 234.355,
+    "end_time": 235.371,
+    "union_linked_turn_ids": [
+      "7",
+      "7",
+      "1",
+      "7"
+    ]
+  },
+  "9": {
+    "link_turn_id": [
+      8
+    ],
+    "words": "And do we have anyone else? Priscilla, do you agree?",
+    "speaker_turn": 9,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 235.563,
+    "end_time": 238.535,
+    "union_linked_turn_ids": [
+      "8",
+      "8",
+      "8"
+    ]
+  },
+  "10": {
+    "link_turn_id": [
+      9
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 10,
+    "speaker_name": "Priscilla",
+    "conversation_id": 6467,
+    "start_time": 241.995,
+    "end_time": 242.531,
+    "union_linked_turn_ids": [
+      "9",
+      "9",
+      "9"
+    ]
+  },
+  "11": {
+    "link_turn_id": [
+      9
+    ],
+    "words": "Excellent, excellent. Okay. Lastly, we want to make sure that everyone gets a chance to share and learn from others in this conversation, and to support those goals we'll introduce a few guidelines for our conversation. Speak for yourself and out of your own experiences, not your opinions. Allow others to speak for themselves, share the time, allow others to finish speaking. Take turns, stay curious, ask honest questions. Pause, take time for reflection. Listen generously. Assume good intentions while recognizing that your words have an impact. Is everyone on board with these guidelines? Is there anything you'd like to add or change? All good?",
+    "speaker_turn": 11,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 243.403,
+    "end_time": 282.525,
+    "union_linked_turn_ids": [
+      "9",
+      "9",
+      "NA"
+    ]
+  },
+  "12": {
+    "link_turn_id": [
+      11
+    ],
+    "words": "Yeah, all good.",
+    "speaker_turn": 12,
+    "speaker_name": "Samson",
+    "conversation_id": 6467,
+    "start_time": 287.385,
+    "end_time": 288.897,
+    "union_linked_turn_ids": [
+      "11",
+      "11",
+      "11"
+    ]
+  },
+  "13": {
+    "link_turn_id": [
+      11,
+      12
+    ],
+    "words": "Okay, great. Thank you. All right, well, let's get it started. I don't know... Whoever wants to start. Let's see who's most talkative. Just real simple, give us your name, and share a story about what brought you or your family to Boston whether that was recently or a long time ago, and just give us a general idea of what your experience has been like. Just a quick activity here, and then we'll get into a little bit more detail. Whoever wants to start.",
+    "speaker_turn": 13,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 288.897,
+    "end_time": 320.245,
+    "union_linked_turn_ids": [
+      "11",
+      "12",
+      "11",
+      "12",
+      "11",
+      "12"
+    ]
+  },
+  "14": {
+    "link_turn_id": [
+      13
+    ],
+    "words": "All right. So since no one is talking, I guess I should be the [inaudible]. So I'm Samson James. I moved to Boston about a year ago. I and my fiance actually, so. Are you with me? Hello? I can't hear you. All right. So I moved in with my fiance and it's been nice, I'll put it that way. Though, before we get the accommodation it was quite expensive, but it was still cool. And the environment is cool actually, and I enjoy everything about it, so thank you. I basically can't hear you. I can't hear you. I guess you mute your mic.",
+    "speaker_turn": 14,
+    "speaker_name": "Samson",
+    "conversation_id": 6467,
+    "start_time": 331.315,
+    "end_time": 439.295,
+    "union_linked_turn_ids": [
+      "13",
+      "13",
+      "13"
+    ]
+  },
+  "15": {
+    "link_turn_id": [
+      14
+    ],
+    "words": "Oh, sorry. Apologize. So who would like to go next?",
+    "speaker_turn": 15,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 440.995,
+    "end_time": 444.815,
+    "union_linked_turn_ids": [
+      "14",
+      "14",
+      "14"
+    ]
+  },
+  "16": {
+    "link_turn_id": [
+      15
+    ],
+    "words": "Yeah, [inaudible].",
+    "speaker_turn": 16,
+    "speaker_name": "Speaker 2",
+    "conversation_id": 6467,
+    "start_time": 447.955,
+    "end_time": 448.627,
+    "union_linked_turn_ids": [
+      "15",
+      "15",
+      "NA"
+    ]
+  },
+  "17": {
+    "link_turn_id": [
+      13,
+      14
+    ],
+    "words": "Thank you. So how did your family get to Boston or how did you get to Boston? What's the story?",
+    "speaker_turn": 17,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 450.555,
+    "end_time": 454.895,
+    "union_linked_turn_ids": [
+      "14",
+      "13",
+      "14",
+      "13"
+    ]
+  },
+  "18": {
+    "link_turn_id": [
+      13,
+      17
+    ],
+    "words": "Yeah, me and my family, we moved to Boston because of a little bit financial issue. And then [inaudible], so we moved to Middlesex County. Life has been good with the people, with community, and then everything. I was able to give my best and then to start new living, and then I found things easy. Me and my family, we really appreciate everything we are able to do here. Thank you.",
+    "speaker_turn": 18,
+    "speaker_name": "Speaker 2",
+    "conversation_id": 6467,
+    "start_time": 456.085,
+    "end_time": 496.545,
+    "union_linked_turn_ids": [
+      "13",
+      "17",
+      "13",
+      "17",
+      "13",
+      "17"
+    ]
+  },
+  "19": {
+    "link_turn_id": [
+      18,
+      16
+    ],
+    "words": "Excellent. Thank you. And who else would like to tell us just a quick introduction, how you or your family got to Boston? A little story about that journey. Thank you, Priscilla.",
+    "speaker_turn": 19,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 498.645,
+    "end_time": 518.555,
+    "union_linked_turn_ids": [
+      "16",
+      "18",
+      "18",
+      "16",
+      "18"
+    ]
+  },
+  "20": {
+    "link_turn_id": [
+      19
+    ],
+    "words": "Thank you.",
+    "speaker_turn": 20,
+    "speaker_name": "Priscilla",
+    "conversation_id": 6467,
+    "start_time": 518.555,
+    "end_time": 535.345,
+    "union_linked_turn_ids": [
+      "19",
+      "19",
+      "19"
+    ]
+  },
+  "21": {
+    "link_turn_id": [
+      20,
+      19
+    ],
+    "words": "Go for it. Thank you.",
+    "speaker_turn": 21,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 535.345,
+    "end_time": 536.645,
+    "union_linked_turn_ids": [
+      "19",
+      "20",
+      "19",
+      "20"
+    ]
+  },
+  "22": {
+    "link_turn_id": [
+      21
+    ],
+    "words": "[inaudible].",
+    "speaker_turn": 22,
+    "speaker_name": "Priscilla",
+    "conversation_id": 6467,
+    "start_time": 536.645,
+    "end_time": 537.505,
+    "union_linked_turn_ids": [
+      "19",
+      "21",
+      "21",
+      "21"
+    ]
+  },
+  "23": {
+    "link_turn_id": [
+      21,
+      22
+    ],
+    "words": "Yes.",
+    "speaker_turn": 23,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 537.505,
+    "end_time": 538.245,
+    "union_linked_turn_ids": [
+      "21",
+      "22",
+      "22",
+      "21",
+      "22"
+    ]
+  },
+  "24": {
+    "link_turn_id": [
+      21,
+      19
+    ],
+    "words": "Okay. I'm here for work and I mean personal. I really enjoy myself, so I don't have much to say. All right, thank you.",
+    "speaker_turn": 24,
+    "speaker_name": "Priscilla",
+    "conversation_id": 6467,
+    "start_time": 538.905,
+    "end_time": 552.725,
+    "union_linked_turn_ids": [
+      "21",
+      "19",
+      "21",
+      "19",
+      "21"
+    ]
+  },
+  "25": {
+    "link_turn_id": [
+      24,
+      19
+    ],
+    "words": "Okay, well thanks for starting us off. All right, well thanks for sharing those. In the rest of this conversation, we want to learn more about your experience living in the city. Let's start with Samson, please. Could you describe a specific time when you felt really supported by your community in Boston. I'd love to hear about who was there and what made that moment special or meaningful.",
+    "speaker_turn": 25,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 554.865,
+    "end_time": 581.995,
+    "union_linked_turn_ids": [
+      "18",
+      "24",
+      "19",
+      "24",
+      "19",
+      "20",
+      "24"
+    ]
+  },
+  "26": {
+    "link_turn_id": [
+      25
+    ],
+    "words": "Okay. I'll say my neighbor. I was stranded because I didn't get to catch up with the bus, so he owns a car, so he actually gave me a lift. It was fun and getting to know people and getting to know that no matter where you are, someone cares about you, it's something actually awesome. And getting to meet new people and him introducing me to his family and telling me that we can come have lunch over there and so on, it's fun. So I guess that's it. That's the fun part of Boston for me.",
+    "speaker_turn": 26,
+    "speaker_name": "Samson",
+    "conversation_id": 6467,
+    "start_time": 584.415,
+    "end_time": 630.315,
+    "union_linked_turn_ids": [
+      "25",
+      "25",
+      "25"
+    ]
+  },
+  "27": {
+    "link_turn_id": [
+      26
+    ],
+    "words": "That's fantastic. And are you a driver or do you usually take the bus and the train or do you walk?",
+    "speaker_turn": 27,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 631.335,
+    "end_time": 640.235,
+    "union_linked_turn_ids": [
+      "26",
+      "26",
+      "26"
+    ]
+  },
+  "28": {
+    "link_turn_id": [
+      27
+    ],
+    "words": "Well, I take the bus, but now should I say I own a car, but yeah, I own a car now.",
+    "speaker_turn": 28,
+    "speaker_name": "Samson",
+    "conversation_id": 6467,
+    "start_time": 640.775,
+    "end_time": 648.925,
+    "union_linked_turn_ids": [
+      "27",
+      "27",
+      "27"
+    ]
+  },
+  "29": {
+    "link_turn_id": [
+      28,
+      25,
+      26
+    ],
+    "words": "Excellent, excellent. And okay, how about Peace Kane, how about you? What's the story where you've really felt supported by your community in Boston?",
+    "speaker_turn": 29,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 651.185,
+    "end_time": 659.685,
+    "union_linked_turn_ids": [
+      "25",
+      "26",
+      "28",
+      "26",
+      "28",
+      "25",
+      "26",
+      "28"
+    ]
+  },
+  "30": {
+    "link_turn_id": [
+      29
+    ],
+    "words": "Yeah, actually Boston support me in every way. And I think I'm able to go with a lot of friends. I have a kid, so I've been here [inaudible], four years. And I met a lot of people who help my kid, who help me. And there is no form of racism, I guess. I love the community to help me-",
+    "speaker_turn": 30,
+    "speaker_name": "Peace Kane",
+    "conversation_id": 6467,
+    "start_time": 674.995,
+    "end_time": 711.437518939394,
+    "union_linked_turn_ids": [
+      "29",
+      "29",
+      "25",
+      "29"
+    ]
+  },
+  "31": {
+    "link_turn_id": [
+      30
+    ],
+    "words": "In Boston? Really, that's your experience?",
+    "speaker_turn": 31,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 711.437518939394,
+    "end_time": 713.355,
+    "union_linked_turn_ids": [
+      "30",
+      "30",
+      "30"
+    ]
+  },
+  "32": {
+    "link_turn_id": [
+      31
+    ],
+    "words": "I said there's no form of that.",
+    "speaker_turn": 32,
+    "speaker_name": "Peace Kane",
+    "conversation_id": 6467,
+    "start_time": 714.255,
+    "end_time": 716.275,
+    "union_linked_turn_ids": [
+      "31",
+      "31",
+      "31"
+    ]
+  },
+  "33": {
+    "link_turn_id": [
+      32
+    ],
+    "words": "Really?",
+    "speaker_turn": 33,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 716.615,
+    "end_time": 717.355,
+    "union_linked_turn_ids": [
+      "32",
+      "32",
+      "32"
+    ]
+  },
+  "34": {
+    "link_turn_id": [
+      33
+    ],
+    "words": "Yeah, to me in my community there [inaudible].",
+    "speaker_turn": 34,
+    "speaker_name": "Peace Kane",
+    "conversation_id": 6467,
+    "start_time": 718.535,
+    "end_time": 721.711,
+    "union_linked_turn_ids": [
+      "33",
+      "33",
+      "33"
+    ]
+  },
+  "35": {
+    "link_turn_id": [
+      32,
+      34,
+      30
+    ],
+    "words": "Oh, here we go. Came across a woman, help with mostly all [inaudible]. All right, thank you [inaudible]. Excellent. Who else would like... Priscilla, would you like to share anything about a story where you felt really supported by your community in Boston? Priscilla or Peter Kirby?",
+    "speaker_turn": 35,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 725.505,
+    "end_time": 765.535,
+    "union_linked_turn_ids": [
+      "30",
+      "32",
+      "34",
+      "30",
+      "32",
+      "34",
+      "30",
+      "34"
+    ]
+  },
+  "36": {
+    "link_turn_id": [
+      35
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 36,
+    "speaker_name": "Priscilla",
+    "conversation_id": 6467,
+    "start_time": 786.085,
+    "end_time": 786.905,
+    "union_linked_turn_ids": [
+      "35",
+      "35",
+      "35"
+    ]
+  },
+  "37": {
+    "link_turn_id": [
+      36
+    ],
+    "words": "Yeah, let's hear it.",
+    "speaker_turn": 37,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 788.645,
+    "end_time": 789.957,
+    "union_linked_turn_ids": [
+      "36",
+      "36",
+      "36"
+    ]
+  },
+  "38": {
+    "link_turn_id": [
+      37
+    ],
+    "words": "Hello. Can you hear me?",
+    "speaker_turn": 38,
+    "speaker_name": "Priscilla",
+    "conversation_id": 6467,
+    "start_time": 789.957,
+    "end_time": 790.101,
+    "union_linked_turn_ids": [
+      "37",
+      "37",
+      "37"
+    ]
+  },
+  "39": {
+    "link_turn_id": [
+      38
+    ],
+    "words": "Yeah, how you doing? Yes, please tell us, a time where you really felt-",
+    "speaker_turn": 39,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 790.101,
+    "end_time": 795.493,
+    "union_linked_turn_ids": [
+      "38",
+      "38",
+      "38"
+    ]
+  },
+  "40": {
+    "link_turn_id": [
+      39
+    ],
+    "words": "[inaudible].",
+    "speaker_turn": 40,
+    "speaker_name": "Priscilla",
+    "conversation_id": 6467,
+    "start_time": 795.493,
+    "end_time": 795.5127511330861,
+    "union_linked_turn_ids": [
+      "39",
+      "39",
+      "39"
+    ]
+  },
+  "41": {
+    "link_turn_id": [
+      35,
+      39
+    ],
+    "words": "A time where you felt supported by your community in Boston.",
+    "speaker_turn": 41,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 795.5127511330861,
+    "end_time": 797.985,
+    "union_linked_turn_ids": [
+      "35",
+      "39",
+      "35",
+      "39",
+      "39"
+    ]
+  },
+  "42": {
+    "link_turn_id": [
+      41,
+      35
+    ],
+    "words": "Yeah, I can remember when my husband got a job in Boston. We had no one there and it's actually our first time going in there. So we actually came across a woman. The woman helped us and put us through many things, she even allowed us in until we up an apartment. So I think this woman really supported us and stood by us all through the time. And also she put us through, she showed us around with other things that we needed then.",
+    "speaker_turn": 42,
+    "speaker_name": "Priscilla",
+    "conversation_id": 6467,
+    "start_time": 798.725,
+    "end_time": 841.225,
+    "union_linked_turn_ids": [
+      "35",
+      "41",
+      "35",
+      "41",
+      "35",
+      "41"
+    ]
+  },
+  "43": {
+    "link_turn_id": [
+      42
+    ],
+    "words": "That's fantastic. Yeah, it sounds a lot of people were there to help. Peter Kirby, do you have a story where someone in Boston supported you?",
+    "speaker_turn": 43,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 844.005,
+    "end_time": 854.705,
+    "union_linked_turn_ids": [
+      "42",
+      "42",
+      "42"
+    ]
+  },
+  "44": {
+    "link_turn_id": [
+      43
+    ],
+    "words": "Yeah, in terms of lifestyle. Boston neighborhood actually of a sense of community that I love. And then I've experienced how welcoming and supporting community can be basically. And then the public transfer system is convenient in getting around the city, make things easier for me and access resources and opportunity.",
+    "speaker_turn": 44,
+    "speaker_name": "Peter Kirby",
+    "conversation_id": 6467,
+    "start_time": 859.335,
+    "end_time": 892.805,
+    "union_linked_turn_ids": [
+      "43",
+      "43",
+      "43"
+    ]
+  },
+  "45": {
+    "link_turn_id": [
+      44
+    ],
+    "words": "Wait, so the public transportation, so do you ride the MBTA? Do you ride public transit?",
+    "speaker_turn": 45,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 893.545,
+    "end_time": 902.245,
+    "union_linked_turn_ids": [
+      "44",
+      "44",
+      "44"
+    ]
+  },
+  "46": {
+    "link_turn_id": [
+      45
+    ],
+    "words": "Yeah, MBTA.",
+    "speaker_turn": 46,
+    "speaker_name": "Peter Kirby",
+    "conversation_id": 6467,
+    "start_time": 902.585,
+    "end_time": 904.045,
+    "union_linked_turn_ids": [
+      "45",
+      "45",
+      "45"
+    ]
+  },
+  "47": {
+    "link_turn_id": [
+      45,
+      46
+    ],
+    "words": "And how do you like that? Does that work pretty well for you? Is it usually on time?",
+    "speaker_turn": 47,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 904.905,
+    "end_time": 910.1274983299933,
+    "union_linked_turn_ids": [
+      "45",
+      "46",
+      "45",
+      "46",
+      "45",
+      "46"
+    ]
+  },
+  "48": {
+    "link_turn_id": [
+      47
+    ],
+    "words": "[inaudible]. Making it easier to access resources, opportunity. And the problem where I'm at attending event is just simply exploring cultural landmark.",
+    "speaker_turn": 48,
+    "speaker_name": "Peter Kirby",
+    "conversation_id": 6467,
+    "start_time": 910.1274983299933,
+    "end_time": 923.485,
+    "union_linked_turn_ids": [
+      "47",
+      "47",
+      "47"
+    ]
+  },
+  "49": {
+    "link_turn_id": [
+      44,
+      48,
+      42
+    ],
+    "words": "Absolutely. Thanks for those stories, but we want to learn, now that we've talked about times where you did feel supported, I want to leave room to talk about when that didn't happen. Can you tell us about what you worry about day to day while living in Boston? Maybe this is related to health or finances, accessibility, inclusivity, or something else entirely. What kind of support do you wish you had for these worries?",
+    "speaker_turn": 49,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 925.665,
+    "end_time": 957.825,
+    "union_linked_turn_ids": [
+      "43",
+      "41",
+      "42",
+      "44",
+      "48",
+      "42",
+      "44",
+      "48"
+    ]
+  },
+  "50": {
+    "link_turn_id": [
+      49
+    ],
+    "words": "Yeah, I definitely face our financial issue and then I wish I own a car, which I'm not yet [inaudible]. I have to use the MBTA. And then I felt it's some kind stressful times. And then I also wish I [inaudible], get more paid with the work I'm doing.",
+    "speaker_turn": 50,
+    "speaker_name": "Peter Kirby",
+    "conversation_id": 6467,
+    "start_time": 959.565,
+    "end_time": 994.505,
+    "union_linked_turn_ids": [
+      "49",
+      "49",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49"
+    ]
+  },
+  "51": {
+    "link_turn_id": [
+      50
+    ],
+    "words": "Wait, what work are you doing?",
+    "speaker_turn": 51,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 995.565,
+    "end_time": 997.425,
+    "union_linked_turn_ids": [
+      "50",
+      "50",
+      "50"
+    ]
+  },
+  "52": {
+    "link_turn_id": [
+      51,
+      50
+    ],
+    "words": "Yeah, I work in a store and I have a boss, so I felt the minimum wages is quite below my standard. And then I just feel like that's part of something that's quite hard for me here. Yeah.",
+    "speaker_turn": 52,
+    "speaker_name": "Peter Kirby",
+    "conversation_id": 6467,
+    "start_time": 999.365,
+    "end_time": 1029.825,
+    "union_linked_turn_ids": [
+      "51",
+      "50",
+      "50",
+      "51",
+      "50",
+      "51"
+    ]
+  },
+  "53": {
+    "link_turn_id": [
+      52,
+      50
+    ],
+    "words": "Excellent. I appreciate, thank you, thank you. Who else would like to share a story about something, a worry that you have day-to-day living in Boston. Whatever it's related to finances, health, accessibility, inclusivity. What kind of support do you wish you had for these worries?",
+    "speaker_turn": 53,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 1030.485,
+    "end_time": 1047.874,
+    "union_linked_turn_ids": [
+      "49",
+      "50",
+      "50",
+      "52",
+      "50",
+      "52"
+    ]
+  },
+  "54": {
+    "link_turn_id": [
+      53
+    ],
+    "words": "Well, mine will be financial issue because the houses over my side is quite expensive. I wish I could get something a little bit lower than over 600,000 or 700 or even a million. So if we could get something a little bit lesser, it will be better because the wages we get and some of the benefits aren't even enough to just complement the things we do and the bills we pay. You get it, right?",
+    "speaker_turn": 54,
+    "speaker_name": "Samson",
+    "conversation_id": 6467,
+    "start_time": 1050.014,
+    "end_time": 1087.987,
+    "union_linked_turn_ids": [
+      "49",
+      "53",
+      "53",
+      "53"
+    ]
+  },
+  "55": {
+    "link_turn_id": [
+      54
+    ],
+    "words": "Yeah, absolutely. I feel you. Trust me, I'm with you. Who else would like to share something a day-to-day worry that they have living in Boston, whether it's related to transportation or finances.",
+    "speaker_turn": 55,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 1088.171,
+    "end_time": 1102.345,
+    "union_linked_turn_ids": [
+      "54",
+      "54",
+      "54"
+    ]
+  },
+  "56": {
+    "link_turn_id": [
+      53,
+      55
+    ],
+    "words": "Yeah. One major worry I actually had was accessing health care because I think it will be kind of difficult for me to assess the healthcare and also transportation as well.",
+    "speaker_turn": 56,
+    "speaker_name": "Speaker 7",
+    "conversation_id": 6467,
+    "start_time": 1110.685,
+    "end_time": 1127.075,
+    "union_linked_turn_ids": [
+      "53",
+      "55",
+      "53",
+      "55",
+      "53",
+      "55"
+    ]
+  },
+  "57": {
+    "link_turn_id": [
+      56
+    ],
+    "words": "So healthcare-",
+    "speaker_turn": 57,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 1128.735,
+    "end_time": 1129.351,
+    "union_linked_turn_ids": [
+      "56",
+      "56",
+      "56"
+    ]
+  },
+  "58": {
+    "link_turn_id": [
+      57
+    ],
+    "words": "[inaudible].",
+    "speaker_turn": 58,
+    "speaker_name": "Speaker 7",
+    "conversation_id": 6467,
+    "start_time": 1129.383,
+    "end_time": 1129.955,
+    "union_linked_turn_ids": [
+      "57",
+      "57",
+      "57"
+    ]
+  },
+  "59": {
+    "link_turn_id": [
+      58,
+      56
+    ],
+    "words": "Accessing healthcare, you said that's an issue?",
+    "speaker_turn": 59,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 1130.655,
+    "end_time": 1132.915,
+    "union_linked_turn_ids": [
+      "56",
+      "58",
+      "56",
+      "58",
+      "56"
+    ]
+  },
+  "60": {
+    "link_turn_id": [
+      59,
+      56
+    ],
+    "words": "Yeah. Yeah, accessing healthcare, I feel like it's something that can just be something that I can literally have access to without me doing there in person, I think. There should be some online [inaudible], a platform or support group that I can actually go into to get assist [inaudible].",
+    "speaker_turn": 60,
+    "speaker_name": "Speaker 7",
+    "conversation_id": 6467,
+    "start_time": 1133.975,
+    "end_time": 1159.895,
+    "union_linked_turn_ids": [
+      "56",
+      "59",
+      "56",
+      "59",
+      "56",
+      "59"
+    ]
+  },
+  "61": {
+    "link_turn_id": [
+      60
+    ],
+    "words": "Excellent.",
+    "speaker_turn": 61,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 1160.595,
+    "end_time": 1161.019,
+    "union_linked_turn_ids": [
+      "60",
+      "60",
+      "NA"
+    ]
+  },
+  "62": {
+    "link_turn_id": [
+      60
+    ],
+    "words": "So things like that. But then I have to just go in person and at times distance, going with transportation and sometimes it's not really easy for me like that. So those things, those are one of the challenges that you had that I faced. Yeah.",
+    "speaker_turn": 62,
+    "speaker_name": "Speaker 7",
+    "conversation_id": 6467,
+    "start_time": 1161.067,
+    "end_time": 1181.661,
+    "union_linked_turn_ids": [
+      "60",
+      "60",
+      "56",
+      "60"
+    ]
+  },
+  "63": {
+    "link_turn_id": [
+      60,
+      62
+    ],
+    "words": "Excellent. Thank you. I appreciate it. And anybody else want to share-",
+    "speaker_turn": 63,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 1181.853,
+    "end_time": 1187.069,
+    "union_linked_turn_ids": [
+      "60",
+      "62",
+      "62",
+      "60",
+      "62"
+    ]
+  },
+  "64": {
+    "link_turn_id": [
+      63
+    ],
+    "words": "Yeah. [inaudible]-",
+    "speaker_turn": 64,
+    "speaker_name": "Priscilla",
+    "conversation_id": 6467,
+    "start_time": 1187.237,
+    "end_time": 1187.6319394177813,
+    "union_linked_turn_ids": [
+      "63",
+      "63",
+      "63"
+    ]
+  },
+  "65": {
+    "link_turn_id": [
+      64
+    ],
+    "words": "Yeah, please.",
+    "speaker_turn": 65,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 1187.6319394177813,
+    "end_time": 1188.225,
+    "union_linked_turn_ids": [
+      "64",
+      "64",
+      "64"
+    ]
+  },
+  "66": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "About the harsh winter, I'm not used to cold. So I felt that's part of things that [inaudible]-",
+    "speaker_turn": 66,
+    "speaker_name": "Priscilla",
+    "conversation_id": 6467,
+    "start_time": 1188.225,
+    "end_time": 1196.777717948718,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ]
+  },
+  "67": {
+    "link_turn_id": [
+      66
+    ],
+    "words": "The cold.",
+    "speaker_turn": 67,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 1196.777717948718,
+    "end_time": 1198.285,
+    "union_linked_turn_ids": [
+      "66",
+      "66",
+      "66"
+    ]
+  },
+  "68": {
+    "link_turn_id": [
+      66,
+      67
+    ],
+    "words": "Yeah, sorry, harsh winter. And I barely go out during day time, so to make things difficult for me [inaudible].",
+    "speaker_turn": 68,
+    "speaker_name": "Priscilla",
+    "conversation_id": 6467,
+    "start_time": 1198.285,
+    "end_time": 1213.055,
+    "union_linked_turn_ids": [
+      "66",
+      "67",
+      "66",
+      "66",
+      "67"
+    ]
+  },
+  "69": {
+    "link_turn_id": [
+      68,
+      64
+    ],
+    "words": "Excellent, excellent. Okay, so thanks for sharing. I know that can be some heavy stuff to think through. To wrap us on some hopeful notes, I was hoping if people could imagine a Boston community 10 years from now, if you could just think about it, Boston, in the year 2034, and if it was fully accessible and inclusive to you and people who look like you, can you paint a picture of what that would feel or look like for you? Whoever would like to start?",
+    "speaker_turn": 69,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 1213.055,
+    "end_time": 1270.705,
+    "union_linked_turn_ids": [
+      "64",
+      "68",
+      "64",
+      "68",
+      "60",
+      "62",
+      "66",
+      "68"
+    ]
+  },
+  "70": {
+    "link_turn_id": [
+      69
+    ],
+    "words": "Yeah. I think if the government can make provisions for some necessity, I think that would be very great and it will make Boston more and more civilized than this in the coming years. So I think also prioritizing the aid of people, creating awareness, creating support groups and support them, it will be very good as well. And also if the governments can actually support people, maybe those that do not have job, then they can just create job for them, in a way they can just make things more easier. And also for the aged care now they can just create support groups in a way that people will be able to attend to their health virtually. It's not like going to the hospital always in person. So sometimes they just want to make inquiry or seek support. They can just join virtually like this. I think it would be great. And also creating more employment for people will very good as well. These things we actually need. Boston creates in the future.",
+    "speaker_turn": 70,
+    "speaker_name": "Speaker 7",
+    "conversation_id": 6467,
+    "start_time": 1273.605,
+    "end_time": 1356.145,
+    "union_linked_turn_ids": [
+      "69",
+      "69",
+      "69"
+    ]
+  },
+  "71": {
+    "link_turn_id": [
+      70,
+      69
+    ],
+    "words": "Excellent. And who else could tell me, if you could imagine Boston 10 years from now in all its glory, fully accessible and inclusive to you, people who look like you, who else would like to tell me what that would look like to them? A great Boston.",
+    "speaker_turn": 71,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 1359.855,
+    "end_time": 1378.155,
+    "union_linked_turn_ids": [
+      "70",
+      "69",
+      "70",
+      "69",
+      "70"
+    ]
+  },
+  "72": {
+    "link_turn_id": [
+      69,
+      71
+    ],
+    "words": "Well for me I would say it'll be extremely awesome because being able to assess the roads and low... I mean discount houses and it will be awesome, sincerely. It'll be amazing.",
+    "speaker_turn": 72,
+    "speaker_name": "Samson",
+    "conversation_id": 6467,
+    "start_time": 1382.215,
+    "end_time": 1406.325,
+    "union_linked_turn_ids": [
+      "71",
+      "69",
+      "71",
+      "69",
+      "71"
+    ]
+  },
+  "73": {
+    "link_turn_id": [
+      72
+    ],
+    "words": "Discount houses.",
+    "speaker_turn": 73,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 1409.305,
+    "end_time": 1410.725,
+    "union_linked_turn_ids": [
+      "72",
+      "72",
+      "72"
+    ]
+  },
+  "74": {
+    "link_turn_id": [
+      73
+    ],
+    "words": "Yeah, basically the houses are very expensive [inaudible].",
+    "speaker_turn": 74,
+    "speaker_name": "Samson",
+    "conversation_id": 6467,
+    "start_time": 1412.555,
+    "end_time": 1415.219,
+    "union_linked_turn_ids": [
+      "73",
+      "73",
+      "73"
+    ]
+  },
+  "75": {
+    "link_turn_id": [
+      74
+    ],
+    "words": "Tell me it means 10 years, hopefully one of these days. And what kind of housing would you think would be great to have?",
+    "speaker_turn": 75,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 1415.219,
+    "end_time": 1422.615,
+    "union_linked_turn_ids": [
+      "74",
+      "74",
+      "74"
+    ]
+  },
+  "76": {
+    "link_turn_id": [
+      75
+    ],
+    "words": "Well, I would say for me and my future kids, it will be more like a bigger apartment, more like a duplex, I guess that should be okay.",
+    "speaker_turn": 76,
+    "speaker_name": "Samson",
+    "conversation_id": 6467,
+    "start_time": 1424.075,
+    "end_time": 1439.405,
+    "union_linked_turn_ids": [
+      "75",
+      "75",
+      "75"
+    ]
+  },
+  "77": {
+    "link_turn_id": [
+      68,
+      69
+    ],
+    "words": "And Priscilla's writing. But I need you to speak because this is an audio recording. So Priscilla or somebody else, tell us. Anybody else have any... What would Boston look like? I appreciate your comment in the writing section, but if you could please just tell us and anybody else what Boston in 10 years, what would it be great to see it look like?",
+    "speaker_turn": 77,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 1440.505,
+    "end_time": 1462.885,
+    "union_linked_turn_ids": [
+      "68",
+      "69",
+      "68",
+      "69",
+      "68",
+      "69"
+    ]
+  },
+  "78": {
+    "link_turn_id": [
+      69,
+      77,
+      71
+    ],
+    "words": "Naturally I would say there will be a more sustainable transport system, a [inaudible]. And then green space that will promote a community and well-being. Perhaps there will be an expanded network of bike lanes and electric buses, which will definitely reduce traffic. And then also I feel like culturally Boston have a different culture and then they would like to likely grow further, like in reaching the fabric of the city and then connecting to a lot of people in the neighborhood and they'll feel welcome and feel connected.",
+    "speaker_turn": 78,
+    "speaker_name": "Speaker 2",
+    "conversation_id": 6467,
+    "start_time": 1465.195,
+    "end_time": 1537.925,
+    "union_linked_turn_ids": [
+      "69",
+      "71",
+      "77",
+      "69",
+      "71",
+      "69",
+      "71",
+      "77"
+    ]
+  },
+  "79": {
+    "link_turn_id": [
+      76,
+      70,
+      72,
+      78
+    ],
+    "words": "Excellent, excellent, excellent. So let's talk a little bit about what we're hearing. What are you hearing in people's experiences? Whoever's ready can start us off. Somebody tell us, are you hearing the same? Is this what you were expecting to hear? Does it sound like people are experiencing the similar things than you are or totally different things? What are you hearing? Please tell us.",
+    "speaker_turn": 79,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 1541.155,
+    "end_time": 1569.485,
+    "union_linked_turn_ids": [
+      "70",
+      "71",
+      "72",
+      "74",
+      "76",
+      "78",
+      "70",
+      "72",
+      "78",
+      "70",
+      "72",
+      "76",
+      "78"
+    ]
+  },
+  "80": {
+    "link_turn_id": [
+      79
+    ],
+    "words": "Okay, for me-",
+    "speaker_turn": 80,
+    "speaker_name": "Speaker 2",
+    "conversation_id": 6467,
+    "start_time": 1571.585,
+    "end_time": 1574.057,
+    "union_linked_turn_ids": [
+      "79",
+      "79",
+      "79"
+    ]
+  },
+  "81": {
+    "link_turn_id": [
+      79,
+      80
+    ],
+    "words": "Okay. Whoever, Samson, you want to go first?",
+    "speaker_turn": 81,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 1574.353,
+    "end_time": 1576.665,
+    "union_linked_turn_ids": [
+      "79",
+      "80",
+      "79",
+      "80"
+    ]
+  },
+  "82": {
+    "link_turn_id": [
+      79,
+      81
+    ],
+    "words": "Yeah, I feel like everyone have a different perspective. So even though we're in the same direction, we have a different way of thinking on... We have different perspectives towards any issue. So I do consider everyone's opinion when I'm in a situation or listen to people. And then I tend to try and understand people because I know I met a lot of people with different behavior, both positively, negatively. So I know how to do with them or deal with them. So just to make me and make them feel good. That's it.",
+    "speaker_turn": 82,
+    "speaker_name": "Samson",
+    "conversation_id": 6467,
+    "start_time": 1576.745,
+    "end_time": 1637.279,
+    "union_linked_turn_ids": [
+      "79",
+      "79",
+      "81",
+      "79",
+      "81"
+    ]
+  },
+  "83": {
+    "link_turn_id": [
+      79,
+      82
+    ],
+    "words": "Excellent, excellent. So, anybody else, please, somebody else? What are you hearing from other people in their experiences?",
+    "speaker_turn": 83,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 1637.447,
+    "end_time": 1646.875,
+    "union_linked_turn_ids": [
+      "79",
+      "82",
+      "79",
+      "82",
+      "79",
+      "82"
+    ]
+  },
+  "84": {
+    "link_turn_id": [
+      79,
+      82
+    ],
+    "words": "Okay, my should be, I told you about meeting my neighbor. So he told me about the houses as well. He told me that he wished the houses were more affordable than usual, let me just put it that way. So he did tell me that he wished to get a bigger apartment than what he has now because he has four kids and it's staying in just a three bedroom apartment. So he said he wanted a bigger one and to get a bigger one, he needed a bigger income. And what he has now is not up to that. So he just spoke to me more about the house and he told me about getting up very early just to go to work and to meet up with the buses and the rest. And yeah, I actually had the issue with the bus as well. If I don't get to meet up on time, I get to miss my bus and it's actually a headache thing for me to just face. So I just had to just sit and wait for the next bus to arrive. So that's it. People, I've just been talking about the housing for me because everybody has their own opinion actually. So for me, I'll focus on what I'm hearing is basically the house and the transportation, I should say. Yeah, the house and the transportation.",
+    "speaker_turn": 84,
+    "speaker_name": "Samson",
+    "conversation_id": 6467,
+    "start_time": 1649.985,
+    "end_time": 1755.955,
+    "union_linked_turn_ids": [
+      "75",
+      "79",
+      "82",
+      "83",
+      "79",
+      "82",
+      "79",
+      "82"
+    ]
+  },
+  "85": {
+    "link_turn_id": [
+      84
+    ],
+    "words": "Excellent, excellent. And so finally, please tell us all something, everybody that you will be taking away with you, something you'll be taking away. Just something that you heard tonight from somebody else that you'll remember or that's memorable to you. Something you'll remember that you heard tonight in the conversation. Whoever would like to start.",
+    "speaker_turn": 85,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 1758.095,
+    "end_time": 1800.285,
+    "union_linked_turn_ids": [
+      "84",
+      "84",
+      "82",
+      "84"
+    ]
+  },
+  "86": {
+    "link_turn_id": [
+      85
+    ],
+    "words": "Okay. I will say what Matthew said about what he actually wrote here. He said something about different things like the housing, feeding and transportation problem. I haven't faced the feeding, but I guess that should help. I guess I should face that now, then experiencing it later on.",
+    "speaker_turn": 86,
+    "speaker_name": "Samson",
+    "conversation_id": 6467,
+    "start_time": 1809.035,
+    "end_time": 1833.939,
+    "union_linked_turn_ids": [
+      "85",
+      "85",
+      "85"
+    ]
+  },
+  "87": {
+    "link_turn_id": [
+      85
+    ],
+    "words": "Excellent. Anybody else? What's your takeaway? Give me a takeaway.",
+    "speaker_turn": 87,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 1836.675,
+    "end_time": 1840.575,
+    "union_linked_turn_ids": [
+      "85",
+      "85",
+      "85",
+      "86"
+    ]
+  },
+  "88": {
+    "link_turn_id": [
+      85
+    ],
+    "words": "Yeah, about what I think Kirby said about easy transportation system with MBTA. I love the path and how I can develop this [inaudible]. So I feel it's okay and then it makes sense to me.",
+    "speaker_turn": 88,
+    "speaker_name": "Priscilla",
+    "conversation_id": 6467,
+    "start_time": 1841.355,
+    "end_time": 1869.025,
+    "union_linked_turn_ids": [
+      "85",
+      "87",
+      "85",
+      "85"
+    ]
+  },
+  "89": {
+    "link_turn_id": [
+      88
+    ],
+    "words": "Makes sense to me. And anybody else? Anybody else have a takeaway? Some parting words? Okay, well thanks for sharing your thoughts, stories, and experiences. Just a reminder of what will happen next. These recordings will be transcribed and uploaded to our conversation platform, 4Voices, a web-based tool for listening to and exploring conversations. I'm going to send out a survey as well as information about how to get your gift cards and your gift boxes delivered to you in Boston. Thank you very much for participating and we appreciate it.",
+    "speaker_turn": 89,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6467,
+    "start_time": 1870.045,
+    "end_time": 1921.715,
+    "union_linked_turn_ids": [
+      "88",
+      "88",
+      "88"
+    ]
+  }
+}

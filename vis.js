@@ -1,4 +1,4 @@
-d3.json('convo_dict copy.json').then(function (conversations) {
+d3.json('merged_data.json').then(function (conversations) {
   // Define margins first
   const margin = {top: 20, right: 30, bottom: 30, left: 100};
   
@@ -89,9 +89,15 @@ d3.json('convo_dict copy.json').then(function (conversations) {
     d3.selectAll(".tooltip").remove();
 
     // Filter conversations if needed
-    const convoData = selectedConvo === 'all' 
-      ? conversations 
-      : { [selectedConvo]: conversations[selectedConvo] };
+    let convoData;
+    if (selectedConvo === 'all') {
+      convoData = conversations;
+    } else if (typeof selectedConvo === 'string') {
+      convoData = { [selectedConvo]: conversations[selectedConvo] };
+    } else {
+      // Handle case where selectedConvo is already a filtered object
+      convoData = selectedConvo;
+    }
 
     // Update SVG height based on filtered data
     const conversationCount = Object.keys(convoData).length;
@@ -115,8 +121,10 @@ d3.json('convo_dict copy.json').then(function (conversations) {
       const conversationG = mainG.append("g")
         .attr("transform", `translate(0,${index * perConversationHeight})`);
 
-      const speakers = Array.from(new Set(Object.values(data.conversation).map(d => d.speaker_name)));
-      const timeExtent = d3.extent(Object.values(data.conversation), d => d.speaker_turn);
+      // const speakers = Array.from(new Set(Object.values(data.conversation).map(d => d.speaker_name)));
+      // const timeExtent = d3.extent(Object.values(data.conversation), d => d.speaker_turn);
+      const speakers = Array.from(new Set(Object.values(data).map(d => d.speaker_name)));
+      const timeExtent = d3.extent(Object.values(data), d => d.speaker_turn);
 
       const yScale = d3.scalePoint().domain(speakers).range([0, height]).padding(0.5);
       const xScale = d3.scaleLinear().domain(timeExtent).range([0, Object.keys(data).length]);
@@ -129,7 +137,8 @@ d3.json('convo_dict copy.json').then(function (conversations) {
       const buffer = 20;
       // Compute cumulative word count for each data point
       let cumulativeWordCount = 0;
-      Object.values(data.conversation).forEach((d) => {
+      // Object.values(data.conversation).forEach((d) => {
+      Object.values(data).forEach((d) => {
 
         d.cumulativeWords = cumulativeWordCount;
         cumulativeWordCount += d.words.length * 2 + buffer;
@@ -157,7 +166,8 @@ d3.json('convo_dict copy.json').then(function (conversations) {
         .attr("d", "M 0 0 L 10 5 L 0 10 Z")
         .attr("fill", "black");
 
-      const edges = Object.values(data.conversation)
+      // const edges = Object.values(data.conversation)
+      const edges = Object.values(data)
         .flatMap(d => {
           if (!d.link_turn_id || d.link_turn_id == ["NA"]) return [];
           const source = d;
@@ -168,7 +178,8 @@ d3.json('convo_dict copy.json').then(function (conversations) {
           };
           return Object.keys(d.segments).map(segmentKey => {
             const linkId = d.segments[segmentKey];
-            const target = data.conversation[linkId.link_turn_id];
+            // const target = data.conversation[linkId.link_turn_id];
+            const target = data[linkId.link_turn_id];
             const type = d.segments[segmentKey]["majority_label"];
             const seg_words = d.segments[segmentKey]["segment_words"];
             const score = d.segments[segmentKey]["score"];
@@ -194,7 +205,8 @@ d3.json('convo_dict copy.json').then(function (conversations) {
         
       });
 
-      Object.values(data.conversation).forEach(d => {
+      Object.values(data).forEach(d => {
+      // Object.values(data.conversation).forEach(d => {
         if (!inDegreeMap[d.speaker_turn]) {
           inDegreeMap[d.speaker_turn] = 0;
         }
@@ -212,7 +224,8 @@ d3.json('convo_dict copy.json').then(function (conversations) {
         .attr("fill", "none");
       
         const nodes = conversationG.selectAll(".turn")
-          .data(Object.values(data.conversation))
+          // .data(Object.values(data.conversation))
+          .data(Object.values(data))
           .enter()
           .append("rect")
           .attr("class", "turn")
@@ -238,7 +251,8 @@ d3.json('convo_dict copy.json').then(function (conversations) {
           });
       
       // Select the first node and its links for each conversation
-      const firstNode = Object.values(data.conversation)[0].speaker_name;
+      // const firstNode = Object.values(data.conversation)[0].speaker_name;
+      const firstNode = Object.values(data)[0].speaker_name;
       const firstNodeLinks = edges.filter(e => e.source.speaker_name === firstNode);
       firstNodesAndLinks.push({ node: firstNode, links: firstNodeLinks, nodesGroup: nodes, pathsGroup: paths });
 
@@ -283,7 +297,8 @@ d3.json('convo_dict copy.json').then(function (conversations) {
         highlightConnected(node);
 
         // Show tooltips for ALL nodes, not just connected ones
-        const allNodes = Object.values(data.conversation)
+        // const allNodes = Object.values(data.conversation)
+        const allNodes = Object.values(data)
           .sort((a, b) => a.speaker_turn - b.speaker_turn);
         
         allNodes.forEach((currentNode, index) => {
@@ -342,7 +357,8 @@ d3.json('convo_dict copy.json').then(function (conversations) {
         const connectedLinks = edges.filter(e => {
           if (hideFirstSpeaker) {
             // Skip links connected to first speaker
-            const firstSpeaker = Object.values(data.conversation)[0].speaker_name;
+            // const firstSpeaker = Object.values(data.conversation)[0].speaker_name;
+            const firstSpeaker = Object.values(data)[0].speaker_name;
             if (e.source.speaker_name === firstSpeaker || e.target.speaker_name === firstSpeaker) {
               return false;
             }
@@ -354,7 +370,8 @@ d3.json('convo_dict copy.json').then(function (conversations) {
 
         // Highlight nodes in visualization, respecting hideFirstSpeaker
         nodes.attr("fill", n => {
-          if (hideFirstSpeaker && n.speaker_name === Object.values(data.conversation)[0].speaker_name) {
+          // if (hideFirstSpeaker && n.speaker_name === Object.values(data.conversation)[0].speaker_name) {
+          if (hideFirstSpeaker && n.speaker_name === Object.values(data)[0].speaker_name) {
             return 'none';
           }
           return connectedNodes.has(n) ? "red" : "#ccc";
@@ -365,7 +382,8 @@ d3.json('convo_dict copy.json').then(function (conversations) {
         // Show connected paths and their colors
         paths.attr("stroke-opacity", e => {
           if (hideFirstSpeaker) {
-            const firstSpeaker = Object.values(data.conversation)[0].speaker_name;
+            // const firstSpeaker = Object.values(data.conversation)[0].speaker_name;
+            const firstSpeaker = Object.values(data)[0].speaker_name;
             if (e.source.speaker_name === firstSpeaker || e.target.speaker_name === firstSpeaker) {
               return 0;
             }
@@ -521,7 +539,8 @@ d3.json('convo_dict copy.json').then(function (conversations) {
           .on('mouseover', () => {
             
             if (!selectedNode) {
-              const correspondingNode = Object.values(data.conversation)
+              // const correspondingNode = Object.values(data.conversation)
+              const correspondingNode = Object.values(data)
                 .find(d => d.speaker_turn === targetNode.speaker_turn);
               
                 if (correspondingNode) {
@@ -553,7 +572,8 @@ d3.json('convo_dict copy.json').then(function (conversations) {
         tooltip.html(tooltipContent)
           .style('visibility', 'visible')
           .on('click', function() {
-            const correspondingNode = Object.values(data.conversation)
+            // const correspondingNode = Object.values(data.conversation)
+            const correspondingNode = Object.values(data)
               .find(d => d.speaker_turn === targetNode.speaker_turn && 
                         d.conversation_id === targetNode.conversation_id);
             
@@ -650,6 +670,7 @@ d3.json('convo_dict copy.json').then(function (conversations) {
     .attr('class', 'tooltip-header')
     .style('font-weight', 'bold')
     .style('margin-bottom', '10px')
+    // .style('margin-top', '20px')
     .style('padding', '8px')
     .style('display', 'flex')
     .style('justify-content', 'space-between');
@@ -742,4 +763,63 @@ d3.json('convo_dict copy.json').then(function (conversations) {
 
   // Disable zoom on double-click (prevents default d3 double-click zoom behavior)
   svg.on("dblclick.zoom", null);
+
+  // Move facilitator filter section up - add this before tooltip container setup
+  const filterContainer = d3.select("#control-panel")
+    .append("div")
+    .style("display", "inline-block")  // Make it display inline
+    .style("margin-left", "20px");     // Add some spacing from zoom buttons
+
+  // Create facilitator dropdown
+  const facilitatorSelect = filterContainer
+    .append("select")
+    .attr("id", "facilitator-select")
+    .style("width", "150px")           // Fixed width
+    .style("margin-right", "5px")
+    .style("padding", "5px");          // Match other controls' padding
+
+  // Get unique facilitators (first speakers) from conversations
+  const facilitators = Array.from(new Set(
+    Object.values(conversations).map(conv => 
+      Object.values(conv)[0].speaker_name
+      // Object.values(conv.conversation)[0].speaker_name
+    )
+  ));
+
+  // Populate facilitator dropdown
+  facilitatorSelect
+    .selectAll("option")
+    .data(["All Facilitators"].concat(facilitators))
+    .join("option")
+    .attr("value", d => d)
+    .text(d => d);
+
+  // Add filter button
+  filterContainer
+    .append("button")
+    .text("Filter")
+    .style("padding", "5px 10px")
+    .style("cursor", "pointer")
+    .style("border-radius", "4px")
+    .style("border", "1px solid #ccc")
+    .style("background", "white")
+    .on("click", function() {
+      const selectedFacilitator = facilitatorSelect.node().value;
+      if (selectedFacilitator === "All Facilitators") {
+        updateVisualization("all");
+      } else {
+        // Filter conversations where first speaker matches selected facilitator
+        const filteredConvos = {};
+        Object.entries(conversations).forEach(([key, conv]) => {
+          if (Object.values(conv)[0].speaker_name === selectedFacilitator) {
+            filteredConvos[key] = conv;
+          }
+        });
+        // Pass the filtered conversations object directly
+        updateVisualization(filteredConvos);
+      }
+    });
+
+  // Then continue with tooltip container setup...
+  updateContainerHeight();
 });

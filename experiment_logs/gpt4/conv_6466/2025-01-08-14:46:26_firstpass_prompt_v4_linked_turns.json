@@ -1,0 +1,1403 @@
+{
+  "1": {
+    "words": "Okay. First is the purpose of this conversation. We want to create a new space across the city to facilitate more constructive listening across neighborhoods and communities and build an ecosystem of listening where every community member's story contributes to our shared understanding and a stronger, more inclusive Boston. To achieve this goal, we invite you to engage in a new kind of conversation, one centered on sharing personal stories from our own lives and experiences, rather than beginning the conversations with our positions on issues. This approach aims to help build connections and facilitate conversations that deepen mutual understanding. Secondly, I want to address what will happen to the recording of this conversation. Following our meeting today, the audio recording will become part of a collection of conversations. This conversation, along with all the other conversations that are taking place through the city, will be shared with members of the Real Talk Boston team, which consists of 14 community-based organizations in the city of Boston, and the MIT Center for Constructive Communication. Thirdly, all conversations that will be part of this effort will become part of the conversation platform that is developed by the nonprofit organization, Cortico, CCC's deployment arm. The for assist system creates a transcript for each recorded conversation and uploads both the transcript and the audio recording to the Explorer tool. The system highlights keywords that emerge across the different conversations and allows users to search conversations, listen to audio snippets and discover patterns. What we want to accomplish today is to begin the process of weaving a virtual tapestry of conversations across the city. As a participant in this conversation, you're providing consent to the MIT Center for Constructive Communication to retain the recording of this conversation in accordance with the mission of the Real Talk Boston in transforming Boston into a listening city. You also understand that the conversation will be part of the Real Talk Boston Public Conversation Collection with the goal to foster constructive conversations across the city. CCC will collect, retain, and analyze these conversations in keeping with that goal and with the mission to develop methods and tools that foster constructive communication in local communities. Participation in this conversation is voluntary and you can withdraw any time without consequences. Sessions will be recorded, but you can opt out and have this recording deleted. Only the research team at the MIT CCC will have access to your data. Your identity will be protected and information won't be shared without permission unless required by law. There are minimal foreseen risks. However, as say with any conversation, there is a chance that you'll hear stories that elicit strong emotions. I will support you in hosting a safe conversation where you only share what you feel comfortable sharing. Do you consent to this? If you agree and understand and agree to this, please say, I agree.",
+    "link_turn_id": [
+      "NA"
+    ],
+    "speaker_turn": 1,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 3.92,
+    "end_time": 182.245
+  },
+  "2": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "I agree.",
+    "speaker_turn": 2,
+    "speaker_name": "Scotty",
+    "conversation_id": 6466,
+    "start_time": 184.105,
+    "end_time": 185.165
+  },
+  "3": {
+    "link_turn_id": [
+      2
+    ],
+    "words": "Okay. Flory? Julia?",
+    "speaker_turn": 3,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 185.745,
+    "end_time": 189.605
+  },
+  "4": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "I agree.",
+    "speaker_turn": 4,
+    "speaker_name": "Juliet",
+    "conversation_id": 6466,
+    "start_time": 194.785,
+    "end_time": 195.765
+  },
+  "5": {
+    "link_turn_id": [
+      3
+    ],
+    "words": "Flory?",
+    "speaker_turn": 5,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 199.465,
+    "end_time": 200.285
+  },
+  "6": {
+    "link_turn_id": [
+      5
+    ],
+    "words": "I agree.",
+    "speaker_turn": 6,
+    "speaker_name": "Flory",
+    "conversation_id": 6466,
+    "start_time": 201.105,
+    "end_time": 202.045
+  },
+  "7": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "Okay, great. I know that was the boring part. I promise this will be better now that we're going to talk. All right. So lastly, we want to make sure that everyone gets a chance to share and learn from others in this conversation and to support those goals, few guidelines for the conversation. One: Please speak for yourself and out of your own experiences, not your opinions. Two: Allow others to speak for themselves. Three: Share the time. Allow others to finish speaking, take turns. Four: Stay curious, ask honest questions. Five: Pause and take time for reflection. And six: Listen generously. Is there anything, anybody? Is everybody okay with that? Sounds good? You ready to go?",
+    "speaker_turn": 7,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 202.385,
+    "end_time": 243.695
+  },
+  "8": {
+    "link_turn_id": [
+      7
+    ],
+    "words": "Yeah. Good for me.",
+    "speaker_turn": 8,
+    "speaker_name": "Scotty",
+    "conversation_id": 6466,
+    "start_time": 244.235,
+    "end_time": 245.739
+  },
+  "9": {
+    "link_turn_id": [
+      7,
+      1
+    ],
+    "words": "All right. Well I'm going to kick us off with a round of introductions. Please share your first name or even a pseudonym, whatever name you want to use. It's okay. It doesn't have to be your real name. And in addition to your first name, please tell us a story about your journey to Boston, what you brought you or your family here. Whether that was recently or long ago. And just tell us generally what your experience has been like. So, who would like to start? Flory, you want to start since you were here first?",
+    "speaker_turn": 9,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 245.907,
+    "end_time": 278.825
+  },
+  "10": {
+    "link_turn_id": [
+      9
+    ],
+    "words": "I can.",
+    "speaker_turn": 10,
+    "speaker_name": "Flory",
+    "conversation_id": 6466,
+    "start_time": 281.975,
+    "end_time": 283.035
+  },
+  "11": {
+    "link_turn_id": [
+      9,
+      10
+    ],
+    "words": "Thank you. Tell us about how you got to Boston and what it's been like for your family here. What brought you here?",
+    "speaker_turn": 11,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 283.455,
+    "end_time": 291.675
+  },
+  "12": {
+    "link_turn_id": [
+      11
+    ],
+    "words": "Yeah. It's been five years now since I've been to Boston. Me and my family, together. So, we moved here just to change an environment and we found it interesting And then we just wish to stay for a while and since then we've been living here and we are cool with it.",
+    "speaker_turn": 12,
+    "speaker_name": "Flory",
+    "conversation_id": 6466,
+    "start_time": 292.175,
+    "end_time": 316.925
+  },
+  "13": {
+    "link_turn_id": [
+      12
+    ],
+    "words": "And I'm sorry. And where did you come from?",
+    "speaker_turn": 13,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 318.225,
+    "end_time": 320.645
+  },
+  "14": {
+    "link_turn_id": [
+      13
+    ],
+    "words": "What did you say?",
+    "speaker_turn": 14,
+    "speaker_name": "Flory",
+    "conversation_id": 6466,
+    "start_time": 322.905,
+    "end_time": 324.329
+  },
+  "15": {
+    "link_turn_id": [
+      13,
+      14
+    ],
+    "words": "Where did your family, where was they before you were in Boston?",
+    "speaker_turn": 15,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 324.377,
+    "end_time": 327.673
+  },
+  "16": {
+    "link_turn_id": [
+      15
+    ],
+    "words": "New York.",
+    "speaker_turn": 16,
+    "speaker_name": "Flory",
+    "conversation_id": 6466,
+    "start_time": 327.849,
+    "end_time": 328.725
+  },
+  "17": {
+    "link_turn_id": [
+      16
+    ],
+    "words": "New York?",
+    "speaker_turn": 17,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 329.265,
+    "end_time": 330.585
+  },
+  "18": {
+    "link_turn_id": [
+      17
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 18,
+    "speaker_name": "Flory",
+    "conversation_id": 6466,
+    "start_time": 330.745,
+    "end_time": 331.525
+  },
+  "19": {
+    "link_turn_id": [
+      11,
+      12
+    ],
+    "words": "Me too. So, tell us, what brought you here? What was the thing that attracted you to Boston?",
+    "speaker_turn": 19,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 331.905,
+    "end_time": 339.535
+  },
+  "20": {
+    "link_turn_id": [
+      19
+    ],
+    "words": "Yeah. Actually my wife, her mom live here so we decided to pay her a visit. Since her mom live here, so she's used to Boston so we decided to relocate there.",
+    "speaker_turn": 20,
+    "speaker_name": "Flory",
+    "conversation_id": 6466,
+    "start_time": 339.915,
+    "end_time": 360.575
+  },
+  "21": {
+    "link_turn_id": [
+      20
+    ],
+    "words": "How long ago was that?",
+    "speaker_turn": 21,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 364.645,
+    "end_time": 365.945
+  },
+  "22": {
+    "link_turn_id": [
+      21
+    ],
+    "words": "It was five years now.",
+    "speaker_turn": 22,
+    "speaker_name": "Flory",
+    "conversation_id": 6466,
+    "start_time": 365.945,
+    "end_time": 367.789
+  },
+  "23": {
+    "link_turn_id": [
+      22
+    ],
+    "words": "Oh, right. And how has it been generally speaking? Was it a lot to get used to? To Adjust to? What's the experience been like, generally speaking? Positive or",
+    "speaker_turn": 23,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 367.957,
+    "end_time": 378.385
+  },
+  "24": {
+    "link_turn_id": [
+      23
+    ],
+    "words": "Yeah, positive. But no matter what, we still find it a little bit difficult to adjust on some of the things here. So, it has not been easy. But I'm getting used to it then and it's positive to me but we still find some negative aspect in it.",
+    "speaker_turn": 24,
+    "speaker_name": "Flory",
+    "conversation_id": 6466,
+    "start_time": 378.925,
+    "end_time": 396.965
+  },
+  "25": {
+    "link_turn_id": [
+      24
+    ],
+    "words": "Absolutely. Well, I hope to hear some from it. Okay, why don't we stay with this. Why don't we get to Juliet, why don't we start with the same question. What brought you or your family here? Whether that was recently or long ago and what has your experience been like, Juliet?",
+    "speaker_turn": 25,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 397.305,
+    "end_time": 417.775
+  },
+  "26": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Yeah, can I talk now?",
+    "speaker_turn": 26,
+    "speaker_name": "Scotty",
+    "conversation_id": 6466,
+    "start_time": 423.515,
+    "end_time": 425.295
+  },
+  "27": {
+    "link_turn_id": [
+      26
+    ],
+    "words": "Sure, go for it.",
+    "speaker_turn": 27,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 426.115,
+    "end_time": 427.495
+  },
+  "28": {
+    "link_turn_id": [
+      25,
+      27
+    ],
+    "words": "Yeah, actually I moved to Boston not for the purpose of staying here first of all. Or, let me say, five years ago when I'm working in college. I was just here for my protocol and it was couple of months or many months and I was just here. I rented a apartment later when I found out this place is kind of cool. Things were going well. I started business here as well. Just a small business. A laundry business precisely and things were going well for me. And that was what initiated my stay but at Boston in my neighborhood and I invited my girlfriend and she was cool with it as well. She loves the environment and I have no option other than to stay here for school. So, I've been here since then.",
+    "speaker_turn": 28,
+    "speaker_name": "Scotty",
+    "conversation_id": 6466,
+    "start_time": 428.195,
+    "end_time": 497.865
+  },
+  "29": {
+    "link_turn_id": [
+      28
+    ],
+    "words": "And how about you? I don't want to... Overall, generally speaking, what would you say your experience has been like?",
+    "speaker_turn": 29,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 499.405,
+    "end_time": 507.945
+  },
+  "30": {
+    "link_turn_id": [
+      29
+    ],
+    "words": "Yeah, also I adapted very easy on my hood. Because I was just here at first to study and I multitasked by studying business and the so fast and I just had to stay. Because it's just like a land filled with many for me. So, favorable for me and I had no need to hear from any prophets just to tell me I'm going to be successful here. So, this is one of the reasons I initiated my stay.",
+    "speaker_turn": 30,
+    "speaker_name": "Scotty",
+    "conversation_id": 6466,
+    "start_time": 508.925,
+    "end_time": 550.475
+  },
+  "31": {
+    "link_turn_id": [
+      25
+    ],
+    "words": "Interesting. All right. And Juliet, how about the same question. What brought you or your family here? Whether that was recently or long ago and what has your experience been like?",
+    "speaker_turn": 31,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 552.575,
+    "end_time": 562.835
+  },
+  "32": {
+    "link_turn_id": [
+      31
+    ],
+    "words": "Yeah, I moved to Boston about four years ago. I got a new job so that's why I actually moved to Boston with my family. And ever since I got there, Boston it's actually a good place to stay. So, I just think well it's very good and I and my family seem comfortable staying in here, so. Although there are some difficulties, I'm this compared to where we actually came from. So, I think it's not really bad and I've really enjoyed myself staying, so far. Yeah.",
+    "speaker_turn": 32,
+    "speaker_name": "Juliet",
+    "conversation_id": 6466,
+    "start_time": 564.695,
+    "end_time": 610.975
+  },
+  "33": {
+    "link_turn_id": [
+      32
+    ],
+    "words": "And have you been in this, you said three years, right?",
+    "speaker_turn": 33,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 612.035,
+    "end_time": 614.855
+  },
+  "34": {
+    "link_turn_id": [
+      33
+    ],
+    "words": "Oh yes sir.",
+    "speaker_turn": 34,
+    "speaker_name": "Juliet",
+    "conversation_id": 6466,
+    "start_time": 617.315,
+    "end_time": 618.415
+  },
+  "35": {
+    "link_turn_id": [
+      33,
+      34
+    ],
+    "words": "I'm sorry what? Three years so far?",
+    "speaker_turn": 35,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 619.955,
+    "end_time": 621.855
+  },
+  "36": {
+    "link_turn_id": [
+      33,
+      35
+    ],
+    "words": "Yeah. Yeah.",
+    "speaker_turn": 36,
+    "speaker_name": "Juliet",
+    "conversation_id": 6466,
+    "start_time": 625.885,
+    "end_time": 627.385
+  },
+  "37": {
+    "link_turn_id": [
+      31,
+      34,
+      36
+    ],
+    "words": "And have you been in one place or have you moved around a little bit?",
+    "speaker_turn": 37,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 628.005,
+    "end_time": 631.505
+  },
+  "38": {
+    "link_turn_id": [
+      37
+    ],
+    "words": "Yeah, I haven't moved around actually. But then the little places that I've been to, it's not bad and I really love it and it's quite good for me and my family and it's very good for us and I think so far it's good and comfortable for us. We do not have any problems since we got in. So, I think, I would say it's very good for me then. So, I have no cause to have any negative comments about that.",
+    "speaker_turn": 38,
+    "speaker_name": "Juliet",
+    "conversation_id": 6466,
+    "start_time": 632.525,
+    "end_time": 665.935
+  },
+  "39": {
+    "link_turn_id": [
+      30,
+      31,
+      32,
+      38
+    ],
+    "words": "Okay. Well let's move on to the next part. We'll get a little more specific and I don't know who would like to start. Nope and thanks for sharing those first ones and we want to learn about your experience living in the city. See what experiences you have in common with other people, whether on this call or other people who we also have these conversations with. But could you describe a specific time where you felt really supported by the community in Boston? I'd love to hear about who was there, what made that moment special or meaningful when it happened. Who would like to start? Who wants to give us something?",
+    "speaker_turn": 39,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 667.395,
+    "end_time": 706.275
+  },
+  "40": {
+    "link_turn_id": [
+      39
+    ],
+    "words": "Yeah, I would like to go first. Actually, when I started my business I felt a lot of support from my neighborhood and I felt very welcome by the neighborhood. People were nice to me, my neighbors especially. They came, come and to greet me because I was actually staying alone at first before my girlfriend moved in. So, people were coming in, people were showing a lot of support, and the social as well was very, very support-full. With me, besides support I would say I got when I just moved in. Thank you.",
+    "speaker_turn": 40,
+    "speaker_name": "Scotty",
+    "conversation_id": 6466,
+    "start_time": 708.555,
+    "end_time": 762.263
+  },
+  "41": {
+    "link_turn_id": [
+      40
+    ],
+    "words": "And you said you're in the laundry business?",
+    "speaker_turn": 41,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 762.263,
+    "end_time": 764.275
+  },
+  "42": {
+    "link_turn_id": [
+      41
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 42,
+    "speaker_name": "Scotty",
+    "conversation_id": 6466,
+    "start_time": 765.095,
+    "end_time": 765.875
+  },
+  "43": {
+    "link_turn_id": [
+      40
+    ],
+    "words": "Interesting. And who else would like to, who else has a time where you felt supported? Tell us, did you have a business? With school? And tell us how did the community support, whether it's the immediate community around you, the larger Boston community. Who else has a story for us?",
+    "speaker_turn": 43,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 766.975,
+    "end_time": 792.225
+  },
+  "44": {
+    "link_turn_id": [
+      39,
+      43
+    ],
+    "words": "Yeah, moving to Boston. I think those in the community, they're kind of lovely. They really supported me when I moved in. They didn't let me feel alone. They put me through, they show me around the markets. Whenever I want to get stuff in the markets, they actually. I literally see people that can just volunteer for me like, \"Let me go to the market, let get something for you.\" Or, otherwise let me just, like we can go together. So, I can just show you around in case of next time. So, my first time there was, it was so like, I wasn't really expecting it though. I was just thinking maybe it'll be difficult moving to a new place where I don't have family, I don't have relatives, I don't have friends, no. And they just rallied around and they supported me. So, they really don't let me feel lonely and they don't make me feel like low, like a first timer in Boston. So, I think that alone, it's something. And also at my workplace and my colleagues at work, they really stood by me, they supported me, they helped me to get stuff in the house. They supported me in all aspects actually. So, it was really, really good. And I think they are lovely people. They are generally, they are supportive, they really support people. Especially when they see that you are a stranger, you are not, maybe you are just coming in. They make sure they support you and make you feel at home. So, they would not even leave a space for you to doubt maybe, \"Can I stay here or not?\" Or, \"Is this place really good for me?\" Or, \"Should I just go back to where I'm coming from?\" So those type of thing they really tried for me.",
+    "speaker_turn": 44,
+    "speaker_name": "Juliet",
+    "conversation_id": 6466,
+    "start_time": 799.085,
+    "end_time": 924.475
+  },
+  "45": {
+    "link_turn_id": [
+      44
+    ],
+    "words": "Thank you. That was excellent. And Flory, how about you? What's a specific time where you felt supported?",
+    "speaker_turn": 45,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 925.735,
+    "end_time": 932.115
+  },
+  "46": {
+    "link_turn_id": [
+      43,
+      44
+    ],
+    "words": "Yeah, actually the major time that I felt supported majorly is when I moved in. When I need support at my workplace, getting stuff, getting stuff to my house, getting my house stocked up as a first timer in an environment. I literally don't know anywhere. So, they supported me, they showed me around. And also at work they don't really let me feel lonely. Yeah.",
+    "speaker_turn": 46,
+    "speaker_name": "Flory",
+    "conversation_id": 6466,
+    "start_time": 934.815,
+    "end_time": 970.365
+  },
+  "47": {
+    "link_turn_id": [
+      40,
+      44,
+      46
+    ],
+    "words": "All right, well okay. So that's the good stuff. That's the good part, the positives, right? But now that we've talked about times you felt supported, I'd like to leave room to talk about when that did not happen. Can somebody tell us about a worry about day-to-day while living in Boston? Maybe, it's related to health or finances or accessibility or transit. I don't know if you take the T. Or, inclusivity or something else entirely. Is there any kind of support that you wish you had for these things? I don't know who would like to go first?",
+    "speaker_turn": 47,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 971.865,
+    "end_time": 1014.255
+  },
+  "48": {
+    "link_turn_id": [
+      47
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 48,
+    "speaker_name": "Flory",
+    "conversation_id": 6466,
+    "start_time": 1016.995,
+    "end_time": 1017.775
+  },
+  "49": {
+    "link_turn_id": [
+      48
+    ],
+    "words": "Go for it.",
+    "speaker_turn": 49,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1020.315,
+    "end_time": 1021.335
+  },
+  "50": {
+    "link_turn_id": [
+      47
+    ],
+    "words": "Let me just say a little thing about that. For me, I feel love because I moved in with my in-laws, so I didn't feel much negative aspect of it. Because I moved into in-laws house, so I literally do most of the things. I just feel free and my wife take me around and all of that. So, for me it was a big love. It was really lovely because my wife is from Boston so I didn't find difficult to get around that much.",
+    "speaker_turn": 50,
+    "speaker_name": "Flory",
+    "conversation_id": 6466,
+    "start_time": 1022.547,
+    "end_time": 1071.655
+  },
+  "51": {
+    "link_turn_id": [
+      50
+    ],
+    "words": "Is there anything that, but whether getting a job or getting around or maybe something government related, is there anything that you felt that you could have had more help with around town?",
+    "speaker_turn": 51,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1073.195,
+    "end_time": 1084.655
+  },
+  "52": {
+    "link_turn_id": [
+      51
+    ],
+    "words": "Yeah. Yeah, specifically I would talk about getting a job, to me. I tried it a couple of times and it seems very difficult for me to get a job source. So, I think maybe because of me being new here, maybe that's why I find it difficult to get a job at first. So, I think that happened too.",
+    "speaker_turn": 52,
+    "speaker_name": "Flory",
+    "conversation_id": 6466,
+    "start_time": 1086.935,
+    "end_time": 1113.045
+  },
+  "53": {
+    "link_turn_id": [
+      51,
+      52
+    ],
+    "words": "Excellent. And the same question, whoever wants to go next could tell us about what you worry about maybe day-to-day living in Boston, whatever it's related to. Accessibility, finances, health, getting around, what could it be?",
+    "speaker_turn": 53,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1114.705,
+    "end_time": 1133.285
+  },
+  "54": {
+    "link_turn_id": [
+      53
+    ],
+    "words": "Yeah, I think cost of living too is somehow expensive.",
+    "speaker_turn": 54,
+    "speaker_name": "Flory",
+    "conversation_id": 6466,
+    "start_time": 1136.915,
+    "end_time": 1141.775
+  },
+  "55": {
+    "link_turn_id": [
+      54
+    ],
+    "words": "Sure is.",
+    "speaker_turn": 55,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1143.595,
+    "end_time": 1144.655
+  },
+  "56": {
+    "link_turn_id": [
+      "55"
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 56,
+    "speaker_name": "Flory",
+    "conversation_id": 6466,
+    "start_time": 1144.955,
+    "end_time": 1145.827
+  },
+  "57": {
+    "link_turn_id": [
+      54,
+      56
+    ],
+    "words": "Tell me. I mean feel free to talk about it. Anybody else want to talk about the cost of living or trying to find a place to live all that?",
+    "speaker_turn": 57,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1146.011,
+    "end_time": 1153.055
+  },
+  "58": {
+    "link_turn_id": [
+      54,
+      57
+    ],
+    "words": "Yeah, I tried to do that. I tried to move away from staying with my in-laws to get an apartment for myself and feel free. But, it was difficult for me to get because the cost of living is so expensive, it's much expensive. So, I think it is a little bit difficult to get that if you don't really have much income on you.",
+    "speaker_turn": 58,
+    "speaker_name": "Flory",
+    "conversation_id": 6466,
+    "start_time": 1153.555,
+    "end_time": 1176.925
+  },
+  "59": {
+    "link_turn_id": [
+      57,
+      58
+    ],
+    "words": "Absolutely. Absolutely. Anybody else want to talk about the concerns, worries day-to-day, something like that?",
+    "speaker_turn": 59,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1177.705,
+    "end_time": 1185.445
+  },
+  "60": {
+    "link_turn_id": [
+      59
+    ],
+    "words": "For me, are nothing special. I would just say, just say normal day stress. Nothing personal, just day-to-day lifestyle. Stress attached and all of that what everyone experienced, I have no special experience on that and things have been great outside.",
+    "speaker_turn": 60,
+    "speaker_name": "Scotty",
+    "conversation_id": 6466,
+    "start_time": 1191.459,
+    "end_time": 1214.615
+  },
+  "61": {
+    "link_turn_id": [
+      59
+    ],
+    "words": "Any concerns that you have on a day-to-day? Do you take public transportation? Do you take the MBTA?",
+    "speaker_turn": 61,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1216.275,
+    "end_time": 1222.375
+  },
+  "62": {
+    "link_turn_id": [
+      61
+    ],
+    "words": "No, no. I have my own personal car.",
+    "speaker_turn": 62,
+    "speaker_name": "Scotty",
+    "conversation_id": 6466,
+    "start_time": 1224.395,
+    "end_time": 1227.835
+  },
+  "63": {
+    "link_turn_id": [
+      62
+    ],
+    "words": "Okay.",
+    "speaker_turn": 63,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1227.995,
+    "end_time": 1228.467
+  },
+  "64": {
+    "link_turn_id": [
+      62
+    ],
+    "words": "I go around with. So, I'm there.",
+    "speaker_turn": 64,
+    "speaker_name": "Scotty",
+    "conversation_id": 6466,
+    "start_time": 1228.763,
+    "end_time": 1232.775
+  },
+  "65": {
+    "link_turn_id": [
+      62
+    ],
+    "words": "And how about traffic?",
+    "speaker_turn": 65,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1232.775,
+    "end_time": 1235.655
+  },
+  "66": {
+    "link_turn_id": [
+      61,
+      65
+    ],
+    "words": "Yeah. 'll say kind of, a little bit stressful. Kind of mentally stressful as well. Now, I would say everyone experienced that. Everyone in the wide world experience that. It's a normal thing.",
+    "speaker_turn": 66,
+    "speaker_name": "Scotty",
+    "conversation_id": 6466,
+    "start_time": 1237.595,
+    "end_time": 1257.197
+  },
+  "67": {
+    "link_turn_id": [
+      66
+    ],
+    "words": "It's not just Boston you're saying?",
+    "speaker_turn": 67,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1258.205,
+    "end_time": 1260.025
+  },
+  "68": {
+    "link_turn_id": [
+      67
+    ],
+    "words": "Yeah, not just Boston.",
+    "speaker_turn": 68,
+    "speaker_name": "Scotty",
+    "conversation_id": 6466,
+    "start_time": 1260.885,
+    "end_time": 1262.685
+  },
+  "69": {
+    "link_turn_id": [
+      66,
+      67,
+      68
+    ],
+    "words": "That's a good point. And anybody else? Juliet, do you have anything about that? Day-to-day worries in living in Boston?",
+    "speaker_turn": 69,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1262.685,
+    "end_time": 1271.725
+  },
+  "70": {
+    "link_turn_id": [
+      69
+    ],
+    "words": "Yeah, if there's anything that I'm really worried about in Boston is the weather. It's kind of cold. So, not good for me and I'm not really adapt to that kind of weather. So, that's major thing that I find for now.",
+    "speaker_turn": 70,
+    "speaker_name": "Juliet",
+    "conversation_id": 6466,
+    "start_time": 1275.185,
+    "end_time": 1297.645
+  },
+  "71": {
+    "link_turn_id": [
+      70
+    ],
+    "words": "And we haven't even had very bad winters recently.",
+    "speaker_turn": 71,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1299.265,
+    "end_time": 1302.245
+  },
+  "72": {
+    "link_turn_id": [
+      71
+    ],
+    "words": "Yeah, yeah.",
+    "speaker_turn": 72,
+    "speaker_name": "Juliet",
+    "conversation_id": 6466,
+    "start_time": 1303.625,
+    "end_time": 1304.513
+  },
+  "73": {
+    "link_turn_id": [
+      70,
+      64
+    ],
+    "words": "If it got bad it would really be a problem. How about anything else? How about transportation?",
+    "speaker_turn": 73,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1304.569,
+    "end_time": 1309.145
+  },
+  "74": {
+    "link_turn_id": [
+      73
+    ],
+    "words": "Yeah, also transportation. I would just say it's just too expensive then. Yeah. So, I just think it's just kind of expensive. So, I think if it can just be more, it can just be a little bit [inaudible]. So, I think that would be better. So, aside that, I think everything else is good and just manageable. Yeah.",
+    "speaker_turn": 74,
+    "speaker_name": "Juliet",
+    "conversation_id": 6466,
+    "start_time": 1310.145,
+    "end_time": 1345.747
+  },
+  "75": {
+    "link_turn_id": [
+      "69",
+      "73",
+      "74"
+    ],
+    "words": "All right, well almost rounding up. So with the next question, thanks for sharing all that everybody. To wrap up, I want to wrap up on a hopeful note. I think let's say if you're still here and imagine a Boston community 10 years from now that's fully accessible and inclusive to you people like you can paint a picture of what that would look or feel like to you. What would a perfect great Boston in 10 years really look like for you? Whoever would like to start?",
+    "speaker_turn": 75,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1345.931,
+    "end_time": 1407.595
+  },
+  "76": {
+    "link_turn_id": [
+      75
+    ],
+    "words": "Can you repeat the question? I can't hear you well.",
+    "speaker_turn": 76,
+    "speaker_name": "Juliet",
+    "conversation_id": 6466,
+    "start_time": 1407.595,
+    "end_time": 1410.603
+  },
+  "77": {
+    "link_turn_id": [
+      76
+    ],
+    "words": "Imagine a Boston 10 years from now. Imagine a Boston community 10 years from now that is fully accessible and inclusive. Can you tell us what that would look like for you? What would you like Boston to look like in 10 years, ideally?",
+    "speaker_turn": 77,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1410.739,
+    "end_time": 1430.905
+  },
+  "78": {
+    "link_turn_id": [
+      77
+    ],
+    "words": "Yeah, I actually want Boston to be well civilized and more, more [inaudible]. And I think it should be more technical. There should be more technology, more developments both in the physical and the settings of everywhere. Yeah, and I think there should be some upgrading in some system like their healthcare system now. There should be a use of online accessibility for healthcare. So, I think that should be done in a way that everyone can just access healthcare from the comfort of their home and it should be very much easier for everyone. And also creating more job opportunity for people. I think that also brings more development. Yeah.",
+    "speaker_turn": 78,
+    "speaker_name": "Juliet",
+    "conversation_id": 6466,
+    "start_time": 1431.765,
+    "end_time": 1510.825
+  },
+  "79": {
+    "link_turn_id": [
+      78
+    ],
+    "words": "And you, thank you very much. Who else? So, who else would you like to tell me a perfect Boston, a great Boston in 10 years. If you could close your eye, tell me what do you think that would look like?",
+    "speaker_turn": 79,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1510.825,
+    "end_time": 1525.105
+  },
+  "80": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 80,
+    "speaker_name": "Flory",
+    "conversation_id": 6466,
+    "start_time": 1526.375,
+    "end_time": 1527.087
+  },
+  "81": {
+    "link_turn_id": [
+      79,
+      80
+    ],
+    "words": "Yeah. Okay, you can go first.",
+    "speaker_turn": 81,
+    "speaker_name": "Scotty",
+    "conversation_id": 6466,
+    "start_time": 1527.191,
+    "end_time": 1530.435
+  },
+  "82": {
+    "link_turn_id": [
+      79
+    ],
+    "words": "Whoever wants to go.",
+    "speaker_turn": 82,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1533.655,
+    "end_time": 1535.035
+  },
+  "83": {
+    "link_turn_id": [
+      75,
+      78
+    ],
+    "words": "To me, I think Boston would be great if there's something tenancies has been adjusted. And for me, if traffic and transportation has been taken care of, properly. Especially, during the rush hour, the public transport and all of that, if that has been settled, that's been taken care of, that's been put in good hands, I think it'll be great also. And the cost of living has been regulated. To me, I think it is really expensive. And to me, I think Bostonians has limited space. I think it's a limited space to me based on shootings, stuff going on about Boston. So, I think of limited space. I think if all of that has been taken of, it's really be a great city in 10 years to come.",
+    "speaker_turn": 83,
+    "speaker_name": "Flory",
+    "conversation_id": 6466,
+    "start_time": 1543.295,
+    "end_time": 1608.175
+  },
+  "84": {
+    "link_turn_id": [
+      83
+    ],
+    "words": "Sure hope so, right?",
+    "speaker_turn": 84,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1608.915,
+    "end_time": 1610.495
+  },
+  "85": {
+    "link_turn_id": [
+      84
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 85,
+    "speaker_name": "Flory",
+    "conversation_id": 6466,
+    "start_time": 1611.515,
+    "end_time": 1612.203
+  },
+  "86": {
+    "link_turn_id": [
+      81,
+      83
+    ],
+    "words": "And Scotty, how about you? What do you think? What would Boston in 10 years, a really great situation, what would Boston look like in 10 years? To really be the best boss than it could be?",
+    "speaker_turn": 86,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1612.339,
+    "end_time": 1627.015
+  },
+  "87": {
+    "link_turn_id": [
+      86,
+      78
+    ],
+    "words": "Yeah, I always like it to be more mobile. Development in infrastructure. More infrastructure development. Create some job opportunities would help. There should be improvement in their banking or affairs and all of that. Should be improvement in their government or our policy which is bringing the government more to the people. Bringing the government to regards with whatever will be more helpful as well. So, I can hear words people are really feeling. They can hear from the people directly. They can see what people are suffering from and what people want. Yeah.",
+    "speaker_turn": 87,
+    "speaker_name": "Scotty",
+    "conversation_id": 6466,
+    "start_time": 1628.315,
+    "end_time": 1691.095
+  },
+  "88": {
+    "link_turn_id": [
+      83,
+      87
+    ],
+    "words": "Excellent. Excellent. All right, so now that everybody has really said a lot, let's draw some connections. Let's talk a little bit about what are we hearing, what are you hearing in other people's experiences? I'm hearing a lot of the same things. That people really like Boston, but there are these common problems: the congestion, traffic, bad transportation, high cost of living. What are you all hearing in other people? What the other people have said tonight?",
+    "speaker_turn": 88,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1693.035,
+    "end_time": 1724.475
+  },
+  "89": {
+    "link_turn_id": [
+      88
+    ],
+    "words": "Yeah. To me, I think, I listened to more of the conversation and I think the opinion is really great too. Because I listen to all they said and all of that. So, I think it's really a great conversation. If everything we talk about this today can be taken, I think it really work out for good.",
+    "speaker_turn": 89,
+    "speaker_name": "Flory",
+    "conversation_id": 6466,
+    "start_time": 1730.495,
+    "end_time": 1767.725
+  },
+  "90": {
+    "link_turn_id": [
+      88,
+      89
+    ],
+    "words": "Are you hearing a lot of people have the same concerns as you? Or completely different?",
+    "speaker_turn": 90,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1768.465,
+    "end_time": 1775.045
+  },
+  "91": {
+    "link_turn_id": [
+      88,
+      90
+    ],
+    "words": "Yeah, I think we all don't have everything in common. Everyone has his or her own aspect of views and all of that. But, I think we are all on point for the same goal.",
+    "speaker_turn": 91,
+    "speaker_name": "Flory",
+    "conversation_id": 6466,
+    "start_time": 1777.225,
+    "end_time": 1794.725
+  },
+  "92": {
+    "link_turn_id": [
+      88,
+      90,
+      91
+    ],
+    "words": "Excellent. Who else? Is that what the rest of you were saying? You seeing a lot of similarity? Scotty?",
+    "speaker_turn": 92,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1794.725,
+    "end_time": 1826.875
+  },
+  "93": {
+    "link_turn_id": [
+      92
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 93,
+    "speaker_name": "Scotty",
+    "conversation_id": 6466,
+    "start_time": 1829.695,
+    "end_time": 1830.583
+  },
+  "94": {
+    "link_turn_id": [
+      88,
+      90,
+      92
+    ],
+    "words": "What are you hearing in the other voices here tonight?",
+    "speaker_turn": 94,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1831.343,
+    "end_time": 1834.715
+  },
+  "95": {
+    "link_turn_id": [
+      88,
+      94
+    ],
+    "words": "Oh, and the cost of living, it depends on how everyone. Cost of living gets more important according to how you earn. The cost of living on both in Boston might not be so expensive for someone else and can probably be expensive for me because I earn low. Or, the person earns much more than me. So, yeah. I would say what I would just have to go with. It's just improving the cost of living.",
+    "speaker_turn": 95,
+    "speaker_name": "Scotty",
+    "conversation_id": 6466,
+    "start_time": 1835.815,
+    "end_time": 1873.339
+  },
+  "96": {
+    "link_turn_id": [
+      92,
+      94
+    ],
+    "words": "Excellent. And who else? Juliet, have you not spoken? What are you hearing from the other people on the call? Is it the same concerns that you have? What are you hearing from other experiences?",
+    "speaker_turn": 96,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1876.035,
+    "end_time": 1890.215
+  },
+  "97": {
+    "link_turn_id": [
+      96
+    ],
+    "words": "Yeah, it's actually same thing.",
+    "speaker_turn": 97,
+    "speaker_name": "Juliet",
+    "conversation_id": 6466,
+    "start_time": 1892.635,
+    "end_time": 1894.975
+  },
+  "98": {
+    "link_turn_id": [
+      97
+    ],
+    "words": "The same thing?",
+    "speaker_turn": 98,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1895.915,
+    "end_time": 1897.131
+  },
+  "99": {
+    "link_turn_id": [
+      98
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 99,
+    "speaker_name": "Juliet",
+    "conversation_id": 6466,
+    "start_time": 1897.323,
+    "end_time": 1897.699
+  },
+  "100": {
+    "link_turn_id": [
+      99
+    ],
+    "words": "Is that what you were expecting? I mean pretty common stuff, right?",
+    "speaker_turn": 100,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1897.747,
+    "end_time": 1902.535
+  },
+  "101": {
+    "link_turn_id": [
+      100
+    ],
+    "words": "Yeah, I think. Yeah, they can just improve the transportation, the traffic, and the cost of living as well. So, by doing that I think it'll be great.",
+    "speaker_turn": 101,
+    "speaker_name": "Juliet",
+    "conversation_id": 6466,
+    "start_time": 1902.875,
+    "end_time": 1914.735
+  },
+  "102": {
+    "link_turn_id": [
+      101
+    ],
+    "words": "Anything else you're hearing in people's voices or from their experiences?",
+    "speaker_turn": 102,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1917.875,
+    "end_time": 1921.655
+  },
+  "103": {
+    "link_turn_id": [
+      102
+    ],
+    "words": "Not anymore.",
+    "speaker_turn": 103,
+    "speaker_name": "Juliet",
+    "conversation_id": 6466,
+    "start_time": 1922.845,
+    "end_time": 1923.909
+  },
+  "104": {
+    "link_turn_id": [
+      101,
+      103
+    ],
+    "words": "Because you're different. Some of you have families with you. Some of you came by yourself, right?",
+    "speaker_turn": 104,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1924.077,
+    "end_time": 1928.585
+  },
+  "105": {
+    "link_turn_id": [
+      104
+    ],
+    "words": "Yeah. Yeah.",
+    "speaker_turn": 105,
+    "speaker_name": "Juliet",
+    "conversation_id": 6466,
+    "start_time": 1929.205,
+    "end_time": 1930.425
+  },
+  "106": {
+    "link_turn_id": [
+      101,
+      104
+    ],
+    "words": "It makes it different. But it's interesting to hear the different experiences. Okay, well it's time to wrap up. Let's just go around and tell. I appreciate everything by the way. And before we wrap up, just tell us, each of you, tell me something you'll take away with you that you heard tonight, that you got out of the conversation. For me, I think this is my first one doing this. So, I definitely got that it takes a little time to warm up, get people talking. I don't want to lead people to say certain things, but just because I think them. But, I'm definitely hearing a lot of the same things and Boston is just so congested and so expensive. It's obviously to be expected, but some of your experiences are unique and I appreciate you being so candid with your stories. Anything else that anybody else is taking away with them that you heard tonight? Anybody?",
+    "speaker_turn": 106,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 1931.085,
+    "end_time": 2008.614116781158
+  },
+  "107": {
+    "link_turn_id": [
+      106
+    ],
+    "words": "Yeah. For me, I just appreciate hearing everyone sharing their thought and expressing their self and bringing out their point and listing everything they like and don't like and their experience and all of that. So, for me it's already an improvement, for me. You're listening to what others are saying about a specific thing. So, it's already an improvement for me. I believe everything will work out, as we said in the nearest future. So, it's great and okay listening to everybody's talk.",
+    "speaker_turn": 107,
+    "speaker_name": "Flory",
+    "conversation_id": 6466,
+    "start_time": 2008.614116781158,
+    "end_time": 2070.675
+  },
+  "108": {
+    "link_turn_id": [
+      106,
+      107
+    ],
+    "words": "Excellent. And who else, what else do you have to take away, anybody?",
+    "speaker_turn": 108,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 2072.295,
+    "end_time": 2076.075
+  },
+  "109": {
+    "link_turn_id": [
+      106,
+      107
+    ],
+    "words": "Yeah, I always say great experience today. Hearing from other neighbors in Boston and all of that. So, I would say it's a great moment. [inaudible]. I enjoyed the discussion. Yeah, nice to be here.",
+    "speaker_turn": 109,
+    "speaker_name": "Scotty",
+    "conversation_id": 6466,
+    "start_time": 2078.455,
+    "end_time": 2097.725
+  },
+  "110": {
+    "link_turn_id": [
+      108,
+      109
+    ],
+    "words": "Thank you. And Lastly, finish us off.",
+    "speaker_turn": 110,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 2098.025,
+    "end_time": 2103.085
+  },
+  "111": {
+    "link_turn_id": [
+      110
+    ],
+    "words": "Actually, I have a question.",
+    "speaker_turn": 111,
+    "speaker_name": "Scotty",
+    "conversation_id": 6466,
+    "start_time": 2110.155,
+    "end_time": 2113.455
+  },
+  "112": {
+    "link_turn_id": [
+      111
+    ],
+    "words": "Please.",
+    "speaker_turn": 112,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 2113.995,
+    "end_time": 2114.715
+  },
+  "113": {
+    "link_turn_id": [
+      112
+    ],
+    "words": "Sorry, if you don't mind.",
+    "speaker_turn": 113,
+    "speaker_name": "Scotty",
+    "conversation_id": 6466,
+    "start_time": 2114.875,
+    "end_time": 2117.695
+  },
+  "114": {
+    "link_turn_id": [
+      113
+    ],
+    "words": "No, go ahead.",
+    "speaker_turn": 114,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 2118.475,
+    "end_time": 2119.495
+  },
+  "115": {
+    "link_turn_id": [
+      114
+    ],
+    "words": "Can I go on?",
+    "speaker_turn": 115,
+    "speaker_name": "Scotty",
+    "conversation_id": 6466,
+    "start_time": 2123.675,
+    "end_time": 2124.855
+  },
+  "116": {
+    "link_turn_id": [
+      115
+    ],
+    "words": "Excuse me? Yeah, go ahead.",
+    "speaker_turn": 116,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 2126.355,
+    "end_time": 2127.855
+  },
+  "117": {
+    "link_turn_id": [
+      111,
+      115
+    ],
+    "words": "Okay, yeah. So, I can read in the story description on my email that saw that I will be receiving a compensation or a reimbursement of forty bucks for being here today.",
+    "speaker_turn": 117,
+    "speaker_name": "Scotty",
+    "conversation_id": 6466,
+    "start_time": 2130.435,
+    "end_time": 2149.125
+  },
+  "118": {
+    "link_turn_id": [
+      117
+    ],
+    "words": "Yeah, we send you a care package. So, I'm going to do a follow-up email. You'll get an email this week with a thank you and the information for you to fill out as to where I could send things. Okay?",
+    "speaker_turn": 118,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 2149.425,
+    "end_time": 2160.885
+  },
+  "119": {
+    "link_turn_id": [
+      117,
+      118
+    ],
+    "words": "But, I just want to make an inquiry about the reimbursement. I'll be more, I think it'll be more mobile if I receive it to probably a different vendor like on Amazon or other vendors. Otherwise, it can just be useful for me. So, I can probably purchase a flower and just [inaudible]. So, I don't just want to.",
+    "speaker_turn": 119,
+    "speaker_name": "Scotty",
+    "conversation_id": 6466,
+    "start_time": 2163.669,
+    "end_time": 2204.343
+  },
+  "120": {
+    "link_turn_id": [
+      119
+    ],
+    "words": "I'll have to see, we already have some gift cards. But, we will see what we could do okay? Just write us back okay?",
+    "speaker_turn": 120,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 2205.271,
+    "end_time": 2212.115
+  },
+  "121": {
+    "link_turn_id": [
+      120
+    ],
+    "words": "Okay. Thank you for that.",
+    "speaker_turn": 121,
+    "speaker_name": "Scotty",
+    "conversation_id": 6466,
+    "start_time": 2214.345,
+    "end_time": 2216.289
+  },
+  "122": {
+    "link_turn_id": [
+      121,
+      120,
+      118
+    ],
+    "words": "Yeah, thank you very much everybody. We appreciate it. And I'll send you a follow-up email. But thank you for your time.",
+    "speaker_turn": 122,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6466,
+    "start_time": 2216.457,
+    "end_time": 2226.165
+  },
+  "123": {
+    "link_turn_id": [
+      "122"
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 123,
+    "speaker_name": "Flory",
+    "conversation_id": 6466,
+    "start_time": 2228.505,
+    "end_time": 2228.825
+  }
+}
