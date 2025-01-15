@@ -1,4 +1,5 @@
-d3.json('merged_data.json').then(function (conversations) {
+// d3.json('merged_data.json').then(function (conversations) {
+d3.json('5459.json').then(function (conversations) {
   // Define margins first
   const margin = {top: 20, right: 30, bottom: 30, left: 100};
   
@@ -101,7 +102,7 @@ d3.json('merged_data.json').then(function (conversations) {
 
     // Update SVG height based on filtered data
     const conversationCount = Object.keys(convoData).length;
-    const perConversationHeight = 300;
+    const perConversationHeight = 300; // Restore original height per conversation
     const totalHeight = perConversationHeight * conversationCount;
     svg.attr("height", totalHeight);
 
@@ -150,7 +151,7 @@ d3.json('merged_data.json').then(function (conversations) {
       conversationG.append("g").attr("transform", `translate(0,${height})`).call(xAxis);
       conversationG.append("g")
         .call(yAxis)
-        .style("font-size", "20px")  // Increase font size for speaker names
+        .style("font-size", "20px");  // Increase font size for speaker names
 
       // Marker for arrows
       svg.append("defs")
@@ -637,6 +638,53 @@ d3.json('merged_data.json').then(function (conversations) {
           document.head.appendChild(styleSheet);
         }
       }
+
+      // Add this variable at the top level to track currently faded speakers
+      let fadedSpeakers = new Set();
+
+      // Create and style the y-axis with clickable labels
+      const yAxisGroup = conversationG.append("g")
+        .call(yAxis)
+        .style("font-size", "20px");  // Increase font size for speaker names
+
+      // Make the speaker names clickable
+      yAxisGroup.selectAll(".tick text")
+        .style("cursor", "pointer")  // Change cursor to pointer on hover
+        .on("click", function(event, speakerName) {
+          // Toggle speaker in fadedSpeakers set
+          if (fadedSpeakers.has(speakerName)) {
+            fadedSpeakers.delete(speakerName);
+          } else {
+            fadedSpeakers.add(speakerName);
+          }
+
+          // Update opacity for nodes
+          nodes
+            .style("opacity", d => 
+              fadedSpeakers.has(d.speaker_name) ? 0.2 : 1
+            );
+
+          // Update opacity for paths/links
+          paths
+            .style("opacity", d => 
+              fadedSpeakers.has(d.source.speaker_name) || 
+              fadedSpeakers.has(d.target.speaker_name) 
+                ? 0.1 
+                : (d.type === "responsive_substantive" ? 1 : 0.2)
+            );
+
+          // Update the speaker name opacity
+          d3.select(this)
+            .style("opacity", fadedSpeakers.has(speakerName) ? 0.2 : 1);
+        })
+        .on("mouseover", function() {
+          d3.select(this)
+            .style("text-decoration", "underline");
+        })
+        .on("mouseout", function() {
+          d3.select(this)
+            .style("text-decoration", "none");
+        });
     });
   }
 
@@ -652,74 +700,27 @@ d3.json('merged_data.json').then(function (conversations) {
   // Add this function to dynamically set the container height
   function updateContainerHeight() {
     const windowHeight = window.innerHeight;
-    const containerTop = document.getElementById('tooltip-container').getBoundingClientRect().top;
     const controlPanelHeight = document.getElementById('control-panel').offsetHeight;
     const padding = 20; // Space from bottom of viewport
     
+    // Calculate available height (viewport height minus control panel and padding)
+    const availableHeight = windowHeight - controlPanelHeight - padding - 20;
+    
     d3.select('#tooltip-container')
       .style('position', 'fixed')
-      .style('top', `${controlPanelHeight + 20}px`) // Add some spacing after control panel
-      .style('height', `${windowHeight - controlPanelHeight - padding - 20}px`) // Adjust height calculation
+      .style('top', `${controlPanelHeight + 20}px`)
+      .style('height', `${availableHeight}px`)  // Use full available height
+      .style('min-height', `${availableHeight}px`); // Add min-height to prevent shrinking
   }
   // First, remove the static header from index.html
   // Then add this to the updateVisualization function, right before creating the text boxes:
 
-  // Create header container
-  const headerContainer = d3.select('#tooltip-container')
-    .insert('div', ':first-child')  // Insert at the top
-    .attr('class', 'tooltip-header')
-    .style('font-weight', 'bold')
-    .style('margin-bottom', '10px')
-    // .style('margin-top', '20px')
-    .style('padding', '8px')
-    .style('display', 'flex')
-    .style('justify-content', 'space-between');
-
-  // Add static "Transcript" text
-  d3.select('#tooltip-header').append('span')
-    .text('Transcript');
-
-  // Add conversation info that will update on hover
-  d3.select('#tooltip-header').append('span')
-    .attr('class', 'conversation-info')
-    .style('color', '#666')
-    .text(''); // Empty by default
-
-  // Style the control panel elements
-  d3.select('#conversation-selector')
-    .style('padding', '5px')
-    .style('font-size', '14px');
-
-  d3.select('#button-container')
-    .style('padding', '5px');
-
-  // Call it initially
-  updateContainerHeight();
-
-  // Add window resize listener
-  window.addEventListener('resize', updateContainerHeight);
-
-  // Update the tooltip container CSS
-  d3.select('#tooltip-container')
-    .style('position', 'fixed')
-    .style('width', '500px')
-    .style('scrollbar-width', 'none')
-    .style('overflow-y', 'auto')
-    .style('padding-right', '10px');  // Add some padding for the scrollbar
-
   // Add legend to control panel after the existing elements
   const legend = d3.select("#control-panel")
     .append("div")
-    // .style("margin-top", "20px")
     .style("padding", "5px")
     .style("border", "1px solid #ccc")
     .style("border-radius", "4px");
-
-  // Add title
-  // legend.append("div")
-  //   .style("font-weight", "bold")
-  //   .style("margin-bottom", "10px")
-  //   .text("Response Types");
 
   // Add mechanical response legend item
   const mechanicalItem = legend.append("div")
@@ -750,6 +751,20 @@ d3.json('merged_data.json').then(function (conversations) {
   substantiveItem.append("span")
     .text("Substantive Response");
 
+  // Call it initially
+  updateContainerHeight();
+
+  // Add window resize listener
+  window.addEventListener('resize', updateContainerHeight);
+
+  // Update the tooltip container CSS
+  d3.select('#tooltip-container')
+    .style('position', 'fixed')
+    .style('width', '500px')
+    .style('scrollbar-width', 'none')
+    .style('overflow-y', 'auto')
+    .style('padding-right', '10px');  // Add some padding for the scrollbar
+
   // Add zoom behavior
   const zoom = d3.zoom()
     .scaleExtent([0.5, 3])  // Limit zoom scale
@@ -768,7 +783,9 @@ d3.json('merged_data.json').then(function (conversations) {
   const filterContainer = d3.select("#control-panel")
     .append("div")
     .style("display", "inline-block")  // Make it display inline
-    .style("margin-left", "20px");     // Add some spacing from zoom buttons
+    .style("margin-left", "20px")      // Add some spacing from zoom buttons
+    .style("margin-bottom", "10px")    // Add some bottom margin for buffer
+    .style("padding", "5px");          // Add padding for buffer
 
   // Create facilitator dropdown
   const facilitatorSelect = filterContainer
@@ -782,7 +799,6 @@ d3.json('merged_data.json').then(function (conversations) {
   const facilitators = Array.from(new Set(
     Object.values(conversations).map(conv => 
       Object.values(conv)[0].speaker_name
-      // Object.values(conv.conversation)[0].speaker_name
     )
   ));
 
@@ -794,32 +810,76 @@ d3.json('merged_data.json').then(function (conversations) {
     .attr("value", d => d)
     .text(d => d);
 
-  // Add filter button
-  filterContainer
-    .append("button")
-    .text("Filter")
-    .style("padding", "5px 10px")
-    .style("cursor", "pointer")
-    .style("border-radius", "4px")
-    .style("border", "1px solid #ccc")
-    .style("background", "white")
-    .on("click", function() {
-      const selectedFacilitator = facilitatorSelect.node().value;
-      if (selectedFacilitator === "All Facilitators") {
-        updateVisualization("all");
-      } else {
-        // Filter conversations where first speaker matches selected facilitator
-        const filteredConvos = {};
-        Object.entries(conversations).forEach(([key, conv]) => {
-          if (Object.values(conv)[0].speaker_name === selectedFacilitator) {
-            filteredConvos[key] = conv;
+  // Add event listener to dropdown for automatic filtering
+  facilitatorSelect.on("change", function() {
+    const selectedFacilitator = this.value;
+    if (selectedFacilitator === "All Facilitators") {
+      updateVisualization("all");
+    } else {
+      // Filter conversations where first speaker matches selected facilitator
+      const filteredConvos = {};
+      Object.entries(conversations).forEach(([key, conv]) => {
+        if (Object.values(conv)[0].speaker_name === selectedFacilitator) {
+          filteredConvos[key] = conv;
+        }
+      });
+      // Pass the filtered conversations object directly
+      updateVisualization(filteredConvos);
+    }
+  });
+
+  // Add frontline filter checkbox after the facilitator filter
+  const frontlineContainer = d3.select("#control-panel")
+    .append("div")
+    .style("display", "inline-block")
+    .style("margin-left", "20px")
+    .style("margin-bottom", "10px")
+    .style("padding", "5px");
+
+  // Add checkbox and label
+  frontlineContainer
+    .append("input")
+    .attr("type", "checkbox")
+    .attr("id", "hide-frontline")
+    .style("margin-right", "5px");
+
+  frontlineContainer
+    .append("label")
+    .attr("for", "hide-frontline")
+    .text("Hide Documentary");
+
+  // Add event listener for the frontline checkbox
+  d3.select("#hide-frontline").on("change", function() {
+    const hideFrontline = d3.select(this).property("checked");
+    if (hideFrontline) {
+      // Create a filtered copy of conversations without frontline workers
+      const filteredConvos = {};
+      Object.entries(conversations).forEach(([key, conv]) => {
+        // Filter out turns where speaker name includes "FRONTLINE"
+        const filteredTurns = {};
+        Object.entries(conv).forEach(([turnId, turn]) => {
+          if (!turn.speaker_name || !turn.speaker_name.toUpperCase().includes("FRONTLINE")) {
+            filteredTurns[turnId] = turn;
           }
         });
-        // Pass the filtered conversations object directly
-        updateVisualization(filteredConvos);
-      }
-    });
+        // Only include conversation if it still has turns after filtering
+        if (Object.keys(filteredTurns).length > 0) {
+          filteredConvos[key] = filteredTurns;
+        }
+      });
+      updateVisualization(filteredConvos);
+    } else {
+      // Show all participants
+      updateVisualization("all");
+    }
+  });
 
   // Then continue with tooltip container setup...
   updateContainerHeight();
+
+  // Update the SVG container div
+  d3.select("#conversation-viz")
+    .style("height", "100vh")  // Make container full viewport height
+    .style("width", "100%")    // Make container full width
+    .style("overflow", "auto"); // Add scrolling if needed
 });
