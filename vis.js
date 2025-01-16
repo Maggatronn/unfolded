@@ -234,7 +234,7 @@ d3.json('updated_file.json').then(function (conversations) {
         .attr("class", "link")
         .attr("d", d => curvedPath(d.source, d.target, xScale, yScale))
         .attr("stroke", "#999")
-        .attr("stroke-dasharray", d => d.type === "responsive_substantive" ? "none" : "1,10")
+        .attr("stroke-dasharray", d => d.type === "responsive_substantive" ? "none" : "3,5")
         .attr("stroke-opacity", 1)  // Changed from 0.4 to 1
         .attr("stroke-width", d => scoreScale(d.score))
         .attr("fill", "none");
@@ -456,7 +456,7 @@ d3.json('updated_file.json').then(function (conversations) {
       function resetHighlights() {
         // Don't modify node appearance
         paths.attr("stroke", "#999")
-          .attr("stroke-dasharray", d => d.type === "responsive_substantive" ? "none" : "1,10")
+          .attr("stroke-dasharray", d => d.type === "responsive_substantive" ? "none" : "3,5")
           .attr("stroke-opacity", 1);  // Changed from 0.4 to 1
 
         // Rest of resetHighlights function for tooltips stays the same
