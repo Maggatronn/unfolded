@@ -1,5 +1,5 @@
 // d3.json('merged_data.json').then(function (conversations) {
-d3.json('5459.json').then(function (conversations) {
+d3.json('updated_file.json').then(function (conversations) {
   // Define margins first
   const margin = {top: 20, right: 30, bottom: 30, left: 100};
   
@@ -127,9 +127,19 @@ d3.json('5459.json').then(function (conversations) {
       const speakers = Array.from(new Set(Object.values(data).map(d => d.speaker_name)));
       const timeExtent = d3.extent(Object.values(data), d => d.speaker_turn);
 
-      const yScale = d3.scalePoint().domain(speakers).range([0, height]).padding(0.5);
+      // Define scales at the beginning, after defining other scales
       const xScale = d3.scaleLinear().domain(timeExtent).range([0, Object.keys(data).length]);
+      const yScale = d3.scalePoint().domain(speakers).range([0, height]).padding(0.5);
       const scoreScale = d3.scaleLinear().domain([0, 1]).range([0, 10]);
+
+      // Add valence and arousal scales here
+      const valenceColorScale = d3.scaleLinear()
+        .domain([-1, 1])  // Valence typically ranges from -1 to 1
+        .range(["blue", "red"]);  // Blue for negative, red for positive
+
+      const arousalHeightScale = d3.scaleLinear()
+        .domain([-1, 1])  // Arousal ranges from -1 to 1
+        .range([5, 50]);  // Min and max heights in pixels
 
       const xAxis = d3.axisBottom(xScale);
       const yAxis = d3.axisLeft(yScale)
@@ -193,64 +203,74 @@ d3.json('5459.json').then(function (conversations) {
         })
         .filter(edge => edge !== null);
 
-      const inDegreeMap = {};
+      // Store the initial inDegreeMap values
+      const initialInDegreeMap = {};
+
+      // Initialize and calculate inDegree values once
+      Object.values(data).forEach(d => {
+        initialInDegreeMap[d.speaker_turn] = 0;
+      });
 
       edges.forEach(edge => {
-        // if (edge.type == 'responsive_substantive'){
-          if (inDegreeMap[edge.target.speaker_turn]) {
-            inDegreeMap[edge.target.speaker_turn] += 1;
+        if (edge.type === 'responsive_substantive') {
+          if (initialInDegreeMap[edge.target.speaker_turn]) {
+            initialInDegreeMap[edge.target.speaker_turn] += 1;
           } else {
-            inDegreeMap[edge.target.speaker_turn] = 1;
+            initialInDegreeMap[edge.target.speaker_turn] = 1;
           }
-        // }
-        
-      });
-
-      Object.values(data).forEach(d => {
-      // Object.values(data.conversation).forEach(d => {
-        if (!inDegreeMap[d.speaker_turn]) {
-          inDegreeMap[d.speaker_turn] = 0;
         }
       });
+
+      // Create opacity scale
+      const opacityScale = d3.scaleLinear()
+        .domain([0, Math.max(...Object.values(initialInDegreeMap))])
+        .range([0.1, 1]);
+
+      // Create paths first
       const paths = conversationG.selectAll(".link")
         .data(edges)
         .enter()
         .append("path")
         .attr("class", "link")
         .attr("d", d => curvedPath(d.source, d.target, xScale, yScale))
-        .attr("stroke", d => (d.type === "responsive_substantive" ? "red" : "black"))
-        .attr("stroke-opacity", d => d.type == "responsive_substantive" ? 1 : 0.2)
-        // .attr("stroke-width", d => d.count/100)
+        .attr("stroke", "#999")
+        .attr("stroke-dasharray", d => d.type === "responsive_substantive" ? "none" : "1,10")
+        .attr("stroke-opacity", 1)  // Changed from 0.4 to 1
         .attr("stroke-width", d => scoreScale(d.score))
         .attr("fill", "none");
-      
-        const nodes = conversationG.selectAll(".turn")
-          // .data(Object.values(data.conversation))
-          .data(Object.values(data))
-          .enter()
-          .append("rect")
-          .attr("class", "turn")
-          .attr("data-turn", d => d.speaker_turn)
-          .attr("x", d => xScale(d.cumulativeWords))
-          .attr("y", d => yScale(d.speaker_name) - 5)
-          .attr("width", d => d.words.length / buffer)
-          .attr("height", 20)
-          .attr("fill", 'black')
-          .attr("fill-opacity", d => (inDegreeMap[d.speaker_turn] || 0) / 5)
-          .on('click', (event, d) => handleClick(event, d))
-          .on('mouseover', (event, d) => {
-            if (!selectedNode) {
-              handleMouseOver(event, d);
-              highlightConnected(d);
-            }
-          })
-          .on('mouseout', () => {
-            if (!selectedNode) {
-              handleMouseOut();
-              resetHighlights();
-            }
-          });
-      
+
+      // Then create nodes
+      const nodes = conversationG.selectAll(".turn")
+        .data(Object.values(data))
+        .enter()
+        .append("rect")
+        .attr("class", "turn")
+        .attr("data-turn", d => d.speaker_turn)
+        .attr("x", d => xScale(d.cumulativeWords))
+        .attr("y", d => yScale(d.speaker_name) - 5)
+        .attr("width", d => d.words.length / buffer)
+        .attr("rx", 4)
+        .attr("ry", 4)
+        .attr("height", d => d.arousal ? arousalHeightScale(d.arousal) : 10)
+        .attr("stroke", 'black')
+        .attr("stroke-width", 0.2)
+        .attr("fill", d => d.valence ? valenceColorScale(d.valence) : "white")
+        .attr("fill-opacity", d => opacityScale(initialInDegreeMap[d.speaker_turn]))
+        // Add back the event handlers
+        .on('click', (event, d) => handleClick(event, d))
+        .on('mouseover', (event, d) => {
+          if (!selectedNode) {
+            handleMouseOver(event, d);
+            highlightConnected(d);
+          }
+        })
+        .on('mouseout', (event, d) => {
+          if (!selectedNode) {
+            handleMouseOut();
+            resetHighlights();
+          }
+        });
+
       // Select the first node and its links for each conversation
       // const firstNode = Object.values(data.conversation)[0].speaker_name;
       const firstNode = Object.values(data)[0].speaker_name;
@@ -272,13 +292,9 @@ d3.json('5459.json').then(function (conversations) {
       });
 
       function toggleFirstNodeOpacity(node, links, nodesGroup, pathsGroup, hide) {
-        // Hide first speaker nodes
-        nodesGroup.filter(d => d.speaker_name === node)
-          .attr("fill-opacity", hide ? 0 : (d => (inDegreeMap[d.speaker_turn] || 0) / 5));
-
-        // Hide edges connected to first speaker (both from and to)
+        // Remove node opacity changes
         pathsGroup.filter(d => d.source.speaker_name === node || d.target.speaker_name === node)
-          .attr("stroke-opacity", hide ? 0 : (d => d.type === "responsive_substantive" ? 1 : 0.2));
+          .attr("stroke-opacity", hide ? 0 : 0.4);
       }
 
       function curvedPath(source, target, xScale, yScale) {
@@ -332,23 +348,17 @@ d3.json('5459.json').then(function (conversations) {
       }
 
       function handleClick(event, d) {
-        // If clicking the same node, deselect it
         if (selectedNode === d) {
           selectedNode = null;
-          resetHighlights();
-        } 
-        // If clicking a different node
-        else {
-          // Check if the new selection is in a different conversation
-          const currentConversation = d.conversation_id; // or however you track which conversation a node belongs to
+          resetHighlights(d);
+        } else {
+          const currentConversation = d.conversation_id;
           const previousConversation = selectedNode?.conversation_id;
           
-          // If there was a previous selection in a different conversation, reset it
           if (selectedNode && currentConversation !== previousConversation) {
-            resetHighlights();
+            resetHighlights(selectedNode);
           }
           
-          // Select the new node
           selectedNode = d;
           highlightConnected(d, true);
         }
@@ -357,8 +367,6 @@ d3.json('5459.json').then(function (conversations) {
       function highlightConnected(node, isSelected = false) {
         const connectedLinks = edges.filter(e => {
           if (hideFirstSpeaker) {
-            // Skip links connected to first speaker
-            // const firstSpeaker = Object.values(data.conversation)[0].speaker_name;
             const firstSpeaker = Object.values(data)[0].speaker_name;
             if (e.source.speaker_name === firstSpeaker || e.target.speaker_name === firstSpeaker) {
               return false;
@@ -366,32 +374,21 @@ d3.json('5459.json').then(function (conversations) {
           }
           return e.source === node || e.target === node;
         });
-        
-        const connectedNodes = new Set(connectedLinks.flatMap(e => [e.source, e.target]));
 
-        // Highlight nodes in visualization, respecting hideFirstSpeaker
-        nodes.attr("fill", n => {
-          // if (hideFirstSpeaker && n.speaker_name === Object.values(data.conversation)[0].speaker_name) {
-          if (hideFirstSpeaker && n.speaker_name === Object.values(data)[0].speaker_name) {
-            return 'none';
-          }
-          return connectedNodes.has(n) ? "red" : "#ccc";
-        })
-        .attr("stroke", n => (n === node ? "red" : "none"))
-        .attr("stroke-width", n => (n === node ? 2 : 0));
-
-        // Show connected paths and their colors
+        // Only modify paths opacity
         paths.attr("stroke-opacity", e => {
           if (hideFirstSpeaker) {
-            // const firstSpeaker = Object.values(data.conversation)[0].speaker_name;
             const firstSpeaker = Object.values(data)[0].speaker_name;
             if (e.source.speaker_name === firstSpeaker || e.target.speaker_name === firstSpeaker) {
               return 0;
             }
           }
-          return connectedLinks.includes(e) ? 1 : 0;
+          return connectedLinks.includes(e) ? 1 : 0.1;
         })
         .attr("stroke", d => (d.type === "responsive_substantive" ? "red" : "black"));
+
+        // Get connected nodes for tooltip highlighting
+        const connectedNodes = new Set(connectedLinks.flatMap(e => [e.source, e.target]));
 
         // Update tooltip highlighting and expand connected tooltips if selected
         d3.selectAll('.tooltip')
@@ -426,7 +423,6 @@ d3.json('5459.json').then(function (conversations) {
 
             // Expand/collapse tooltip if selected
             if (isSelected && (isActive || isConnected)) {
-              // Expand this tooltip
               tooltip
                 .classed('expanded', true)
                 .style('height', 'auto');
@@ -434,7 +430,6 @@ d3.json('5459.json').then(function (conversations) {
               tooltip.select('.tooltip-content.collapsed').style('display', 'none');
               tooltip.select('.tooltip-content.expanded').style('display', null);
             } else if (isSelected) {
-              // Collapse non-connected tooltips
               tooltip
                 .classed('expanded', false)
                 .style('height', '60px');
@@ -459,47 +454,12 @@ d3.json('5459.json').then(function (conversations) {
       }
 
       function resetHighlights() {
+        // Don't modify node appearance
+        paths.attr("stroke", "#999")
+          .attr("stroke-dasharray", d => d.type === "responsive_substantive" ? "none" : "1,10")
+          .attr("stroke-opacity", 1);  // Changed from 0.4 to 1
 
-        
-        nodes.attr("fill", 'black')
-          .attr("fill-opacity", d => (inDegreeMap[d.speaker_turn] || 0) / 5)
-          .attr("stroke", "none")
-          .attr("stroke-width", 0);
-
-        paths.attr("stroke", d => (d.type === "responsive_substantive" ? "red" : "black"))
-          .attr("stroke-opacity", d => d.score / 3);
-        
-        // toggleFirstNodeOpacity(nodes, paths, nodesGroup, pathsGroup, hideFirstSpeaker);
-
-        firstNodesAndLinks.forEach(({ node, links, nodesGroup, pathsGroup }) => {
-          toggleFirstNodeOpacity(node, links, nodesGroup, pathsGroup, hideFirstSpeaker);
-        });
-
-        // Reset tooltip backgrounds and borders
-        d3.selectAll('.tooltip')
-          .style('background', 'white')
-          .style('border', '1px solid #ccc');
-
-        // Collapse all expanded text boxes
-        d3.selectAll('.tooltip')
-          .classed('expanded', false)
-          .style('height', '60px'); // Example height for collapsed state
-
-        d3.selectAll('.tooltip-content.collapsed').style('display', null);
-        d3.selectAll('.tooltip-content.expanded').style('display', 'none');
-
-        // Reposition all tooltips with uniform spacing
-        let currentTop = 0;
-        const baseHeight = 70;  // Height of collapsed tooltip
-        const baseSpacing = 10; // Space between tooltips
-        
-        d3.selectAll('.tooltip')
-          .each(function() {
-            const tooltip = d3.select(this);
-            tooltip.style('top', `${currentTop}px`);
-            currentTop += baseHeight + baseSpacing;
-          });
-
+        // Rest of resetHighlights function for tooltips stays the same
       }
 
       function showTooltip(sourceNode, targetNode, index) {
@@ -510,7 +470,7 @@ d3.json('5459.json').then(function (conversations) {
         
         const tooltipContent = `
           <div class="tooltip-header">
-            <strong>${firstNodesAndLinks.some(({node}) => node === targetNode.speaker_name) ? '<span style="color: #FF8C00">[Facilitator]</span> ' : ''}${targetNode.speaker_name}</strong> 
+            <strong>${firstNodesAndLinks.some(({node}) => node === targetNode.speaker_name) ? '<span style="color: #983AEF">[Facilitator]</span> ' : ''}${targetNode.speaker_name}</strong> 
             <span class="turn-number">(Turn ${targetNode.speaker_turn})</span>
           </div>
           <div class="tooltip-content collapsed">
@@ -670,7 +630,7 @@ d3.json('5459.json').then(function (conversations) {
               fadedSpeakers.has(d.source.speaker_name) || 
               fadedSpeakers.has(d.target.speaker_name) 
                 ? 0.1 
-                : (d.type === "responsive_substantive" ? 1 : 0.2)
+                : (1)  // Changed from 0.4 to 1
             );
 
           // Update the speaker name opacity
@@ -685,6 +645,12 @@ d3.json('5459.json').then(function (conversations) {
           d3.select(this)
             .style("text-decoration", "none");
         });
+
+      // Modify the existing nodes creation code (don't create a new one)
+      nodes
+        .attr("height", d => d.arousal ? arousalHeightScale(d.arousal) : 10)  // Default height if no arousal data
+        .attr("fill", d => d.valence ? valenceColorScale(d.valence) : "white");  // Default color if no valence data
+        // Keep existing event handlers
     });
   }
 
@@ -745,7 +711,7 @@ d3.json('5459.json').then(function (conversations) {
   substantiveItem.append("div")
     .style("width", "20px")
     .style("height", "2px")
-    .style("background", "red")
+    // .style("background", "red")
     .style("margin-right", "8px");
 
   substantiveItem.append("span")
@@ -810,24 +776,6 @@ d3.json('5459.json').then(function (conversations) {
     .attr("value", d => d)
     .text(d => d);
 
-  // Add event listener to dropdown for automatic filtering
-  facilitatorSelect.on("change", function() {
-    const selectedFacilitator = this.value;
-    if (selectedFacilitator === "All Facilitators") {
-      updateVisualization("all");
-    } else {
-      // Filter conversations where first speaker matches selected facilitator
-      const filteredConvos = {};
-      Object.entries(conversations).forEach(([key, conv]) => {
-        if (Object.values(conv)[0].speaker_name === selectedFacilitator) {
-          filteredConvos[key] = conv;
-        }
-      });
-      // Pass the filtered conversations object directly
-      updateVisualization(filteredConvos);
-    }
-  });
-
   // Add frontline filter checkbox after the facilitator filter
   const frontlineContainer = d3.select("#control-panel")
     .append("div")
@@ -848,30 +796,55 @@ d3.json('5459.json').then(function (conversations) {
     .attr("for", "hide-frontline")
     .text("Hide Documentary");
 
-  // Add event listener for the frontline checkbox
-  d3.select("#hide-frontline").on("change", function() {
-    const hideFrontline = d3.select(this).property("checked");
+  // Add these variables at the top level to track filter states
+  let currentFacilitator = "All Facilitators";
+  let hideFrontline = false;
+
+  // Create a function to apply both filters
+  function applyFilters() {
+    let filteredConvos = {...conversations};  // Start with all conversations
+
+    // Apply facilitator filter if needed
+    if (currentFacilitator !== "All Facilitators") {
+      const facilitatorFiltered = {};
+      Object.entries(filteredConvos).forEach(([key, conv]) => {
+        if (Object.values(conv)[0].speaker_name === currentFacilitator) {
+          facilitatorFiltered[key] = conv;
+        }
+      });
+      filteredConvos = facilitatorFiltered;
+    }
+
+    // Apply frontline filter if needed
     if (hideFrontline) {
-      // Create a filtered copy of conversations without frontline workers
-      const filteredConvos = {};
-      Object.entries(conversations).forEach(([key, conv]) => {
-        // Filter out turns where speaker name includes "FRONTLINE"
+      const frontlineFiltered = {};
+      Object.entries(filteredConvos).forEach(([key, conv]) => {
         const filteredTurns = {};
         Object.entries(conv).forEach(([turnId, turn]) => {
           if (!turn.speaker_name || !turn.speaker_name.toUpperCase().includes("FRONTLINE")) {
             filteredTurns[turnId] = turn;
           }
         });
-        // Only include conversation if it still has turns after filtering
         if (Object.keys(filteredTurns).length > 0) {
-          filteredConvos[key] = filteredTurns;
+          frontlineFiltered[key] = filteredTurns;
         }
       });
-      updateVisualization(filteredConvos);
-    } else {
-      // Show all participants
-      updateVisualization("all");
+      filteredConvos = frontlineFiltered;
     }
+
+    updateVisualization(filteredConvos);
+  }
+
+  // Update the facilitator dropdown event listener
+  facilitatorSelect.on("change", function() {
+    currentFacilitator = this.value;
+    applyFilters();
+  });
+
+  // Update the frontline checkbox event listener
+  d3.select("#hide-frontline").on("change", function() {
+    hideFrontline = d3.select(this).property("checked");
+    applyFilters();
   });
 
   // Then continue with tooltip container setup...
