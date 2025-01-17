@@ -1,0 +1,2916 @@
+{
+  "1": {
+    "words": "Beautiful. Okay. First purpose of the conversation... so it's really just about creating a space for more constructive listening across different neighborhoods and communities, and also just building an ecosystem of listening where every community member's story contributes to our shared understanding and a stronger, more inclusive Boston. So we really want to achieve that goal. It's really about engaging this kind of conversation around personal stories from our own lives and experiences. Rather than beginning the conversation with our positions on issues, we're going to go more about our experiences in our own lives.",
+    "link_turn_id": [
+      "NA"
+    ],
+    "speaker_turn": 1,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6126,
+    "start_time": 3.16,
+    "end_time": 40.45,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "2": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "So this approach really helps to build connections and facilitate conversations that just deepen mutual understanding, and then also what will happen with the recording... so after our meeting, our audio recording will be part of a collection of conversations. So this conversation along with many other conversations that are taking place throughout the city will be shared with members of the RealTalk at Boston team, which consists of 14 community-based organizations in the city of Boston and the MIT Center for Constructive Communication. Thirdly, all conversations will become... part of the conversation will be developed by a nonprofit organization called Cortico. It's like MIT's development arm. And so their system creates a transcript of each recording tool, and they highlight keywords that emerge across different conversations and then they allow users to search conversations, listen to audio snippets, discover patterns, and so that's really what we're accomplishing here today. And really, just they say it's like a virtual tapestry of conversations across the city. Bear with me. I have to say this next part verbatim so it's going to sound a little... obviously not as casual, but as a participant in this conversation, you are providing consent to the MIT Center for Constructive Communication to retain the recording of this conversation in accordance with the mission of the RealTalk at Boston in transforming Boston into a listening city. You also understand that the conversation will be part of the RealTalk at Boston Public Conversation Collection with the goal to foster constructive conversation across the city. CCC will collect, retain, and analyze these conversations in keeping with that goal and with the mission to develop methods and tools that foster constructive communication in local communities. Participation in this conversation is voluntary and you can withdraw any time without consequences. Sessions will be recorded, but you can opt out and have this recording deleted. Only the research team at the MIT CCC will have access to your data. Your identity will be protected and information won't be shared without permission unless required by law. There are minimal foreseen risks. However, as with any conversation, there is a chance that you will hear stories that elicit strong emotions. Jasmine and I will support you in hosting a safe conversation where you only share what you feel comfortable sharing. Do you consent to this? If you agree and agree to this, please say, \"I agree,\" verbally.",
+    "speaker_turn": 2,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6126,
+    "start_time": 40.79,
+    "end_time": 202.21,
+    "union_linked_turn_ids": [
+      "1",
+      "1",
+      "1"
+    ],
+    "segments": {
+      "1": {
+        "segment_words": "So this approach really helps to build connections and facilitate conversations that just deepen mutual understanding",
+        "link_turn_id": 1,
+        "linked_words": "it's really just about creating a space for more constructive listening across different neighborhoods and communities, and also just building an ecosystem of listening where every community member's story contributes to our shared understanding and a stronger, more inclusive Boston.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "3": {
+    "link_turn_id": [
+      2
+    ],
+    "words": "I agree.",
+    "speaker_turn": 3,
+    "speaker_name": "Becca",
+    "conversation_id": 6126,
+    "start_time": 205.27,
+    "end_time": 206.158,
+    "union_linked_turn_ids": [
+      "2",
+      "2",
+      "2"
+    ],
+    "segments": {
+      "2": {
+        "segment_words": "I agree.",
+        "link_turn_id": 2,
+        "linked_words": "Do you consent to this? If you agree and agree to this, please say, \"I agree,\" verbally.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "4": {
+    "link_turn_id": [
+      2
+    ],
+    "words": "I agree.",
+    "speaker_turn": 4,
+    "speaker_name": "Kaya",
+    "conversation_id": 6126,
+    "start_time": 206.334,
+    "end_time": 207.21,
+    "union_linked_turn_ids": [
+      "2",
+      "2",
+      "2"
+    ],
+    "segments": {
+      "2": {
+        "segment_words": "I agree.",
+        "link_turn_id": 2,
+        "linked_words": "Do you consent to this? If you agree and agree to this, please say, \"I agree,\" verbally.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "5": {
+    "link_turn_id": [
+      2
+    ],
+    "words": "I agree.",
+    "speaker_turn": 5,
+    "speaker_name": "Ashna",
+    "conversation_id": 6126,
+    "start_time": 207.21,
+    "end_time": 208.32,
+    "union_linked_turn_ids": [
+      "2",
+      "2",
+      "2"
+    ],
+    "segments": {
+      "2": {
+        "segment_words": "I agree.",
+        "link_turn_id": 2,
+        "linked_words": "If you agree and agree to this, please say, \"I agree,\" verbally.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "6": {
+    "link_turn_id": [
+      2
+    ],
+    "words": "I agree.",
+    "speaker_turn": 6,
+    "speaker_name": "Ali",
+    "conversation_id": 6126,
+    "start_time": 208.32,
+    "end_time": 209.43,
+    "union_linked_turn_ids": [
+      "2",
+      "2",
+      "2"
+    ],
+    "segments": {
+      "2": {
+        "segment_words": "I agree.",
+        "link_turn_id": 2,
+        "linked_words": "Do you consent to this? If you agree and agree to this, please say, \"I agree,\" verbally.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "7": {
+    "link_turn_id": [
+      2
+    ],
+    "words": "Perfect. And then with any conversation, we want to make sure we do guidelines so just speak for yourself out of your own experiences, allow others to speak, share the time, so allow others to finish speaking before you start speaking, stay curious. If you have questions, ask honest questions. Pause if you need to. So if you need a time for reflection, just pause. And listen generously. Assume good intentions while recognizing that your words have an impact. So is everyone good with those guidelines? Thumbs up? Great. Okay, so I'm going to kick us off first. So it would be great if you all could say your first names or use a pseudonym if you want to. And then in addition to your name, please share a story about your journey to Boston, so really more about what brought you or your family here, whether that was recently or a long time ago, and how has your experience been like? And I'll let... anyone can start us off.",
+    "speaker_turn": 7,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6126,
+    "start_time": 209.43,
+    "end_time": 274.52,
+    "union_linked_turn_ids": [
+      "2",
+      "1",
+      "2",
+      "2"
+    ],
+    "segments": {
+      "2": {
+        "segment_words": "then in addition to your name, please share a story about your journey to Boston, so really more about what brought you or your family here, whether that was recently or a long time ago, and how has your experience been like?",
+        "link_turn_id": 2,
+        "linked_words": "However, as with any conversation, there is a chance that you will hear stories that elicit strong emotions.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "8": {
+    "link_turn_id": [
+      7
+    ],
+    "words": "I'll go. Hi, my name is Ashna and I came to Boston in 2018 for college. I went to Northeastern University for four years and after graduating, have stayed in Boston working a full-time job. So yeah, about six years basically here in Boston. My experience has been good. I like the city a lot. It's somewhat similar to where I am from originally. I'm from San Jose, California, and I'd say it's a smaller, quieter city and that's what I find to be in common, but I think Boston definitely has some differences that I appreciate a bit more. So just having access to the T... yeah, Boston's a lot more easily accessible than San Jose, I would say. That's just something off the top of my head, but I'll just let everybody else go. Maybe we can wrap it up, come back.",
+    "speaker_turn": 8,
+    "speaker_name": "Ashna",
+    "conversation_id": 6126,
+    "start_time": 278.91,
+    "end_time": 346.07,
+    "union_linked_turn_ids": [
+      "7",
+      "7",
+      "7"
+    ],
+    "segments": {
+      "7": {
+        "segment_words": "Hi, my name is Ashna and I came to Boston in 2018 for college. I went to Northeastern University for four years and after graduating, have stayed in Boston working a full-time job. So yeah, about six years basically here in Boston. My experience has been good. I like the city a lot.",
+        "link_turn_id": 7,
+        "linked_words": "And then in addition to your name, please share a story about your journey to Boston, so really more about what brought you or your family here, whether that was recently or a long time ago, and how has your experience been like?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "9": {
+    "link_turn_id": [
+      7,
+      8
+    ],
+    "words": "I'll go. Can you hear me?",
+    "speaker_turn": 9,
+    "speaker_name": "Kaya",
+    "conversation_id": 6126,
+    "start_time": 349.85,
+    "end_time": 351.802,
+    "union_linked_turn_ids": [
+      "7",
+      "8",
+      "7",
+      "7",
+      "8"
+    ],
+    "segments": {
+      "7": {
+        "segment_words": "I'll go.",
+        "link_turn_id": 7,
+        "linked_words": "anyone can start us off.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "8": {
+        "segment_words": "I'll go.",
+        "link_turn_id": 8,
+        "linked_words": "I'll go.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "10": {
+    "link_turn_id": [
+      9
+    ],
+    "words": "Yep.",
+    "speaker_turn": 10,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6126,
+    "start_time": 351.946,
+    "end_time": 352.594,
+    "union_linked_turn_ids": [
+      "9",
+      "9",
+      "9"
+    ],
+    "segments": {
+      "9": {
+        "segment_words": "Yep.",
+        "link_turn_id": 9,
+        "linked_words": "Can you hear me?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "11": {
+    "link_turn_id": [
+      7,
+      8
+    ],
+    "words": "Oh, thank God. Okay. Hi, my name is Kaya. I'm born and raised in Georgechester and I'm from here. I've been living here for 26 years and my experience overall has been good and bad, just seeing the different ins and outs of how the city has progressed over the years. I've had a overall, I would say, good experience, but there's things I definitely think that could be improved upon. But my personal experience, I've been living in the same house all of my life and I have had the same neighbors majority of all of my life so it's been a good experience for me.",
+    "speaker_turn": 11,
+    "speaker_name": "Kaya",
+    "conversation_id": 6126,
+    "start_time": 352.722,
+    "end_time": 391.37,
+    "union_linked_turn_ids": [
+      "7",
+      "8",
+      "7",
+      "8",
+      "7",
+      "8"
+    ],
+    "segments": {
+      "7": {
+        "segment_words": "Hi, my name is Kaya.",
+        "link_turn_id": 7,
+        "linked_words": "So it would be great if you all could say your first names or use a pseudonym if you want to.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "8": {
+        "segment_words": "I've had a overall, I would say, good experience, but there's things I definitely think that could be improved upon.",
+        "link_turn_id": 8,
+        "linked_words": "My experience has been good.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "12": {
+    "link_turn_id": [
+      11
+    ],
+    "words": "Thank you, Kaya.",
+    "speaker_turn": 12,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6126,
+    "start_time": 394.92,
+    "end_time": 396.46,
+    "union_linked_turn_ids": [
+      "11",
+      "11",
+      "11"
+    ],
+    "segments": {
+      "11": {
+        "segment_words": "Thank you, Kaya.",
+        "link_turn_id": 11,
+        "linked_words": "Oh, thank God. Okay. Hi, my name is Kaya.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "13": {
+    "link_turn_id": [
+      7,
+      8,
+      11
+    ],
+    "words": "I guess I'll go next. It's so formal. Okay. I moved here for school last year. Very different from where I came... I guess not because I'm in Southeast, so it's a little bit quieter and a little bit more town-like, but I've enjoyed it. I don't love the city as much, but that's just my personal preference. I live in the high rise of Southeast, so I have a bunch of neighbors and there's a really nice community established here. It's a very young population, so there's a good sense of community in the sense of People of Southeast Sundays, and everyone has a goldendoodle and is pregnant. So it's been good. That's been my experience.",
+    "speaker_turn": 13,
+    "speaker_name": "Ali",
+    "conversation_id": 6126,
+    "start_time": 403.36,
+    "end_time": 463.71,
+    "union_linked_turn_ids": [
+      "7",
+      "8",
+      "11",
+      "7",
+      "8",
+      "11",
+      "7",
+      "8",
+      "9",
+      "11"
+    ],
+    "segments": {
+      "7": {
+        "segment_words": "I moved here for school last year.",
+        "link_turn_id": 7,
+        "linked_words": "please share a story about your journey to Boston, so really more about what brought you or your family here",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "8": {
+        "segment_words": "I don't love the city as much, but that's just my personal preference.",
+        "link_turn_id": 8,
+        "linked_words": "My experience has been good. I like the city a lot.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "11": {
+        "segment_words": "I've enjoyed it. I don't love the city as much, but that's just my personal preference. I live in the high rise of Southeast, so I have a bunch of neighbors and there's a really nice community established here.",
+        "link_turn_id": 11,
+        "linked_words": "I've been living here for 26 years and my experience overall has been good and bad, just seeing the different ins and outs of how the city has progressed over the years. I've had a overall, I would say, good experience, but there's things I definitely think that could be improved upon. But my personal experience, I've been living in the same house all of my life and I have had the same neighbors majority of all of my life so it's been a good experience for me.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "14": {
+    "link_turn_id": [
+      13
+    ],
+    "words": "I see you boop a dog every day, and that screams community to me. It's very wholesome.",
+    "speaker_turn": 14,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6126,
+    "start_time": 464.69,
+    "end_time": 470.43,
+    "union_linked_turn_ids": [
+      "13",
+      "13",
+      "13"
+    ],
+    "segments": {
+      "13": {
+        "segment_words": "I see you boop a dog every day, and that screams community to me.",
+        "link_turn_id": 13,
+        "linked_words": "I have a bunch of neighbors and there's a really nice community established here. It's a very young population, so there's a good sense of community in the sense of People of Southeast Sundays, and everyone has a goldendoodle and is pregnant.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "15": {
+    "link_turn_id": [
+      14
+    ],
+    "words": "It's not a good day unless Dozer gets a bop on the nose, yeah.",
+    "speaker_turn": 15,
+    "speaker_name": "Ali",
+    "conversation_id": 6126,
+    "start_time": 471.24,
+    "end_time": 474.368,
+    "union_linked_turn_ids": [
+      "14",
+      "14",
+      "14"
+    ],
+    "segments": {
+      "14": {
+        "segment_words": "It's not a good day unless Dozer gets a bop on the nose, yeah.",
+        "link_turn_id": 14,
+        "linked_words": "I see you boop a dog every day",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "16": {
+    "link_turn_id": [
+      13,
+      15
+    ],
+    "words": "I've actually seen Instagram stories of other people who do not know you that live in Southeast booping the same dog's nose. So you're all connected by this dog.",
+    "speaker_turn": 16,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6126,
+    "start_time": 475.424,
+    "end_time": 484.06,
+    "union_linked_turn_ids": [
+      "14",
+      "15",
+      "13",
+      "15",
+      "13",
+      "15"
+    ],
+    "segments": {
+      "13": {
+        "segment_words": "you're all connected by this dog.",
+        "link_turn_id": 13,
+        "linked_words": "everyone has a goldendoodle",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "15": {
+        "segment_words": "booping the same dog's nose",
+        "link_turn_id": 15,
+        "linked_words": "bop on the nose",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "17": {
+    "link_turn_id": [
+      16
+    ],
+    "words": "What a man. What a man.",
+    "speaker_turn": 17,
+    "speaker_name": "Ali",
+    "conversation_id": 6126,
+    "start_time": 485.64,
+    "end_time": 488.7,
+    "union_linked_turn_ids": [
+      "16",
+      "16",
+      "16"
+    ],
+    "segments": {
+      "16": {
+        "segment_words": "What a man. What a man.",
+        "link_turn_id": 16,
+        "linked_words": "this dog.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "18": {
+    "link_turn_id": [
+      11,
+      13
+    ],
+    "words": "Hi, my name is Becca. I also went to Northeastern for four and a half years in Boston in 2018. One could argue I would say I don't live in Boston anymore. I live in Medford, but it's still along the green line so I'm going to say it's Boston and I work in Boston. I live in a really cool neighborhood now that feels like maybe a little bit better of a fit for me than the speed of Boston was. I have neighbors on either side of me that have lived here their whole lives, one of them since the '50s, and then the other family grew up in the house I rent from. So I really like the community here. It's a good mix of college kids and just families that lived in these multifamily homes over the years.",
+    "speaker_turn": 18,
+    "speaker_name": "Becca",
+    "conversation_id": 6126,
+    "start_time": 490.44,
+    "end_time": 539.3,
+    "union_linked_turn_ids": [
+      "11",
+      "13",
+      "11",
+      "13",
+      "11",
+      "13"
+    ],
+    "segments": {
+      "11": {
+        "segment_words": "I have neighbors on either side of me that have lived here their whole lives, one of them since the '50s, and then the other family grew up in the house I rent from.",
+        "link_turn_id": 11,
+        "linked_words": "I have had the same neighbors majority of all of my life so it's been a good experience for me.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "13": {
+        "segment_words": "I live in a really cool neighborhood now that feels like maybe a little bit better of a fit for me than the speed of Boston was. I have neighbors on either side of me that have lived here their whole lives, one of them since the '50s, and then the other family grew up in the house I rent from. So I really like the community here.",
+        "link_turn_id": 13,
+        "linked_words": "I live in the high rise of Southeast, so I have a bunch of neighbors and there's a really nice community established here. It's a very young population, so there's a good sense of community in the sense of People of Southeast Sundays, and everyone has a goldendoodle and is pregnant. So it's been good.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "19": {
+    "link_turn_id": [
+      11,
+      18,
+      13
+    ],
+    "words": "Awesome. Okay, well thank you guys for sharing your stories. In the rest of this conversation, we're just going to... or want to learn more about your experiences with living in the city. So if you can describe a specific time when you felt really supported by your Boston community, I'd love to hear about who was there and what made that event or moment meaningful or special. Anyone can go. We don't have to go in a particular order, but I'll let you guys think a little bit.",
+    "speaker_turn": 19,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6126,
+    "start_time": 541.96,
+    "end_time": 583.44,
+    "union_linked_turn_ids": [
+      "11",
+      "13",
+      "18",
+      "11",
+      "13",
+      "18",
+      "11",
+      "13",
+      "18"
+    ],
+    "segments": {
+      "11": {
+        "segment_words": "about your experiences with living in the city",
+        "link_turn_id": 11,
+        "linked_words": "my experience overall has been good and bad, just seeing the different ins and outs of how the city has progressed over the years",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "18": {
+        "segment_words": "So if you can describe a specific time when you felt really supported by your Boston community, I'd love to hear about who was there and what made that event or moment meaningful or special.",
+        "link_turn_id": 18,
+        "linked_words": "So I really like the community here. It's a good mix of college kids and just families that lived in these multifamily homes over the years.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "13": {
+        "segment_words": "I'd love to hear about who was there and what made that event or moment meaningful or special.",
+        "link_turn_id": 13,
+        "linked_words": "there's a good sense of community in the sense of People of Southeast Sundays",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "20": {
+    "link_turn_id": [
+      19
+    ],
+    "words": "I'll go. I have one that was recent. I worked at this place where I had a boss that used his sexuality as a bridge to get closer to his employees and a lot of the staff received sexual harassment from him, me being one of them, and I didn't feel empowered enough to speak up about it because when it's your boss, it's hard to bring forth and then there's always retaliation and whatnot. But my coworker community, they've backed me up and they stood behind me in the time and we all vouched for each other. And the owner, he stood by us, which we're very fortunate to have that because that's not always the case. So that was a time where I felt very supported, seen, heard and valued, and appreciated. And then his nasty self got fired. So it was great.",
+    "speaker_turn": 20,
+    "speaker_name": "Ali",
+    "conversation_id": 6126,
+    "start_time": 590.63,
+    "end_time": 668.88,
+    "union_linked_turn_ids": [
+      "19",
+      "19",
+      "19"
+    ],
+    "segments": {
+      "19": {
+        "segment_words": "But my coworker community, they've backed me up and they stood behind me in the time and we all vouched for each other.",
+        "link_turn_id": 19,
+        "linked_words": "So if you can describe a specific time when you felt really supported by your Boston community, I'd love to hear about who was there and what made that event or moment meaningful or special.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "21": {
+    "link_turn_id": [
+      20
+    ],
+    "words": "Thank you Ali for sharing.",
+    "speaker_turn": 21,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6126,
+    "start_time": 672.34,
+    "end_time": 674.16,
+    "union_linked_turn_ids": [
+      "20",
+      "20",
+      "20"
+    ],
+    "segments": {
+      "20": {
+        "segment_words": "Thank you Ali for sharing.",
+        "link_turn_id": 20,
+        "linked_words": "I'll go. I have one that was recent. I worked at this place where I had a boss that used his sexuality as a bridge to get closer to his employees and a lot of the staff received sexual harassment from him, me being one of them, and I didn't feel empowered enough to speak up about it because when it's your boss, it's hard to bring forth and then there's always retaliation and whatnot. But my coworker community, they've backed me up and they stood behind me in the time and we all vouched for each other. And the owner, he stood by us, which we're very fortunate to have that because that's not always the case. So that was a time where I felt very supported, seen, heard and valued, and appreciated. And then his nasty self got fired. So it was great.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "22": {
+    "link_turn_id": [
+      19
+    ],
+    "words": "I'll go. I'll say the Boys and Girls Club. So I started going to the Boys and Girls Club, which is just an after school program organization. They're citywide, nationwide. I went to the Boys and Girls Club on Talbot Ave and I was going there, I want to say, from seven years old to when I turned 15 or 16. So it was a good chunk of my life and I would say that was... I felt really supported from my community in that where my dance instructor, when I started dancing, I've been dancing since I was two, she moved to that Boys and Girls Club. So that was really helpful and convenient for me. I was able to do swimming lessons there. I was able to meet a lot of different people. I was able to play basketball and it was just a lot of meeting different people from across the city. And also too, just meeting different role models, mentees, mentors. I was able to build those connections there and I felt really supported because it was just a really nice place to go after school because obviously living in the city and dealing with community-based violence, kids definitely six to 15 years old definitely need a place to go after school so they're not in the streets of actually getting into harm. So that was very helpful for me to build relationships with people my age, some of them that were younger than me or older than me, and building that sense of community.",
+    "speaker_turn": 22,
+    "speaker_name": "Kaya",
+    "conversation_id": 6126,
+    "start_time": 675.9,
+    "end_time": 760.59,
+    "union_linked_turn_ids": [
+      "19",
+      "19",
+      "19"
+    ],
+    "segments": {
+      "19": {
+        "segment_words": "so I started going to the Boys and Girls Club, which is just an after school program organization. They're citywide, nationwide. I went to the Boys and Girls Club on Talbot Ave and I was going there, I want to say, from seven years old to when I turned 15 or 16. So it was a good chunk of my life and I would say that was... I felt really supported from my community in that where my dance instructor, when I started dancing, I've been dancing since I was two, she moved to that Boys and Girls Club.",
+        "link_turn_id": 19,
+        "linked_words": "So if you can describe a specific time when you felt really supported by your Boston community, I'd love to hear about who was there and what made that event or moment meaningful or special.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "23": {
+    "link_turn_id": [
+      22
+    ],
+    "words": "Nice. Yeah, I like that a lot. Thank you for sharing, Kaya. Ashna or Becca?",
+    "speaker_turn": 23,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6126,
+    "start_time": 760.59,
+    "end_time": 770.83,
+    "union_linked_turn_ids": [
+      "22",
+      "22",
+      "22"
+    ],
+    "segments": {
+      "22": {
+        "segment_words": "Thank you for sharing, Kaya.",
+        "link_turn_id": 22,
+        "linked_words": "So that was very helpful for me to build relationships with people my age, some of them that were younger than me or older than me, and building that sense of community.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "24": {
+    "link_turn_id": [
+      23
+    ],
+    "words": "You got one, Asha? Could I go?",
+    "speaker_turn": 24,
+    "speaker_name": "Becca",
+    "conversation_id": 6126,
+    "start_time": 773.87,
+    "end_time": 777.638,
+    "union_linked_turn_ids": [
+      "23",
+      "23",
+      "23"
+    ],
+    "segments": {
+      "23": {
+        "segment_words": "Could I go?",
+        "link_turn_id": 23,
+        "linked_words": "Ashna or Becca?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "25": {
+    "link_turn_id": [
+      24
+    ],
+    "words": "I mean being honest, yeah.",
+    "speaker_turn": 25,
+    "speaker_name": "Ashna",
+    "conversation_id": 6126,
+    "start_time": 777.654,
+    "end_time": 780.294,
+    "union_linked_turn_ids": [
+      "24",
+      "Speaker 1",
+      "24"
+    ],
+    "segments": {
+      "24": {
+        "segment_words": "I mean being honest, yeah.",
+        "link_turn_id": 24,
+        "linked_words": "Could I go?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "26": {
+    "link_turn_id": [
+      19,
+      22
+    ],
+    "words": "Mine's a more smaller occurrence that just came to my mind is one time in Boston when I was living in Boston, it was kind of a weird time for me because I had had a roommate drop out of a lease at the last minute so I was living alone and I remember maybe the beginning of the year we had this really random power outage that affected the surrounding area, multi-block, just everybody lost power at once, and I was really scared because I was in my apartment alone. It was so dark out. I just remember barely any light, and my neighbor that was next door knocked on my door and asked me if I wanted to just sit with her because she was scared, too. So we just sat in her dark apartment together and bonded. I think it was a really special time to get to live with people in my age group who were also in school and just share that with somebody was really nice.",
+    "speaker_turn": 26,
+    "speaker_name": "Becca",
+    "conversation_id": 6126,
+    "start_time": 780.294,
+    "end_time": 842.85,
+    "union_linked_turn_ids": [
+      "19",
+      "22",
+      "19",
+      "22",
+      "19",
+      "23"
+    ],
+    "segments": {
+      "19": {
+        "segment_words": "Mine's a more smaller occurrence that just came to my mind is one time in Boston when I was living in Boston, it was kind of a weird time for me because I had had a roommate drop out of a lease at the last minute so I was living alone and I remember maybe the beginning of the year we had this really random power outage that affected the surrounding area, multi-block, just everybody lost power at once, and I was really scared because I was in my apartment alone. It was so dark out. I just remember barely any light, and my neighbor that was next door knocked on my door and asked me if I wanted to just sit with her because she was scared, too. So we just sat in her dark apartment together and bonded. I think it was a really special time to get to live with people in my age group who were also in school and just share that with somebody was really nice.",
+        "link_turn_id": 19,
+        "linked_words": "So if you can describe a specific time when you felt really supported by your Boston community, I'd love to hear about who was there and what made that event or moment meaningful or special.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "22": {
+        "segment_words": "I think it was a really special time to get to live with people in my age group who were also in school and just share that with somebody was really nice.",
+        "link_turn_id": 22,
+        "linked_words": "I was able to build those connections there and I felt really supported because it was just a really nice place to go after school",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "27": {
+    "link_turn_id": [
+      26,
+      22
+    ],
+    "words": "Yeah, I guess mine's somewhat similar, less more of a formalized community gathering or organization, but more just scenario-based moments where I felt a community or just a helpful hand, I guess. I remember this one time I was leaving PT and there's no great way to get to from PT to the T station without getting an Uber or something because I just don't have a car. And so I was in my Uber and then she drops me off, but then I forget my phone in the Uber and now I'm stranded at the T and there's no good way to go home from the orange line either because I took the green and I had to get into work, so I was like, \"What do I do? What do I do?\" But I think a lot of people helped me figure it out, which was nice. So the person who worked for the T, he tried helping me call my phone. That didn't work, but then he let me take the T for free, which was nice. So then I was able to take the T into work and then my coworker heard my little story and he was like, \"Ooh my gosh, take my phone, try to cancel your credit card and do all the things you need to do and figure out where your phone's at.\" And then I was able to get in contact with my Uber driver and she was so sweet. She was like, \"Yeah, I'll come by your work in a little bit and bring your phone to you.\" So just little things like that where a couple different people had to lend a hand and do a thing that they didn't necessarily need to. But it helped me a lot and made me feel at least like Boston was a little bit more of a kinder community than I think people make a city out to be, I guess.",
+    "speaker_turn": 27,
+    "speaker_name": "Ashna",
+    "conversation_id": 6126,
+    "start_time": 846.59,
+    "end_time": 963.79,
+    "union_linked_turn_ids": [
+      "26",
+      "22",
+      "26",
+      "19",
+      "22",
+      "26"
+    ],
+    "segments": {
+      "26": {
+        "segment_words": "Yeah, I guess mine's somewhat similar, less more of a formalized community gathering or organization, but more just scenario-based moments where I felt a community or just a helpful hand, I guess.",
+        "link_turn_id": 26,
+        "linked_words": "it was kind of a weird time for me because I had had a roommate drop out of a lease at the last minute so I was living alone and I remember maybe the beginning of the year we had this really random power outage that affected the surrounding area, multi-block, just everybody lost power at once, and I was really scared because I was in my apartment alone. It was so dark out. I just remember barely any light, and my neighbor that was next door knocked on my door and asked me if I wanted to just sit with her because she was scared, too. So we just sat in her dark apartment together and bonded. I think it was a really special time to get to live with people in my age group who were also in school and just share that with somebody was really nice.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "22": {
+        "segment_words": "where I felt a community or just a helpful hand",
+        "link_turn_id": 22,
+        "linked_words": "I felt really supported from my community",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "28": {
+    "link_turn_id": [
+      19
+    ],
+    "words": "All right, now that we've all talked about where you did feel supported, we want to leave room for when that didn't happen as well. So the next question to guide our conversation would be, can we all share basically what you worry about day to day while living in Boston? So maybe this is related to health, finances, accessibility, inclusivity, or something else entirely, and what kind of support do you wish you had for these worries?",
+    "speaker_turn": 28,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6126,
+    "start_time": 969.13,
+    "end_time": 1005.8,
+    "union_linked_turn_ids": [
+      "19",
+      "NA",
+      "19",
+      "20",
+      "22",
+      "26",
+      "27"
+    ],
+    "segments": {
+      "19": {
+        "segment_words": "All right, now that we've all talked about where you did feel supported, we want to leave room for when that didn't happen as well.",
+        "link_turn_id": 19,
+        "linked_words": "So if you can describe a specific time when you felt really supported by your Boston community, I'd love to hear about who was there and what made that event or moment meaningful or special.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "29": {
+    "link_turn_id": [
+      28
+    ],
+    "words": "I'll go. As a grad student, I think it's universally experienced that the pay is just not enough to sustain a comfortable living. Working full-time school research, you have to be a TA in order to get your stipend, so that's another class on top of yours. I feel that Boston has... the prices have become inflated, but the salaries have not inflated with that as well to compensate. And I think a lot of people, especially not even just people getting their education, but there are parents that are having to leave because they can't afford to live here anymore and they have to uproot their children and their whole lives. I think it's too expensive and then the pay is just not compensating with that. I think support should... I wouldn't even know how to form that, how to find support for those people, but that is my concern.",
+    "speaker_turn": 29,
+    "speaker_name": "Ali",
+    "conversation_id": 6126,
+    "start_time": 1017.75,
+    "end_time": 1088.38,
+    "union_linked_turn_ids": [
+      "28",
+      "28",
+      "28"
+    ],
+    "segments": {
+      "28": {
+        "segment_words": "As a grad student, I think it's universally experienced that the pay is just not enough to sustain a comfortable living. Working full-time school research, you have to be a TA in order to get your stipend, so that's another class on top of yours. I feel that Boston has... the prices have become inflated, but the salaries have not inflated with that as well to compensate. And I think a lot of people, especially not even just people getting their education, but there are parents that are having to leave because they can't afford to live here anymore and they have to uproot their children and their whole lives. I think it's too expensive and then the pay is just not compensating with that. I think support should... I wouldn't even know how to form that, how to find support for those people, but that is my concern.",
+        "link_turn_id": 28,
+        "linked_words": "So the next question to guide our conversation would be, can we all share basically what you worry about day to day while living in Boston? So maybe this is related to health, finances, accessibility, inclusivity, or something else entirely, and what kind of support do you wish you had for these worries?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "30": {
+    "link_turn_id": [
+      29
+    ],
+    "words": "Yeah, no, absolutely.",
+    "speaker_turn": 30,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6126,
+    "start_time": 1090.56,
+    "end_time": 1092.06,
+    "union_linked_turn_ids": [
+      "29",
+      "29",
+      "29"
+    ],
+    "segments": {
+      "29": {
+        "segment_words": "Yeah, no, absolutely.",
+        "link_turn_id": 29,
+        "linked_words": "I think it's universally experienced that the pay is just not enough to sustain a comfortable living.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "31": {
+    "link_turn_id": [
+      29
+    ],
+    "words": "Yeah, I'd say that's probably my biggest concern. I didn't mention it earlier, but I live in Brookline for similar reasons to Becca where it's just easier, cheaper, and I feel like you have a bigger space than you would if you lived in Boston. Even just finding a place in Boston is tough to do. It's a whole endeavor. Landlords don't always fix things and management companies don't fix things, either. My light in my kitchen has been out for a really long time. My dishwasher was fixed with duct tape that I provided, some little things like that. I guess beyond stuff like that where I really think of Boston when I think of rent increase and salary not matching, which is what Ali brought up. But maybe on a more personal level, I think the group... I'm not going to speak for the group, but we're all young and starting our careers and I think part of that too, it's trying to balance doing your work and being satisfied with what you do versus also being conscious of the way that you're building your brand or having people take you seriously as well at work. I think when you are young, sometimes there's certain people that might not do that off the bat. You have to really earn trust that way, whereas some people can come in and have a little bit more of that equity, that brand equity, right away. So I think there's a little bit of that I think just with starting your career and trying to figure out what your life is, but definitely the rent thing is hard. She's tough.",
+    "speaker_turn": 31,
+    "speaker_name": "Ashna",
+    "conversation_id": 6126,
+    "start_time": 1094.85,
+    "end_time": 1208.92,
+    "union_linked_turn_ids": [
+      "29",
+      "28",
+      "29",
+      "29"
+    ],
+    "segments": {
+      "29": {
+        "segment_words": "I guess beyond stuff like that where I really think of Boston when I think of rent increase and salary not matching, which is what Ali brought up.",
+        "link_turn_id": 29,
+        "linked_words": "I feel that Boston has... the prices have become inflated, but the salaries have not inflated with that as well to compensate.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "32": {
+    "link_turn_id": [
+      31,
+      30
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 32,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6126,
+    "start_time": 1209.46,
+    "end_time": 1210.24,
+    "union_linked_turn_ids": [
+      "31",
+      "29",
+      "30",
+      "31",
+      "30",
+      "31"
+    ],
+    "segments": {
+      "31": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 31,
+        "linked_words": "Yeah, I'd say that's probably my biggest concern.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "30": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 30,
+        "linked_words": "Yeah, no, absolutely.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "33": {
+    "link_turn_id": [
+      31,
+      29
+    ],
+    "words": "I'll go. I agree. Being a 20-year-old in Boston, the economy's not fun and more money would always be nice. I would say for me too, growing up in Boston, something that I wish the kids going to school and attending school would have would just be more access to therapy or more access to counseling for community-based violence. I've probably lost more friends growing up between the ages of 15 to 17 more than I lost family members. So I will say, and that's something that's really constant if you ask people here in Boston, I think that is really, really helpful. Also too, there's just a lot of generational trauma. There's a lot of trauma when you live in certain living communities. There's certain economic classes that definitely are separated within the city. So if you're living in a housing development, now those housing developments are getting torn down because of the violence, but these people have nowhere to go, so you're kicking them out of these places. So it's like, \"Where do you expect them to go?\" So I definitely would say support that I would want from I guess Boston or just people that are elected officials would to really just start looking at why people are acting out that the way that they are in these certain areas in Boston, not just classifying it as just, \"Oh, all these people are angry, everything's happening,\" but there's a reason why there's so much violence that is coming through the city because it's so hard now. There's so many families that I know that have five, six kids and they're getting bare minimum with their food stamps. There's not a lot of accessibility for them to obtain anything, so I think that's also too something I would like to see. I guess just a little bit more support in my community with that. Also too, education. I was very blessed to be able to go out of the city to get to my education. I was very blessed to just have many different opportunities to go and experience different schooling, but that's not always the case for a lot of kids, especially people of color in the city. And I do support the METCO program, which is just bringing inner-city kids to different areas outside of Boston. But I think our education system within the city needs to be a lot better because we do have actual good resources here. We have a lot of great hospitals, we have a lot of good healthcare providers, so I think that we just need to pour into our city a little bit more and not just bring people in to make our city more expensive or to think that's what we need because there's a lot of support, there's a lot of actually good things coming from the city, so I think that's something that we definitely could benefit from.",
+    "speaker_turn": 33,
+    "speaker_name": "Kaya",
+    "conversation_id": 6126,
+    "start_time": 1213.98,
+    "end_time": 1372.03,
+    "union_linked_turn_ids": [
+      "28",
+      "29",
+      "31",
+      "29",
+      "31",
+      "29",
+      "31"
+    ],
+    "segments": {
+      "31": {
+        "segment_words": "I agree. Being a 20-year-old in Boston, the economy's not fun and more money would always be nice.",
+        "link_turn_id": 31,
+        "linked_words": "I guess beyond stuff like that where I really think of Boston when I think of rent increase and salary not matching, which is what Ali brought up.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "29": {
+        "segment_words": "I agree. Being a 20-year-old in Boston, the economy's not fun and more money would always be nice.",
+        "link_turn_id": 29,
+        "linked_words": "I feel that Boston has... the prices have become inflated, but the salaries have not inflated with that as well to compensate.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "34": {
+    "link_turn_id": [
+      33
+    ],
+    "words": "I think that's a good point to talk about pouring into our city and not just making it look pretty and presentable for everybody else on the outside. I think that's a really good point. Thank you, Kaya.",
+    "speaker_turn": 34,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6126,
+    "start_time": 1373.706,
+    "end_time": 1382.91,
+    "union_linked_turn_ids": [
+      "33",
+      "33",
+      "33"
+    ],
+    "segments": {
+      "33": {
+        "segment_words": "I think that's a good point to talk about pouring into our city and not just making it look pretty and presentable for everybody else on the outside.",
+        "link_turn_id": 33,
+        "linked_words": "I think that we just need to pour into our city a little bit more and not just bring people in to make our city more expensive or to think that's what we need because there's a lot of support, there's a lot of actually good things coming from the city, so I think that's something that we definitely could benefit from.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "35": {
+    "link_turn_id": [
+      31,
+      29
+    ],
+    "words": "Nothing much to add. I just agree with everything that's said. From my own experience, housing. That's why I left city. The housing system is ridiculous. I don't understand this relationship with the real estate companies where they totally shelter you from even knowing the landlords in a lot of cases. Yeah, it's just such a mess and it's such an expense that is just... I don't even understand how you could break through that, but I just feel like as a renter, you're totally taken advantage of.",
+    "speaker_turn": 35,
+    "speaker_name": "Becca",
+    "conversation_id": 6126,
+    "start_time": 1384.57,
+    "end_time": 1416.2,
+    "union_linked_turn_ids": [
+      "29",
+      "31",
+      "29",
+      "31",
+      "33",
+      "29",
+      "31"
+    ],
+    "segments": {
+      "31": {
+        "segment_words": "That's why I left city. The housing system is ridiculous. I don't understand this relationship with the real estate companies where they totally shelter you from even knowing the landlords in a lot of cases.",
+        "link_turn_id": 31,
+        "linked_words": "I live in Brookline for similar reasons to Becca where it's just easier, cheaper, and I feel like you have a bigger space than you would if you lived in Boston. Even just finding a place in Boston is tough to do. It's a whole endeavor. Landlords don't always fix things and management companies don't fix things, either.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "29": {
+        "segment_words": "I just agree with everything that's said. From my own experience, housing. That's why I left city. The housing system is ridiculous.",
+        "link_turn_id": 29,
+        "linked_words": "I feel that Boston has... the prices have become inflated, but the salaries have not inflated with that as well to compensate. And I think a lot of people, especially not even just people getting their education, but there are parents that are having to leave because they can't afford to live here anymore and they have to uproot their children and their whole lives. I think it's too expensive and then the pay is just not compensating with that.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "36": {
+    "link_turn_id": [
+      31,
+      35,
+      29
+    ],
+    "words": "Yeah. I have one story from last year where in my building, I rent. I live in an attic, but the second floor girls, they knew their stuff and they really advocated for themselves where our company was trying to charge us for utilities, for water, and they basically wrote down the strongly worded email being like, \"Hey, but based on legal code you have to have X, Y, and Z meters in this building. You clearly haven't done your due diligence. We're not going to pay for water that you haven't appropriately divvied between the different renters and stuff.\" They basically advocated their way out of paying, given that there was not the right setup in place, and it makes you think about how many other people just ended up doing what they said based off of the information that they were provided and not really knowing any better and knowing how to look for that kind of stuff. So it's tough. It's tough to find or figure out ways to get around some of this stuff.",
+    "speaker_turn": 36,
+    "speaker_name": "Ashna",
+    "conversation_id": 6126,
+    "start_time": 1417.71,
+    "end_time": 1490.27,
+    "union_linked_turn_ids": [
+      "31",
+      "35",
+      "29",
+      "31",
+      "35",
+      "35",
+      "31",
+      "29"
+    ],
+    "segments": {
+      "31": {
+        "segment_words": "it's tough to find or figure out ways to get around some of this stuff.",
+        "link_turn_id": 31,
+        "linked_words": "It's a whole endeavor. Landlords don't always fix things and management companies don't fix things, either.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "35": {
+        "segment_words": "it's tough to find or figure out ways to get around some of this stuff.",
+        "link_turn_id": 35,
+        "linked_words": "I don't even understand how you could break through that, but I just feel like as a renter, you're totally taken advantage of.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "29": {
+        "segment_words": "it's tough to find or figure out ways to get around some of this stuff.",
+        "link_turn_id": 29,
+        "linked_words": "I wouldn't even know how to form that, how to find support for those people, but that is my concern.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "37": {
+    "link_turn_id": [
+      31,
+      28,
+      33,
+      29
+    ],
+    "words": "Yeah. Well, thank you guys for sharing. I know that can sometimes be heavy to think through, but to wrap us up, I just want us to think about and imagine the Boston community 10 years from now that is fully accessible and inclusive to you and the people that look like you and just what does that look like in 10 years?",
+    "speaker_turn": 37,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6126,
+    "start_time": 1491.01,
+    "end_time": 1520.84,
+    "union_linked_turn_ids": [
+      "28",
+      "29",
+      "31",
+      "33",
+      "34",
+      "35",
+      "28",
+      "29",
+      "31",
+      "33",
+      "28"
+    ],
+    "segments": {
+      "31": {
+        "segment_words": "I just want us to think about and imagine the Boston community 10 years from now that is fully accessible and inclusive to you and the people that look like you and just what does that look like in 10 years?",
+        "link_turn_id": 31,
+        "linked_words": "I guess beyond stuff like that where I really think of Boston when I think of rent increase and salary not matching, which is what Ali brought up. But maybe on a more personal level, I think the group... I'm not going to speak for the group, but we're all young and starting our careers and I think part of that too, it's trying to balance doing your work and being satisfied with what you do versus also being conscious of the way that you're building your brand or having people take you seriously as well at work.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "28": {
+        "segment_words": "just what does that look like in 10 years?",
+        "link_turn_id": 28,
+        "linked_words": "what kind of support do you wish you had for these worries?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "33": {
+        "segment_words": "imagine the Boston community 10 years from now that is fully accessible and inclusive to you and the people that look like you and just what does that look like in 10 years?",
+        "link_turn_id": 33,
+        "linked_words": "I definitely would say support that I would want from I guess Boston or just people that are elected officials would to really just start looking at why people are acting out that the way that they are in these certain areas in Boston, not just classifying it as just, \"Oh, all these people are angry, everything's happening,\" but there's a reason why there's so much violence that is coming through the city because it's so hard now. There's so many families that I know that have five, six kids and they're getting bare minimum with their food stamps. There's not a lot of accessibility for them to obtain anything, so I think that's also too something I would like to see. I guess just a little bit more support in my community with that.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "29": {
+        "segment_words": "I just want us to think about and imagine the Boston community 10 years from now that is fully accessible and inclusive to you and the people that look like you",
+        "link_turn_id": 29,
+        "linked_words": "the prices have become inflated, but the salaries have not inflated with that as well to compensate. And I think a lot of people, especially not even just people getting their education, but there are parents that are having to leave because they can't afford to live here anymore and they have to uproot their children and their whole lives. I think it's too expensive and then the pay is just not compensating with that.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "38": {
+    "link_turn_id": [
+      37
+    ],
+    "words": "What we'd want it to look like?",
+    "speaker_turn": 38,
+    "speaker_name": "Ashna",
+    "conversation_id": 6126,
+    "start_time": 1526.606,
+    "end_time": 1528.094,
+    "union_linked_turn_ids": [
+      "37",
+      "37",
+      "37"
+    ],
+    "segments": {
+      "37": {
+        "segment_words": "What we'd want it to look like?",
+        "link_turn_id": 37,
+        "linked_words": "just what does that look like in 10 years?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "39": {
+    "link_turn_id": [
+      38
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 39,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6126,
+    "start_time": 1528.182,
+    "end_time": 1528.686,
+    "union_linked_turn_ids": [
+      "38",
+      "38",
+      "38"
+    ],
+    "segments": {
+      "38": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 38,
+        "linked_words": "What we'd want it to look like?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "40": {
+    "link_turn_id": [
+      39
+    ],
+    "words": "Okay.",
+    "speaker_turn": 40,
+    "speaker_name": "Ashna",
+    "conversation_id": 6126,
+    "start_time": 1528.798,
+    "end_time": 1529.57,
+    "union_linked_turn_ids": [
+      "39",
+      "39",
+      "39"
+    ],
+    "segments": {
+      "39": {
+        "segment_words": "Okay.",
+        "link_turn_id": 39,
+        "linked_words": "Yeah.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "41": {
+    "link_turn_id": [
+      37
+    ],
+    "words": "I'll go. That's crazy to even think about 10 years from now, but 10 years ago, we're here. I don't know. Thinking about stuff like that is crazy. I would say my hope would be our elected officials having more diversity, people of color, people of just any type of life experience. Also too, that was another thing I forgot to add. Getting the minority population to understand how important it is to vote and why their vote matters and understanding that these elected officials are going to serve and reach out to the people that are supporting them so if you're not there, they're not going to reach out to you and make sure that they get your vote. So I just think anything, voting education, in the inner city is important because I still to this day will have friends that aren't even registered to vote. I try to have those conversations with them, but granted, their reasoning is valid. They don't feel like their voice matters, but that's what the government wants you to think, that your voice does not matter so you don't go out and vote. I think that it's very important so hopefully 10 years from now, our numbers in the city of Boston for specifically minority communities will be tripled because that is the goal, to get your voice and your community in office to be seen, to be heard, whatever. Hopefully too, I want to see definitely more after school programs, like high schools, middle school, elementary schools, just getting redone, getting proper educators, even just educators from our city, people that go to school here that are residents here that have actually put in their time to get their degrees, to actually go into the community and teach here and actually get great benefits, get the salary that they deserve, just everyone getting poured into properly because I feel like we have the resources. They're just not getting allocated in the right way. I also would say too, the Boston roads are ridiculous. I hate them. They irritate me. My tires are always just all over the place. They need to fix the roads. Hopefully in 10 years we're driving cars that maybe are flying. I don't know what the 10 years will look like, but I think also too, just the environment of our city needs to be a lot better. We have street cleaning, but they just push things to the side. So I think actually taking care of the environment that we're in, the T stations, cleaning those up, and hopefully my last thing... I won't go on a rant because we'll be here forever... would be definitely taking care of our community that suffers from substance abuse because just me by living here for so long, just seeing how bad it's gotten, it's heartbreaking. I hate seeing it. And it's like they're pushing them out from Mass Ave, but they're putting them more into the city. That's causing a lot of friction, that's causing a lot of just tension throughout. And I just think we need a better system and way to care for these individuals because they are people. They've had probably good lives before whatever happened to them and causing them to now use. I think we need to actually make and implement things to have them go through the process of recovery because everything's not going to change in a day, but I think instead of just, I don't know, outcasting them and shutting them into one particular spot, we should be actually helping them so that they get in a mindset where they feel like they can progress and not be in their current situation. But obviously, that takes time and that takes people understanding that this is not just something you decide to do one day, like, \"Hey, I'm going to have this disorder. I'm going to struggle with this problem.\" I think people need to understand the actual facts about it and being educated on it, and our actual elected officials have to actually set a plan to get this problem fixed. We need treatment centers, we need actual people that are willing to go through the process to make this situation better because it is a public health issue because it does impact a lot of people in the city.",
+    "speaker_turn": 41,
+    "speaker_name": "Kaya",
+    "conversation_id": 6126,
+    "start_time": 1536.87,
+    "end_time": 1780.54,
+    "union_linked_turn_ids": [
+      "37",
+      "37",
+      "37"
+    ],
+    "segments": {
+      "37": {
+        "segment_words": "I would say my hope would be our elected officials having more diversity, people of color, people of just any type of life experience. Also too, that was another thing I forgot to add. Getting the minority population to understand how important it is to vote and why their vote matters and understanding that these elected officials are going to serve and reach out to the people that are supporting them so if you're not there, they're not going to reach out to you and make sure that they get your vote.",
+        "link_turn_id": 37,
+        "linked_words": "I just want us to think about and imagine the Boston community 10 years from now that is fully accessible and inclusive to you and the people that look like you and just what does that look like in 10 years?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "42": {
+    "link_turn_id": [
+      41
+    ],
+    "words": "True.",
+    "speaker_turn": 42,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6126,
+    "start_time": 1781.86,
+    "end_time": 1782.68,
+    "union_linked_turn_ids": [
+      "41",
+      "41",
+      "41"
+    ],
+    "segments": {
+      "41": {
+        "segment_words": "True.",
+        "link_turn_id": 41,
+        "linked_words": "Getting the minority population to understand how important it is to vote and why their vote matters and understanding that these elected officials are going to serve and reach out to the people that are supporting them so if you're not there, they're not going to reach out to you and make sure that they get your vote.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "43": {
+    "link_turn_id": [
+      41
+    ],
+    "words": "I guess to ride on Kaya's back... thank you. Thank you, it was going to take me a minute to get there. I think resource allocation is really struggling here. I think that there is a whole system that contributes to homelessness, poverty, drug use, and I grew up poor and you either are not making any money and you're collecting benefits and it's almost like you're supposed to stay poor to receive those benefits, but once you start working your way towards the middle class, or even as a student I'm barely making enough to make it by here, but I'm not poor enough to collect benefits. So when you fall in that in between, you can't receive resources that would help you do well, do better. And I would like to see implements to help people that are struggling with substance abuse and find... like she said, not just run them off the streets. Shelter, getting them into therapy and then finding a route. But also for students, resources for students who are looking to feed into the community and better the Boston community, bring education in. We need resources, too. Food stamps would be amazing. You can only work so many hours outside. I think resource allocation is a really big thing that needs to be assessed.",
+    "speaker_turn": 43,
+    "speaker_name": "Ali",
+    "conversation_id": 6126,
+    "start_time": 1791.54,
+    "end_time": 1904.6,
+    "union_linked_turn_ids": [
+      "41",
+      "41",
+      "41"
+    ],
+    "segments": {
+      "41": {
+        "segment_words": "I would like to see implements to help people that are struggling with substance abuse and find... like she said, not just run them off the streets.",
+        "link_turn_id": 41,
+        "linked_words": "I just think we need a better system and way to care for these individuals because they are people. They've had probably good lives before whatever happened to them and causing them to now use. I think we need to actually make and implement things to have them go through the process of recovery because everything's not going to change in a day, but I think instead of just, I don't know, outcasting them and shutting them into one particular spot, we should be actually helping them so that they get in a mindset where they feel like they can progress and not be in their current situation.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "44": {
+    "link_turn_id": [
+      41,
+      43
+    ],
+    "words": "No, absolutely. Ashna or Becca, do you guys have anything to add onto what you would like to see Boston be in 10 years?",
+    "speaker_turn": 44,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6126,
+    "start_time": 1907.5,
+    "end_time": 1916.35,
+    "union_linked_turn_ids": [
+      "41",
+      "43",
+      "43",
+      "41",
+      "43"
+    ],
+    "segments": {
+      "41": {
+        "segment_words": "what you would like to see Boston be in 10 years?",
+        "link_turn_id": 41,
+        "linked_words": "That's crazy to even think about 10 years from now",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "43": {
+        "segment_words": "what you would like to see Boston be in 10 years?",
+        "link_turn_id": 43,
+        "linked_words": "I would like to see implements to help people that are struggling with substance abuse and find... like she said, not just run them off the streets. Shelter, getting them into therapy and then finding a route. But also for students, resources for students who are looking to feed into the community and better the Boston community, bring education in. We need resources, too.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "45": {
+    "link_turn_id": [
+      41,
+      43
+    ],
+    "words": "Yeah, I feel like a lot of what Kaya and Ali said were really important. One for sure, it's resource allocation, and then two, it's almost about humanizing these communities as well, too. I feel like a lot of times with the homeless, they feel like it's such a buzz issue, if that makes sense, for the Boston community or it has been in recent times and I don't think anything is really getting fixed right now, and that's something I'd want to see change. But part of it too is not letting people feel like they're invisible and letting them have a purpose as well. You can try to fix where someone lives maybe, but I don't know if you're going to really change... I don't think that always necessarily fully changes their life for the better, I guess. I think also too, when we talk about education, when everyone talks about Boston, they talk about, \"Oh wow, there's so many schools, so many hospitals.\" But as someone who went to a Boston university, not Boston University, but a Boston university, there's not a lot of minority students. It's pretty white across the board and that's fine. A lot of people come from different states, different places, but it would be great to see people of color. Yeah, so like I was saying, I think just from my own personal experience, building a more inclusive community in Boston needs to start at the beginning, obviously, with the local community, but I think as much as there are programs that are targeted... honestly, that's not even true. I feel like there's so many things that need to be changed. It's hard to fit in a little spiel.",
+    "speaker_turn": 45,
+    "speaker_name": "Ashna",
+    "conversation_id": 6126,
+    "start_time": 1916.85,
+    "end_time": 2080.34,
+    "union_linked_turn_ids": [
+      "41",
+      "43",
+      "41",
+      "43",
+      "41",
+      "43"
+    ],
+    "segments": {
+      "41": {
+        "segment_words": "One for sure, it's resource allocation, and then two, it's almost about humanizing these communities as well, too.",
+        "link_turn_id": 41,
+        "linked_words": "I also would say too, the Boston roads are ridiculous. I hate them. They irritate me. My tires are always just all over the place. They need to fix the roads. Hopefully in 10 years we're driving cars that maybe are flying. I don't know what the 10 years will look like, but I think also too, just the environment of our city needs to be a lot better. We have street cleaning, but they just push things to the side. So I think actually taking care of the environment that we're in, the T stations, cleaning those up, and hopefully my last thing... I won't go on a rant because we'll be here forever... would be definitely taking care of our community that suffers from substance abuse because just me by living here for so long, just seeing how bad it's gotten, it's heartbreaking. I hate seeing it. And it's like they're pushing them out from Mass Ave, but they're putting them more into the city. That's causing a lot of friction, that's causing a lot of just tension throughout. And I just think we need a better system and way to care for these individuals because they are people. They've had probably good lives before whatever happened to them and causing them to now use. I think we need to actually make and implement things to have them go through the process of recovery because everything's not going to change in a day, but I think instead of just, I don't know, outcasting them and shutting them into one particular spot, we should be actually helping them so that they get in a mindset where they feel like they can progress and not be in their current situation. But obviously, that takes time and that takes people understanding that this is not just something you decide to do one day, like, \"Hey, I'm going to have this disorder. I'm going to struggle with this problem.\" I think people need to understand the actual facts about it and being educated on it, and our actual elected officials have to actually set a plan to get this problem fixed. We need treatment centers, we need actual people that are willing to go through the process to make this situation better because it is a public health issue because it does impact a lot of people in the city.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "43": {
+        "segment_words": "One for sure, it's resource allocation, and then two, it's almost about humanizing these communities as well, too.",
+        "link_turn_id": 43,
+        "linked_words": "I think resource allocation is really struggling here. I think that there is a whole system that contributes to homelessness, poverty, drug use, and I grew up poor and you either are not making any money and you're collecting benefits and it's almost like you're supposed to stay poor to receive those benefits, but once you start working your way towards the middle class, or even as a student I'm barely making enough to make it by here, but I'm not poor enough to collect benefits.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "46": {
+    "link_turn_id": [
+      45
+    ],
+    "words": "No, that's fine.",
+    "speaker_turn": 46,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6126,
+    "start_time": 2080.34,
+    "end_time": 2082.52,
+    "union_linked_turn_ids": [
+      "45",
+      "45",
+      "45"
+    ],
+    "segments": {
+      "45": {
+        "segment_words": "No, that's fine.",
+        "link_turn_id": 45,
+        "linked_words": "it's hard to fit in a little spiel.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "47": {
+    "link_turn_id": [
+      45
+    ],
+    "words": "Yeah. But yeah, I think it's tough, one, because I feel like even if there are programs, it's hard to get people aware of what they are and be able to sign up for them right away. I remember when I was in this club called Dream in college with Becca. We had this conversation with some of the kids' parents and they were saying that they literally had to sign their kid up to be bused to a better school away, so much earlier than even from when they even started school because the waitlist was so long and all the procedures were just so lengthy. You had to start right away to even get that chance. And that starts at the beginning. If those parents didn't know about those resources, you're already a step behind, it almost feels like. And it's hard to catch up, I think too, especially when there's big inequities already. Part of that I think as well is just figuring out what these underserved communities actually need or what they want. There's a reason why people feel like their vote doesn't matter and that they're not being heard is because they're actually not being asked what they want or what they want to change. These conversations are good because it at least helps people start to think about how they would want Boston to look like and what would actually help them. I know trying to figure out big solutions to big problems is tricky, especially for just a regular person that doesn't maybe have all of the knowledge or subject-specific expertise on policy issues. But I think the gap between the policymakers and then the people that are affected by those policies is significant, especially in the city, especially in Boston. And if there is one thing I think I would want to see changed in a more positive way is lessening that gap, to stop it.",
+    "speaker_turn": 47,
+    "speaker_name": "Ashna",
+    "conversation_id": 6126,
+    "start_time": 2082.52,
+    "end_time": 2221.5,
+    "union_linked_turn_ids": [
+      "45",
+      "45",
+      "45",
+      "44"
+    ],
+    "segments": {
+      "45": {
+        "segment_words": "even if there are programs, it's hard to get people aware of what they are and be able to sign up for them right away.",
+        "link_turn_id": 45,
+        "linked_words": "but I think as much as there are programs that are targeted... honestly, that's not even true. I feel like there's so many things that need to be changed.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "48": {
+    "link_turn_id": [
+      45,
+      47
+    ],
+    "words": "Perfect. Becca, do you want to add anything to that? Anything else you wanted to share about how you see Boston in 10 years?",
+    "speaker_turn": 48,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6126,
+    "start_time": 2221.5,
+    "end_time": 2229.45,
+    "union_linked_turn_ids": [
+      "45",
+      "47",
+      "44",
+      "47",
+      "45",
+      "47"
+    ],
+    "segments": {
+      "45": {
+        "segment_words": "Do you want to add anything to that?",
+        "link_turn_id": 45,
+        "linked_words": "It's hard to fit in a little spiel.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "47": {
+        "segment_words": "Becca, do you want to add anything to that?",
+        "link_turn_id": 47,
+        "linked_words": "I remember when I was in this club called Dream in college with Becca.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "49": {
+    "link_turn_id": [
+      45,
+      47
+    ],
+    "words": "Once again, I feel like going last, so many things have already been said that I 100% agree with. I was just thinking about what Asha said about our time in Dream and how families would have to sign up to bus their kids. And I was thinking about my mentee who was signed up to go to one of those far away schools, and how many times I was like, \"Oh, how was school?\" And he missed a day that week because the bus never came. They had a problem finding drivers to get them to school. So I think a Boston I would like to see in 10 years in that regard even is just... it's not that big of a city. People should be able to get to where they need to get to. So public transportation that doesn't break down all the time, that doesn't need to be closed for a month at a time, that doesn't have a zillion slow spots... I understand it's a very old system that needs to be reworked, but I really hope in 10 years that it will have evolved in leaps and bounds in that way. And same with Sumner Tunnel. Can you imagine a summer 10 years from now where Sumner Tunnel stays open? That would be a miracle. So just to add on, I totally agree with everybody else, and I could go down a million rabbit holes, but where my head was at with that, where we hadn't really gone so much, so far as public transportation.",
+    "speaker_turn": 49,
+    "speaker_name": "Becca",
+    "conversation_id": 6126,
+    "start_time": 2230.406,
+    "end_time": 2309.78,
+    "union_linked_turn_ids": [
+      "44",
+      "45",
+      "47",
+      "45",
+      "47",
+      "41",
+      "45",
+      "47"
+    ],
+    "segments": {
+      "45": {
+        "segment_words": "I was just thinking about what Asha said about our time in Dream and how families would have to sign up to bus their kids. And I was thinking about my mentee who was signed up to go to one of those far away schools, and how many times I was like, \"Oh, how was school?\" And he missed a day that week because the bus never came. They had a problem finding drivers to get them to school.",
+        "link_turn_id": 45,
+        "linked_words": "But as someone who went to a Boston university, not Boston University, but a Boston university, there's not a lot of minority students. It's pretty white across the board and that's fine. A lot of people come from different states, different places, but it would be great to see people of color.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "47": {
+        "segment_words": "I was just thinking about what Asha said about our time in Dream and how families would have to sign up to bus their kids. And I was thinking about my mentee who was signed up to go to one of those far away schools, and how many times I was like, \"Oh, how was school?\" And he missed a day that week because the bus never came.",
+        "link_turn_id": 47,
+        "linked_words": "I remember when I was in this club called Dream in college with Becca. We had this conversation with some of the kids' parents and they were saying that they literally had to sign their kid up to be bused to a better school away, so much earlier than even from when they even started school because the waitlist was so long and all the procedures were just so lengthy.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "50": {
+    "link_turn_id": [
+      49
+    ],
+    "words": "Yeah, no, absolutely.",
+    "speaker_turn": 50,
+    "speaker_name": "Kaya",
+    "conversation_id": 6126,
+    "start_time": 2309.78,
+    "end_time": 2311.6697645854656,
+    "union_linked_turn_ids": [
+      "49",
+      "49",
+      "48"
+    ],
+    "segments": {
+      "49": {
+        "segment_words": "Yeah, no, absolutely.",
+        "link_turn_id": 49,
+        "linked_words": "I totally agree with everybody else, and I could go down a million rabbit holes, but where my head was at with that, where we hadn't really gone so much, so far as public transportation.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "51": {
+    "link_turn_id": [
+      50
+    ],
+    "words": "Yeah, there's still-",
+    "speaker_turn": 51,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6126,
+    "start_time": 2311.6697645854656,
+    "end_time": 2313.48,
+    "union_linked_turn_ids": [
+      "NA",
+      "48",
+      "49",
+      "50",
+      "50"
+    ],
+    "segments": {
+      "50": {
+        "segment_words": "Yeah, there's still-",
+        "link_turn_id": 50,
+        "linked_words": "Yeah, no, absolutely.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "52": {
+    "link_turn_id": [
+      49,
+      47
+    ],
+    "words": "You guys are talking about the METCO program. That's what it's called.",
+    "speaker_turn": 52,
+    "speaker_name": "Kaya",
+    "conversation_id": 6126,
+    "start_time": 2313.48,
+    "end_time": 2317.992,
+    "union_linked_turn_ids": [
+      "47",
+      "49",
+      "47",
+      "49",
+      "47",
+      "49"
+    ],
+    "segments": {
+      "49": {
+        "segment_words": "the METCO program",
+        "link_turn_id": 49,
+        "linked_words": "our time in Dream and how families would have to sign up to bus their kids",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "47": {
+        "segment_words": "You guys are talking about the METCO program. That's what it's called.",
+        "link_turn_id": 47,
+        "linked_words": "they literally had to sign their kid up to be bused to a better school away",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "53": {
+    "link_turn_id": [
+      52
+    ],
+    "words": "The METCO?",
+    "speaker_turn": 53,
+    "speaker_name": "Becca",
+    "conversation_id": 6126,
+    "start_time": 2318.096,
+    "end_time": 2319.048,
+    "union_linked_turn_ids": [
+      "52",
+      "52",
+      "52"
+    ],
+    "segments": {
+      "52": {
+        "segment_words": "The METCO?",
+        "link_turn_id": 52,
+        "linked_words": "the METCO program",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "54": {
+    "link_turn_id": [
+      49,
+      53,
+      52
+    ],
+    "words": "Yeah, that's what whoever the kid you were with that was in the program.",
+    "speaker_turn": 54,
+    "speaker_name": "Kaya",
+    "conversation_id": 6126,
+    "start_time": 2319.184,
+    "end_time": 2323.912,
+    "union_linked_turn_ids": [
+      "49",
+      "53",
+      "49",
+      "52",
+      "52",
+      "53"
+    ],
+    "segments": {
+      "49": {
+        "segment_words": "whoever the kid you were with that was in the program.",
+        "link_turn_id": 49,
+        "linked_words": "my mentee who was signed up to go to one of those far away schools",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "53": {
+        "segment_words": "Yeah, that's what whoever the kid you were with that was in the program.",
+        "link_turn_id": 53,
+        "linked_words": "The METCO?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "52": {
+        "segment_words": "that's what whoever the kid you were with that was in the program.",
+        "link_turn_id": 52,
+        "linked_words": "That's what it's called.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "55": {
+    "link_turn_id": [
+      49,
+      54
+    ],
+    "words": "Oh, the bus, yeah.",
+    "speaker_turn": 55,
+    "speaker_name": "Becca",
+    "conversation_id": 6126,
+    "start_time": 2324.016,
+    "end_time": 2325.392,
+    "union_linked_turn_ids": [
+      "49",
+      "54",
+      "49",
+      "54",
+      "49",
+      "54"
+    ],
+    "segments": {
+      "49": {
+        "segment_words": "Oh, the bus, yeah.",
+        "link_turn_id": 49,
+        "linked_words": "And he missed a day that week because the bus never came. They had a problem finding drivers to get them to school.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "54": {
+        "segment_words": "the bus, yeah.",
+        "link_turn_id": 54,
+        "linked_words": "that's what whoever the kid you were with that was in the program.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "56": {
+    "link_turn_id": [
+      54,
+      49,
+      47
+    ],
+    "words": "Yeah. My niece is currently in that. My sister did that. You pretty much have to sign them up when they turn one or two because the wait is so long.",
+    "speaker_turn": 56,
+    "speaker_name": "Kaya",
+    "conversation_id": 6126,
+    "start_time": 2325.456,
+    "end_time": 2335.096,
+    "union_linked_turn_ids": [
+      "47",
+      "49",
+      "54",
+      "47",
+      "54",
+      "47",
+      "49",
+      "52",
+      "54"
+    ],
+    "segments": {
+      "54": {
+        "segment_words": "My niece is currently in that.",
+        "link_turn_id": 54,
+        "linked_words": "whoever the kid you were with that was in the program.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "49": {
+        "segment_words": "You pretty much have to sign them up when they turn one or two because the wait is so long.",
+        "link_turn_id": 49,
+        "linked_words": "And I was thinking about my mentee who was signed up to go to one of those far away schools, and how many times I was like, \"Oh, how was school?\" And he missed a day that week because the bus never came. They had a problem finding drivers to get them to school.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "47": {
+        "segment_words": "You pretty much have to sign them up when they turn one or two because the wait is so long.",
+        "link_turn_id": 47,
+        "linked_words": "I remember when I was in this club called Dream in college with Becca. We had this conversation with some of the kids' parents and they were saying that they literally had to sign their kid up to be bused to a better school away, so much earlier than even from when they even started school because the waitlist was so long and all the procedures were just so lengthy.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "57": {
+    "link_turn_id": [
+      56
+    ],
+    "words": "Wow. That's what they were saying. That's crazy.",
+    "speaker_turn": 57,
+    "speaker_name": "Becca",
+    "conversation_id": 6126,
+    "start_time": 2335.128,
+    "end_time": 2338.6,
+    "union_linked_turn_ids": [
+      "56",
+      "56",
+      "56"
+    ],
+    "segments": {
+      "56": {
+        "segment_words": "That's crazy.",
+        "link_turn_id": 56,
+        "linked_words": "You pretty much have to sign them up when they turn one or two because the wait is so long.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "58": {
+    "link_turn_id": [
+      56
+    ],
+    "words": "Yeah. Yeah, she was able to get in because her Boys and Girls Club, one of her... do you want to call them a counselor or whatever, after-school program directors, was the director for the METCO program at Concord Carlisle. So that's why she was able to get in the way she did. But yeah, it's a time.",
+    "speaker_turn": 58,
+    "speaker_name": "Kaya",
+    "conversation_id": 6126,
+    "start_time": 2338.6,
+    "end_time": 2358.63,
+    "union_linked_turn_ids": [
+      "56",
+      "57",
+      "56",
+      "56"
+    ],
+    "segments": {
+      "56": {
+        "segment_words": "she was able to get in because her Boys and Girls Club, one of her... do you want to call them a counselor or whatever, after-school program directors, was the director for the METCO program at Concord Carlisle. So that's why she was able to get in the way she did.",
+        "link_turn_id": 56,
+        "linked_words": "because the wait is so long.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "59": {
+    "link_turn_id": [
+      56,
+      58
+    ],
+    "words": "Kaya, you reminded me of The other thing I was thinking of before we got disconnected was there was a lot of questions on the pre-survey about also just do you feel like you can... is it important to you to be surrounded by people who are different than you or have different ideas and ways of thinking? I think if the city of Boston could be more like that in 10 years, that would also be great. I was thinking of how Kaya's sister had an event for steel pan music, which I didn't know anything about before that event, and I thought that was really cool. That's what I think reminded me of it.",
+    "speaker_turn": 59,
+    "speaker_name": "Becca",
+    "conversation_id": 6126,
+    "start_time": 2359.33,
+    "end_time": 2395.77,
+    "union_linked_turn_ids": [
+      "56",
+      "58",
+      "58",
+      "56",
+      "56",
+      "58"
+    ],
+    "segments": {
+      "56": {
+        "segment_words": "I was thinking of how Kaya's sister had an event for steel pan music, which I didn't know anything about before that event, and I thought that was really cool.",
+        "link_turn_id": 56,
+        "linked_words": "My sister did that.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "58": {
+        "segment_words": "how Kaya's sister had an event for steel pan music, which I didn't know anything about before that event, and I thought that was really cool.",
+        "link_turn_id": 58,
+        "linked_words": "Yeah, she was able to get in because her Boys and Girls Club, one of her... do you want to call them a counselor or whatever, after-school program directors, was the director for the METCO program at Concord Carlisle.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "60": {
+    "link_turn_id": [
+      59
+    ],
+    "words": "I also feel like I just don't either know about many Boston community events.",
+    "speaker_turn": 60,
+    "speaker_name": "Ashna",
+    "conversation_id": 6126,
+    "start_time": 2396.93,
+    "end_time": 2402.794,
+    "union_linked_turn_ids": [
+      "59",
+      "59",
+      "59"
+    ],
+    "segments": {
+      "59": {
+        "segment_words": "I just don't either know about many Boston community events.",
+        "link_turn_id": 59,
+        "linked_words": "I was thinking of how Kaya's sister had an event for steel pan music, which I didn't know anything about before that event, and I thought that was really cool.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "61": {
+    "link_turn_id": [
+      60
+    ],
+    "words": "Right.",
+    "speaker_turn": 61,
+    "speaker_name": "Becca",
+    "conversation_id": 6126,
+    "start_time": 2402.794,
+    "end_time": 2402.842,
+    "union_linked_turn_ids": [
+      "60",
+      "60",
+      "60"
+    ],
+    "segments": {
+      "60": {
+        "segment_words": "Right.",
+        "link_turn_id": 60,
+        "linked_words": "I also feel like I just don't either know about many Boston community events.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "62": {
+    "link_turn_id": [
+      59,
+      60
+    ],
+    "words": "Or just they're not advertised to me or maybe I don't see them in advance enough. But stuff like that is cool where... I don't know. I think now especially, taking away just Boston, just the time that we're in, people don't necessarily talk to their neighbors as much for better or for worse. I don't know, but I think it's for worse. I think it'd make people feel a lot more heard and connected if we actually did talk to each other and we just weren't iPad kids all day.",
+    "speaker_turn": 62,
+    "speaker_name": "Ashna",
+    "conversation_id": 6126,
+    "start_time": 2402.842,
+    "end_time": 2438.328,
+    "union_linked_turn_ids": [
+      "59",
+      "60",
+      "59",
+      "60",
+      "59",
+      "60"
+    ],
+    "segments": {
+      "59": {
+        "segment_words": "people don't necessarily talk to their neighbors as much for better or for worse. I don't know, but I think it's for worse. I think it'd make people feel a lot more heard and connected if we actually did talk to each other",
+        "link_turn_id": 59,
+        "linked_words": "is it important to you to be surrounded by people who are different than you or have different ideas and ways of thinking? I think if the city of Boston could be more like that in 10 years, that would also be great.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "60": {
+        "segment_words": "Or just they're not advertised to me or maybe I don't see them in advance enough.",
+        "link_turn_id": 60,
+        "linked_words": "I just don't either know about many Boston community events.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "63": {
+    "link_turn_id": [
+      62
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 63,
+    "speaker_name": "Becca",
+    "conversation_id": 6126,
+    "start_time": 2438.464,
+    "end_time": 2438.824,
+    "union_linked_turn_ids": [
+      "62",
+      "62",
+      "62"
+    ],
+    "segments": {
+      "62": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 62,
+        "linked_words": "I think it'd make people feel a lot more heard and connected if we actually did talk to each other and we just weren't iPad kids all day.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "64": {
+    "link_turn_id": [
+      59
+    ],
+    "words": "But yeah, Becca, eventually I know that they said their goal was what, eight years for that SkyTram to get place to place? We'll see if it actually happens, but I don't know.",
+    "speaker_turn": 64,
+    "speaker_name": "Ashna",
+    "conversation_id": 6126,
+    "start_time": 2442.28,
+    "end_time": 2454.86,
+    "union_linked_turn_ids": [
+      "59",
+      "59",
+      "59"
+    ],
+    "segments": {
+      "59": {
+        "segment_words": "I know that they said their goal was what, eight years for that SkyTram to get place to place? We'll see if it actually happens, but I don't know.",
+        "link_turn_id": 59,
+        "linked_words": "if the city of Boston could be more like that in 10 years",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "65": {
+    "link_turn_id": [
+      64,
+      59
+    ],
+    "words": "Well, we'll revisit this group in 10 years. We'll do a post-analysis.",
+    "speaker_turn": 65,
+    "speaker_name": "Becca",
+    "conversation_id": 6126,
+    "start_time": 2456.418,
+    "end_time": 2460.572226506024,
+    "union_linked_turn_ids": [
+      "59",
+      "64",
+      "59",
+      "64",
+      "59",
+      "64"
+    ],
+    "segments": {
+      "64": {
+        "segment_words": "Well, we'll revisit this group in 10 years.",
+        "link_turn_id": 64,
+        "linked_words": "but yeah, Becca, eventually I know that they said their goal was what, eight years for that SkyTram to get place to place?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "59": {
+        "segment_words": "We'll do a post-analysis.",
+        "link_turn_id": 59,
+        "linked_words": "I think if the city of Boston could be more like that in 10 years, that would also be great.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "66": {
+    "link_turn_id": [
+      64,
+      65
+    ],
+    "words": "Can we meet on the SkyTram?",
+    "speaker_turn": 66,
+    "speaker_name": "Ashna",
+    "conversation_id": 6126,
+    "start_time": 2460.572226506024,
+    "end_time": 2463.23,
+    "union_linked_turn_ids": [
+      "64",
+      "65",
+      "64",
+      "65",
+      "64",
+      "65"
+    ],
+    "segments": {
+      "64": {
+        "segment_words": "Can we meet on the SkyTram?",
+        "link_turn_id": 64,
+        "linked_words": "their goal was what, eight years for that SkyTram to get place to place?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "65": {
+        "segment_words": "Can we meet on the SkyTram?",
+        "link_turn_id": 65,
+        "linked_words": "We'll revisit this group in 10 years.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "67": {
+    "link_turn_id": [
+      64,
+      59,
+      62,
+      65
+    ],
+    "words": "Great. Okay, cool. Thank you all for sharing. So really to wrap up, it'd be cool to do a little bit of takeaways. So I think many of you already started doing this, but let's talk a little bit about what we're hearing. So what do you hear in other people's experiences like common patterns, common themes, and what do you feel about that, knowing that there's other people that are also going through this? I think that's also interesting to see when you start doing these community conversations, but it'd be nice to hear from you all what your takeaways are and what you're hearing in other people's experiences.",
+    "speaker_turn": 67,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6126,
+    "start_time": 2466.89,
+    "end_time": 2511.96,
+    "union_linked_turn_ids": [
+      "59",
+      "60",
+      "62",
+      "64",
+      "65",
+      "63",
+      "64",
+      "65",
+      "66",
+      "59",
+      "62",
+      "65"
+    ],
+    "segments": {
+      "64": {
+        "segment_words": "Great. Okay, cool. Thank you all for sharing.",
+        "link_turn_id": 64,
+        "linked_words": "But yeah, Becca, eventually I know that they said their goal was what, eight years for that SkyTram to get place to place? We'll see if it actually happens, but I don't know.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "59": {
+        "segment_words": "I think many of you already started doing this, but let's talk a little bit about what we're hearing. So what do you hear in other people's experiences like common patterns, common themes, and what do you feel about that, knowing that there's other people that are also going through this?",
+        "link_turn_id": 59,
+        "linked_words": "I was thinking of how Kaya's sister had an event for steel pan music, which I didn't know anything about before that event, and I thought that was really cool.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "62": {
+        "segment_words": "I think that's also interesting to see when you start doing these community conversations, but it'd be nice to hear from you all what your takeaways are",
+        "link_turn_id": 62,
+        "linked_words": "I think it'd make people feel a lot more heard and connected if we actually did talk to each other",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "65": {
+        "segment_words": "Great. Okay, cool.",
+        "link_turn_id": 65,
+        "linked_words": "Well, we'll revisit this group in 10 years.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "68": {
+    "link_turn_id": [
+      59,
+      62,
+      67
+    ],
+    "words": "I would say it's not shocking or surprising to me that this group of ladies thinks and feels the way that we do. I would say we're pretty cool and we have great insight and we all come from different backgrounds and there's so many differences between us, but we also are in a space too where we're able to have a lot of similarities and have actual conversations. And unfortunately, conversations like this don't happen as much as people would assume they happen, which I feel like needs to be the first thing. And just making people feel uncomfortable with not knowing everything and being able to own that and being able and willing and able to actually learn something new, because in this day and age, everyone's just trying to get through the day to day to keep their head above water. So no one's like, \"Well, let me take the time out of my day to understand this concept that I may not even really fully understand or may not really impact me directly, so what's the point?\" So I think we got to find that next step in terms of, how do we reach out to our demographic in terms of our age group that doesn't really want to have these conversations, that don't even think about these things, so that we can actually start making significant change because we're the next generation that's coming? We have to figure out a way to reach everyone, and regardless if you agree with everything or not, being able to say you agree with everything or not is important rather than not talking about it at all. So I think we got to get to a point where we're able to go into our communities and people that don't care about certain issues and don't know, we have to tell them. And yeah, that might be a little tedious, that may get pushback because it's easier to just stick with things that you are used to doing than things that you don't know. So I think that's something that we really have to try to work on. And I just was hearing that overall, we all have agreed with where we should be headed next and getting there is going to be the hard part because if everyone had these conversations, I'm sure it would be a lot easier, but we have to now talk to those who don't.",
+    "speaker_turn": 68,
+    "speaker_name": "Kaya",
+    "conversation_id": 6126,
+    "start_time": 2514.34,
+    "end_time": 2630.7,
+    "union_linked_turn_ids": [
+      "59",
+      "62",
+      "67",
+      "67",
+      "59",
+      "62",
+      "67"
+    ],
+    "segments": {
+      "59": {
+        "segment_words": "I would say we're pretty cool and we have great insight and we all come from different backgrounds and there's so many differences between us, but we also are in a space too where we're able to have a lot of similarities and have actual conversations. And unfortunately, conversations like this don't happen as much as people would assume they happen, which I feel like needs to be the first thing.",
+        "link_turn_id": 59,
+        "linked_words": "do you feel like you can... is it important to you to be surrounded by people who are different than you or have different ideas and ways of thinking?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "62": {
+        "segment_words": "And unfortunately, conversations like this don't happen as much as people would assume they happen, which I feel like needs to be the first thing.",
+        "link_turn_id": 62,
+        "linked_words": "I think it'd make people feel a lot more heard and connected if we actually did talk to each other and we just weren't iPad kids all day.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "67": {
+        "segment_words": "And I just was hearing that overall, we all have agreed with where we should be headed next and getting there is going to be the hard part because if everyone had these conversations, I'm sure it would be a lot easier, but we have to now talk to those who don't.",
+        "link_turn_id": 67,
+        "linked_words": "So what do you hear in other people's experiences like common patterns, common themes, and what do you feel about that, knowing that there's other people that are also going through this?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "69": {
+    "link_turn_id": [
+      62,
+      68,
+      67
+    ],
+    "words": "Yeah, I think that we all know [inaudible], a community event that happens once a month in a way that's organized by somebody who wanted different parts of a community to come together and chat and network and get to know each other. So again, I'm not surprised. And I'm damn proud. But yeah, I think I lost my train of thought because I was filled with pride. Takeaways. Yeah, like Kaya said, I think we have to continue back to what I was saying before where people have to care to learn. They have to care to take the time to talk to their neighbors and to ask questions, and they also have to care enough to share. I think that's something that needs to continue to happen if the community is going to just work together more.",
+    "speaker_turn": 69,
+    "speaker_name": "Becca",
+    "conversation_id": 6126,
+    "start_time": 2639.45,
+    "end_time": 2696.32,
+    "union_linked_turn_ids": [
+      "62",
+      "67",
+      "68",
+      "60",
+      "62",
+      "67",
+      "68",
+      "67",
+      "68"
+    ],
+    "segments": {
+      "62": {
+        "segment_words": "they have to care to take the time to talk to their neighbors and to ask questions, and they also have to care enough to share. I think that's something that needs to continue to happen if the community is going to just work together more.",
+        "link_turn_id": 62,
+        "linked_words": "people don't necessarily talk to their neighbors as much for better or for worse. I don't know, but I think it's for worse. I think it'd make people feel a lot more heard and connected if we actually did talk to each other",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "68": {
+        "segment_words": "Yeah, like Kaya said, I think we have to continue back to what I was saying before where people have to care to learn. They have to care to take the time to talk to their neighbors and to ask questions, and they also have to care enough to share.",
+        "link_turn_id": 68,
+        "linked_words": "So I think we got to find that next step in terms of, how do we reach out to our demographic in terms of our age group that doesn't really want to have these conversations, that don't even think about these things, so that we can actually start making significant change because we're the next generation that's coming?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "67": {
+        "segment_words": "Takeaways. Yeah, like Kaya said, I think we have to continue back to what I was saying before where people have to care to learn.",
+        "link_turn_id": 67,
+        "linked_words": "it'd be nice to hear from you all what your takeaways are and what you're hearing in other people's experiences.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "70": {
+    "link_turn_id": [
+      67,
+      68,
+      69
+    ],
+    "words": "Yeah. Again, agree with what everybody's saying. I think the big thing... Kaya hit the nail on the head where she was like, \"Getting there to the progress is going to be the tricky road,\" but I enjoyed hearing everybody's visions of a better Boston. That sounds cheesy, but I think it's nice that we're all hopeful that things can change and we actually have goals for how Boston can be better. I also think it's cool how different people on this call are trying to help improve Boston in different ways. So I think honestly, some takeaways for me from this combo are how can you fit that in? Because like Kaya was saying, in the day to day you lose that vision. I feel like you're just trying to get through the day for yourself and just figure everything out one at a time. But then it's hard even on a personal level to figure out what your bigger goals are, let alone how you could help others or contribute to that. So I think a big takeaway from this call is trying to figure out how. I think I sort of knew how I was doing that in school because there's a lot of programs and opportunities that were pretty accessible for me to help contribute to the Boston community, I feel like. Not as easy, I think, for me coming out of school to find those opportunities or I guess seek them out as well, so trying to figure out how to do that post-college.",
+    "speaker_turn": 70,
+    "speaker_name": "Ashna",
+    "conversation_id": 6126,
+    "start_time": 2700.42,
+    "end_time": 2808.632,
+    "union_linked_turn_ids": [
+      "68",
+      "69",
+      "67",
+      "68",
+      "69",
+      "67",
+      "68",
+      "69"
+    ],
+    "segments": {
+      "67": {
+        "segment_words": "I think honestly, some takeaways for me from this combo are how can you fit that in? ... so trying to figure out how to do that post-college.",
+        "link_turn_id": 67,
+        "linked_words": "but it'd be nice to hear from you all what your takeaways are and what you're hearing in other people's experiences.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "68": {
+        "segment_words": "Kaya hit the nail on the head where she was like, \"Getting there to the progress is going to be the tricky road,\"",
+        "link_turn_id": 68,
+        "linked_words": "getting there is going to be the hard part because if everyone had these conversations, I'm sure it would be a lot easier, but we have to now talk to those who don't.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "69": {
+        "segment_words": "So I think honestly, some takeaways for me from this combo are how can you fit that in?",
+        "link_turn_id": 69,
+        "linked_words": "Takeaways. Yeah, like Kaya said, I think we have to continue back to what I was saying before where people have to care to learn.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "71": {
+    "link_turn_id": [
+      67
+    ],
+    "words": "Honestly, Jasmine, I don't know if you want to wrap us up?",
+    "speaker_turn": 71,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6126,
+    "start_time": 2808.696,
+    "end_time": 2818.19,
+    "union_linked_turn_ids": [
+      "67",
+      "67",
+      "67"
+    ],
+    "segments": {
+      "67": {
+        "segment_words": "I don't know if you want to wrap us up?",
+        "link_turn_id": 67,
+        "linked_words": "So really to wrap up, it'd be cool to do a little bit of takeaways.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "72": {
+    "link_turn_id": [
+      71
+    ],
+    "words": "Well, I don't know. Was that everything? I'm pretty sure it's most of it, but-",
+    "speaker_turn": 72,
+    "speaker_name": "Jasmine",
+    "conversation_id": 6126,
+    "start_time": 2820.37,
+    "end_time": 2826.43,
+    "union_linked_turn_ids": [
+      "67",
+      "71",
+      "71"
+    ],
+    "segments": {
+      "71": {
+        "segment_words": "Well, I don't know.",
+        "link_turn_id": 71,
+        "linked_words": "I don't know if you want to wrap us up?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "73": {
+    "link_turn_id": [
+      71,
+      72
+    ],
+    "words": "Did we do it?",
+    "speaker_turn": 73,
+    "speaker_name": "Ali",
+    "conversation_id": 6126,
+    "start_time": 2826.43,
+    "end_time": 2827.41134343233,
+    "union_linked_turn_ids": [
+      "71",
+      "72",
+      "71",
+      "72",
+      "71",
+      "72"
+    ],
+    "segments": {
+      "71": {
+        "segment_words": "Did we do it?",
+        "link_turn_id": 71,
+        "linked_words": "I don't know if you want to wrap us up?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "72": {
+        "segment_words": "Did we do it?",
+        "link_turn_id": 72,
+        "linked_words": "Was that everything?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "74": {
+    "link_turn_id": [
+      73
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 74,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6126,
+    "start_time": 2827.41134343233,
+    "end_time": 2827.806739087104,
+    "union_linked_turn_ids": [
+      "73",
+      "73",
+      "73"
+    ],
+    "segments": {
+      "73": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 73,
+        "linked_words": "Did we do it?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "75": {
+    "link_turn_id": [
+      71,
+      67
+    ],
+    "words": "... your thoughts on everything, your stories, your experiences. So just a reminder as to what's going to happen next is that these recordings will be translated and uploaded onto our conversation platform for Voices, a web-based tool for listening to exploring the conversations. And then if you guys can also fill out a second set of questions before you leave, that will be great. I think we're going to both send those to you guys so you can fill it out.",
+    "speaker_turn": 75,
+    "speaker_name": "Jasmine",
+    "conversation_id": 6126,
+    "start_time": 2827.806739087104,
+    "end_time": 2866.06,
+    "union_linked_turn_ids": [
+      "71",
+      "67",
+      "71",
+      "67"
+    ],
+    "segments": {
+      "71": {
+        "segment_words": "So just a reminder as to what's going to happen next is that these recordings will be translated and uploaded onto our conversation platform for Voices, a web-based tool for listening to exploring the conversations.",
+        "link_turn_id": 71,
+        "linked_words": "Honestly, Jasmine, I don't know if you want to wrap us up?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "67": {
+        "segment_words": "your thoughts on everything, your stories, your experiences.",
+        "link_turn_id": 67,
+        "linked_words": "So really to wrap up, it'd be cool to do a little bit of takeaways. So I think many of you already started doing this, but let's talk a little bit about what we're hearing. So what do you hear in other people's experiences like common patterns, common themes, and what do you feel about that, knowing that there's other people that are also going through this?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "76": {
+    "link_turn_id": [
+      68,
+      67,
+      69
+    ],
+    "words": "Yeah. Just to remind, I think we talked a little bit about... we were talking about common themes and things that you hear in other people's conversations. So the question was, what are you hearing in people's experiences and something, takeaways, that you would have that you have on this conversation now that we've wrapped up?",
+    "speaker_turn": 76,
+    "speaker_name": "Speaker 1",
+    "conversation_id": 6126,
+    "start_time": 2866.06,
+    "end_time": 2891.71,
+    "union_linked_turn_ids": [
+      "67",
+      "68",
+      "69",
+      "70",
+      "67",
+      "67",
+      "68",
+      "69"
+    ],
+    "segments": {
+      "68": {
+        "segment_words": "Yeah. Just to remind, I think we talked a little bit about... we were talking about common themes and things that you hear in other people's conversations.",
+        "link_turn_id": 68,
+        "linked_words": "And unfortunately, conversations like this don't happen as much as people would assume they happen, which I feel like needs to be the first thing.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "67": {
+        "segment_words": "we were talking about common themes and things that you hear in other people's conversations. So the question was, what are you hearing in people's experiences and something, takeaways, that you would have",
+        "link_turn_id": 67,
+        "linked_words": "So I think many of you already started doing this, but let's talk a little bit about what we're hearing. So what do you hear in other people's experiences like common patterns, common themes, and what do you feel about that, knowing that there's other people that are also going through this? ... it'd be nice to hear from you all what your takeaways are and what you're hearing in other people's experiences.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "69": {
+        "segment_words": "So the question was, what are you hearing in people's experiences and something, takeaways, that you would have that you have on this conversation now that we've wrapped up?",
+        "link_turn_id": 69,
+        "linked_words": "Takeaways. Yeah, like Kaya said, I think we have to continue back to what I was saying before where people have to care to learn.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "77": {
+    "link_turn_id": [
+      68,
+      70
+    ],
+    "words": "Well, I hear that my other grad students and people that were in school have also been going through the same struggle, so it's not just me, which is... it's not reassuring because I don't want people going through... it's nice to know that there's people that want the same things done and support and back that because who doesn't want to make more money and be able to afford to live? And it's nice to know that people put off the younger generation as like, \"We don't care about other people. We don't think about anyone else other than ourselves.\" It's nice to know that people are aware of their surroundings and the lack of [inaudible], lack of [inaudible], lack of resources, and are wanting to help. So that's my takeaway is that y'all are a bunch of intelligent women that care about the world.",
+    "speaker_turn": 77,
+    "speaker_name": "Ali",
+    "conversation_id": 6126,
+    "start_time": 2893.86,
+    "end_time": 2952.91,
+    "union_linked_turn_ids": [
+      "68",
+      "70",
+      "68",
+      "70",
+      "68",
+      "69",
+      "70"
+    ],
+    "segments": {
+      "68": {
+        "segment_words": "So that's my takeaway is that y'all are a bunch of intelligent women that care about the world.",
+        "link_turn_id": 68,
+        "linked_words": "I would say we're pretty cool and we have great insight and we all come from different backgrounds and there's so many differences between us, but we also are in a space too where we're able to have a lot of similarities and have actual conversations.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "70": {
+        "segment_words": "it's nice to know that there's people that want the same things done and support and back that because who doesn't want to make more money and be able to afford to live?",
+        "link_turn_id": 70,
+        "linked_words": "I enjoyed hearing everybody's visions of a better Boston. That sounds cheesy, but I think it's nice that we're all hopeful that things can change and we actually have goals for how Boston can be better.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  }
+}

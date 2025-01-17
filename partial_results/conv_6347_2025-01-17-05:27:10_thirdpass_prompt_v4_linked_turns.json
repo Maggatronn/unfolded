@@ -1,0 +1,2503 @@
+{
+  "1": {
+    "words": "Okay, so really going over once again, reiterating the purpose of the conversation. Really just building constructive listening space. So really want you to share from your personal stories. So think about your own lives, your own experiences, rather than maybe something you heard, or rather just your own position. It's really just more about build off of your experience, right? So stick to your story, your truth. Then I also want, again, to reiterate what's going to happen to this recording. So after this meeting, after this conversation, I'm going to upload the audio recording to a database called Fora, which MIT uses to create a transcript. So the MIT Center for Constructive Communication, I'm going to refer to it as CCC if you get confused, and so they go ahead and go in, look at the data and everything. It's really an effort to create a conversation platform. The Fora system creates the transcript of every recorded conversation, uses highlight keywords, and then allows also us to search the conversation, listen to audio snippets and discover patterns. Really what we want to accomplish today is to begin the process of weaving a virtual tapestry of conversations across the city. As a participant in this conversation, you are providing consent to the MIT Center for Constructive Communication to retain the recording of this conversation in accordance with the mission of the Real Talk at Boston team in transforming Boston into a listening city. You also understand that the conversation will be part of the Real Talk at Boston Public Conversation Collection with the goal to foster constructive conversations across the city. CCC will collect, retain, and analyze these conversations in keeping with that goal and with the mission to develop methods and tools that foster constructive communication in local communities. Participation in this conversation is voluntary and you can withdraw any time without consequences. Sessions will be recorded, but you can opt out and have this recording deleted. Only the research team at the MIT CCC will have access to your data. Your identity will be protected, and information won't be shared without permission unless required by law. There are minimal foreseen risk. However, as with any conversation, there is a chance that you will hear stories that elicit strong emotions. We will support you in hosting a safe conversation where you only share what you feel comfortable sharing. And then do you consent to this? And if everyone can just say, I agree.",
+    "link_turn_id": [
+      "NA"
+    ],
+    "speaker_turn": 1,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6347,
+    "start_time": 3.814,
+    "end_time": 156.722,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "2": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "I agree.",
+    "speaker_turn": 2,
+    "speaker_name": "Jaiden",
+    "conversation_id": 6347,
+    "start_time": 156.826,
+    "end_time": 157.682,
+    "union_linked_turn_ids": [
+      "1",
+      "1",
+      "1"
+    ],
+    "segments": {
+      "1": {
+        "segment_words": "I agree.",
+        "link_turn_id": 1,
+        "linked_words": "And then do you consent to this? And if everyone can just say, I agree.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "3": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "I agree.",
+    "speaker_turn": 3,
+    "speaker_name": "Nazareth",
+    "conversation_id": 6347,
+    "start_time": 157.866,
+    "end_time": 158.738,
+    "union_linked_turn_ids": [
+      "1",
+      "1",
+      "1"
+    ],
+    "segments": {
+      "1": {
+        "segment_words": "I agree.",
+        "link_turn_id": 1,
+        "linked_words": "And then do you consent to this? And if everyone can just say, I agree.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "4": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "I agree.",
+    "speaker_turn": 4,
+    "speaker_name": "Jocelyn",
+    "conversation_id": 6347,
+    "start_time": 158.738,
+    "end_time": 158.914,
+    "union_linked_turn_ids": [
+      "1",
+      "1",
+      "1"
+    ],
+    "segments": {
+      "1": {
+        "segment_words": "I agree.",
+        "link_turn_id": 1,
+        "linked_words": "And then do you consent to this? And if everyone can just say, I agree.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "5": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "Perfect. Okay. So I want to make sure everyone gets a chance to share and learn from this conversation. To support this, we'll have a couple of guidelines. Speak for yourself out of your own experiences, not your opinions. Allow others to speak for themselves. Share the time, allow others to finish talking. Take turns, stay curious, ask honest questions. Pause, take time for reflection. Listen generously. Assume good intentions while recognizing that your words have impact. Do all those guidelines make sense?",
+    "speaker_turn": 5,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6347,
+    "start_time": 158.914,
+    "end_time": 189.004,
+    "union_linked_turn_ids": [
+      "1",
+      "1",
+      "1"
+    ],
+    "segments": {
+      "1": {
+        "segment_words": "Speak for yourself out of your own experiences, not your opinions.",
+        "link_turn_id": 1,
+        "linked_words": "So think about your own lives, your own experiences, rather than maybe something you heard, or rather just your own position. It's really just more about build off of your experience, right? So stick to your story, your truth.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "6": {
+    "link_turn_id": [
+      5
+    ],
+    "words": "Yes.",
+    "speaker_turn": 6,
+    "speaker_name": "Jocelyn",
+    "conversation_id": 6347,
+    "start_time": 189.092,
+    "end_time": 189.5,
+    "union_linked_turn_ids": [
+      "5",
+      "5",
+      "5"
+    ],
+    "segments": {
+      "5": {
+        "segment_words": "Yes.",
+        "link_turn_id": 5,
+        "linked_words": "Do all those guidelines make sense?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "7": {
+    "link_turn_id": [
+      5,
+      6
+    ],
+    "words": "Perfect. Okay, so I'm going to start us off a round of introductions. You can share your first name or pseudonym if you feel comfortable. So in addition to your first name, kind of share a little bit about your journey to this area, like the Boston area. What brought your family here? Do you know when your family came here? Were you born here, kind of thing? And then whether that was recently or a long time ago, and what has your experience been like? And really just think about with the city, with community and those buildings or your area. Your area. Okay.",
+    "speaker_turn": 7,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6347,
+    "start_time": 189.58,
+    "end_time": 227.682,
+    "union_linked_turn_ids": [
+      "5",
+      "6",
+      "5",
+      "6",
+      "5"
+    ],
+    "segments": {
+      "5": {
+        "segment_words": "Perfect.",
+        "link_turn_id": 5,
+        "linked_words": "Perfect. Okay. So I want to make sure everyone gets a chance to share and learn from this conversation.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "6": {
+        "segment_words": "Perfect. Okay, so I'm going to start us off a round of introductions.",
+        "link_turn_id": 6,
+        "linked_words": "Yes.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "8": {
+    "link_turn_id": [
+      7
+    ],
+    "words": "I don't know my area.",
+    "speaker_turn": 8,
+    "speaker_name": "Jocelyn",
+    "conversation_id": 6347,
+    "start_time": 227.706,
+    "end_time": 228.738,
+    "union_linked_turn_ids": [
+      "7",
+      "7",
+      "7"
+    ],
+    "segments": {
+      "7": {
+        "segment_words": "I don't know my area.",
+        "link_turn_id": 7,
+        "linked_words": "Your area. Okay.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "9": {
+    "link_turn_id": [
+      8
+    ],
+    "words": "Okay, well then that's honest, right? If you don't know it, you don't know it, right? So who wants to kick us off?",
+    "speaker_turn": 9,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6347,
+    "start_time": 228.874,
+    "end_time": 233.634,
+    "union_linked_turn_ids": [
+      "8",
+      "8",
+      "8"
+    ],
+    "segments": {
+      "8": {
+        "segment_words": "If you don't know it, you don't know it, right?",
+        "link_turn_id": 8,
+        "linked_words": "I don't know my area.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "10": {
+    "link_turn_id": [
+      9
+    ],
+    "words": "Me?",
+    "speaker_turn": 10,
+    "speaker_name": "Jocelyn",
+    "conversation_id": 6347,
+    "start_time": 233.722,
+    "end_time": 234.258,
+    "union_linked_turn_ids": [
+      "9",
+      "9",
+      "9"
+    ],
+    "segments": {
+      "9": {
+        "segment_words": "Me?",
+        "link_turn_id": 9,
+        "linked_words": "So who wants to kick us off?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "11": {
+    "link_turn_id": [
+      10
+    ],
+    "words": "That was a tie. Okay, go ahead. Was it you who said that or no? No, it was Jocelyn. Sorry, go ahead. Introduce yourself. Okay.",
+    "speaker_turn": 11,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6347,
+    "start_time": 235.77,
+    "end_time": 248.31,
+    "union_linked_turn_ids": [
+      "10",
+      "10",
+      "9",
+      "10"
+    ],
+    "segments": {
+      "10": {
+        "segment_words": "Was it you who said that or no? No, it was Jocelyn.",
+        "link_turn_id": 10,
+        "linked_words": "Me?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "12": {
+    "link_turn_id": [
+      11,
+      7
+    ],
+    "words": "My name is Jaiden. I have lived in the Boston area my whole life. I grew up in Chelsea, so I lived there from, since I was five to 18. My family's from Chelsea. I grew up always in Boston because Chelsea is right next to Boston. Yeah.",
+    "speaker_turn": 12,
+    "speaker_name": "Jaiden",
+    "conversation_id": 6347,
+    "start_time": 249.05,
+    "end_time": 272.63,
+    "union_linked_turn_ids": [
+      "7",
+      "11",
+      "7",
+      "11",
+      "9",
+      "11"
+    ],
+    "segments": {
+      "11": {
+        "segment_words": "My name is Jaiden.",
+        "link_turn_id": 11,
+        "linked_words": "Introduce yourself.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "7": {
+        "segment_words": "I have lived in the Boston area my whole life. I grew up in Chelsea, so I lived there from, since I was five to 18. My family's from Chelsea. I grew up always in Boston because Chelsea is right next to Boston.",
+        "link_turn_id": 7,
+        "linked_words": "So in addition to your first name, kind of share a little bit about your journey to this area, like the Boston area. What brought your family here? Do you know when your family came here? Were you born here, kind of thing?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "13": {
+    "link_turn_id": [
+      12
+    ],
+    "words": "Okay, cool.",
+    "speaker_turn": 13,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6347,
+    "start_time": 272.63,
+    "end_time": 273.79,
+    "union_linked_turn_ids": [
+      "12",
+      "12",
+      "12"
+    ],
+    "segments": {
+      "12": {
+        "segment_words": "Okay, cool.",
+        "link_turn_id": 12,
+        "linked_words": "My name is Jaiden. I have lived in the Boston area my whole life. I grew up in Chelsea, so I lived there from, since I was five to 18. My family's from Chelsea. I grew up always in Boston because Chelsea is right next to Boston. Yeah.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "14": {
+    "link_turn_id": [
+      11,
+      7
+    ],
+    "words": "My name is Jocelyn. I moved back to Boston around six months old when I was a baby. And ever since I've been in Boston in different areas all over Boston.",
+    "speaker_turn": 14,
+    "speaker_name": "Jocelyn",
+    "conversation_id": 6347,
+    "start_time": 279.15,
+    "end_time": 294.37,
+    "union_linked_turn_ids": [
+      "7",
+      "8",
+      "11",
+      "7",
+      "9",
+      "11",
+      "11"
+    ],
+    "segments": {
+      "11": {
+        "segment_words": "My name is Jocelyn.",
+        "link_turn_id": 11,
+        "linked_words": "Introduce yourself.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "7": {
+        "segment_words": "My name is Jocelyn. I moved back to Boston around six months old when I was a baby. And ever since I've been in Boston in different areas all over Boston.",
+        "link_turn_id": 7,
+        "linked_words": "You can share your first name or pseudonym if you feel comfortable. So in addition to your first name, kind of share a little bit about your journey to this area, like the Boston area. Were you born here, kind of thing?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "15": {
+    "link_turn_id": [
+      14
+    ],
+    "words": "Who wants to go?",
+    "speaker_turn": 15,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6347,
+    "start_time": 303.2,
+    "end_time": 304.184,
+    "union_linked_turn_ids": [
+      "14",
+      "14",
+      "14"
+    ],
+    "segments": {
+      "14": {
+        "segment_words": "Who wants to go?",
+        "link_turn_id": 14,
+        "linked_words": "I moved back to Boston around six months old when I was a baby.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "16": {
+    "link_turn_id": [
+      15,
+      7
+    ],
+    "words": "My name's Mia. I'm not from Boston.",
+    "speaker_turn": 16,
+    "speaker_name": "Mia",
+    "conversation_id": 6347,
+    "start_time": 304.272,
+    "end_time": 309.46,
+    "union_linked_turn_ids": [
+      "7",
+      "15",
+      "7",
+      "15",
+      "7",
+      "15"
+    ],
+    "segments": {
+      "15": {
+        "segment_words": "My name's Mia.",
+        "link_turn_id": 15,
+        "linked_words": "Who wants to go?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "7": {
+        "segment_words": "My name's Mia.",
+        "link_turn_id": 7,
+        "linked_words": "You can share your first name or pseudonym if you feel comfortable.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "17": {
+    "link_turn_id": [
+      16
+    ],
+    "words": "Where are you from?",
+    "speaker_turn": 17,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6347,
+    "start_time": 311.08,
+    "end_time": 312.1,
+    "union_linked_turn_ids": [
+      "16",
+      "16",
+      "16"
+    ],
+    "segments": {
+      "16": {
+        "segment_words": "Where are you from?",
+        "link_turn_id": 16,
+        "linked_words": "I'm not from Boston.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "18": {
+    "link_turn_id": [
+      17
+    ],
+    "words": "Dracut. Yeah. Dracut. Yeah, but I'm originally from Pennsylvania.",
+    "speaker_turn": 18,
+    "speaker_name": "Mia",
+    "conversation_id": 6347,
+    "start_time": 312.96,
+    "end_time": 317.776,
+    "union_linked_turn_ids": [
+      "17",
+      "17",
+      "17"
+    ],
+    "segments": {
+      "17": {
+        "segment_words": "Dracut. Yeah. Dracut. Yeah, but I'm originally from Pennsylvania.",
+        "link_turn_id": 17,
+        "linked_words": "Where are you from?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "19": {
+    "link_turn_id": [
+      18
+    ],
+    "words": "Okay.",
+    "speaker_turn": 19,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6347,
+    "start_time": 317.848,
+    "end_time": 318.54,
+    "union_linked_turn_ids": [
+      "18",
+      "17",
+      "18",
+      "18"
+    ],
+    "segments": {
+      "18": {
+        "segment_words": "Okay.",
+        "link_turn_id": 18,
+        "linked_words": "Dracut. Yeah, but I'm originally from Pennsylvania.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "20": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Well how do you do? My name is Nazareth, and I am a Roxbury native. I was born in Roxbury and it was taken away from my family at around I believe 2008 or so. I've been in the program for a while now and it's been a rough ride. So I appreciate you all listening to our stories and we hope you enjoy.",
+    "speaker_turn": 20,
+    "speaker_name": "Nazareth",
+    "conversation_id": 6347,
+    "start_time": 320.92,
+    "end_time": 347.43,
+    "union_linked_turn_ids": [
+      "NA",
+      "15",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "21": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "All right. Do you want to do the next one?",
+    "speaker_turn": 21,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6347,
+    "start_time": 348.21,
+    "end_time": 350.13,
+    "union_linked_turn_ids": [
+      "20",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "22": {
+    "link_turn_id": [
+      21
+    ],
+    "words": "You want me to do it? Or the next question?",
+    "speaker_turn": 22,
+    "speaker_name": "Jasmine",
+    "conversation_id": 6347,
+    "start_time": 350.29,
+    "end_time": 352.19,
+    "union_linked_turn_ids": [
+      "21",
+      "21",
+      "21"
+    ],
+    "segments": {
+      "21": {
+        "segment_words": "You want me to do it? Or the next question?",
+        "link_turn_id": 21,
+        "linked_words": "Do you want to do the next one?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "23": {
+    "link_turn_id": [
+      22
+    ],
+    "words": "Yeah. Okay. No, that was good.",
+    "speaker_turn": 23,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6347,
+    "start_time": 352.19,
+    "end_time": 354.68,
+    "union_linked_turn_ids": [
+      "22",
+      "22",
+      "22"
+    ],
+    "segments": {
+      "22": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 22,
+        "linked_words": "You want me to do it?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "24": {
+    "link_turn_id": [
+      23,
+      20
+    ],
+    "words": "Okay. So for our next question, thank you guys for sharing. In the rest of the conversation, we're going to learn more about your experiences living in Boston. Can you describe a specific time when you felt supported by your Boston community? I'd love to hear about who was there, what made that moment special or meaningful.",
+    "speaker_turn": 24,
+    "speaker_name": "Jasmine",
+    "conversation_id": 6347,
+    "start_time": 355.1,
+    "end_time": 375.72,
+    "union_linked_turn_ids": [
+      "23",
+      "20",
+      "22",
+      "20",
+      "23"
+    ],
+    "segments": {
+      "23": {
+        "segment_words": "Okay.",
+        "link_turn_id": 23,
+        "linked_words": "Yeah. Okay.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "20": {
+        "segment_words": "thank you guys for sharing",
+        "link_turn_id": 20,
+        "linked_words": "So I appreciate you all listening to our stories",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "25": {
+    "link_turn_id": [
+      24
+    ],
+    "words": "I could start. Okay. All right. So as you know, I am, and well was a Roxbury native. I live in Brockton now,  but I have been in Boston for most of my life, living with my mother and my stepdad or my dad, either one. And the one thing that's important to me about that as well, them, it's like the memories of being with them and having to live with them, being able to learn how to cook for myself. And yes, I did light something on fire when I was younger. Which is what I remember. But yeah, that's all I really got to say for that part.",
+    "speaker_turn": 25,
+    "speaker_name": "Nazareth",
+    "conversation_id": 6347,
+    "start_time": 378.27,
+    "end_time": 413.12,
+    "union_linked_turn_ids": [
+      "24",
+      "24",
+      "24"
+    ],
+    "segments": {
+      "24": {
+        "segment_words": "And the one thing that's important to me about that as well, them, it's like the memories of being with them and having to live with them, being able to learn how to cook for myself.",
+        "link_turn_id": 24,
+        "linked_words": "Can you describe a specific time when you felt supported by your Boston community?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "26": {
+    "link_turn_id": [
+      25,
+      24
+    ],
+    "words": "Anyone else like to share a moment where they felt supported, special moment, or your community?",
+    "speaker_turn": 26,
+    "speaker_name": "Jasmine",
+    "conversation_id": 6347,
+    "start_time": 419.9,
+    "end_time": 426.74,
+    "union_linked_turn_ids": [
+      "24",
+      "25",
+      "24",
+      "25",
+      "24"
+    ],
+    "segments": {
+      "25": {
+        "segment_words": "Anyone else like to share a moment where they felt supported, special moment, or your community?",
+        "link_turn_id": 25,
+        "linked_words": "it's like the memories of being with them and having to live with them",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "24": {
+        "segment_words": "share a moment where they felt supported, special moment, or your community?",
+        "link_turn_id": 24,
+        "linked_words": "describe a specific time when you felt supported by your Boston community? I'd love to hear about who was there, what made that moment special or meaningful.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "27": {
+    "link_turn_id": [
+      26,
+      24
+    ],
+    "words": "I don't feel supported in my community. Because I don't know the community like that. And there's so many white people there. No, I don't feel like the community is diverse.",
+    "speaker_turn": 27,
+    "speaker_name": "Mia",
+    "conversation_id": 6347,
+    "start_time": 426.9,
+    "end_time": 443.19,
+    "union_linked_turn_ids": [
+      "24",
+      "26",
+      "24",
+      "26",
+      "24",
+      "26"
+    ],
+    "segments": {
+      "26": {
+        "segment_words": "I don't feel supported in my community.",
+        "link_turn_id": 26,
+        "linked_words": "a moment where they felt supported",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "24": {
+        "segment_words": "I don't feel supported in my community.",
+        "link_turn_id": 24,
+        "linked_words": "Can you describe a specific time when you felt supported by your Boston community?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "28": {
+    "link_turn_id": [
+      27
+    ],
+    "words": "No, yeah, okay.",
+    "speaker_turn": 28,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6347,
+    "start_time": 443.27,
+    "end_time": 444.374,
+    "union_linked_turn_ids": [
+      "27",
+      "27",
+      "27"
+    ],
+    "segments": {
+      "27": {
+        "segment_words": "No, yeah, okay.",
+        "link_turn_id": 27,
+        "linked_words": "No, I don't feel like the community is diverse.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "29": {
+    "link_turn_id": [
+      27
+    ],
+    "words": "You know what I mean?",
+    "speaker_turn": 29,
+    "speaker_name": "Mia",
+    "conversation_id": 6347,
+    "start_time": 444.374,
+    "end_time": 444.502,
+    "union_linked_turn_ids": [
+      "27",
+      "28",
+      "27"
+    ],
+    "segments": {
+      "27": {
+        "segment_words": "You know what I mean?",
+        "link_turn_id": 27,
+        "linked_words": "I don't feel supported in my community.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "30": {
+    "link_turn_id": [
+      27,
+      29
+    ],
+    "words": "Yeah. Lack of diversity in the community, yeah.",
+    "speaker_turn": 30,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6347,
+    "start_time": 444.502,
+    "end_time": 446.686,
+    "union_linked_turn_ids": [
+      "27",
+      "29",
+      "27",
+      "29",
+      "27",
+      "29"
+    ],
+    "segments": {
+      "27": {
+        "segment_words": "Lack of diversity in the community, yeah.",
+        "link_turn_id": 27,
+        "linked_words": "No, I don't feel like the community is diverse.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "29": {
+        "segment_words": "Yeah. Lack of diversity in the community, yeah.",
+        "link_turn_id": 29,
+        "linked_words": "You know what I mean?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "31": {
+    "link_turn_id": [
+      27,
+      29
+    ],
+    "words": "So I feel like I would be supported like that. But I mean, my foster family, I guess you could say supported, not really. They've been distancing themselves from me for a couple of weeks now, especially when I do them the most, but whatever. Yeah.",
+    "speaker_turn": 31,
+    "speaker_name": "Mia",
+    "conversation_id": 6347,
+    "start_time": 446.718,
+    "end_time": 469.39,
+    "union_linked_turn_ids": [
+      "27",
+      "30",
+      "27",
+      "29",
+      "27",
+      "29"
+    ],
+    "segments": {
+      "27": {
+        "segment_words": "But I mean, my foster family, I guess you could say supported, not really. They've been distancing themselves from me for a couple of weeks now, especially when I do them the most, but whatever.",
+        "link_turn_id": 27,
+        "linked_words": "I don't feel supported in my community.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "29": {
+        "segment_words": "I guess you could say supported, not really.",
+        "link_turn_id": 29,
+        "linked_words": "You know what I mean?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "32": {
+    "link_turn_id": [
+      31,
+      26
+    ],
+    "words": "Anybody else?",
+    "speaker_turn": 32,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6347,
+    "start_time": 472.49,
+    "end_time": 473.51,
+    "union_linked_turn_ids": [
+      "26",
+      "31",
+      "26",
+      "31",
+      "26",
+      "31"
+    ],
+    "segments": {
+      "31": {
+        "segment_words": "Anybody else?",
+        "link_turn_id": 31,
+        "linked_words": "They've been distancing themselves from me for a couple of weeks now, especially when I do them the most, but whatever.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "26": {
+        "segment_words": "Anybody else?",
+        "link_turn_id": 26,
+        "linked_words": "Anyone else like to share a moment where they felt supported, special moment, or your community?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "33": {
+    "link_turn_id": [
+      24
+    ],
+    "words": "One more time with the question.",
+    "speaker_turn": 33,
+    "speaker_name": "Mia",
+    "conversation_id": 6347,
+    "start_time": 474.33,
+    "end_time": 475.91,
+    "union_linked_turn_ids": [
+      "24",
+      "26",
+      "24",
+      "24"
+    ],
+    "segments": {
+      "24": {
+        "segment_words": "One more time with the question.",
+        "link_turn_id": 24,
+        "linked_words": "Can you describe a specific time when you felt supported by your Boston community? I'd love to hear about who was there, what made that moment special or meaningful.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "34": {
+    "link_turn_id": [
+      33
+    ],
+    "words": "What is a moment or a special time that you felt supported by your community? It could be anything.",
+    "speaker_turn": 34,
+    "speaker_name": "Jasmine",
+    "conversation_id": 6347,
+    "start_time": 476.37,
+    "end_time": 486.39,
+    "union_linked_turn_ids": [
+      "33",
+      "33",
+      "33"
+    ],
+    "segments": {
+      "33": {
+        "segment_words": "What is a moment or a special time that you felt supported by your community? It could be anything.",
+        "link_turn_id": 33,
+        "linked_words": "One more time with the question.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "35": {
+    "link_turn_id": [
+      34,
+      26
+    ],
+    "words": "I'd say, when I asked to be in DCF, it was around 2018. The living situation wasn't going well and it was a lot of ups and downs and everything. And so I felt like I was advocating for myself in the right way when everything started going in the right direction. After I communicated  with my doctor and everybody else I communicated with. And I don't know. When I met my CASA worker too, it was definitely a better experience knowing that I have somebody to help me advocate.",
+    "speaker_turn": 35,
+    "speaker_name": "Jocelyn",
+    "conversation_id": 6347,
+    "start_time": 488.33,
+    "end_time": 536.12,
+    "union_linked_turn_ids": [
+      "26",
+      "34",
+      "26",
+      "34",
+      "34"
+    ],
+    "segments": {
+      "34": {
+        "segment_words": "I'd say, when I asked to be in DCF, it was around 2018. The living situation wasn't going well and it was a lot of ups and downs and everything. And so I felt like I was advocating for myself in the right way when everything started going in the right direction. After I communicated with my doctor and everybody else I communicated with. And I don't know. When I met my CASA worker too, it was definitely a better experience knowing that I have somebody to help me advocate.",
+        "link_turn_id": 34,
+        "linked_words": "What is a moment or a special time that you felt supported by your community? It could be anything.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "26": {
+        "segment_words": "I'd say, when I asked to be in DCF, it was around 2018. The living situation wasn't going well and it was a lot of ups and downs and everything. And so I felt like I was advocating for myself in the right way when everything started going in the right direction. After I communicated with my doctor and everybody else I communicated with. And I don't know. When I met my CASA worker too, it was definitely a better experience knowing that I have somebody to help me advocate.",
+        "link_turn_id": 26,
+        "linked_words": "Anyone else like to share a moment where they felt supported, special moment, or your community?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "36": {
+    "link_turn_id": [
+      35
+    ],
+    "words": "Absolutely.",
+    "speaker_turn": 36,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6347,
+    "start_time": 538.66,
+    "end_time": 539.64,
+    "union_linked_turn_ids": [
+      "35",
+      "35",
+      "35"
+    ],
+    "segments": {
+      "35": {
+        "segment_words": "Absolutely.",
+        "link_turn_id": 35,
+        "linked_words": "it was definitely a better experience knowing that I have somebody to help me advocate.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "37": {
+    "link_turn_id": [
+      34,
+      35
+    ],
+    "words": "So last year in 2023 in August, my house burned down and the community made me feel supported because they helped me. Everyone in the community helped my family. People donated money, clothes, things like that. So that was something that made me feel supported.",
+    "speaker_turn": 37,
+    "speaker_name": "Jaiden",
+    "conversation_id": 6347,
+    "start_time": 541.2,
+    "end_time": 565.158,
+    "union_linked_turn_ids": [
+      "34",
+      "34",
+      "35",
+      "34",
+      "35"
+    ],
+    "segments": {
+      "34": {
+        "segment_words": "my house burned down and the community made me feel supported because they helped me. Everyone in the community helped my family. People donated money, clothes, things like that. So that was something that made me feel supported.",
+        "link_turn_id": 34,
+        "linked_words": "What is a moment or a special time that you felt supported by your community?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "35": {
+        "segment_words": "So last year in 2023 in August, my house burned down and the community made me feel supported because they helped me.",
+        "link_turn_id": 35,
+        "linked_words": "And I don't know. When I met my CASA worker too, it was definitely a better experience knowing that I have somebody to help me advocate.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "38": {
+    "link_turn_id": [
+      31,
+      33
+    ],
+    "words": "That's good. No. Okay. And so the next question, thank you for sharing Jaiden. Next question would be, I want us to also, you touched on this a little bit, Mia, but more what is your worry, right? So what is your worry in day to day, whether it's transportation, housing, other types of stuff in the community? Accessibility, inclusivity, something else entirely. What is your worry and what support do you wish you had for these worries?",
+    "speaker_turn": 38,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6347,
+    "start_time": 565.224,
+    "end_time": 605.676,
+    "union_linked_turn_ids": [
+      "33",
+      "31",
+      "33",
+      "31",
+      "31",
+      "33"
+    ],
+    "segments": {
+      "31": {
+        "segment_words": "you touched on this a little bit, Mia, but more what is your worry, right?",
+        "link_turn_id": 31,
+        "linked_words": "They've been distancing themselves from me for a couple of weeks now, especially when I do them the most, but whatever.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "33": {
+        "segment_words": "What is your worry in day to day, whether it's transportation, housing, other types of stuff in the community?",
+        "link_turn_id": 33,
+        "linked_words": "One more time with the question.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "39": {
+    "link_turn_id": [
+      38,
+      31
+    ],
+    "words": "I feel like the people who are supposed to support me are distancing themselves from me of certain things that's happening. And just diversity where I am is not there.",
+    "speaker_turn": 39,
+    "speaker_name": "Mia",
+    "conversation_id": 6347,
+    "start_time": 605.828,
+    "end_time": 620.08,
+    "union_linked_turn_ids": [
+      "31",
+      "38",
+      "31",
+      "38",
+      "31",
+      "38"
+    ],
+    "segments": {
+      "38": {
+        "segment_words": "I feel like the people who are supposed to support me are distancing themselves from me of certain things that's happening.",
+        "link_turn_id": 38,
+        "linked_words": "what support do you wish you had for these worries?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "31": {
+        "segment_words": "the people who are supposed to support me are distancing themselves from me",
+        "link_turn_id": 31,
+        "linked_words": "my foster family, I guess you could say supported, not really. They've been distancing themselves from me",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "40": {
+    "link_turn_id": [
+      39
+    ],
+    "words": "So you wish you saw people, people more?",
+    "speaker_turn": 40,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6347,
+    "start_time": 621.68,
+    "end_time": 623.1724648318043,
+    "union_linked_turn_ids": [
+      "39",
+      "39",
+      "39"
+    ],
+    "segments": {
+      "39": {
+        "segment_words": "you wish you saw people, people more?",
+        "link_turn_id": 39,
+        "linked_words": "the people who are supposed to support me are distancing themselves from me",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "41": {
+    "link_turn_id": [
+      40
+    ],
+    "words": "More, oh, I wish I saw more diverse and more people who said that they're there for me, aren't distancing themselves because of my choices that I make.",
+    "speaker_turn": 41,
+    "speaker_name": "Mia",
+    "conversation_id": 6347,
+    "start_time": 623.1724648318043,
+    "end_time": 631.976,
+    "union_linked_turn_ids": [
+      "40",
+      "40",
+      "39",
+      "40"
+    ],
+    "segments": {
+      "40": {
+        "segment_words": "More, oh, I wish I saw more diverse and more people",
+        "link_turn_id": 40,
+        "linked_words": "So you wish you saw people, people more?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "42": {
+    "link_turn_id": [
+      38
+    ],
+    "words": "I think personally that my worry is that the cost of living is getting too high in Boston especially, and it's just getting unmanageable. There's not really a way to live, especially on a very small salary or wage as a college student. It's hard to support yourself here.",
+    "speaker_turn": 42,
+    "speaker_name": "Jaiden",
+    "conversation_id": 6347,
+    "start_time": 637.56,
+    "end_time": 664.5,
+    "union_linked_turn_ids": [
+      "38",
+      "38",
+      "38"
+    ],
+    "segments": {
+      "38": {
+        "segment_words": "I think personally that my worry is that the cost of living is getting too high in Boston especially, and it's just getting unmanageable.",
+        "link_turn_id": 38,
+        "linked_words": "more what is your worry, right? So what is your worry in day to day",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "43": {
+    "link_turn_id": [
+      42
+    ],
+    "words": "I'm moving to New Hampshire.",
+    "speaker_turn": 43,
+    "speaker_name": "Mia",
+    "conversation_id": 6347,
+    "start_time": 665.88,
+    "end_time": 667.46,
+    "union_linked_turn_ids": [
+      "42",
+      "42",
+      "42"
+    ],
+    "segments": {
+      "42": {
+        "segment_words": "I'm moving to New Hampshire.",
+        "link_turn_id": 42,
+        "linked_words": "my worry is that the cost of living is getting too high in Boston especially, and it's just getting unmanageable.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "44": {
+    "link_turn_id": [
+      42,
+      43
+    ],
+    "words": "I mean fair, right? You talk about, I think there's some experiences where people are like, I just need to get away from the city. I need to move out or move away because it's getting so expensive. Right?",
+    "speaker_turn": 44,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6347,
+    "start_time": 668.88,
+    "end_time": 678.39,
+    "union_linked_turn_ids": [
+      "42",
+      "43",
+      "42",
+      "43",
+      "42",
+      "43"
+    ],
+    "segments": {
+      "42": {
+        "segment_words": "I just need to get away from the city. I need to move out or move away because it's getting so expensive.",
+        "link_turn_id": 42,
+        "linked_words": "the cost of living is getting too high in Boston especially, and it's just getting unmanageable. There's not really a way to live, especially on a very small salary or wage as a college student.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "43": {
+        "segment_words": "I just need to get away from the city. I need to move out or move away because it's getting so expensive.",
+        "link_turn_id": 43,
+        "linked_words": "I'm moving to New Hampshire.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "45": {
+    "link_turn_id": [
+      42,
+      44
+    ],
+    "words": "And food too food. I just be seeing the food and gas. Not that I pay for that yet, but I just know.",
+    "speaker_turn": 45,
+    "speaker_name": "Mia",
+    "conversation_id": 6347,
+    "start_time": 678.47,
+    "end_time": 686.598,
+    "union_linked_turn_ids": [
+      "42",
+      "44",
+      "42",
+      "44",
+      "42"
+    ],
+    "segments": {
+      "42": {
+        "segment_words": "I just be seeing the food and gas.",
+        "link_turn_id": 42,
+        "linked_words": "the cost of living is getting too high in Boston especially",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "44": {
+        "segment_words": "I just be seeing the food and gas. Not that I pay for that yet, but I just know.",
+        "link_turn_id": 44,
+        "linked_words": "it's getting so expensive. Right?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "46": {
+    "link_turn_id": [
+      45
+    ],
+    "words": "As an adult, right, as you get older, you're going to experience a lot more of these things too.",
+    "speaker_turn": 46,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6347,
+    "start_time": 686.598,
+    "end_time": 690.53,
+    "union_linked_turn_ids": [
+      "45",
+      "45",
+      "45"
+    ],
+    "segments": {
+      "45": {
+        "segment_words": "you're going to experience a lot more of these things too.",
+        "link_turn_id": 45,
+        "linked_words": "Not that I pay for that yet, but I just know.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "47": {
+    "link_turn_id": [
+      42,
+      38,
+      45
+    ],
+    "words": "For me, I just feel like before I turned 18, DCF should have had the resources that I needed to work with, meaning money-wise, and managing it and everything. Now I just feel like the things I want to do and want to start, it's very slow right now, but I just, what's it called? What my train of thought? I don't know. I just feel like with DCF saying that before you turn 18, we're going to give you a whole bunch of resources, and then they just lied. And then wait until I turn 18 and then a few months later, then when my school starts taking place, then they want to start. You know what I mean? It's not fair that I have to, yeah, I should be learning money management on my own, but I should have the resources, if DCF said that they were going to provide. And also food networks and stuff like that. Right now, it's not too bad with me, but when I go grocery shopping, it's like I go for the whole month, so I can't even go to the grocery store without putting half of my stuff back in the cart. And it's like I never had that experience to have that, where I can just go to the store and just put everything in my cart that I need for the month and then without worry. So I feel like money management and resources and other ways I can find free food or, yeah.",
+    "speaker_turn": 47,
+    "speaker_name": "Jocelyn",
+    "conversation_id": 6347,
+    "start_time": 691.662,
+    "end_time": 797.39,
+    "union_linked_turn_ids": [
+      "38",
+      "42",
+      "45",
+      "38",
+      "42",
+      "45",
+      "42",
+      "46"
+    ],
+    "segments": {
+      "42": {
+        "segment_words": "when I go grocery shopping, it's like I go for the whole month, so I can't even go to the grocery store without putting half of my stuff back in the cart. And it's like I never had that experience to have that, where I can just go to the store and just put everything in my cart that I need for the month and then without worry.",
+        "link_turn_id": 42,
+        "linked_words": "There's not really a way to live, especially on a very small salary or wage as a college student. It's hard to support yourself here.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "38": {
+        "segment_words": "I just feel like before I turned 18, DCF should have had the resources that I needed to work with, meaning money-wise, and managing it and everything.",
+        "link_turn_id": 38,
+        "linked_words": "What is your worry in day to day, whether it's transportation, housing, other types of stuff in the community? Accessibility, inclusivity, something else entirely. What is your worry and what support do you wish you had for these worries?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "45": {
+        "segment_words": "And also food networks and stuff like that. Right now, it's not too bad with me, but when I go grocery shopping, it's like I go for the whole month, so I can't even go to the grocery store without putting half of my stuff back in the cart.",
+        "link_turn_id": 45,
+        "linked_words": "And food too food.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "48": {
+    "link_turn_id": [
+      41,
+      42,
+      39,
+      47,
+      44
+    ],
+    "words": "Perfect. So as we continue the conversation, I know things can get a little heavy and hard to think through. So to wrap us up on some hopeful notes, think about Boston 10 years from now and what you would want it to look like, whether that is fully accessible and inclusive to you and your people, those who look like you. Kind of paint a picture about how you would want Boston to be 10 years from now.",
+    "speaker_turn": 48,
+    "speaker_name": "Jasmine",
+    "conversation_id": 6347,
+    "start_time": 800.562,
+    "end_time": 831.34,
+    "union_linked_turn_ids": [
+      "39",
+      "42",
+      "44",
+      "47",
+      "39",
+      "41",
+      "42",
+      "44",
+      "47",
+      "39",
+      "41",
+      "43",
+      "44",
+      "47"
+    ],
+    "segments": {
+      "41": {
+        "segment_words": "whether that is fully accessible and inclusive to you and your people, those who look like you.",
+        "link_turn_id": 41,
+        "linked_words": "more diverse and more people who said that they're there for me, aren't distancing themselves because of my choices that I make.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "42": {
+        "segment_words": "think about Boston 10 years from now and what you would want it to look like",
+        "link_turn_id": 42,
+        "linked_words": "the cost of living is getting too high in Boston especially, and it's just getting unmanageable",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "39": {
+        "segment_words": "think about Boston 10 years from now and what you would want it to look like, whether that is fully accessible and inclusive to you and your people, those who look like you.",
+        "link_turn_id": 39,
+        "linked_words": "And just diversity where I am is not there.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "47": {
+        "segment_words": "I know things can get a little heavy and hard to think through.",
+        "link_turn_id": 47,
+        "linked_words": "I just feel like the things I want to do and want to start, it's very slow right now, but I just, what's it called? What my train of thought? I don't know.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "44": {
+        "segment_words": "think about Boston 10 years from now and what you would want it to look like, whether that is fully accessible and inclusive to you and your people",
+        "link_turn_id": 44,
+        "linked_words": "I just need to get away from the city. I need to move out or move away because it's getting so expensive. Right?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "49": {
+    "link_turn_id": [
+      48
+    ],
+    "words": "Clean streets and train stations and public bathrooms, please.",
+    "speaker_turn": 49,
+    "speaker_name": "Jocelyn",
+    "conversation_id": 6347,
+    "start_time": 831.38,
+    "end_time": 836.26,
+    "union_linked_turn_ids": [
+      "NA",
+      "48",
+      "48"
+    ],
+    "segments": {
+      "48": {
+        "segment_words": "Clean streets and train stations and public bathrooms, please.",
+        "link_turn_id": 48,
+        "linked_words": "think about Boston 10 years from now and what you would want it to look like",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "50": {
+    "link_turn_id": [
+      48
+    ],
+    "words": "Homeless people need to have some sort of shelter, something. There's too many,",
+    "speaker_turn": 50,
+    "speaker_name": "Mia",
+    "conversation_id": 6347,
+    "start_time": 836.26,
+    "end_time": 841.08,
+    "union_linked_turn_ids": [
+      "48",
+      "NA",
+      "48",
+      "49"
+    ],
+    "segments": {
+      "48": {
+        "segment_words": "Homeless people need to have some sort of shelter, something.",
+        "link_turn_id": 48,
+        "linked_words": "Kind of paint a picture about how you would want Boston to be 10 years from now.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "51": {
+    "link_turn_id": [
+      48,
+      49
+    ],
+    "words": "I don't want to keep walking around Boston smelling pee on the side of the road or smelling trash.",
+    "speaker_turn": 51,
+    "speaker_name": "Jocelyn",
+    "conversation_id": 6347,
+    "start_time": 842.3,
+    "end_time": 848.0086483180428,
+    "union_linked_turn_ids": [
+      "48",
+      "49",
+      "48",
+      "49",
+      "48",
+      "49"
+    ],
+    "segments": {
+      "48": {
+        "segment_words": "I don't want to keep walking around Boston smelling pee on the side of the road or smelling trash.",
+        "link_turn_id": 48,
+        "linked_words": "think about Boston 10 years from now and what you would want it to look like",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "49": {
+        "segment_words": "I don't want to keep walking around Boston smelling pee on the side of the road or smelling trash.",
+        "link_turn_id": 49,
+        "linked_words": "Clean streets and train stations and public bathrooms, please.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "52": {
+    "link_turn_id": [
+      50
+    ],
+    "words": "Or people nodding off.",
+    "speaker_turn": 52,
+    "speaker_name": "Mia",
+    "conversation_id": 6347,
+    "start_time": 848.0086483180428,
+    "end_time": 849.34,
+    "union_linked_turn_ids": [
+      "50",
+      "50",
+      "51",
+      "48",
+      "50"
+    ],
+    "segments": {
+      "50": {
+        "segment_words": "Or people nodding off.",
+        "link_turn_id": 50,
+        "linked_words": "There's too many,",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "53": {
+    "link_turn_id": [
+      52
+    ],
+    "words": "Yeah, that too. I feel like.",
+    "speaker_turn": 53,
+    "speaker_name": "Jocelyn",
+    "conversation_id": 6347,
+    "start_time": 849.5,
+    "end_time": 852.04,
+    "union_linked_turn_ids": [
+      "52",
+      "52",
+      "52"
+    ],
+    "segments": {
+      "52": {
+        "segment_words": "Yeah, that too.",
+        "link_turn_id": 52,
+        "linked_words": "Or people nodding off.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "54": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Okay.",
+    "speaker_turn": 54,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6347,
+    "start_time": 852.98,
+    "end_time": 853.92,
+    "union_linked_turn_ids": [
+      "53",
+      "52",
+      "51",
+      "50",
+      "49",
+      "48",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "55": {
+    "link_turn_id": [
+      51,
+      49
+    ],
+    "words": "I just feel like definitely if we're going to say that Boston is a good community and everything, I just feel like definitely clean streets and keeping the public clean and I feel like that's reasonable.",
+    "speaker_turn": 55,
+    "speaker_name": "Jocelyn",
+    "conversation_id": 6347,
+    "start_time": 854.22,
+    "end_time": 875.454,
+    "union_linked_turn_ids": [
+      "53",
+      "51",
+      "49",
+      "48",
+      "49",
+      "51",
+      "49",
+      "51"
+    ],
+    "segments": {
+      "51": {
+        "segment_words": "definitely clean streets and keeping the public clean",
+        "link_turn_id": 51,
+        "linked_words": "smelling pee on the side of the road or smelling trash",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "49": {
+        "segment_words": "clean streets and keeping the public clean",
+        "link_turn_id": 49,
+        "linked_words": "Clean streets and train stations and public bathrooms, please.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "56": {
+    "link_turn_id": [
+      55
+    ],
+    "words": "Yeah, absolutely. I know it was going to happen though,",
+    "speaker_turn": 56,
+    "speaker_name": "Jasmine",
+    "conversation_id": 6347,
+    "start_time": 875.582,
+    "end_time": 878.41,
+    "union_linked_turn_ids": [
+      "55",
+      "55",
+      "55"
+    ],
+    "segments": {
+      "55": {
+        "segment_words": "Yeah, absolutely.",
+        "link_turn_id": 55,
+        "linked_words": "I just feel like definitely if we're going to say that Boston is a good community and everything, I just feel like definitely clean streets and keeping the public clean and I feel like that's reasonable.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "57": {
+    "link_turn_id": [
+      48
+    ],
+    "words": "But again, this is more what you wish to see, what you wish other people in power. Oh,",
+    "speaker_turn": 57,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6347,
+    "start_time": 879.43,
+    "end_time": 885.686,
+    "union_linked_turn_ids": [
+      "48",
+      "48",
+      "56",
+      "48"
+    ],
+    "segments": {
+      "48": {
+        "segment_words": "what you wish to see, what you wish other people in power.",
+        "link_turn_id": 48,
+        "linked_words": "think about Boston 10 years from now and what you would want it to look like",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "58": {
+    "link_turn_id": [
+      57
+    ],
+    "words": "And also the rent to go lower for other people. Yeah.",
+    "speaker_turn": 58,
+    "speaker_name": "Jocelyn",
+    "conversation_id": 6347,
+    "start_time": 885.718,
+    "end_time": 889.534,
+    "union_linked_turn_ids": [
+      "57",
+      "NA",
+      "57"
+    ],
+    "segments": {
+      "57": {
+        "segment_words": "the rent to go lower for other people",
+        "link_turn_id": 57,
+        "linked_words": "what you wish other people in power",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "59": {
+    "link_turn_id": [
+      58,
+      55
+    ],
+    "words": "Yeah. I agree that something that I hope for in 10 years for Boston is that there's less gentrification. The cost of living is just going to keep climbing. And I hope that for Boston in 10 years, it's accessible to everyone and inclusive to everyone.",
+    "speaker_turn": 59,
+    "speaker_name": "Jaiden",
+    "conversation_id": 6347,
+    "start_time": 889.662,
+    "end_time": 907.58,
+    "union_linked_turn_ids": [
+      "58",
+      "55",
+      "58",
+      "55",
+      "55",
+      "58"
+    ],
+    "segments": {
+      "58": {
+        "segment_words": "I agree that something that I hope for in 10 years for Boston is that there's less gentrification. The cost of living is just going to keep climbing.",
+        "link_turn_id": 58,
+        "linked_words": "And also the rent to go lower for other people.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "55": {
+        "segment_words": "Yeah. I agree that something that I hope for in 10 years for Boston is that there's less gentrification. And I hope that for Boston in 10 years, it's accessible to everyone and inclusive to everyone.",
+        "link_turn_id": 55,
+        "linked_words": "I just feel like definitely if we're going to say that Boston is a good community and everything, I just feel like definitely clean streets and keeping the public clean and I feel like that's reasonable.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "60": {
+    "link_turn_id": [
+      52
+    ],
+    "words": "Mia, you had a good point too, right? Homelessness, how do you handle that situation? Right.",
+    "speaker_turn": 60,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6347,
+    "start_time": 909.12,
+    "end_time": 915.48,
+    "union_linked_turn_ids": [
+      "52",
+      "52",
+      "52"
+    ],
+    "segments": {
+      "52": {
+        "segment_words": "Mia, you had a good point too, right?",
+        "link_turn_id": 52,
+        "linked_words": "Or people nodding off.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "61": {
+    "link_turn_id": [
+      60
+    ],
+    "words": "Okay. I feel like more hope, I mean, help with the homeless.",
+    "speaker_turn": 61,
+    "speaker_name": "Jocelyn",
+    "conversation_id": 6347,
+    "start_time": 915.6,
+    "end_time": 919.336,
+    "union_linked_turn_ids": [
+      "60",
+      "60",
+      "60"
+    ],
+    "segments": {
+      "60": {
+        "segment_words": "help with the homeless",
+        "link_turn_id": 60,
+        "linked_words": "Homelessness, how do you handle that situation?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "62": {
+    "link_turn_id": [
+      60
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 62,
+    "speaker_name": "Mia",
+    "conversation_id": 6347,
+    "start_time": 919.448,
+    "end_time": 920.14,
+    "union_linked_turn_ids": [
+      "60",
+      "60",
+      "60"
+    ],
+    "segments": {
+      "60": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 60,
+        "linked_words": "Mia, you had a good point too, right? Homelessness, how do you handle that situation? Right.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "63": {
+    "link_turn_id": [
+      61,
+      60
+    ],
+    "words": "I mean, I feel like we shouldn't, for homeless people, they shouldn't get accepted. I feel like every shelter should have an open space for a homeless person.",
+    "speaker_turn": 63,
+    "speaker_name": "Jocelyn",
+    "conversation_id": 6347,
+    "start_time": 921.8,
+    "end_time": 932.27,
+    "union_linked_turn_ids": [
+      "61",
+      "60",
+      "61",
+      "60",
+      "61"
+    ],
+    "segments": {
+      "61": {
+        "segment_words": "I feel like every shelter should have an open space for a homeless person.",
+        "link_turn_id": 61,
+        "linked_words": "I mean, help with the homeless.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "60": {
+        "segment_words": "for homeless people, they shouldn't get accepted. I feel like every shelter should have an open space for a homeless person.",
+        "link_turn_id": 60,
+        "linked_words": "Homelessness, how do you handle that situation?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "64": {
+    "link_turn_id": [
+      61,
+      63
+    ],
+    "words": "At least to get them off the streets.",
+    "speaker_turn": 64,
+    "speaker_name": "Mia",
+    "conversation_id": 6347,
+    "start_time": 934.77,
+    "end_time": 935.418,
+    "union_linked_turn_ids": [
+      "61",
+      "63",
+      "63",
+      "61",
+      "63"
+    ],
+    "segments": {
+      "61": {
+        "segment_words": "At least to get them off the streets.",
+        "link_turn_id": 61,
+        "linked_words": "help with the homeless.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "63": {
+        "segment_words": "At least to get them off the streets.",
+        "link_turn_id": 63,
+        "linked_words": "I feel like every shelter should have an open space for a homeless person.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "65": {
+    "link_turn_id": [
+      63
+    ],
+    "words": "If we want to keep the streets clean, we need to clean these people and you know what I'm saying? We need to keep them off the streets. That's how it's being dirty and everything and littering and stuff like that. So I don't know, especially I'll say in downtown Boston or Massaff or anything, it's like where the crackheads are and stuff like that. So I don't know. I feel like every shelter should have an opening space and we shouldn't have to be on a list just to get in or we shouldn't have to wait months just to get in or anything. I feel like if anybody comes to you for help and then that's what should be set in place.",
+    "speaker_turn": 65,
+    "speaker_name": "Jocelyn",
+    "conversation_id": 6347,
+    "start_time": 935.418,
+    "end_time": 980.228,
+    "union_linked_turn_ids": [
+      "63",
+      "64",
+      "60",
+      "61",
+      "63",
+      "63"
+    ],
+    "segments": {
+      "63": {
+        "segment_words": "I feel like every shelter should have an opening space and we shouldn't have to be on a list just to get in or we shouldn't have to wait months just to get in or anything.",
+        "link_turn_id": 63,
+        "linked_words": "I feel like every shelter should have an open space for a homeless person.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "66": {
+    "link_turn_id": [
+      65
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 66,
+    "speaker_name": "Mia",
+    "conversation_id": 6347,
+    "start_time": 980.324,
+    "end_time": 981.04,
+    "union_linked_turn_ids": [
+      "65",
+      "65",
+      "65"
+    ],
+    "segments": {
+      "65": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 65,
+        "linked_words": "So I don't know, especially I'll say in downtown Boston or Massaff or anything, it's like where the crackheads are and stuff like that.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "67": {
+    "link_turn_id": [
+      60,
+      65,
+      61
+    ],
+    "words": "Okay. Absolutely. That's all about causes too, root causes, so you have to think these things are connected to one another. Like you pointed out- homelessness, having a clean city, all that stuff. And so as we're wrapping up, I kind of want us to, how do you feel, I know this is kind of a shorter conversation, but how do you feel like hearing each other and other people's experiences and thoughts, what are you hearing in that? Do you feel like you are taking away something from that? Do you realize other people also have the same opinion and same thought? What do you feel like listening to other people's responses?",
+    "speaker_turn": 67,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6347,
+    "start_time": 981.04,
+    "end_time": 1018.608,
+    "union_linked_turn_ids": [
+      "60",
+      "61",
+      "65",
+      "60",
+      "61",
+      "63",
+      "65",
+      "58",
+      "59",
+      "65"
+    ],
+    "segments": {
+      "60": {
+        "segment_words": "Like you pointed out- homelessness, having a clean city, all that stuff.",
+        "link_turn_id": 60,
+        "linked_words": "Homelessness, how do you handle that situation?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "65": {
+        "segment_words": "Like you pointed out- homelessness, having a clean city, all that stuff.",
+        "link_turn_id": 65,
+        "linked_words": "If we want to keep the streets clean, we need to clean these people and you know what I'm saying? ... especially I'll say in downtown Boston or Massaff or anything, it's like where the crackheads are and stuff like that. So I don't know. I feel like every shelter should have an opening space and we shouldn't have to be on a list just to get in or we shouldn't have to wait months just to get in or anything.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "61": {
+        "segment_words": "Like you pointed out- homelessness, having a clean city, all that stuff.",
+        "link_turn_id": 61,
+        "linked_words": "help with the homeless.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "68": {
+    "link_turn_id": [
+      67
+    ],
+    "words": "We agree with each other. It somehow connects each other's opinions or whatever you want to call it, statements, whatever.",
+    "speaker_turn": 68,
+    "speaker_name": "Mia",
+    "conversation_id": 6347,
+    "start_time": 1018.608,
+    "end_time": 1027.62,
+    "union_linked_turn_ids": [
+      "67",
+      "67",
+      "67"
+    ],
+    "segments": {
+      "67": {
+        "segment_words": "We agree with each other. It somehow connects each other's opinions or whatever you want to call it, statements, whatever.",
+        "link_turn_id": 67,
+        "linked_words": "Do you realize other people also have the same opinion and same thought?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "69": {
+    "link_turn_id": [
+      68
+    ],
+    "words": "Yeah. I agree with Mia that we all kind of just agree on this and it feels nice to have everyone, people you can relate to.",
+    "speaker_turn": 69,
+    "speaker_name": "Jaiden",
+    "conversation_id": 6347,
+    "start_time": 1029.52,
+    "end_time": 1040.89,
+    "union_linked_turn_ids": [
+      "68",
+      "68",
+      "68"
+    ],
+    "segments": {
+      "68": {
+        "segment_words": "Yeah. I agree with Mia that we all kind of just agree on this",
+        "link_turn_id": 68,
+        "linked_words": "We agree with each other",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "70": {
+    "link_turn_id": [
+      68,
+      69
+    ],
+    "words": "And be on the same page.",
+    "speaker_turn": 70,
+    "speaker_name": "Jocelyn",
+    "conversation_id": 6347,
+    "start_time": 1040.97,
+    "end_time": 1042.29,
+    "union_linked_turn_ids": [
+      "68",
+      "69",
+      "68",
+      "69",
+      "68",
+      "69"
+    ],
+    "segments": {
+      "68": {
+        "segment_words": "And be on the same page.",
+        "link_turn_id": 68,
+        "linked_words": "We agree with each other.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "69": {
+        "segment_words": "And be on the same page.",
+        "link_turn_id": 69,
+        "linked_words": "it feels nice to have everyone, people you can relate to.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "71": {
+    "link_turn_id": [
+      70,
+      68,
+      69
+    ],
+    "words": "Do you agree with that too? Yeah. Yeah. Okay, perfect. All right, so thank you to sharing. And so again, this recording's going to just be transcribed and uploaded to our forum voices. Other than that, we're all wrapped up. Thanks.",
+    "speaker_turn": 71,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6347,
+    "start_time": 1042.41,
+    "end_time": 1062.57,
+    "union_linked_turn_ids": [
+      "68",
+      "69",
+      "70",
+      "68",
+      "69",
+      "70",
+      "68",
+      "69",
+      "70"
+    ],
+    "segments": {
+      "70": {
+        "segment_words": "Do you agree with that too? Yeah. Yeah. Okay, perfect.",
+        "link_turn_id": 70,
+        "linked_words": "And be on the same page.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "68": {
+        "segment_words": "Do you agree with that too? Yeah. Yeah.",
+        "link_turn_id": 68,
+        "linked_words": "We agree with each other.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "69": {
+        "segment_words": "Do you agree with that too? Yeah. Yeah. Okay, perfect.",
+        "link_turn_id": 69,
+        "linked_words": "Yeah. I agree with Mia that we all kind of just agree on this",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  }
+}

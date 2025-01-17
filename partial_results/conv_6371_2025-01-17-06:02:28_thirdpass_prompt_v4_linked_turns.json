@@ -1,0 +1,5732 @@
+{
+  "1": {
+    "words": "Okay, recording now. So because this is not a custom deck specific to this situation or circumstance, we're just going to adapt some of these questions to be about MIT and campus. Some of them weren't created for this context, so we're just going to do a little bit of that mental work. How many do you need? Three, cool. Here are your cards. Any duplicates?",
+    "link_turn_id": [
+      "NA"
+    ],
+    "speaker_turn": 1,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 1.28,
+    "end_time": 27.364,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "2": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "Nope.",
+    "speaker_turn": 2,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 27.532,
+    "end_time": 28.076,
+    "union_linked_turn_ids": [
+      "1",
+      "1",
+      "1"
+    ],
+    "segments": {
+      "1": {
+        "segment_words": "Nope.",
+        "link_turn_id": 1,
+        "linked_words": "Any duplicates?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "3": {
+    "link_turn_id": [
+      2,
+      1
+    ],
+    "words": "Cool. Two for you. Dean. Cool. Awesome. So Hazel, would you still like to kick us off.",
+    "speaker_turn": 3,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 28.148,
+    "end_time": 40.88,
+    "union_linked_turn_ids": [
+      "1",
+      "2",
+      "1",
+      "2",
+      "1",
+      "2"
+    ],
+    "segments": {
+      "2": {
+        "segment_words": "So Hazel, would you still like to kick us off.",
+        "link_turn_id": 2,
+        "linked_words": "Nope.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "1": {
+        "segment_words": "Any duplicates?",
+        "link_turn_id": 1,
+        "linked_words": "Cool. Two for you. Dean.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "4": {
+    "link_turn_id": [
+      3
+    ],
+    "words": "I'm drawing?",
+    "speaker_turn": 4,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 40.88,
+    "end_time": 42.98,
+    "union_linked_turn_ids": [
+      "3",
+      "3",
+      "3"
+    ],
+    "segments": {
+      "3": {
+        "segment_words": "I'm drawing?",
+        "link_turn_id": 3,
+        "linked_words": "So Hazel, would you still like to kick us off.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "5": {
+    "link_turn_id": [
+      4
+    ],
+    "words": "Yeah, you can choose a level one or a level two card level. Was there level threes? Yes, or level three card if you want.",
+    "speaker_turn": 5,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 42.98,
+    "end_time": 50.68,
+    "union_linked_turn_ids": [
+      "4",
+      "3",
+      "4",
+      "4"
+    ],
+    "segments": {
+      "4": {
+        "segment_words": "Yeah, you can choose a level one or a level two card level. Was there level threes? Yes, or level three card if you want.",
+        "link_turn_id": 4,
+        "linked_words": "I'm drawing?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "6": {
+    "link_turn_id": [
+      5
+    ],
+    "words": "I'll draw a one.",
+    "speaker_turn": 6,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 50.68,
+    "end_time": 51.83,
+    "union_linked_turn_ids": [
+      "5",
+      "5",
+      "5"
+    ],
+    "segments": {
+      "5": {
+        "segment_words": "I'll draw a one.",
+        "link_turn_id": 5,
+        "linked_words": "Yeah, you can choose a level one or a level two card level.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "7": {
+    "link_turn_id": [
+      6
+    ],
+    "words": "Cool.",
+    "speaker_turn": 7,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 51.83,
+    "end_time": 52.61,
+    "union_linked_turn_ids": [
+      "6",
+      "6",
+      "6"
+    ],
+    "segments": {
+      "6": {
+        "segment_words": "Cool.",
+        "link_turn_id": 6,
+        "linked_words": "I'll draw a one.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "8": {
+    "link_turn_id": [
+      6
+    ],
+    "words": "How I really feel about art.",
+    "speaker_turn": 8,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 53.07,
+    "end_time": 55.49,
+    "union_linked_turn_ids": [
+      "5",
+      "6",
+      "6",
+      "6"
+    ],
+    "segments": {
+      "6": {
+        "segment_words": "How I really feel about art.",
+        "link_turn_id": 6,
+        "linked_words": "I'll draw a one.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "9": {
+    "link_turn_id": [
+      8
+    ],
+    "words": "How you really feel about art.",
+    "speaker_turn": 9,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 57.83,
+    "end_time": 77.3,
+    "union_linked_turn_ids": [
+      "8",
+      "8",
+      "8"
+    ],
+    "segments": {
+      "8": {
+        "segment_words": "How you really feel about art.",
+        "link_turn_id": 8,
+        "linked_words": "How I really feel about art.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "10": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "I'll just put this here?",
+    "speaker_turn": 10,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 77.3,
+    "end_time": 77.44532811820947,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "11": {
+    "link_turn_id": [
+      10
+    ],
+    "words": "Mm-hmm.",
+    "speaker_turn": 11,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 77.44532811820947,
+    "end_time": 77.49,
+    "union_linked_turn_ids": [
+      "9",
+      "10",
+      "10"
+    ],
+    "segments": {
+      "10": {
+        "segment_words": "Mm-hmm.",
+        "link_turn_id": 10,
+        "linked_words": "I'll just put this here?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "12": {
+    "link_turn_id": [
+      10
+    ],
+    "words": "And then do we replace it?",
+    "speaker_turn": 12,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 77.49,
+    "end_time": 78.96,
+    "union_linked_turn_ids": [
+      "NA",
+      "10",
+      "10"
+    ],
+    "segments": {
+      "10": {
+        "segment_words": "And then do we replace it?",
+        "link_turn_id": 10,
+        "linked_words": "I'll just put this here?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "13": {
+    "link_turn_id": [
+      12
+    ],
+    "words": "Yes. Okay. Oh, okay.",
+    "speaker_turn": 13,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 79.04,
+    "end_time": 96.37914648212227,
+    "union_linked_turn_ids": [
+      "12",
+      "12",
+      "12"
+    ],
+    "segments": {
+      "12": {
+        "segment_words": "Yes.",
+        "link_turn_id": 12,
+        "linked_words": "do we replace it?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "14": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "So we have two of the same image.",
+    "speaker_turn": 14,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 96.37914648212227,
+    "end_time": 104.55,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "15": {
+    "link_turn_id": [
+      14,
+      12
+    ],
+    "words": "I believe so.",
+    "speaker_turn": 15,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 104.55,
+    "end_time": 106.15438837920489,
+    "union_linked_turn_ids": [
+      "12",
+      "12",
+      "14",
+      "12",
+      "13",
+      "14"
+    ],
+    "segments": {
+      "14": {
+        "segment_words": "I believe so.",
+        "link_turn_id": 14,
+        "linked_words": "So we have two of the same image.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "12": {
+        "segment_words": "I believe so.",
+        "link_turn_id": 12,
+        "linked_words": "And then do we replace it?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "16": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "These images are vaguely unsettling.",
+    "speaker_turn": 16,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 106.15438837920489,
+    "end_time": 110.21948521916411,
+    "union_linked_turn_ids": [
+      "14",
+      "15",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "17": {
+    "link_turn_id": [
+      16
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 17,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 110.21948521916411,
+    "end_time": 110.89,
+    "union_linked_turn_ids": [
+      "16",
+      "16",
+      "16"
+    ],
+    "segments": {
+      "16": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 16,
+        "linked_words": "These images are vaguely unsettling.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "18": {
+    "link_turn_id": [
+      16
+    ],
+    "words": "You said the images are vaguely unsettling?",
+    "speaker_turn": 18,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 110.89,
+    "end_time": 113.218,
+    "union_linked_turn_ids": [
+      "16",
+      "16",
+      "16"
+    ],
+    "segments": {
+      "16": {
+        "segment_words": "the images are vaguely unsettling?",
+        "link_turn_id": 16,
+        "linked_words": "These images are vaguely unsettling.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "19": {
+    "link_turn_id": [
+      18
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 19,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 113.314,
+    "end_time": 113.99,
+    "union_linked_turn_ids": [
+      "18",
+      "18",
+      "18"
+    ],
+    "segments": {
+      "18": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 18,
+        "linked_words": "You said the images are vaguely unsettling?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "20": {
+    "link_turn_id": [
+      18,
+      16,
+      19
+    ],
+    "words": "Would you say it's the art style, like the surrealist element of it that makes you feel that way?",
+    "speaker_turn": 20,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 120.21,
+    "end_time": 126.17,
+    "union_linked_turn_ids": [
+      "16",
+      "18",
+      "19",
+      "16",
+      "18",
+      "16",
+      "19"
+    ],
+    "segments": {
+      "18": {
+        "segment_words": "Would you say it's the art style, like the surrealist element of it that makes you feel that way?",
+        "link_turn_id": 18,
+        "linked_words": "the images are vaguely unsettling?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "16": {
+        "segment_words": "it's the art style, like the surrealist element of it that makes you feel that way",
+        "link_turn_id": 16,
+        "linked_words": "These images are vaguely unsettling",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "19": {
+        "segment_words": "makes you feel that way?",
+        "link_turn_id": 19,
+        "linked_words": "Yeah.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "21": {
+    "link_turn_id": [
+      20
+    ],
+    "words": "I think so.",
+    "speaker_turn": 21,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 126.33,
+    "end_time": 127.47,
+    "union_linked_turn_ids": [
+      "20",
+      "20",
+      "20"
+    ],
+    "segments": {
+      "20": {
+        "segment_words": "I think so.",
+        "link_turn_id": 20,
+        "linked_words": "Would you say it's the art style, like the surrealist element of it that makes you feel that way?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "22": {
+    "link_turn_id": [
+      14,
+      16,
+      20
+    ],
+    "words": "For these, do you know if they were AI generated? I think they are.",
+    "speaker_turn": 22,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 127.47,
+    "end_time": 132.45,
+    "union_linked_turn_ids": [
+      "16",
+      "20",
+      "14",
+      "16",
+      "20",
+      "14",
+      "16",
+      "19",
+      "21"
+    ],
+    "segments": {
+      "14": {
+        "segment_words": "For these, do you know if they were AI generated?",
+        "link_turn_id": 14,
+        "linked_words": "So we have two of the same image.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "16": {
+        "segment_words": "do you know if they were AI generated? I think they are.",
+        "link_turn_id": 16,
+        "linked_words": "These images are vaguely unsettling.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "20": {
+        "segment_words": "I think they are.",
+        "link_turn_id": 20,
+        "linked_words": "Would you say it's the art style, like the surrealist element of it that makes you feel that way?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "23": {
+    "link_turn_id": [
+      22
+    ],
+    "words": "All of the cards. So the questions are created with one model that Cassie has made specifically for the game and to help generate questions that would be appropriate, but for the specific context of whoever she's creating the deck for. And then there's another model that pairs with it, which is used to generate the images around a specific theme or context.",
+    "speaker_turn": 23,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 132.45,
+    "end_time": 159.12,
+    "union_linked_turn_ids": [
+      "22",
+      "22",
+      "22"
+    ],
+    "segments": {
+      "22": {
+        "segment_words": "So the questions are created with one model that Cassie has made specifically for the game and to help generate questions that would be appropriate, but for the specific context of whoever she's creating the deck for. And then there's another model that pairs with it, which is used to generate the images around a specific theme or context.",
+        "link_turn_id": 22,
+        "linked_words": "do you know if they were AI generated?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "24": {
+    "link_turn_id": [
+      22,
+      23
+    ],
+    "words": "Yeah, I do like these ones. I like how they're all sort of staring at the central figure who is sort of just doing... They're staring away, they're not staring down this at all. They're kind of just doing their own thing, which I do really feel like... I mean, you can do whatever you want with art. If you want to cater to a certain audience, you're completely free to do that. But I do think it has an ability where you're just doing your own self-expression and not regarding at all how it will be perceived. I mean, not at all, but there is value also in making something be perceived a certain way. But I personally appreciate it more. It's just what the artist is feeling. They're just... This is their soul and not really caring about any external factors.",
+    "speaker_turn": 24,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 159.12,
+    "end_time": 215.1,
+    "union_linked_turn_ids": [
+      "22",
+      "23",
+      "16",
+      "20",
+      "22",
+      "23",
+      "22",
+      "23"
+    ],
+    "segments": {
+      "22": {
+        "segment_words": "Yeah, I do like these ones.",
+        "link_turn_id": 22,
+        "linked_words": "For these, do you know if they were AI generated?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "23": {
+        "segment_words": "I like how they're all sort of staring at the central figure who is sort of just doing... They're staring away, they're not staring down this at all. They're kind of just doing their own thing, which I do really feel like... I mean, you can do whatever you want with art.",
+        "link_turn_id": 23,
+        "linked_words": "And then there's another model that pairs with it, which is used to generate the images around a specific theme or context.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "25": {
+    "link_turn_id": [
+      24
+    ],
+    "words": "Yeah. So those are the winners?",
+    "speaker_turn": 25,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 215.8,
+    "end_time": 219.056,
+    "union_linked_turn_ids": [
+      "24",
+      "24",
+      "23"
+    ],
+    "segments": {
+      "24": {
+        "segment_words": "So those are the winners?",
+        "link_turn_id": 24,
+        "linked_words": "Yeah, I do like these ones.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "26": {
+    "link_turn_id": [
+      25
+    ],
+    "words": "Yes.",
+    "speaker_turn": 26,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 219.128,
+    "end_time": 219.544,
+    "union_linked_turn_ids": [
+      "25",
+      "25",
+      "25"
+    ],
+    "segments": {
+      "25": {
+        "segment_words": "Yes.",
+        "link_turn_id": 25,
+        "linked_words": "So those are the winners?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "27": {
+    "link_turn_id": [
+      26
+    ],
+    "words": "Wonderful. Womp, womp. Okay. Shall we keep going in counterclockwise?",
+    "speaker_turn": 27,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 219.632,
+    "end_time": 236.12,
+    "union_linked_turn_ids": [
+      "NA",
+      "26",
+      "26"
+    ],
+    "segments": {
+      "26": {
+        "segment_words": "Wonderful.",
+        "link_turn_id": 26,
+        "linked_words": "Yes.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "28": {
+    "link_turn_id": [
+      27
+    ],
+    "words": "That'd be this way.",
+    "speaker_turn": 28,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 236.12,
+    "end_time": 237.3,
+    "union_linked_turn_ids": [
+      "27",
+      "27",
+      "27"
+    ],
+    "segments": {
+      "27": {
+        "segment_words": "That'd be this way.",
+        "link_turn_id": 27,
+        "linked_words": "Shall we keep going in counterclockwise?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "29": {
+    "link_turn_id": [
+      28
+    ],
+    "words": "Yep.",
+    "speaker_turn": 29,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 237.3,
+    "end_time": 238.08,
+    "union_linked_turn_ids": [
+      "28",
+      "28",
+      "28"
+    ],
+    "segments": {
+      "28": {
+        "segment_words": "Yep.",
+        "link_turn_id": 28,
+        "linked_words": "That'd be this way.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "30": {
+    "link_turn_id": [
+      28,
+      29,
+      27
+    ],
+    "words": "Okay. Do I get level one or level three or-",
+    "speaker_turn": 30,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 238.08,
+    "end_time": 241.82,
+    "union_linked_turn_ids": [
+      "27",
+      "28",
+      "29",
+      "27",
+      "28",
+      "29",
+      "27",
+      "28",
+      "29"
+    ],
+    "segments": {
+      "28": {
+        "segment_words": "Okay.",
+        "link_turn_id": 28,
+        "linked_words": "That'd be this way.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "29": {
+        "segment_words": "Okay.",
+        "link_turn_id": 29,
+        "linked_words": "Yep.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "27": {
+        "segment_words": "Okay.",
+        "link_turn_id": 27,
+        "linked_words": "Okay. Shall we keep going in counterclockwise?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "31": {
+    "link_turn_id": [
+      30
+    ],
+    "words": "You have the honor of selecting for yourself.",
+    "speaker_turn": 31,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 241.82,
+    "end_time": 244.02,
+    "union_linked_turn_ids": [
+      "30",
+      "30",
+      "30"
+    ],
+    "segments": {
+      "30": {
+        "segment_words": "You have the honor of selecting for yourself.",
+        "link_turn_id": 30,
+        "linked_words": "Do I get level one or level three or-",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "32": {
+    "link_turn_id": [
+      31
+    ],
+    "words": "Something I do to get deep.",
+    "speaker_turn": 32,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 248.78,
+    "end_time": 257.86,
+    "union_linked_turn_ids": [
+      "30",
+      "31",
+      "31",
+      "31"
+    ],
+    "segments": {
+      "31": {
+        "segment_words": "Something I do to get deep.",
+        "link_turn_id": 31,
+        "linked_words": "You have the honor of selecting for yourself.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "33": {
+    "link_turn_id": [
+      32
+    ],
+    "words": "Where is the prompt card? Oh, there it is. Sorry. Cool. Something you do to get deep.",
+    "speaker_turn": 33,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 258.949,
+    "end_time": 282.6245,
+    "union_linked_turn_ids": [
+      "32",
+      "32",
+      "32"
+    ],
+    "segments": {
+      "32": {
+        "segment_words": "Something you do to get deep.",
+        "link_turn_id": 32,
+        "linked_words": "Something I do to get deep.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "34": {
+    "link_turn_id": [
+      33
+    ],
+    "words": "Okay.",
+    "speaker_turn": 34,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 282.6245,
+    "end_time": 297.72,
+    "union_linked_turn_ids": [
+      "33",
+      "33",
+      "33"
+    ],
+    "segments": {
+      "33": {
+        "segment_words": "Okay.",
+        "link_turn_id": 33,
+        "linked_words": "Sorry.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "35": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Another case of two duplicates submitted.",
+    "speaker_turn": 35,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 297.72,
+    "end_time": 300.26,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "36": {
+    "link_turn_id": [
+      33,
+      31
+    ],
+    "words": "Well, I like all of these because they're all kind of antithetical to getting deeper. They're all going upwards. But I like this one particularly because you're in a team, whereas this person's kind of going alone. These people, I can kind of see them kind of all working together. Like, these people are working on the mechanics of whatever's going on over here. And then these people are kind of... Yeah, they're working on some kind of map, I think. Yeah, I think this one.",
+    "speaker_turn": 36,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 300.26,
+    "end_time": 343.61,
+    "union_linked_turn_ids": [
+      "31",
+      "33",
+      "31",
+      "32",
+      "33",
+      "31",
+      "33"
+    ],
+    "segments": {
+      "33": {
+        "segment_words": "I like this one particularly because you're in a team, whereas this person's kind of going alone.",
+        "link_turn_id": 33,
+        "linked_words": "Something you do to get deep.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "31": {
+        "segment_words": "I think this one.",
+        "link_turn_id": 31,
+        "linked_words": "You have the honor of selecting for yourself.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "37": {
+    "link_turn_id": [
+      36
+    ],
+    "words": "Awesome. Cool. Thank you.",
+    "speaker_turn": 37,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 343.73,
+    "end_time": 347.55,
+    "union_linked_turn_ids": [
+      "36",
+      "36",
+      "36"
+    ],
+    "segments": {
+      "36": {
+        "segment_words": "Awesome. Cool. Thank you.",
+        "link_turn_id": 36,
+        "linked_words": "I like this one particularly because you're in a team, whereas this person's kind of going alone. These people, I can kind of see them kind of all working together.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "38": {
+    "link_turn_id": [
+      36
+    ],
+    "words": "Okay, so do we go to level two now? Since that says go deeper.",
+    "speaker_turn": 38,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 347.55,
+    "end_time": 356.63,
+    "union_linked_turn_ids": [
+      "36",
+      "36",
+      "36"
+    ],
+    "segments": {
+      "36": {
+        "segment_words": "Since that says go deeper.",
+        "link_turn_id": 36,
+        "linked_words": "because they're all kind of antithetical to getting deeper.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "39": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Oh, is that [inaudible]?",
+    "speaker_turn": 39,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 357.01,
+    "end_time": 358.234,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "40": {
+    "link_turn_id": [
+      39
+    ],
+    "words": "I don't know.",
+    "speaker_turn": 40,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 358.234,
+    "end_time": 359.23,
+    "union_linked_turn_ids": [
+      "39",
+      "39",
+      "39"
+    ],
+    "segments": {
+      "39": {
+        "segment_words": "I don't know.",
+        "link_turn_id": 39,
+        "linked_words": "Oh, is that [inaudible]?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "41": {
+    "link_turn_id": [
+      38
+    ],
+    "words": "Where did that come from?",
+    "speaker_turn": 41,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 362.38,
+    "end_time": 363.364,
+    "union_linked_turn_ids": [
+      "NA",
+      "38",
+      "38",
+      "39",
+      "40"
+    ],
+    "segments": {
+      "38": {
+        "segment_words": "Where did that come from?",
+        "link_turn_id": 38,
+        "linked_words": "Since that says go deeper.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "42": {
+    "link_turn_id": [
+      41
+    ],
+    "words": "That was on here.",
+    "speaker_turn": 42,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 363.412,
+    "end_time": 364.468,
+    "union_linked_turn_ids": [
+      "41",
+      "41",
+      "41"
+    ],
+    "segments": {
+      "41": {
+        "segment_words": "That was on here.",
+        "link_turn_id": 41,
+        "linked_words": "Where did that come from?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "43": {
+    "link_turn_id": [
+      38,
+      42
+    ],
+    "words": "Oh. Okay, yeah, I guess it's time to go deeper. So now we're encouraged to hit the level twos.",
+    "speaker_turn": 43,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 364.564,
+    "end_time": 371.52,
+    "union_linked_turn_ids": [
+      "38",
+      "42",
+      "38",
+      "42",
+      "38",
+      "42"
+    ],
+    "segments": {
+      "38": {
+        "segment_words": "I guess it's time to go deeper. So now we're encouraged to hit the level twos.",
+        "link_turn_id": 38,
+        "linked_words": "do we go to level two now? Since that says go deeper.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "42": {
+        "segment_words": "Oh. Okay, yeah, I guess it's time to go deeper.",
+        "link_turn_id": 42,
+        "linked_words": "That was on here.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "44": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "The thing about MIT, which makes it hard to get personal.",
+    "speaker_turn": 44,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 372.98,
+    "end_time": 376.72,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "45": {
+    "link_turn_id": [
+      44
+    ],
+    "words": "That's a good one.",
+    "speaker_turn": 45,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 378.5,
+    "end_time": 379.76,
+    "union_linked_turn_ids": [
+      "44",
+      "44",
+      "44"
+    ],
+    "segments": {
+      "44": {
+        "segment_words": "That's a good one.",
+        "link_turn_id": 44,
+        "linked_words": "The thing about MIT, which makes it hard to get personal.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "46": {
+    "link_turn_id": [
+      43
+    ],
+    "words": "Oh, there's two of the same again.",
+    "speaker_turn": 46,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 421.16,
+    "end_time": 423.096,
+    "union_linked_turn_ids": [
+      "43",
+      "NA",
+      "42",
+      "43"
+    ],
+    "segments": {
+      "43": {
+        "segment_words": "there's two of the same again",
+        "link_turn_id": 43,
+        "linked_words": "So now we're encouraged to hit the level twos",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "47": {
+    "link_turn_id": [
+      46
+    ],
+    "words": "Wow. This is fascinating. Another round of two.",
+    "speaker_turn": 47,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 423.096,
+    "end_time": 426.78,
+    "union_linked_turn_ids": [
+      "46",
+      "46",
+      "46"
+    ],
+    "segments": {
+      "46": {
+        "segment_words": "Another round of two.",
+        "link_turn_id": 46,
+        "linked_words": "Oh, there's two of the same again.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "48": {
+    "link_turn_id": [
+      46,
+      47
+    ],
+    "words": "I think it's because this one only had four unique cards.",
+    "speaker_turn": 48,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 433.08,
+    "end_time": 436.94,
+    "union_linked_turn_ids": [
+      "46",
+      "47",
+      "46",
+      "47",
+      "46",
+      "47"
+    ],
+    "segments": {
+      "46": {
+        "segment_words": "I think it's because this one only had four unique cards.",
+        "link_turn_id": 46,
+        "linked_words": "Oh, there's two of the same again.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "47": {
+        "segment_words": "it's because this one only had four unique cards.",
+        "link_turn_id": 47,
+        "linked_words": "Another round of two.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "49": {
+    "link_turn_id": [
+      48
+    ],
+    "words": "Mm-hmm.",
+    "speaker_turn": 49,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 436.94,
+    "end_time": 438.13,
+    "union_linked_turn_ids": [
+      "48",
+      "48",
+      "48"
+    ],
+    "segments": {
+      "48": {
+        "segment_words": "Mm-hmm.",
+        "link_turn_id": 48,
+        "linked_words": "I think it's because this one only had four unique cards.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "50": {
+    "link_turn_id": [
+      44
+    ],
+    "words": "I'm feeling the time one because I think just due to having so many things to do and being so busy, which is often self-inflicted, that gives you a lot of things that are always going to be on your mind, which takes away from time that can be spent just thinking about random things or spending more time with people without other obligations. So I feel like that's a big part of the MIT experience is trying to figure out how best to manage your time and then when you have more time to be with other people, that helps you form connections with other people.",
+    "speaker_turn": 50,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 438.13,
+    "end_time": 484.24,
+    "union_linked_turn_ids": [
+      "44",
+      "44",
+      "44"
+    ],
+    "segments": {
+      "44": {
+        "segment_words": "that's a big part of the MIT experience is trying to figure out how best to manage your time and then when you have more time to be with other people, that helps you form connections with other people.",
+        "link_turn_id": 44,
+        "linked_words": "The thing about MIT, which makes it hard to get personal.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "51": {
+    "link_turn_id": [
+      50
+    ],
+    "words": "That really resonates for me. I feel like, and we talked about this a little bit earlier, but having just two years here also makes it feel like you really have to be choosy about your time because it's not like I can just put off getting to know you until next year or even a semester late. Yeah, it just really shortens how much time you would get to spend with someone, especially if you're from another part of town. Cool. So I guess it's my go. I forgot to re-up on my cards. I'm going to get real. During the most busy time in my life, the thing that got me through was... And so to put this to a MIT context, during the most busy time in the last academic year, the thing that got me through, excuse me, was...",
+    "speaker_turn": 51,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 485.78,
+    "end_time": 554.83,
+    "union_linked_turn_ids": [
+      "50",
+      "50",
+      "50"
+    ],
+    "segments": {
+      "50": {
+        "segment_words": "I feel like, and we talked about this a little bit earlier, but having just two years here also makes it feel like you really have to be choosy about your time because it's not like I can just put off getting to know you until next year or even a semester late.",
+        "link_turn_id": 50,
+        "linked_words": "I'm feeling the time one because I think just due to having so many things to do and being so busy, which is often self-inflicted, that gives you a lot of things that are always going to be on your mind, which takes away from time that can be spent just thinking about random things or spending more time with people without other obligations.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "52": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "If one of my images has already been played previously, should I just discard it and get a different one?",
+    "speaker_turn": 52,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 560.41,
+    "end_time": 566.018,
+    "union_linked_turn_ids": [
+      "NA",
+      "46",
+      "48",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "53": {
+    "link_turn_id": [
+      52
+    ],
+    "words": "Well, I don't see why not. I think if it resonates for you or you think it would resonate for me and in response to the question, then yeah, feel free to play it.",
+    "speaker_turn": 53,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 566.154,
+    "end_time": 577.8203125,
+    "union_linked_turn_ids": [
+      "52",
+      "52",
+      "52"
+    ],
+    "segments": {
+      "52": {
+        "segment_words": "Well, I don't see why not. I think if it resonates for you or you think it would resonate for me and in response to the question, then yeah, feel free to play it.",
+        "link_turn_id": 52,
+        "linked_words": "If one of my images has already been played previously, should I just discard it and get a different one?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "54": {
+    "link_turn_id": [
+      53
+    ],
+    "words": "Okay.",
+    "speaker_turn": 54,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 577.8203125,
+    "end_time": 582.1,
+    "union_linked_turn_ids": [
+      "53",
+      "52",
+      "53",
+      "53"
+    ],
+    "segments": {
+      "53": {
+        "segment_words": "Okay.",
+        "link_turn_id": 53,
+        "linked_words": "I think if it resonates for you or you think it would resonate for me and in response to the question, then yeah, feel free to play it.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "55": {
+    "link_turn_id": [
+      51,
+      50
+    ],
+    "words": "I think that's everyone. Here are the three images. I'm going to orient them to me while I choose, but I'll turn them around in a second. I'm going to choose this one, which is this picture of someone in a very cozy bed, which looks to be in a van and has a bunch of different books in the back and the backpack around the city. I'm choosing this for a couple of reasons. One is because I lived in a basement studio, which was not really a studio, but it was just an illegal tiny micro unit that my landlord created to be in the style of a tiny house. And so I literally had this... My bedroom was this small cubby area, which only had enough room for the bed and the bed would lift and you could put storage under it and around the sides were these bookshelves. And I lived in a house with folks who were in the graduate program the year above me. They were in my same program, but they were just in second years and we would hang out every night and we were really cool. We were all Black or descended from Africa, so we really connected in that way, but they were really distracting and it was hard to... I would be so tempted to just sit up with them and talk and hang out until 1:00 in the morning, 2:00 in the morning and not really get work done. So when I realized that, \"Oh shit, I feel like I'm not getting a lot done,\" and that's why I would retreat to my dungeon or basement studio and really hunker down. So that just feels very much like last year for me. Who selected this?",
+    "speaker_turn": 55,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 582.1,
+    "end_time": 714.58,
+    "union_linked_turn_ids": [
+      "50",
+      "51",
+      "50",
+      "51",
+      "50",
+      "51"
+    ],
+    "segments": {
+      "51": {
+        "segment_words": "that just feels very much like last year for me.",
+        "link_turn_id": 51,
+        "linked_words": "during the most busy time in the last academic year, the thing that got me through, excuse me, was...",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "50": {
+        "segment_words": "I would be so tempted to just sit up with them and talk and hang out until 1:00 in the morning, 2:00 in the morning and not really get work done.",
+        "link_turn_id": 50,
+        "linked_words": "I feel like that's a big part of the MIT experience is trying to figure out how best to manage your time and then when you have more time to be with other people, that helps you form connections with other people.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "56": {
+    "link_turn_id": [
+      55
+    ],
+    "words": "That was me.",
+    "speaker_turn": 56,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 715.92,
+    "end_time": 717.06,
+    "union_linked_turn_ids": [
+      "55",
+      "55",
+      "55"
+    ],
+    "segments": {
+      "55": {
+        "segment_words": "That was me.",
+        "link_turn_id": 55,
+        "linked_words": "Who selected this?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "57": {
+    "link_turn_id": [
+      56
+    ],
+    "words": "What made you apply that to me, with the little context you have on me?",
+    "speaker_turn": 57,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 718.2,
+    "end_time": 724.34,
+    "union_linked_turn_ids": [
+      "56",
+      "56",
+      "56"
+    ],
+    "segments": {
+      "56": {
+        "segment_words": "What made you apply that to me, with the little context you have on me?",
+        "link_turn_id": 56,
+        "linked_words": "That was me.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "58": {
+    "link_turn_id": [
+      55,
+      57
+    ],
+    "words": "I guess I just feel like in general, regardless of how extroverted or introverted you are, I think having at least some amount of alone time is probably really helpful in terms of getting rest or being able to clear your thoughts or something. And then this person's in a sort of messy space, but it's probably a space that belongs to them. So I think being in personal spaces and having time to rest and recharge is probably good, especially if you're really busy.",
+    "speaker_turn": 58,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 727.49,
+    "end_time": 769.7,
+    "union_linked_turn_ids": [
+      "55",
+      "57",
+      "57",
+      "55",
+      "57"
+    ],
+    "segments": {
+      "55": {
+        "segment_words": "I think having at least some amount of alone time is probably really helpful in terms of getting rest or being able to clear your thoughts or something.",
+        "link_turn_id": 55,
+        "linked_words": "And that's why I would retreat to my dungeon or basement studio and really hunker down. So that just feels very much like last year for me.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "57": {
+        "segment_words": "I guess I just feel like in general, regardless of how extroverted or introverted you are, I think having at least some amount of alone time is probably really helpful in terms of getting rest or being able to clear your thoughts or something.",
+        "link_turn_id": 57,
+        "linked_words": "with the little context you have on me",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "59": {
+    "link_turn_id": [
+      56,
+      58
+    ],
+    "words": "Mm-hmm. That resonates. I appreciate that. I'm just curious, what made y'all choose these as well?",
+    "speaker_turn": 59,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 769.7,
+    "end_time": 778.34,
+    "union_linked_turn_ids": [
+      "58",
+      "56",
+      "58",
+      "56",
+      "58"
+    ],
+    "segments": {
+      "56": {
+        "segment_words": "Mm-hmm. That resonates.",
+        "link_turn_id": 56,
+        "linked_words": "That was me.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "58": {
+        "segment_words": "That resonates. I appreciate that.",
+        "link_turn_id": 58,
+        "linked_words": "I think having at least some amount of alone time is probably really helpful in terms of getting rest or being able to clear your thoughts or something. And then this person's in a sort of messy space, but it's probably a space that belongs to them.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "60": {
+    "link_turn_id": [
+      59
+    ],
+    "words": "Quite honestly, it was the best one out of the cards that I had.",
+    "speaker_turn": 60,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 778.88,
+    "end_time": 782.016,
+    "union_linked_turn_ids": [
+      "59",
+      "59",
+      "59"
+    ],
+    "segments": {
+      "59": {
+        "segment_words": "it was the best one out of the cards that I had.",
+        "link_turn_id": 59,
+        "linked_words": "what made y'all choose these as well?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "61": {
+    "link_turn_id": [
+      60
+    ],
+    "words": "Real, real.",
+    "speaker_turn": 61,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 782.088,
+    "end_time": 784.456,
+    "union_linked_turn_ids": [
+      "60",
+      "60",
+      "60"
+    ],
+    "segments": {
+      "60": {
+        "segment_words": "Real, real.",
+        "link_turn_id": 60,
+        "linked_words": "Quite honestly, it was the best one out of the cards that I had.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "62": {
+    "link_turn_id": [
+      55
+    ],
+    "words": "For me, it's like, I mean, the people look kind of weird, but for me personally, I like just sitting around talking with my friends and we go places sometimes. We going around and new things. It's like a train car kind of or is this also a van? I don't know, but they seem to be on some sort of trip.",
+    "speaker_turn": 62,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 784.648,
+    "end_time": 810.23,
+    "union_linked_turn_ids": [
+      "59",
+      "55",
+      "55"
+    ],
+    "segments": {
+      "55": {
+        "segment_words": "I like just sitting around talking with my friends and we go places sometimes.",
+        "link_turn_id": 55,
+        "linked_words": "I would be so tempted to just sit up with them and talk and hang out until 1:00 in the morning, 2:00 in the morning and not really get work done.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "63": {
+    "link_turn_id": [
+      60,
+      62
+    ],
+    "words": "Nice. Thanks, y'all. Apologies. I did not expect that to happen.",
+    "speaker_turn": 63,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 810.23,
+    "end_time": 827.55,
+    "union_linked_turn_ids": [
+      "59",
+      "62",
+      "60",
+      "60",
+      "62",
+      "60",
+      "62"
+    ],
+    "segments": {
+      "60": {
+        "segment_words": "I did not expect that to happen.",
+        "link_turn_id": 60,
+        "linked_words": "Quite honestly, it was the best one out of the cards that I had.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "62": {
+        "segment_words": "Nice. Thanks, y'all.",
+        "link_turn_id": 62,
+        "linked_words": "I like just sitting around talking with my friends and we go places sometimes.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "64": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Just step it up? Level three?",
+    "speaker_turn": 64,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 831.3,
+    "end_time": 833.84,
+    "union_linked_turn_ids": [
+      "NA",
+      "63",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "65": {
+    "link_turn_id": [
+      64
+    ],
+    "words": "Level three.",
+    "speaker_turn": 65,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 834.46,
+    "end_time": 835.84,
+    "union_linked_turn_ids": [
+      "64",
+      "64",
+      "64"
+    ],
+    "segments": {
+      "64": {
+        "segment_words": "Level three.",
+        "link_turn_id": 64,
+        "linked_words": "Level three?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "66": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "At MIT, conversations are toughest one when... Where's the... I don't know. Oh, is it just like flavor text? Okay. Conversations are toughest when...",
+    "speaker_turn": 66,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 837.66,
+    "end_time": 850.548,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "67": {
+    "link_turn_id": [
+      66
+    ],
+    "words": "Oh.",
+    "speaker_turn": 67,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 850.548,
+    "end_time": 851.308,
+    "union_linked_turn_ids": [
+      "66",
+      "66",
+      "66"
+    ],
+    "segments": {
+      "66": {
+        "segment_words": "Oh.",
+        "link_turn_id": 66,
+        "linked_words": "Oh, is it just like flavor text?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "68": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Blank.",
+    "speaker_turn": 68,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 851.484,
+    "end_time": 852.2,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "69": {
+    "link_turn_id": [
+      66
+    ],
+    "words": "Interesting. At MIT, conversations are toughest when...",
+    "speaker_turn": 69,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 853.39,
+    "end_time": 857.61,
+    "union_linked_turn_ids": [
+      "66",
+      "66",
+      "66"
+    ],
+    "segments": {
+      "66": {
+        "segment_words": "At MIT, conversations are toughest when...",
+        "link_turn_id": 66,
+        "linked_words": "At MIT, conversations are toughest when...",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "70": {
+    "link_turn_id": [
+      69
+    ],
+    "words": "Or maybe that's for a question afterwards. I don't know.",
+    "speaker_turn": 70,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 862.87,
+    "end_time": 865.77,
+    "union_linked_turn_ids": [
+      "68",
+      "69",
+      "69",
+      "66",
+      "69"
+    ],
+    "segments": {
+      "69": {
+        "segment_words": "Or maybe that's for a question afterwards.",
+        "link_turn_id": 69,
+        "linked_words": "Interesting. At MIT, conversations are toughest when...",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "71": {
+    "link_turn_id": [
+      70
+    ],
+    "words": "I think the italics might be an indicator for you.",
+    "speaker_turn": 71,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 873.99,
+    "end_time": 878.364,
+    "union_linked_turn_ids": [
+      "70",
+      "70",
+      "70"
+    ],
+    "segments": {
+      "70": {
+        "segment_words": "the italics might be an indicator for you.",
+        "link_turn_id": 70,
+        "linked_words": "Or maybe that's for a question afterwards.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "72": {
+    "link_turn_id": [
+      71
+    ],
+    "words": "So what I should think about?",
+    "speaker_turn": 72,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 878.364,
+    "end_time": 879.552,
+    "union_linked_turn_ids": [
+      "71",
+      "71",
+      "71"
+    ],
+    "segments": {
+      "71": {
+        "segment_words": "what I should think about",
+        "link_turn_id": 71,
+        "linked_words": "the italics might be an indicator for you",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "73": {
+    "link_turn_id": [
+      72
+    ],
+    "words": "Yeah. Is this the pile? Cool.",
+    "speaker_turn": 73,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 879.616,
+    "end_time": 927.69,
+    "union_linked_turn_ids": [
+      "72",
+      "72",
+      "NA"
+    ],
+    "segments": {
+      "72": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 72,
+        "linked_words": "So what I should think about?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "74": {
+    "link_turn_id": [
+      69
+    ],
+    "words": "Yeah, I think it's definitely this one just because having conversations about anything really in a small group, like one-on-one, I'm generally fine at, but a lot of times there will be some hot-button topic that affects a lot of people and then either an email chain starts popping or the group chat starts popping and people aren't really thinking about trying to... They just want to say what they want to say. They don't want to be understood. They don't want to really understand the other person. They just think, \"Okay, I'm right. How am I going to get across that I'm right?\" But they're not even thinking about how the other person will interpret it. It's just like, \"What do I want to say? Okay, I will say that.\" There's just a lot of people sort of yelling what they want say without really any end goal in sight or any sort of collaborative process to get to some sort of decision. Because I do like debating a lot, but I don't like debating because I like just yelling at people. I like it because I like trying to understand where the other person's coming from and trying to get my point across in a way that makes sense to them and understanding how they will communicate and how I can get through to them, or being able to recognize when maybe I'm in the wrong or they have a good point, which is... I don't know, that's something I have worked a lot on and at this point pride myself on is being able to think actually not objectively, because I do still have some amount of bias, but I have worked a lot on being able to objectively think about what I'm saying and what I'm thinking of, whether or not I'm right or wrong, not that I do it perfectly, but I at least make the effort and I feel like that is what's important. And lot of times when it gets to this point, people are not making the effort anymore. And I guess miscommunication is coming just from it's just an important... It can be an important issue to people and to a lot of people. And then when you see the first rude text or email, then it's sort of like an invitation for you to do the same. And then I'll finish, it's just like the game's over, basically. No one's actually trying to work together anymore.",
+    "speaker_turn": 74,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 927.69,
+    "end_time": 1080.9780698689956,
+    "union_linked_turn_ids": [
+      "69",
+      "65",
+      "69",
+      "66",
+      "69",
+      "74"
+    ],
+    "segments": {
+      "69": {
+        "segment_words": "when it gets to this point, people are not making the effort anymore. And I guess miscommunication is coming just from it's just an important... It can be an important issue to people and to a lot of people.",
+        "link_turn_id": 69,
+        "linked_words": "conversations are toughest when",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "75": {
+    "link_turn_id": [
+      74
+    ],
+    "words": "Mm-hmm. That resonates.",
+    "speaker_turn": 75,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 1080.9780698689956,
+    "end_time": 1084.14,
+    "union_linked_turn_ids": [
+      "74",
+      "74",
+      "74"
+    ],
+    "segments": {
+      "74": {
+        "segment_words": "That resonates.",
+        "link_turn_id": 74,
+        "linked_words": "Yeah, I think it's definitely this one just because having conversations about anything really in a small group, like one-on-one, I'm generally fine at, but a lot of times there will be some hot-button topic that affects a lot of people and then either an email chain starts popping or the group chat starts popping and people aren't really thinking about trying to... They just want to say what they want to say. They don't want to be understood. They don't want to really understand the other person. They just think, \"Okay, I'm right. How am I going to get across that I'm right?\" But they're not even thinking about how the other person will interpret it. It's just like, \"What do I want to say? Okay, I will say that.\" There's just a lot of people sort of yelling what they want say without really any end goal in sight or any sort of collaborative process to get to some sort of decision. Because I do like debating a lot, but I don't like debating because I like just yelling at people. I like it because I like trying to understand where the other person's coming from and trying to get my point across in a way that makes sense to them and understanding how they will communicate and how I can get through to them, or being able to recognize when maybe I'm in the wrong or they have a good point, which is... I don't know, that's something I have worked a lot on and at this point pride myself on is being able to think actually not objectively, because I do still have some amount of bias, but I have worked a lot on being able to objectively think about what I'm saying and what I'm thinking of, whether or not I'm right or wrong, not that I do it perfectly, but I at least make the effort and I feel like that is what's important. And lot of times when it gets to this point, people are not making the effort anymore. And I guess miscommunication is coming just from it's just an important... It can be an important issue to people and to a lot of people. And then when you see the first rude text or email, then it's sort of like an invitation for you to do the same. And then I'll finish, it's just like the game's over, basically. No one's actually trying to work together anymore.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "76": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Actually, I do want to look at these [inaudible].",
+    "speaker_turn": 76,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 1084.14,
+    "end_time": 1093.48,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "77": {
+    "link_turn_id": [
+      76
+    ],
+    "words": "Is there anything about the other ones that you'd like to talk about or ask about anything?",
+    "speaker_turn": 77,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 1093.48,
+    "end_time": 1100.66,
+    "union_linked_turn_ids": [
+      "76",
+      "76",
+      "76"
+    ],
+    "segments": {
+      "76": {
+        "segment_words": "ask about anything?",
+        "link_turn_id": 76,
+        "linked_words": "Actually, I do want to look at these [inaudible].",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "78": {
+    "link_turn_id": [
+      74
+    ],
+    "words": "This one makes me feel like... It's hard when you're sort of walking on an actual you feel like you might walk into a trap or something and you have to be careful about what you're saying, but not out of consideration for the other person's feelings or anything, but just so that... You just are worried about someone going on the aggressive against you and you're like, \"All right, I got to be careful.\" And that's always suffer when people can't actually really communicate in good faith. This one I'm curious about whoever did-",
+    "speaker_turn": 78,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 1112.73,
+    "end_time": 1150.64,
+    "union_linked_turn_ids": [
+      "74",
+      "74",
+      "74"
+    ],
+    "segments": {
+      "74": {
+        "segment_words": "it's hard when you're sort of walking on an actual you feel like you might walk into a trap or something and you have to be careful about what you're saying, but not out of consideration for the other person's feelings or anything, but just so that... You just are worried about someone going on the aggressive against you and you're like, \"All right, I got to be careful.\"",
+        "link_turn_id": 74,
+        "linked_words": "they just think, \"Okay, I'm right. How am I going to get across that I'm right?\" But they're not even thinking about how the other person will interpret it. It's just like, \"What do I want to say? Okay, I will say that.\"",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "79": {
+    "link_turn_id": [
+      78
+    ],
+    "words": "I put that one down.",
+    "speaker_turn": 79,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 1151.26,
+    "end_time": 1152.68,
+    "union_linked_turn_ids": [
+      "78",
+      "78",
+      "78"
+    ],
+    "segments": {
+      "78": {
+        "segment_words": "I put that one down.",
+        "link_turn_id": 78,
+        "linked_words": "This one I'm curious about whoever did-",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "80": {
+    "link_turn_id": [
+      79
+    ],
+    "words": "So what were you thinking when you did that?",
+    "speaker_turn": 80,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 1152.98,
+    "end_time": 1154.508,
+    "union_linked_turn_ids": [
+      "79",
+      "79",
+      "79"
+    ],
+    "segments": {
+      "79": {
+        "segment_words": "when you did that",
+        "link_turn_id": 79,
+        "linked_words": "I put that one down.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "81": {
+    "link_turn_id": [
+      78,
+      80
+    ],
+    "words": "The lockbox. Yeah, well, I think it made the most sense out of my cards, but also I think there's a certain level of good faith or willingness that folks... Any people who are a party to a conversation should have or need to have in order for that conversation to be effective. And I think when folks are shut down or when they might be triggered in a way that causes them to shut down, it's very hard to then arrive at a place where... Understanding or empathy even within that conversation. And I think we all have certain things that make us shut down or make us more closed off than not. And I like the fact that there's this timer or this clock on it, which I interpret as a timer because for those hot-button or sensitive subjects, you have less time, like there's less grace given before you shut down. And so for a topic, like kind of what you said earlier, for something that might be really pressing or hot-button and personal, you might be that much closer to sending that rude message or responding in either a hostile or not helpful manner.",
+    "speaker_turn": 81,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 1154.508,
+    "end_time": 1250.5,
+    "union_linked_turn_ids": [
+      "78",
+      "80",
+      "80",
+      "78",
+      "74",
+      "78",
+      "80"
+    ],
+    "segments": {
+      "78": {
+        "segment_words": "I think there's a certain level of good faith or willingness that folks... Any people who are a party to a conversation should have or need to have in order for that conversation to be effective.",
+        "link_turn_id": 78,
+        "linked_words": "And that's always suffer when people can't actually really communicate in good faith.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "80": {
+        "segment_words": "Yeah, well, I think it made the most sense out of my cards... it's very hard to then arrive at a place where... Understanding or empathy even within that conversation.",
+        "link_turn_id": 80,
+        "linked_words": "So what were you thinking when you did that?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "82": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "I guess I'll also go to level two.",
+    "speaker_turn": 82,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 1262.37,
+    "end_time": 1264.074,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "83": {
+    "link_turn_id": [
+      82
+    ],
+    "words": "Cool.",
+    "speaker_turn": 83,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 1264.202,
+    "end_time": 1264.95,
+    "union_linked_turn_ids": [
+      "82",
+      "82",
+      "82"
+    ],
+    "segments": {
+      "82": {
+        "segment_words": "Cool.",
+        "link_turn_id": 82,
+        "linked_words": "I guess I'll also go to level two.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "84": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "A time that being myself was hard.",
+    "speaker_turn": 84,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 1266.01,
+    "end_time": 1268.99,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "82"
+    ],
+    "segments": {}
+  },
+  "85": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "I have another duplicate. I guess I'm just going to put that there. It's the same exact one. I'm going to pull from here.",
+    "speaker_turn": 85,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 1274.21,
+    "end_time": 1288.51,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "86": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "[inaudible].",
+    "speaker_turn": 86,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 1288.51,
+    "end_time": 1289.2046492048644,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "87": {
+    "link_turn_id": [
+      85
+    ],
+    "words": "These are the ones that people are pulling from.",
+    "speaker_turn": 87,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 1289.2046492048644,
+    "end_time": 1291.98,
+    "union_linked_turn_ids": [
+      "85",
+      "86",
+      "85",
+      "85"
+    ],
+    "segments": {
+      "85": {
+        "segment_words": "These are the ones that people are pulling from.",
+        "link_turn_id": 85,
+        "linked_words": "I'm going to pull from here.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "88": {
+    "link_turn_id": [
+      87
+    ],
+    "words": "Oh, thank you. Whoops.",
+    "speaker_turn": 88,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 1291.98,
+    "end_time": 1295.28,
+    "union_linked_turn_ids": [
+      "87",
+      "87",
+      "87"
+    ],
+    "segments": {
+      "87": {
+        "segment_words": "Oh, thank you.",
+        "link_turn_id": 87,
+        "linked_words": "These are the ones that people are pulling from.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "89": {
+    "link_turn_id": [
+      81
+    ],
+    "words": "So are you saying specifically at MIT for-",
+    "speaker_turn": 89,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 1295.28,
+    "end_time": 1300.4,
+    "union_linked_turn_ids": [
+      "81",
+      "81",
+      "81"
+    ],
+    "segments": {
+      "81": {
+        "segment_words": "So are you saying specifically at MIT for-",
+        "link_turn_id": 81,
+        "linked_words": "kind of what you said earlier, for something that might be really pressing or hot-button and personal",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "90": {
+    "link_turn_id": [
+      89
+    ],
+    "words": "Yeah, I would try to think about things about this within a your time on campus type of context.",
+    "speaker_turn": 90,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 1300.82,
+    "end_time": 1307.16,
+    "union_linked_turn_ids": [
+      "89",
+      "89",
+      "89"
+    ],
+    "segments": {
+      "89": {
+        "segment_words": "Yeah, I would try to think about things about this within a your time on campus type of context.",
+        "link_turn_id": 89,
+        "linked_words": "So are you saying specifically at MIT for-",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "91": {
+    "link_turn_id": [
+      90
+    ],
+    "words": "Interesting. I'm very interested in these because they're all very different.",
+    "speaker_turn": 91,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 1353.84,
+    "end_time": 1361.1,
+    "union_linked_turn_ids": [
+      "87",
+      "89",
+      "90",
+      "90"
+    ],
+    "segments": {
+      "90": {
+        "segment_words": "I'm very interested in these",
+        "link_turn_id": 90,
+        "linked_words": "think about things about this within a your time on campus type of context.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "92": {
+    "link_turn_id": [
+      91
+    ],
+    "words": "Would you like us to talk about them?",
+    "speaker_turn": 92,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 1361.84,
+    "end_time": 1364.98,
+    "union_linked_turn_ids": [
+      "91",
+      "91",
+      "91"
+    ],
+    "segments": {
+      "91": {
+        "segment_words": "Would you like us to talk about them?",
+        "link_turn_id": 91,
+        "linked_words": "I'm very interested in these",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "93": {
+    "link_turn_id": [
+      92
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 93,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 1364.98,
+    "end_time": 1365.55,
+    "union_linked_turn_ids": [
+      "92",
+      "92",
+      "92"
+    ],
+    "segments": {
+      "92": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 92,
+        "linked_words": "Would you like us to talk about them?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "94": {
+    "link_turn_id": [
+      93,
+      91
+    ],
+    "words": "All right. Which one would you like to be spoken about first?",
+    "speaker_turn": 94,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 1365.55,
+    "end_time": 1368.822,
+    "union_linked_turn_ids": [
+      "91",
+      "93",
+      "93",
+      "91",
+      "93"
+    ],
+    "segments": {
+      "93": {
+        "segment_words": "Which one would you like to be spoken about first?",
+        "link_turn_id": 93,
+        "linked_words": "Yeah.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "91": {
+        "segment_words": "Which one would you like to be spoken about first?",
+        "link_turn_id": 91,
+        "linked_words": "I'm very interested in these",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "95": {
+    "link_turn_id": [
+      94
+    ],
+    "words": "Let's go this way. So this one.",
+    "speaker_turn": 95,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 1368.926,
+    "end_time": 1370.73,
+    "union_linked_turn_ids": [
+      "94",
+      "94",
+      "94"
+    ],
+    "segments": {
+      "94": {
+        "segment_words": "Let's go this way. So this one.",
+        "link_turn_id": 94,
+        "linked_words": "Which one would you like to be spoken about first?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "96": {
+    "link_turn_id": [
+      95
+    ],
+    "words": "Cool. I put that image of the two houses with the road down. I think college is a time of change for a lot of different reasons, for many different reasons, for many different people. There are a lot of... It's a new environment and that comes with new dynamics and new opportunities for discovery and personal discovery and growth. And I think that sometimes when you go back home for a break or for any reason, once you've been away and you've had these sort of changes that you're going through in such a rapid concentrated pace, you can really feel... It can be hard reconciling this newer you with the expectations of the older you from the context that you're going back home to. So that's where, and that's what was on my mind.",
+    "speaker_turn": 96,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 1372.07,
+    "end_time": 1433.25,
+    "union_linked_turn_ids": [
+      "95",
+      "95",
+      "95"
+    ],
+    "segments": {
+      "95": {
+        "segment_words": "Cool. I put that image of the two houses with the road down.",
+        "link_turn_id": 95,
+        "linked_words": "Let's go this way. So this one.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "97": {
+    "link_turn_id": [
+      96
+    ],
+    "words": "Yeah. For this one, I was kind of thinking about when... It's sort of just more attention being put on the people up there. And as a frosh, it was easier to be myself just because there were no real expectations. No one really knew me or anything. And I feel like, at least in my social groups, the freshmen had a lot of freedom, just do their thing to be themselves. But as I got older and have gotten more positions of responsibility or leadership in my living groups and clubs and such, there's just more people looking up to you, in a way. And I'm not saying that I'm their role model or anything, but just looking to it as an understanding of what life at MIT might be like, how people generally act, how people do things, like come to you for help with a relationship you might be having, and it makes it harder around with them at least. I feel like I have to be more pressured to be better for those situations, which is just going against myself for their sake.",
+    "speaker_turn": 97,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 1437.15,
+    "end_time": 1518.87,
+    "union_linked_turn_ids": [
+      "96",
+      "96",
+      "96"
+    ],
+    "segments": {
+      "96": {
+        "segment_words": "I feel like I have to be more pressured to be better for those situations, which is just going against myself for their sake.",
+        "link_turn_id": 96,
+        "linked_words": "It can be hard reconciling this newer you with the expectations of the older you from the context that you're going back home to.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "98": {
+    "link_turn_id": [
+      97
+    ],
+    "words": "That makes sense.",
+    "speaker_turn": 98,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 1523.66,
+    "end_time": 1524.88,
+    "union_linked_turn_ids": [
+      "97",
+      "97",
+      "97"
+    ],
+    "segments": {
+      "97": {
+        "segment_words": "That makes sense.",
+        "link_turn_id": 97,
+        "linked_words": "I feel like I have to be more pressured to be better for those situations, which is just going against myself for their sake.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "99": {
+    "link_turn_id": [
+      96,
+      97
+    ],
+    "words": "Yeah, I put the image of the two people because I feel like they're sitting at a table together, but they don't really seem to be having a conversation or particularly happy. And I feel like at times, I think generally, people are very accepting and really open to other people, but I think if you're having a conversation with someone and you're not engaging with each other or you feel misunderstood, it's hard to try to convey what you're trying to convey or hard to be the version of yourself that you're trying to be.",
+    "speaker_turn": 99,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 1529.46,
+    "end_time": 1577.82,
+    "union_linked_turn_ids": [
+      "96",
+      "97",
+      "96",
+      "97",
+      "96",
+      "97"
+    ],
+    "segments": {
+      "96": {
+        "segment_words": "it's hard to try to convey what you're trying to convey or hard to be the version of yourself that you're trying to be.",
+        "link_turn_id": 96,
+        "linked_words": "It can be hard reconciling this newer you with the expectations of the older you from the context that you're going back home to.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "97": {
+        "segment_words": "it's hard to try to convey what you're trying to convey or hard to be the version of yourself that you're trying to be.",
+        "link_turn_id": 97,
+        "linked_words": "I feel like I have to be more pressured to be better for those situations, which is just going against myself for their sake.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "100": {
+    "link_turn_id": [
+      99
+    ],
+    "words": "Yeah, I think I'm going to go with this one. I think I resonated with the idea of how uncomfortable they look and this idea of... I think this is one of the first ones where the art style has differed so much between all of the images that we were given. And this one leans more into... I'm not sure if surrealist is the word for it, but I like the upside down kind of... Just so you guys can see, the upside down kind of like... I think it's supposed to be an instrument that AI has kind of ruined. It's very interesting. And then there's balloons and it's supposed to be a celebration, but they're not very into it. Yeah, so I think this one.",
+    "speaker_turn": 100,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 1579.96,
+    "end_time": 1642.64,
+    "union_linked_turn_ids": [
+      "99",
+      "99",
+      "99"
+    ],
+    "segments": {
+      "99": {
+        "segment_words": "I think I resonated with the idea of how uncomfortable they look",
+        "link_turn_id": 99,
+        "linked_words": "they're sitting at a table together, but they don't really seem to be having a conversation or particularly happy",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "101": {
+    "link_turn_id": [
+      100
+    ],
+    "words": "Nice.",
+    "speaker_turn": 101,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 1642.64,
+    "end_time": 1645.46,
+    "union_linked_turn_ids": [
+      "100",
+      "100",
+      "100"
+    ],
+    "segments": {
+      "100": {
+        "segment_words": "Nice.",
+        "link_turn_id": 100,
+        "linked_words": "Yeah, so I think this one.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "102": {
+    "link_turn_id": [
+      100,
+      97,
+      99
+    ],
+    "words": "Also, hearing what you all had to say was very interesting and I think thinking about... It made me think again about icebreakers and what we know and don't know about each other, if that makes sense.",
+    "speaker_turn": 102,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 1645.46,
+    "end_time": 1659.44,
+    "union_linked_turn_ids": [
+      "97",
+      "99",
+      "100",
+      "94",
+      "97",
+      "99",
+      "96",
+      "97",
+      "99",
+      "100"
+    ],
+    "segments": {
+      "100": {
+        "segment_words": "Also, hearing what you all had to say was very interesting",
+        "link_turn_id": 100,
+        "linked_words": "Just so you guys can see",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "97": {
+        "segment_words": "hearing what you all had to say was very interesting and I think thinking about... It made me think again about icebreakers and what we know and don't know about each other, if that makes sense.",
+        "link_turn_id": 97,
+        "linked_words": "And as a frosh, it was easier to be myself just because there were no real expectations. No one really knew me or anything. And I feel like, at least in my social groups, the freshmen had a lot of freedom, just do their thing to be themselves.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "99": {
+        "segment_words": "It made me think again about icebreakers and what we know and don't know about each other, if that makes sense.",
+        "link_turn_id": 99,
+        "linked_words": "And I feel like at times, I think generally, people are very accepting and really open to other people, but I think if you're having a conversation with someone and you're not engaging with each other or you feel misunderstood, it's hard to try to convey what you're trying to convey or hard to be the version of yourself that you're trying to be.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "103": {
+    "link_turn_id": [
+      102,
+      97
+    ],
+    "words": "I feel like I kind of resonate with the group one because I feel like if you have to interact with a large group of people who are paying attention to you, it's a lot of eyes and it feels like you're going to be judged, even if not negatively, they're paying attention to how you're doing. So it's hard to be out there.",
+    "speaker_turn": 103,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 1662.74,
+    "end_time": 1689.05,
+    "union_linked_turn_ids": [
+      "97",
+      "102",
+      "97",
+      "97",
+      "102"
+    ],
+    "segments": {
+      "102": {
+        "segment_words": "I feel like I kind of resonate with the group one because I feel like if you have to interact with a large group of people who are paying attention to you, it's a lot of eyes and it feels like you're going to be judged, even if not negatively, they're paying attention to how you're doing.",
+        "link_turn_id": 102,
+        "linked_words": "It made me think again about icebreakers and what we know and don't know about each other, if that makes sense.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "97": {
+        "segment_words": "I feel like if you have to interact with a large group of people who are paying attention to you, it's a lot of eyes and it feels like you're going to be judged, even if not negatively,",
+        "link_turn_id": 97,
+        "linked_words": "And as a frosh, it was easier to be myself just because there were no real expectations. No one really knew me or anything. And I feel like, at least in my social groups, the freshmen had a lot of freedom, just do their thing to be themselves. But as I got older and have gotten more positions of responsibility or leadership in my living groups and clubs and such, there's just more people looking up to you, in a way.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "104": {
+    "link_turn_id": [
+      103
+    ],
+    "words": "Do you feel that happens on campus?",
+    "speaker_turn": 104,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 1691.95,
+    "end_time": 1694.17,
+    "union_linked_turn_ids": [
+      "103",
+      "103",
+      "97",
+      "103"
+    ],
+    "segments": {
+      "103": {
+        "segment_words": "Do you feel that happens on campus?",
+        "link_turn_id": 103,
+        "linked_words": "I feel like if you have to interact with a large group of people who are paying attention to you, it's a lot of eyes and it feels like you're going to be judged",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "105": {
+    "link_turn_id": [
+      104,
+      103
+    ],
+    "words": "I feel like for me, it just happens in generally with large groups of people. Like, when I took on a leadership role, I was like, \"Oh my God, people are looking at me. I don't like this.\" But I also feel it, especially when dorm spamming, I feel like especially when people get mad at you for dorm spamming wrong, I feel like that's something that's...",
+    "speaker_turn": 105,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 1699.6,
+    "end_time": 1721.66,
+    "union_linked_turn_ids": [
+      "103",
+      "104",
+      "103",
+      "104",
+      "103",
+      "104"
+    ],
+    "segments": {
+      "104": {
+        "segment_words": "I feel like for me, it just happens in generally with large groups of people.",
+        "link_turn_id": 104,
+        "linked_words": "Do you feel that happens on campus?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "103": {
+        "segment_words": "people are looking at me. I don't like this.",
+        "link_turn_id": 103,
+        "linked_words": "it's a lot of eyes and it feels like you're going to be judged",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "106": {
+    "link_turn_id": [
+      105
+    ],
+    "words": "sensitive.",
+    "speaker_turn": 106,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 1722.0,
+    "end_time": 1723.612,
+    "union_linked_turn_ids": [
+      "105",
+      "105",
+      "105"
+    ],
+    "segments": {
+      "105": {
+        "segment_words": "sensitive.",
+        "link_turn_id": 105,
+        "linked_words": "especially when people get mad at you for dorm spamming wrong, I feel like that's something that's...",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "107": {
+    "link_turn_id": [
+      105
+    ],
+    "words": "Yeah, I feel like that's something that's reasonable because dorm spamming wrong can affect every single person living in a dorm, but it's also really stressful because you can feel that everyone who lives on a dorm on campus can see your email and that you made a mistake. And sometimes people even think negatively of organizations if one of their members dorm spams wrong. So I think-",
+    "speaker_turn": 107,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 1724.724,
+    "end_time": 1748.42,
+    "union_linked_turn_ids": [
+      "105",
+      "105",
+      "105"
+    ],
+    "segments": {
+      "105": {
+        "segment_words": "Yeah, I feel like that's something that's reasonable because dorm spamming wrong can affect every single person living in a dorm, but it's also really stressful because you can feel that everyone who lives on a dorm on campus can see your email and that you made a mistake.",
+        "link_turn_id": 105,
+        "linked_words": "but I also feel it, especially when dorm spamming, I feel like especially when people get mad at you for dorm spamming wrong, I feel like that's something that's...",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "108": {
+    "link_turn_id": [
+      107,
+      105
+    ],
+    "words": "What is a dorm spamming?",
+    "speaker_turn": 108,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 1748.42,
+    "end_time": 1750.25,
+    "union_linked_turn_ids": [
+      "105",
+      "107",
+      "105",
+      "107",
+      "105",
+      "107"
+    ],
+    "segments": {
+      "107": {
+        "segment_words": "What is a dorm spamming?",
+        "link_turn_id": 107,
+        "linked_words": "dorm spamming wrong can affect every single person living in a dorm",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "105": {
+        "segment_words": "What is a dorm spamming?",
+        "link_turn_id": 105,
+        "linked_words": "especially when dorm spamming",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "109": {
+    "link_turn_id": [
+      108
+    ],
+    "words": "That's when someone emails all the dorm mailing lists. So that means everyone who's living in a dorm or has lived on a dorm on campus will get that email. So it's like large scale things.",
+    "speaker_turn": 109,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 1750.91,
+    "end_time": 1761.97,
+    "union_linked_turn_ids": [
+      "108",
+      "108",
+      "108"
+    ],
+    "segments": {
+      "108": {
+        "segment_words": "That's when someone emails all the dorm mailing lists.",
+        "link_turn_id": 108,
+        "linked_words": "What is a dorm spamming?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "110": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "For now.",
+    "speaker_turn": 110,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 1764.15,
+    "end_time": 1765.09,
+    "union_linked_turn_ids": [
+      "NA",
+      "106",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "111": {
+    "link_turn_id": [
+      110
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 111,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 1766.11,
+    "end_time": 1766.654,
+    "union_linked_turn_ids": [
+      "110",
+      "110",
+      "110"
+    ],
+    "segments": {
+      "110": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 110,
+        "linked_words": "For now.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "112": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "We could do one more round because they haven't come back yet, so I'll just keep an eye out, if y'all want to.",
+    "speaker_turn": 112,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 1766.742,
+    "end_time": 1773.238,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "113": {
+    "link_turn_id": [
+      112
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 113,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 1773.238,
+    "end_time": 1773.374,
+    "union_linked_turn_ids": [
+      "112",
+      "112",
+      "112"
+    ],
+    "segments": {
+      "112": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 112,
+        "linked_words": "We could do one more round because they haven't come back yet",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "114": {
+    "link_turn_id": [
+      112,
+      113
+    ],
+    "words": "Sure.",
+    "speaker_turn": 114,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 1773.374,
+    "end_time": 1773.838,
+    "union_linked_turn_ids": [
+      "112",
+      "113",
+      "112",
+      "113",
+      "112",
+      "113"
+    ],
+    "segments": {
+      "112": {
+        "segment_words": "Sure.",
+        "link_turn_id": 112,
+        "linked_words": "if y'all want to.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "113": {
+        "segment_words": "Sure.",
+        "link_turn_id": 113,
+        "linked_words": "Yeah.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "115": {
+    "link_turn_id": [
+      114,
+      113
+    ],
+    "words": "Cool.",
+    "speaker_turn": 115,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 1773.934,
+    "end_time": 1774.61,
+    "union_linked_turn_ids": [
+      "112",
+      "113",
+      "114",
+      "113",
+      "114",
+      "113",
+      "114"
+    ],
+    "segments": {
+      "114": {
+        "segment_words": "Cool.",
+        "link_turn_id": 114,
+        "linked_words": "Sure.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "113": {
+        "segment_words": "Cool.",
+        "link_turn_id": 113,
+        "linked_words": "Yeah.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "116": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Which topics feel the most taboo, yet are the most important for us to speak about? What would be the best way to bring it up? I guess the first image makes me think about housing or war. The third one makes me think of trash and climate change and also food waste. And I guess I'm not as sure about the second one, but it sort of makes me think about mental health. I guess I would say, I guess I'll pick the middle one because I feel like a lot of these issues can be really hard to discuss and can bring up personal experiences for people that might be really stressful or painful. I feel like since mental health is something that's extremely personal to people who... Like, a lot of people have mental health struggles and then it can be really hard to share things that affected you personally with other people. So I think that's something that can be harder to discuss with larger groups or in a setting that applies to the whole institution of MIT. But also, I think that, for example, discussions about Israel and Palestine can get really heated and for issues like housing insecurity or food insecurity, probably we could be doing more to address those problems and to help people who are facing those problems. I'm also not super well-informed on a lot of things that are happening on campus. Who picked this one? What were you guys thinking about when you put these down?",
+    "speaker_turn": 116,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 1777.56,
+    "end_time": 1992.02,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "117": {
+    "link_turn_id": [
+      116
+    ],
+    "words": "Yeah, I was thinking a bit about mental health, but mostly just tackling problems alone, I guess, feels like a very lonely guy or at least at the moment. And for me, at least, it's like the stuff I am struggling with alone is the stuff I don't want to talk to people about or the stuff I'm uncomfortable talking to people about because, I don't know, maybe it feels like other people aren't struggling with it and they won't relate to me or maybe I have some sort of shame and struggling with that thing or just it's kind of the things I am struggling on are naturally going to be the things that I'm uncomfortable talking about with other people because if I'm not uncomfortable talking about it, then I probably won't be struggling a lot.",
+    "speaker_turn": 117,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 1994.992,
+    "end_time": 2050.15,
+    "union_linked_turn_ids": [
+      "116",
+      "116",
+      "116"
+    ],
+    "segments": {
+      "116": {
+        "segment_words": "Yeah, I was thinking a bit about mental health, but mostly just tackling problems alone, I guess, feels like a very lonely guy or at least at the moment. And for me, at least, it's like the stuff I am struggling with alone is the stuff I don't want to talk to people about or the stuff I'm uncomfortable talking to people about because, I don't know, maybe it feels like other people aren't struggling with it and they won't relate to me or maybe I have some sort of shame and struggling with that thing or just it's kind of the things I am struggling on are naturally going to be the things that I'm uncomfortable talking about with other people because if I'm not uncomfortable talking about it, then I probably won't be struggling a lot.",
+        "link_turn_id": 116,
+        "linked_words": "I feel like since mental health is something that's extremely personal to people who... Like, a lot of people have mental health struggles and then it can be really hard to share things that affected you personally with other people.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "118": {
+    "link_turn_id": [
+      117,
+      116
+    ],
+    "words": "I chose... I put this one down largely, I think, because it pictures a couple of different... Housing, which can be interpreted in different ways. It kind of looks like tents, which reminded me of the encampment, which just on campus was a very... I think it was very difficult. I don't know if it was necessarily taboo, but I think there became a point on campus where if you weren't actively involved in I think some of the movement aspects of campus, then you didn't talk about it at all. It didn't seem like there were many spaces that allowed you to engage without being aligned to a particular movement or org. And then on the flip side, from a housing and houselessness perspective, most people, most people, broadly agree that folks shouldn't be houseless or not have homes, but where and how houseless people are served is often such a huge, huge conflict or an issue that's riddled with conflict. So I don't know how much we get into that on campus necessarily, but I think it's kind of a taboo topic because... Yeah, I think it can be a taboo topic to think about because we're in an ivory tower and the housing insecurities that students might face here are a little different than the type of housing insecurities one might face on the outside. Not all, obviously, but in general, I think the framing is a little different when students are thinking about or talking about housing than people who don't have a housing department that they can go and complain to or talk to or try to get aid from to find housing.",
+    "speaker_turn": 118,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2059.94,
+    "end_time": 2197.76,
+    "union_linked_turn_ids": [
+      "116",
+      "117",
+      "116",
+      "117",
+      "116",
+      "117"
+    ],
+    "segments": {
+      "117": {
+        "segment_words": "I think it was very difficult. I don't know if it was necessarily taboo, but I think there became a point on campus where if you weren't actively involved in I think some of the movement aspects of campus, then you didn't talk about it at all. It didn't seem like there were many spaces that allowed you to engage without being aligned to a particular movement or org.",
+        "link_turn_id": 117,
+        "linked_words": "it's like the stuff I am struggling with alone is the stuff I don't want to talk to people about or the stuff I'm uncomfortable talking to people about because, I don't know, maybe it feels like other people aren't struggling with it and they won't relate to me or maybe I have some sort of shame and struggling with that thing or just it's kind of the things I am struggling on are naturally going to be the things that I'm uncomfortable talking about with other people",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "116": {
+        "segment_words": "Housing, which can be interpreted in different ways. It kind of looks like tents, which reminded me of the encampment, which just on campus was a very... I think it was very difficult. I don't know if it was necessarily taboo, but I think there became a point on campus where if you weren't actively involved in I think some of the movement aspects of campus, then you didn't talk about it at all.",
+        "link_turn_id": 116,
+        "linked_words": "And for issues like housing insecurity or food insecurity, probably we could be doing more to address those problems and to help people who are facing those problems.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "119": {
+    "link_turn_id": [
+      118,
+      117,
+      116
+    ],
+    "words": "I chose the other picture. I wasn't really thinking about climate change, although I definitely see it now. I was thinking about how there... Well, first of all, I was thinking about my other cards, but also I was thinking about how there are so many issues and then collecting them all feels like wading through trash, like what is and isn't something that I can deal with right now. There's just a lot to think about and sometimes you don't feel like you're the most well-informed on the topic or like something is something that you can speak about, but it is just something that is going on and those are difficult to kind of navigate in a more personal way.",
+    "speaker_turn": 119,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 2201.66,
+    "end_time": 2259.5,
+    "union_linked_turn_ids": [
+      "116",
+      "117",
+      "118",
+      "116",
+      "118",
+      "116",
+      "117",
+      "118"
+    ],
+    "segments": {
+      "118": {
+        "segment_words": "There's just a lot to think about and sometimes you don't feel like you're the most well-informed on the topic or like something is something that you can speak about, but it is just something that is going on and those are difficult to kind of navigate in a more personal way.",
+        "link_turn_id": 118,
+        "linked_words": "I think it was very difficult. I don't know if it was necessarily taboo, but I think there became a point on campus where if you weren't actively involved in I think some of the movement aspects of campus, then you didn't talk about it at all. It didn't seem like there were many spaces that allowed you to engage without being aligned to a particular movement or org.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "117": {
+        "segment_words": "sometimes you don't feel like you're the most well-informed on the topic or like something is something that you can speak about, but it is just something that is going on and those are difficult to kind of navigate in a more personal way.",
+        "link_turn_id": 117,
+        "linked_words": "And for me, at least, it's like the stuff I am struggling with alone is the stuff I don't want to talk to people about or the stuff I'm uncomfortable talking to people about because, I don't know, maybe it feels like other people aren't struggling with it and they won't relate to me or maybe I have some sort of shame and struggling with that thing or just it's kind of the things I am struggling on are naturally going to be the things that I'm uncomfortable talking about with other people because if I'm not uncomfortable talking about it, then I probably won't be struggling a lot.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "116": {
+        "segment_words": "There's just a lot to think about and sometimes you don't feel like you're the most well-informed on the topic or like something is something that you can speak about, but it is just something that is going on and those are difficult to kind of navigate in a more personal way.",
+        "link_turn_id": 116,
+        "linked_words": "I'm also not super well-informed on a lot of things that are happening on campus.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "120": {
+    "link_turn_id": [
+      116,
+      119
+    ],
+    "words": "I also feel like since there's so many things that you could care about, I feel like what happens is there are some things that specific people will be more naturally drawn to personally. So then everyone ends up with their own niche of issues that they are thinking about or involved with more, and then they might be slightly informed about other issues but not as much.",
+    "speaker_turn": 120,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 2265.09,
+    "end_time": 2297.08,
+    "union_linked_turn_ids": [
+      "119",
+      "116",
+      "119",
+      "116",
+      "119"
+    ],
+    "segments": {
+      "116": {
+        "segment_words": "I also feel like since there's so many things that you could care about, I feel like what happens is there are some things that specific people will be more naturally drawn to personally.",
+        "link_turn_id": 116,
+        "linked_words": "I feel like since mental health is something that's extremely personal to people who... Like, a lot of people have mental health struggles and then it can be really hard to share things that affected you personally with other people.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "119": {
+        "segment_words": "there's so many things that you could care about, I feel like what happens is there are some things that specific people will be more naturally drawn to personally.",
+        "link_turn_id": 119,
+        "linked_words": "how there are so many issues and then collecting them all feels like wading through trash, like what is and isn't something that I can deal with right now.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "121": {
+    "link_turn_id": [
+      120
+    ],
+    "words": "Yeah, and then everything else kind of gets left to the wayside.",
+    "speaker_turn": 121,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 2297.08,
+    "end_time": 2300.036,
+    "union_linked_turn_ids": [
+      "120",
+      "120",
+      "120"
+    ],
+    "segments": {
+      "120": {
+        "segment_words": "and then everything else kind of gets left to the wayside.",
+        "link_turn_id": 120,
+        "linked_words": "and then they might be slightly informed about other issues but not as much.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "122": {
+    "link_turn_id": [
+      121
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 122,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 2300.148,
+    "end_time": 2300.88,
+    "union_linked_turn_ids": [
+      "121",
+      "121",
+      "121"
+    ],
+    "segments": {
+      "121": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 121,
+        "linked_words": "Yeah, and then everything else kind of gets left to the wayside.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "123": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Awesome. Well, we're five minutes over, but I don't see the other team yet. So would y'all like to keep playing until we see another team or should I pause the recording and go check on them?",
+    "speaker_turn": 123,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2304.42,
+    "end_time": 2319.49,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "124": {
+    "link_turn_id": [
+      123
+    ],
+    "words": "I thought we were supposed to use the time at the end for other stuff, so I guess that's...",
+    "speaker_turn": 124,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 2319.49,
+    "end_time": 2329.03,
+    "union_linked_turn_ids": [
+      "123",
+      "123",
+      "123"
+    ],
+    "segments": {
+      "123": {
+        "segment_words": "I thought we were supposed to use the time at the end for other stuff, so I guess that's...",
+        "link_turn_id": 123,
+        "linked_words": "So would y'all like to keep playing until we see another team or should I pause the recording and go check on them?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "125": {
+    "link_turn_id": [
+      124,
+      123
+    ],
+    "words": "Yeah. I can go check on Cassie and see. Or do we want to do a final round last call? It's the one card we didn't pull.",
+    "speaker_turn": 125,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2329.03,
+    "end_time": 2340.34,
+    "union_linked_turn_ids": [
+      "123",
+      "124",
+      "123",
+      "124",
+      "123",
+      "124"
+    ],
+    "segments": {
+      "124": {
+        "segment_words": "Or do we want to do a final round last call? It's the one card we didn't pull.",
+        "link_turn_id": 124,
+        "linked_words": "I thought we were supposed to use the time at the end for other stuff",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "123": {
+        "segment_words": "I can go check on Cassie and see.",
+        "link_turn_id": 123,
+        "linked_words": "should I pause the recording and go check on them?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "126": {
+    "link_turn_id": [
+      125
+    ],
+    "words": "Sure, we can do one more.",
+    "speaker_turn": 126,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 2340.76,
+    "end_time": 2342.032,
+    "union_linked_turn_ids": [
+      "125",
+      "125",
+      "125"
+    ],
+    "segments": {
+      "125": {
+        "segment_words": "Sure, we can do one more.",
+        "link_turn_id": 125,
+        "linked_words": "Or do we want to do a final round last call?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "127": {
+    "link_turn_id": [
+      126
+    ],
+    "words": "Cool. I guess I'm technically next. Go in a circle and answer the following. What topic came up during the game which made you hopeful for the future and why?",
+    "speaker_turn": 127,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2342.096,
+    "end_time": 2354.82,
+    "union_linked_turn_ids": [
+      "126",
+      "126",
+      "NA"
+    ],
+    "segments": {
+      "126": {
+        "segment_words": "Cool. I guess I'm technically next.",
+        "link_turn_id": 126,
+        "linked_words": "Sure, we can do one more.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "128": {
+    "link_turn_id": [
+      125
+    ],
+    "words": "Did we use the card filters?",
+    "speaker_turn": 128,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 2357.64,
+    "end_time": 2359.42,
+    "union_linked_turn_ids": [
+      "125",
+      "125",
+      "126",
+      "127"
+    ],
+    "segments": {
+      "125": {
+        "segment_words": "Did we use the card filters?",
+        "link_turn_id": 125,
+        "linked_words": "It's the one card we didn't pull.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "129": {
+    "link_turn_id": [
+      128
+    ],
+    "words": "I don't know. I think we could talk.",
+    "speaker_turn": 129,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2361.52,
+    "end_time": 2365.63,
+    "union_linked_turn_ids": [
+      "123",
+      "125",
+      "128",
+      "128",
+      "128"
+    ],
+    "segments": {
+      "128": {
+        "segment_words": "I don't know.",
+        "link_turn_id": 128,
+        "linked_words": "Did we use the card filters?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "130": {
+    "link_turn_id": [
+      127
+    ],
+    "words": "Maybe this one for me just because it is kind of frustrating to see people just aimlessly argue, but it does feel like people generally have good intentions, like they aren't going into it with the intention of being mean to someone. They feel strongly about something and they want to share that somehow. Maybe they don't go about it the best way, but I think more generally, usually good intentions, but maybe just get a little too excited sometimes. I don't know. I don't know, I just... Something to think about next time I see it, like I didn't mean to be mean necessarily. I just feel very passionate about this.",
+    "speaker_turn": 130,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 2394.14,
+    "end_time": 2452.38,
+    "union_linked_turn_ids": [
+      "127",
+      "127",
+      "127"
+    ],
+    "segments": {
+      "127": {
+        "segment_words": "What topic came up during the game which made you hopeful for the future and why?",
+        "link_turn_id": 127,
+        "linked_words": "it does feel like people generally have good intentions, like they aren't going into it with the intention of being mean to someone.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "131": {
+    "link_turn_id": [
+      127,
+      130
+    ],
+    "words": "I think hearing you say the word encampment without it being so taboo, because I feel sometimes like that's something that people just don't want to talk about having happened. Yeah, I don't know. It did and it's still happening.",
+    "speaker_turn": 131,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 2463.48,
+    "end_time": 2482.95,
+    "union_linked_turn_ids": [
+      "127",
+      "130",
+      "125",
+      "126",
+      "127",
+      "130",
+      "130"
+    ],
+    "segments": {
+      "127": {
+        "segment_words": "I think hearing you say the word encampment without it being so taboo, because I feel sometimes like that's something that people just don't want to talk about having happened.",
+        "link_turn_id": 127,
+        "linked_words": "What topic came up during the game which made you hopeful for the future and why?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "130": {
+        "segment_words": "because I feel sometimes like that's something that people just don't want to talk about having happened. Yeah, I don't know. It did and it's still happening.",
+        "link_turn_id": 130,
+        "linked_words": "but it does feel like people generally have good intentions, like they aren't going into it with the intention of being mean to someone. They feel strongly about something and they want to share that somehow.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "132": {
+    "link_turn_id": [
+      131
+    ],
+    "words": "And it probably will this fall.",
+    "speaker_turn": 132,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2483.49,
+    "end_time": 2485.47,
+    "union_linked_turn_ids": [
+      "131",
+      "131",
+      "131"
+    ],
+    "segments": {
+      "131": {
+        "segment_words": "And it probably will this fall.",
+        "link_turn_id": 131,
+        "linked_words": "It did and it's still happening.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "133": {
+    "link_turn_id": [
+      131
+    ],
+    "words": "Yeah. And that makes me hopeful that we can just continue to have those conversations in a way that isn't people fighting on dorm spam, which apparently people just didn't know existed, which is another-",
+    "speaker_turn": 133,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 2488.73,
+    "end_time": 2504.704,
+    "union_linked_turn_ids": [
+      "131",
+      "131",
+      "131",
+      "132"
+    ],
+    "segments": {
+      "131": {
+        "segment_words": "And that makes me hopeful that we can just continue to have those conversations in a way that isn't people fighting on dorm spam,",
+        "link_turn_id": 131,
+        "linked_words": "I think hearing you say the word encampment without it being so taboo, because I feel sometimes like that's something that people just don't want to talk about having happened.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "134": {
+    "link_turn_id": [
+      133
+    ],
+    "words": "I'm not in the dorm.",
+    "speaker_turn": 134,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2505.528,
+    "end_time": 2506.544,
+    "union_linked_turn_ids": [
+      "133",
+      "133",
+      "133"
+    ],
+    "segments": {
+      "133": {
+        "segment_words": "I'm not in the dorm.",
+        "link_turn_id": 133,
+        "linked_words": "people fighting on dorm spam, which apparently people just didn't know existed",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "135": {
+    "link_turn_id": [
+      134
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 135,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 2506.632,
+    "end_time": 2507.3,
+    "union_linked_turn_ids": [
+      "134",
+      "134",
+      "134"
+    ],
+    "segments": {
+      "134": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 134,
+        "linked_words": "I'm not in the dorm.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "136": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "They're adding grad students.",
+    "speaker_turn": 136,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 2508.08,
+    "end_time": 2509.208,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "137": {
+    "link_turn_id": [
+      136
+    ],
+    "words": "They're adding grad students.",
+    "speaker_turn": 137,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 2509.264,
+    "end_time": 2510.024,
+    "union_linked_turn_ids": [
+      "136",
+      "136",
+      "136"
+    ],
+    "segments": {
+      "136": {
+        "segment_words": "They're adding grad students.",
+        "link_turn_id": 136,
+        "linked_words": "They're adding grad students.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "138": {
+    "link_turn_id": [
+      133,
+      137,
+      134
+    ],
+    "words": "But they're also dorm spam, so I don't know.",
+    "speaker_turn": 138,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 2510.072,
+    "end_time": 2511.384,
+    "union_linked_turn_ids": [
+      "133",
+      "134",
+      "133",
+      "137",
+      "133",
+      "134",
+      "137"
+    ],
+    "segments": {
+      "133": {
+        "segment_words": "But they're also dorm spam, so I don't know.",
+        "link_turn_id": 133,
+        "linked_words": "in a way that isn't people fighting on dorm spam",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "137": {
+        "segment_words": "But they're also dorm spam",
+        "link_turn_id": 137,
+        "linked_words": "They're adding grad students.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "134": {
+        "segment_words": "they're also dorm spam",
+        "link_turn_id": 134,
+        "linked_words": "I'm not in the dorm.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "139": {
+    "link_turn_id": [
+      137,
+      138
+    ],
+    "words": "Yeah. Well, they're adding grad students now, if you wanted to see people fight about-",
+    "speaker_turn": 139,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 2511.944,
+    "end_time": 2517.97,
+    "union_linked_turn_ids": [
+      "137",
+      "138",
+      "136",
+      "137",
+      "137",
+      "138"
+    ],
+    "segments": {
+      "137": {
+        "segment_words": "they're adding grad students now",
+        "link_turn_id": 137,
+        "linked_words": "They're adding grad students.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "138": {
+        "segment_words": "Well, they're adding grad students now, if you wanted to see people fight about-",
+        "link_turn_id": 138,
+        "linked_words": "But they're also dorm spam, so I don't know.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "140": {
+    "link_turn_id": [
+      136,
+      137
+    ],
+    "words": "Isn't that folks... Well, wouldn't that be grad students in dorms?",
+    "speaker_turn": 140,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2517.97,
+    "end_time": 2521.226,
+    "union_linked_turn_ids": [
+      "136",
+      "137",
+      "138",
+      "136",
+      "137",
+      "136",
+      "137"
+    ],
+    "segments": {
+      "136": {
+        "segment_words": "wouldn't that be grad students in dorms?",
+        "link_turn_id": 136,
+        "linked_words": "They're adding grad students.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "137": {
+        "segment_words": "wouldn't that be grad students in dorms?",
+        "link_turn_id": 137,
+        "linked_words": "They're adding grad students.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "141": {
+    "link_turn_id": [
+      140
+    ],
+    "words": "No, any grad student in the way.",
+    "speaker_turn": 141,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 2521.338,
+    "end_time": 2523.9982431529725,
+    "union_linked_turn_ids": [
+      "140",
+      "140",
+      "140"
+    ],
+    "segments": {
+      "140": {
+        "segment_words": "No, any grad student in the way.",
+        "link_turn_id": 140,
+        "linked_words": "wouldn't that be grad students in dorms?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "142": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "[inaudible].",
+    "speaker_turn": 142,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 2523.9982431529725,
+    "end_time": 2524.49,
+    "union_linked_turn_ids": [
+      "NA",
+      "140",
+      "141",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "143": {
+    "link_turn_id": [
+      138
+    ],
+    "words": "So dorm spam is a platform?",
+    "speaker_turn": 143,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2524.49,
+    "end_time": 2526.498,
+    "union_linked_turn_ids": [
+      "138",
+      "138",
+      "138"
+    ],
+    "segments": {
+      "138": {
+        "segment_words": "dorm spam is a platform?",
+        "link_turn_id": 138,
+        "linked_words": "they're also dorm spam",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "144": {
+    "link_turn_id": [
+      143
+    ],
+    "words": "It's a email list.",
+    "speaker_turn": 144,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 2526.634,
+    "end_time": 2528.034,
+    "union_linked_turn_ids": [
+      "143",
+      "143",
+      "143"
+    ],
+    "segments": {
+      "143": {
+        "segment_words": "It's a email list.",
+        "link_turn_id": 143,
+        "linked_words": "a platform",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "145": {
+    "link_turn_id": [
+      144
+    ],
+    "words": "Okay.",
+    "speaker_turn": 145,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2528.122,
+    "end_time": 2528.722,
+    "union_linked_turn_ids": [
+      "144",
+      "144",
+      "144"
+    ],
+    "segments": {
+      "144": {
+        "segment_words": "Okay.",
+        "link_turn_id": 144,
+        "linked_words": "It's a email list.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "146": {
+    "link_turn_id": [
+      143,
+      144
+    ],
+    "words": "So your inbox could be spammed with people who've lost their rings, their class rings, every single club email ever.",
+    "speaker_turn": 146,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 2528.826,
+    "end_time": 2538.338,
+    "union_linked_turn_ids": [
+      "143",
+      "144",
+      "144",
+      "143",
+      "143"
+    ],
+    "segments": {
+      "143": {
+        "segment_words": "your inbox could be spammed with people who've lost their rings, their class rings, every single club email ever.",
+        "link_turn_id": 143,
+        "linked_words": "dorm spam is a platform?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "144": {
+        "segment_words": "So your inbox could be spammed with people who've lost their rings, their class rings, every single club email ever.",
+        "link_turn_id": 144,
+        "linked_words": "It's a email list.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "147": {
+    "link_turn_id": [
+      146
+    ],
+    "words": "Wait, class rings? Y'all get class rings before you graduate?",
+    "speaker_turn": 147,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2538.514,
+    "end_time": 2542.042,
+    "union_linked_turn_ids": [
+      "146",
+      "146",
+      "146"
+    ],
+    "segments": {
+      "146": {
+        "segment_words": "class rings? Y'all get class rings before you graduate?",
+        "link_turn_id": 146,
+        "linked_words": "their class rings",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "148": {
+    "link_turn_id": [
+      147
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 148,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 2542.106,
+    "end_time": 2542.75,
+    "union_linked_turn_ids": [
+      "147",
+      "147",
+      "147"
+    ],
+    "segments": {
+      "147": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 147,
+        "linked_words": "Y'all get class rings before you graduate?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "149": {
+    "link_turn_id": [
+      147,
+      148
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 149,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 2542.75,
+    "end_time": 2542.981179015684,
+    "union_linked_turn_ids": [
+      "148",
+      "147",
+      "148",
+      "147",
+      "148"
+    ],
+    "segments": {
+      "147": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 147,
+        "linked_words": "Y'all get class rings before you graduate?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "148": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 148,
+        "linked_words": "Yeah.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "150": {
+    "link_turn_id": [
+      147,
+      148
+    ],
+    "words": "Why?",
+    "speaker_turn": 150,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2542.981179015684,
+    "end_time": 2543.177263385614,
+    "union_linked_turn_ids": [
+      "147",
+      "148",
+      "147",
+      "148",
+      "149",
+      "147",
+      "148"
+    ],
+    "segments": {
+      "147": {
+        "segment_words": "Why?",
+        "link_turn_id": 147,
+        "linked_words": "Y'all get class rings before you graduate?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "148": {
+        "segment_words": "Why?",
+        "link_turn_id": 148,
+        "linked_words": "Yeah.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "151": {
+    "link_turn_id": [
+      150
+    ],
+    "words": "Sophomore year.",
+    "speaker_turn": 151,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 2543.177263385614,
+    "end_time": 2543.78,
+    "union_linked_turn_ids": [
+      "150",
+      "150",
+      "150"
+    ],
+    "segments": {
+      "150": {
+        "segment_words": "Sophomore year.",
+        "link_turn_id": 150,
+        "linked_words": "Why?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "152": {
+    "link_turn_id": [
+      151
+    ],
+    "words": "What?",
+    "speaker_turn": 152,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2543.78,
+    "end_time": 2544.52,
+    "union_linked_turn_ids": [
+      "151",
+      "151",
+      "151"
+    ],
+    "segments": {
+      "151": {
+        "segment_words": "What?",
+        "link_turn_id": 151,
+        "linked_words": "Sophomore year.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "153": {
+    "link_turn_id": [
+      152
+    ],
+    "words": "Sophomore year.",
+    "speaker_turn": 153,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 2544.52,
+    "end_time": 2545.34,
+    "union_linked_turn_ids": [
+      "152",
+      "152",
+      "150",
+      "152"
+    ],
+    "segments": {
+      "152": {
+        "segment_words": "Sophomore year.",
+        "link_turn_id": 152,
+        "linked_words": "What?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "154": {
+    "link_turn_id": [
+      153
+    ],
+    "words": "Why?",
+    "speaker_turn": 154,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2545.34,
+    "end_time": 2546.036,
+    "union_linked_turn_ids": [
+      "153",
+      "151",
+      "153",
+      "153"
+    ],
+    "segments": {
+      "153": {
+        "segment_words": "Why?",
+        "link_turn_id": 153,
+        "linked_words": "Sophomore year.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "155": {
+    "link_turn_id": [
+      154
+    ],
+    "words": "I don't know.",
+    "speaker_turn": 155,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 2546.188,
+    "end_time": 2546.932,
+    "union_linked_turn_ids": [
+      "154",
+      "154",
+      "154"
+    ],
+    "segments": {
+      "154": {
+        "segment_words": "I don't know.",
+        "link_turn_id": 154,
+        "linked_words": "Why?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "156": {
+    "link_turn_id": [
+      154,
+      150
+    ],
+    "words": "It's just how it is.",
+    "speaker_turn": 156,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 2547.036,
+    "end_time": 2547.916,
+    "union_linked_turn_ids": [
+      "154",
+      "155",
+      "150",
+      "154",
+      "150",
+      "154"
+    ],
+    "segments": {
+      "154": {
+        "segment_words": "It's just how it is.",
+        "link_turn_id": 154,
+        "linked_words": "Why?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "150": {
+        "segment_words": "It's just how it is.",
+        "link_turn_id": 150,
+        "linked_words": "Why?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "157": {
+    "link_turn_id": [
+      156,
+      155
+    ],
+    "words": "You haven't done shit yet. That's cool, though.",
+    "speaker_turn": 157,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2547.988,
+    "end_time": 2551.484,
+    "union_linked_turn_ids": [
+      "155",
+      "156",
+      "155",
+      "156",
+      "155",
+      "156"
+    ],
+    "segments": {
+      "156": {
+        "segment_words": "That's cool, though.",
+        "link_turn_id": 156,
+        "linked_words": "It's just how it is.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "155": {
+        "segment_words": "You haven't done shit yet.",
+        "link_turn_id": 155,
+        "linked_words": "I don't know.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "158": {
+    "link_turn_id": [
+      157
+    ],
+    "words": "You can show off the promise of how you're going to do things in the future.",
+    "speaker_turn": 158,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 2551.484,
+    "end_time": 2555.436,
+    "union_linked_turn_ids": [
+      "157",
+      "157",
+      "157"
+    ],
+    "segments": {
+      "157": {
+        "segment_words": "show off the promise of how you're going to do things in the future.",
+        "link_turn_id": 157,
+        "linked_words": "You haven't done shit yet.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "159": {
+    "link_turn_id": [
+      157,
+      158
+    ],
+    "words": "Yeah, that's cool.",
+    "speaker_turn": 159,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2555.548,
+    "end_time": 2557.44,
+    "union_linked_turn_ids": [
+      "158",
+      "157",
+      "158",
+      "157",
+      "158"
+    ],
+    "segments": {
+      "157": {
+        "segment_words": "that's cool.",
+        "link_turn_id": 157,
+        "linked_words": "That's cool, though.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "158": {
+        "segment_words": "that's cool.",
+        "link_turn_id": 158,
+        "linked_words": "You can show off the promise of how you're going to do things in the future.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "160": {
+    "link_turn_id": [
+      157,
+      158
+    ],
+    "words": "It's for all the people who drop out.",
+    "speaker_turn": 160,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 2557.44,
+    "end_time": 2560.36,
+    "union_linked_turn_ids": [
+      "157",
+      "158",
+      "157",
+      "158",
+      "157",
+      "158",
+      "159"
+    ],
+    "segments": {
+      "157": {
+        "segment_words": "It's for all the people who drop out.",
+        "link_turn_id": 157,
+        "linked_words": "You haven't done shit yet.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "158": {
+        "segment_words": "It's for all the people who drop out.",
+        "link_turn_id": 158,
+        "linked_words": "You can show off the promise of how you're going to do things in the future.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "161": {
+    "link_turn_id": [
+      159,
+      158
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 161,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 2560.7,
+    "end_time": 2561.52,
+    "union_linked_turn_ids": [
+      "158",
+      "159",
+      "158",
+      "160",
+      "159"
+    ],
+    "segments": {
+      "159": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 159,
+        "linked_words": "Yeah, that's cool.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "158": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 158,
+        "linked_words": "You can show off the promise of how you're going to do things in the future.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "162": {
+    "link_turn_id": [
+      160
+    ],
+    "words": "The two of them, because we have a pretty high retention rate anyway.",
+    "speaker_turn": 162,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 2561.86,
+    "end_time": 2566.88,
+    "union_linked_turn_ids": [
+      "160",
+      "160",
+      "160"
+    ],
+    "segments": {
+      "160": {
+        "segment_words": "because we have a pretty high retention rate anyway",
+        "link_turn_id": 160,
+        "linked_words": "It's for all the people who drop out.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "163": {
+    "link_turn_id": [
+      162,
+      160
+    ],
+    "words": "Do they have to give it back?",
+    "speaker_turn": 163,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2567.83,
+    "end_time": 2569.054,
+    "union_linked_turn_ids": [
+      "160",
+      "162",
+      "160",
+      "162",
+      "162"
+    ],
+    "segments": {
+      "162": {
+        "segment_words": "Do they have to give it back?",
+        "link_turn_id": 162,
+        "linked_words": "The two of them",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "160": {
+        "segment_words": "Do they have to give it back?",
+        "link_turn_id": 160,
+        "linked_words": "It's for all the people who drop out.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "164": {
+    "link_turn_id": [
+      163
+    ],
+    "words": "No.",
+    "speaker_turn": 164,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 2569.142,
+    "end_time": 2569.678,
+    "union_linked_turn_ids": [
+      "163",
+      "163",
+      "163"
+    ],
+    "segments": {
+      "163": {
+        "segment_words": "No.",
+        "link_turn_id": 163,
+        "linked_words": "Do they have to give it back?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "165": {
+    "link_turn_id": [
+      164
+    ],
+    "words": "Word.",
+    "speaker_turn": 165,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2569.814,
+    "end_time": 2570.302,
+    "union_linked_turn_ids": [
+      "164",
+      "164",
+      "164"
+    ],
+    "segments": {
+      "164": {
+        "segment_words": "Word.",
+        "link_turn_id": 164,
+        "linked_words": "No.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "166": {
+    "link_turn_id": [
+      163,
+      164
+    ],
+    "words": "Well, you have to buy it.",
+    "speaker_turn": 166,
+    "speaker_name": "Hazel",
+    "conversation_id": 6371,
+    "start_time": 2570.366,
+    "end_time": 2571.57,
+    "union_linked_turn_ids": [
+      "163",
+      "164",
+      "164",
+      "163",
+      "164"
+    ],
+    "segments": {
+      "163": {
+        "segment_words": "you have to buy it",
+        "link_turn_id": 163,
+        "linked_words": "do they have to give it back",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "164": {
+        "segment_words": "you have to buy it.",
+        "link_turn_id": 164,
+        "linked_words": "No.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "167": {
+    "link_turn_id": [
+      166
+    ],
+    "words": "Yeah, right. I figured, but no. Okay. Well, the other team has just come back. We didn't finish, though.",
+    "speaker_turn": 167,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2571.87,
+    "end_time": 2579.334,
+    "union_linked_turn_ids": [
+      "166",
+      "166",
+      "166"
+    ],
+    "segments": {
+      "166": {
+        "segment_words": "Yeah, right. I figured, but no.",
+        "link_turn_id": 166,
+        "linked_words": "you have to buy it.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "168": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Hey.",
+    "speaker_turn": 168,
+    "speaker_name": "Speaker 2",
+    "conversation_id": 6371,
+    "start_time": 2579.422,
+    "end_time": 2580.05,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "169": {
+    "link_turn_id": [
+      168
+    ],
+    "words": "Hey. We-",
+    "speaker_turn": 169,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2584.35,
+    "end_time": 2585.502,
+    "union_linked_turn_ids": [
+      "168",
+      "168",
+      "168"
+    ],
+    "segments": {
+      "168": {
+        "segment_words": "Hey.",
+        "link_turn_id": 168,
+        "linked_words": "Hey.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "170": {
+    "link_turn_id": [
+      169
+    ],
+    "words": "Still playing?",
+    "speaker_turn": 170,
+    "speaker_name": "Speaker 2",
+    "conversation_id": 6371,
+    "start_time": 2585.502,
+    "end_time": 2585.686,
+    "union_linked_turn_ids": [
+      "169",
+      "169",
+      "169"
+    ],
+    "segments": {
+      "169": {
+        "segment_words": "Still playing?",
+        "link_turn_id": 169,
+        "linked_words": "Hey. We-",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "171": {
+    "link_turn_id": [
+      170,
+      169
+    ],
+    "words": "Yeah, we were waiting until we saw y'all come back and we're answering the last round question now.",
+    "speaker_turn": 171,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2585.686,
+    "end_time": 2590.398,
+    "union_linked_turn_ids": [
+      "170",
+      "169",
+      "170",
+      "169",
+      "170"
+    ],
+    "segments": {
+      "170": {
+        "segment_words": "we're answering the last round question now.",
+        "link_turn_id": 170,
+        "linked_words": "Still playing?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "169": {
+        "segment_words": "Yeah, we were waiting until we saw y'all come back and we're answering the last round question now.",
+        "link_turn_id": 169,
+        "linked_words": "Hey. We-",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "172": {
+    "link_turn_id": [
+      171
+    ],
+    "words": "You made it to the last round?",
+    "speaker_turn": 172,
+    "speaker_name": "Speaker 2",
+    "conversation_id": 6371,
+    "start_time": 2590.398,
+    "end_time": 2591.358,
+    "union_linked_turn_ids": [
+      "171",
+      "171",
+      "171"
+    ],
+    "segments": {
+      "171": {
+        "segment_words": "You made it to the last round?",
+        "link_turn_id": 171,
+        "linked_words": "we're answering the last round question now",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "173": {
+    "link_turn_id": [
+      172
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 173,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2591.414,
+    "end_time": 2591.814,
+    "union_linked_turn_ids": [
+      "172",
+      "172",
+      "172"
+    ],
+    "segments": {
+      "172": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 172,
+        "linked_words": "You made it to the last round?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "174": {
+    "link_turn_id": [
+      173
+    ],
+    "words": "Fantastic. Good, good, good. Okay.",
+    "speaker_turn": 174,
+    "speaker_name": "Speaker 2",
+    "conversation_id": 6371,
+    "start_time": 2591.902,
+    "end_time": 2593.96,
+    "union_linked_turn_ids": [
+      "172",
+      "173",
+      "173",
+      "173"
+    ],
+    "segments": {
+      "173": {
+        "segment_words": "Fantastic. Good, good, good. Okay.",
+        "link_turn_id": 173,
+        "linked_words": "Yeah.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "175": {
+    "link_turn_id": [
+      173,
+      171
+    ],
+    "words": "We've got two responses.",
+    "speaker_turn": 175,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2594.0,
+    "end_time": 2595.072,
+    "union_linked_turn_ids": [
+      "171",
+      "173",
+      "173",
+      "174",
+      "171",
+      "173"
+    ],
+    "segments": {
+      "173": {
+        "segment_words": "We've got two responses.",
+        "link_turn_id": 173,
+        "linked_words": "Yeah.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "171": {
+        "segment_words": "We've got two responses.",
+        "link_turn_id": 171,
+        "linked_words": "and we're answering the last round question now.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "176": {
+    "link_turn_id": [
+      175
+    ],
+    "words": "Yeah, join me whenever you want.",
+    "speaker_turn": 176,
+    "speaker_name": "Speaker 2",
+    "conversation_id": 6371,
+    "start_time": 2595.136,
+    "end_time": 2596.66,
+    "union_linked_turn_ids": [
+      "175",
+      "171",
+      "175",
+      "175"
+    ],
+    "segments": {
+      "175": {
+        "segment_words": "join me whenever you want",
+        "link_turn_id": 175,
+        "linked_words": "We've got two responses",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "177": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "I don't know, I guess I feel like we sort of share views on how people generally have good intentions and things like that, which means that... I think that's definitely a good thing about campus environment, especially for making change. And also that we all seem to have some different experiences and interests, which means that if you generalize that to all of campus, since people are thinking about different things, hopefully a lot of different problems will get addressed and then a lot of different spaces will be made better by the people who are passionate about those things.",
+    "speaker_turn": 177,
+    "speaker_name": "Speaker 3",
+    "conversation_id": 6371,
+    "start_time": 2604.8,
+    "end_time": 2656.23,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "178": {
+    "link_turn_id": [
+      177
+    ],
+    "words": "Yeah, I feel that. Thank you. I think it's come up a few times around folks... I think judgment has come up a few times and folks feeling, like in large group settings, judgment can be this inherent thing, which prohibits either sharing or makes folks feel uncomfortable because of the fear of being judged or mislabeled or walking on eggshells or offending people and receiving malicious responses. And I'm hopeful that maybe throughout the rest of the retreat, I mean the workshop, we can come up with these playful interactions for folks that help more sharing of feelings like that, or more exploration of moments on campus that either create those feelings or abates those feelings and fosters more connections so that people feel more comfortable. Yeah. Okay, I'm going to pause the recording here. Would anybody like to say any last words for the record? And it can be silly. You're smiling, Daniel. What do you want to say?",
+    "speaker_turn": 178,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2659.33,
+    "end_time": 2745.86,
+    "union_linked_turn_ids": [
+      "177",
+      "177",
+      "177"
+    ],
+    "segments": {
+      "177": {
+        "segment_words": "I'm hopeful that maybe throughout the rest of the retreat, I mean the workshop, we can come up with these playful interactions for folks that help more sharing of feelings like that, or more exploration of moments on campus that either create those feelings or abates those feelings and fosters more connections so that people feel more comfortable.",
+        "link_turn_id": 177,
+        "linked_words": "I think that's definitely a good thing about campus environment, especially for making change. And also that we all seem to have some different experiences and interests, which means that if you generalize that to all of campus, since people are thinking about different things, hopefully a lot of different problems will get addressed and then a lot of different spaces will be made better by the people who are passionate about those things.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "179": {
+    "link_turn_id": [
+      178
+    ],
+    "words": "Nothing.",
+    "speaker_turn": 179,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 2746.36,
+    "end_time": 2747.22,
+    "union_linked_turn_ids": [
+      "178",
+      "178",
+      "178"
+    ],
+    "segments": {
+      "178": {
+        "segment_words": "Nothing.",
+        "link_turn_id": 178,
+        "linked_words": "What do you want to say?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "180": {
+    "link_turn_id": [
+      178
+    ],
+    "words": "A beautiful statement.",
+    "speaker_turn": 180,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2747.93,
+    "end_time": 2749.09,
+    "union_linked_turn_ids": [
+      "178",
+      "178",
+      "178"
+    ],
+    "segments": {
+      "178": {
+        "segment_words": "A beautiful statement.",
+        "link_turn_id": 178,
+        "linked_words": "You're smiling, Daniel. What do you want to say?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "181": {
+    "link_turn_id": [
+      180
+    ],
+    "words": "Thank you.",
+    "speaker_turn": 181,
+    "speaker_name": "Daniel",
+    "conversation_id": 6371,
+    "start_time": 2749.21,
+    "end_time": 2750.042,
+    "union_linked_turn_ids": [
+      "180",
+      "180",
+      "180"
+    ],
+    "segments": {
+      "180": {
+        "segment_words": "Thank you.",
+        "link_turn_id": 180,
+        "linked_words": "A beautiful statement.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "182": {
+    "link_turn_id": [
+      181
+    ],
+    "words": "No problem.",
+    "speaker_turn": 182,
+    "speaker_name": "Faciltiator",
+    "conversation_id": 6371,
+    "start_time": 2750.186,
+    "end_time": 2751.07,
+    "union_linked_turn_ids": [
+      "181",
+      "181",
+      "181"
+    ],
+    "segments": {
+      "181": {
+        "segment_words": "No problem.",
+        "link_turn_id": 181,
+        "linked_words": "Thank you.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  }
+}

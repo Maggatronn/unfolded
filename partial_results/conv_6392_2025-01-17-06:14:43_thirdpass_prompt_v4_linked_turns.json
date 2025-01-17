@@ -1,0 +1,2015 @@
+{
+  "1": {
+    "words": "Okay. So first just to kind of go over again, purpose of the conversation, creating new spaces across the city to facilitate more constructive listening just across neighborhoods and communities and really building an ecosystem of listening where every community member's stories contributes to our shared understanding and building a stronger and more inclusive Boston. So really inviting you to engage in this conversation. Share from your personal stories and your own lives and experiences rather than, we sometimes do a lot of opinions or things of other people, but it's always great to stick to what you've experienced and what you know. And so this approach really aims to build connections, to facilitate conversations that deepen mutual understanding. Second, I want to address what's going to happen to the recording. So after our meeting, this is going to be part of the collection of the conversation. So this conversation, along with other conversations that are taking place throughout the city, will be shared with members of the Real Talk at Boston team, which consists of 14 community-based organizations in the city of Boston and it'll also be shared with the MIT Center for Contractive Communication. Thirdly, all conversations that will be a part of this effort will become part of the conversation platform. It's developed by their nonprofit organization called Cortico. So it's the MIT Center's development arm, and they have a FORA system that creates a transcript for each recording. And so we're going to upload the audio, it'll develop a transcript, and then we pull patterns and highlights from each conversation to be used for the end product. So this system allows for keywords to emerge out of different conversations. We can search the conversations, listen to audio snippets, discover patterns, and so that's really what that system uses. And then what we want to accomplish today is really beginning a process of weaving almost like a virtual tapestry of conversations across the city. I have a lot to say. So this next part, we'll say verbatim. As a participant in this conversation, you are providing consent to the MIT Center for Constructive Communication to retain the recording of this conversation in accordance with the mission of the Real Talk at Boston and transforming Boston into a listening city. You also understand that the conversation will be part of the Real Talk at Boston Public Conversation Collection with the goal to foster constructive communication across the city. The MIT Center for Constructive Communication will collect, retain, and analyze these conversations in keeping with that goal and with the mission to develop methods and tools that foster constructive communication in local communities. Participation in this conversation is voluntary and you can withdraw at any time without consequences. Sessions will be recorded, but you can opt out and have this recording deleted. Only the research team at the MIT CCC will have access to your data. Your identity will be protected and information won't be shared without permission unless required by law. There are minimal foreseen risks. However, with any conversation, there is a chance that you'll hear stories that elicit strong emotions. I'll support you in hosting a safe conversation where you only share what you feel comfortable sharing. And then I'm going to ask if everyone consents to this, if you can just come off with mute and say, I agree, and then we can move forward.",
+    "link_turn_id": [
+      "NA"
+    ],
+    "speaker_turn": 1,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6392,
+    "start_time": 1.24,
+    "end_time": 209.16,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "2": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "I agree.",
+    "speaker_turn": 2,
+    "speaker_name": "Cora",
+    "conversation_id": 6392,
+    "start_time": 210.02,
+    "end_time": 211.036,
+    "union_linked_turn_ids": [
+      "1",
+      "1",
+      "1"
+    ],
+    "segments": {
+      "1": {
+        "segment_words": "I agree.",
+        "link_turn_id": 1,
+        "linked_words": "if you can just come off with mute and say, I agree, and then we can move forward.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "3": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "I agree.",
+    "speaker_turn": 3,
+    "speaker_name": "Ally",
+    "conversation_id": 6392,
+    "start_time": 211.228,
+    "end_time": 212.124,
+    "union_linked_turn_ids": [
+      "1",
+      "1",
+      "1"
+    ],
+    "segments": {
+      "1": {
+        "segment_words": "I agree.",
+        "link_turn_id": 1,
+        "linked_words": "I'm going to ask if everyone consents to this, if you can just come off with mute and say, I agree, and then we can move forward.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "4": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "I agree.",
+    "speaker_turn": 4,
+    "speaker_name": "Mary",
+    "conversation_id": 6392,
+    "start_time": 212.292,
+    "end_time": 213.16,
+    "union_linked_turn_ids": [
+      "1",
+      "1",
+      "1"
+    ],
+    "segments": {
+      "1": {
+        "segment_words": "I agree.",
+        "link_turn_id": 1,
+        "linked_words": "I'm going to ask if everyone consents to this, if you can just come off with mute and say, I agree, and then we can move forward.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "5": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "Great. Perfect. And so really just again, I always like to set up some guidelines for conversations. So in order to support all these goals, I want to make sure we speak for ourselves out of our own experiences. Allow for others to speak for themselves. Share the time, so allow others to finish speaking, take turns, stay curious, ask honest questions, pause, take time for reflection, listen generously, assume good intentions while recognizing that your words have an impact. Are those guidelines good with everyone?",
+    "speaker_turn": 5,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6392,
+    "start_time": 213.86,
+    "end_time": 245.89,
+    "union_linked_turn_ids": [
+      "1",
+      "1",
+      "1"
+    ],
+    "segments": {
+      "1": {
+        "segment_words": "And so really just again, I always like to set up some guidelines for conversations. So in order to support all these goals, I want to make sure we speak for ourselves out of our own experiences.",
+        "link_turn_id": 1,
+        "linked_words": "And so this approach really aims to build connections, to facilitate conversations that deepen mutual understanding.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "6": {
+    "link_turn_id": [
+      5
+    ],
+    "words": "Yep.",
+    "speaker_turn": 6,
+    "speaker_name": "Mary",
+    "conversation_id": 6392,
+    "start_time": 247.84,
+    "end_time": 248.688,
+    "union_linked_turn_ids": [
+      "5",
+      "5",
+      "5"
+    ],
+    "segments": {
+      "5": {
+        "segment_words": "Yep.",
+        "link_turn_id": 5,
+        "linked_words": "Are those guidelines good with everyone?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "7": {
+    "link_turn_id": [
+      5,
+      6
+    ],
+    "words": "Cool. Okay. I'm going to kick us off with the round of introductions. So if you want to please just say your first name or a pseudonym, whatever you prefer. But we're on Zoom, so it's kind of different that way. In addition to your first name, if you want to share a story about your journey to Boston. So really what brought you or your family here, whether that was recently or a long time ago. And overall, what has been your experience just of Boston. And anyone who wants to go ahead and start can kick us off.",
+    "speaker_turn": 7,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6392,
+    "start_time": 248.864,
+    "end_time": 280.53,
+    "union_linked_turn_ids": [
+      "5",
+      "6",
+      "5",
+      "6",
+      "5"
+    ],
+    "segments": {
+      "5": {
+        "segment_words": "I'm going to kick us off with the round of introductions. So if you want to please just say your first name or a pseudonym, whatever you prefer.",
+        "link_turn_id": 5,
+        "linked_words": "Share the time, so allow others to finish speaking, take turns, stay curious, ask honest questions, pause, take time for reflection, listen generously, assume good intentions while recognizing that your words have an impact. Are those guidelines good with everyone?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "6": {
+        "segment_words": "Cool. Okay.",
+        "link_turn_id": 6,
+        "linked_words": "Yep.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "8": {
+    "link_turn_id": [
+      7
+    ],
+    "words": "I'll go real quick. I came to Boston for school and, honestly, what initially attracted me to UMass Boston was the location. I immediately fell in love with that location. It was very peaceful and I loved how it was a ten-minute train, not a ten-minute train, like a ten-minute drive to downtown. So it was honestly, truly, the location, obviously the school, it just made sense for me.",
+    "speaker_turn": 8,
+    "speaker_name": "Cora",
+    "conversation_id": 6392,
+    "start_time": 281.71,
+    "end_time": 318.66,
+    "union_linked_turn_ids": [
+      "7",
+      "7",
+      "7"
+    ],
+    "segments": {
+      "7": {
+        "segment_words": "I came to Boston for school and, honestly, what initially attracted me to UMass Boston was the location.",
+        "link_turn_id": 7,
+        "linked_words": "In addition to your first name, if you want to share a story about your journey to Boston. So really what brought you or your family here, whether that was recently or a long time ago.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "9": {
+    "link_turn_id": [
+      8
+    ],
+    "words": "Nice.",
+    "speaker_turn": 9,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6392,
+    "start_time": 318.66,
+    "end_time": 327.96,
+    "union_linked_turn_ids": [
+      "8",
+      "8",
+      "8"
+    ],
+    "segments": {
+      "8": {
+        "segment_words": "Nice.",
+        "link_turn_id": 8,
+        "linked_words": "I came to Boston for school and, honestly, what initially attracted me to UMass Boston was the location. I immediately fell in love with that location. It was very peaceful and I loved how it was a ten-minute train, not a ten-minute train, like a ten-minute drive to downtown. So it was honestly, truly, the location, obviously the school, it just made sense for me.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "10": {
+    "link_turn_id": [
+      7,
+      8
+    ],
+    "words": "I'm Mary. I'm fine with being referred to put that. I came to Boston myself after school really for work, but also there's so many different industries that were really operating out of Boston. I also knew that socially that was around the time that I was coming out of the closet myself, and I knew that there was a big LGBT community in Boston, so that was something that brought me here.",
+    "speaker_turn": 10,
+    "speaker_name": "Mary",
+    "conversation_id": 6392,
+    "start_time": 327.96,
+    "end_time": 356.54,
+    "union_linked_turn_ids": [
+      "7",
+      "7",
+      "8",
+      "7",
+      "8"
+    ],
+    "segments": {
+      "7": {
+        "segment_words": "I'm Mary. I'm fine with being referred to put that. I came to Boston myself after school really for work, but also there's so many different industries that were really operating out of Boston. I also knew that socially that was around the time that I was coming out of the closet myself, and I knew that there was a big LGBT community in Boston, so that was something that brought me here.",
+        "link_turn_id": 7,
+        "linked_words": "So if you want to please just say your first name or a pseudonym, whatever you prefer. In addition to your first name, if you want to share a story about your journey to Boston. So really what brought you or your family here, whether that was recently or a long time ago.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "8": {
+        "segment_words": "I came to Boston myself after school really for work, but also there's so many different industries that were really operating out of Boston.",
+        "link_turn_id": 8,
+        "linked_words": "I came to Boston for school and, honestly, what initially attracted me to UMass Boston was the location.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "11": {
+    "link_turn_id": [
+      10,
+      7
+    ],
+    "words": "Hi, my name is Ally. I moved to Boston after I graduated college for a job, but also wanted to live with my friends, sorry, I'm walking. But moved to Boston to live with my friends and to start a new job after school.",
+    "speaker_turn": 11,
+    "speaker_name": "Ally",
+    "conversation_id": 6392,
+    "start_time": 360.92,
+    "end_time": 378.46,
+    "union_linked_turn_ids": [
+      "7",
+      "10",
+      "7",
+      "10",
+      "7",
+      "10"
+    ],
+    "segments": {
+      "10": {
+        "segment_words": "I moved to Boston after I graduated college for a job",
+        "link_turn_id": 10,
+        "linked_words": "I came to Boston myself after school really for work",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "7": {
+        "segment_words": "Hi, my name is Ally. I moved to Boston after I graduated college for a job, but also wanted to live with my friends, sorry, I'm walking. But moved to Boston to live with my friends and to start a new job after school.",
+        "link_turn_id": 7,
+        "linked_words": "So if you want to please just say your first name or a pseudonym, whatever you prefer. But we're on Zoom, so it's kind of different that way. In addition to your first name, if you want to share a story about your journey to Boston. So really what brought you or your family here, whether that was recently or a long time ago. And overall, what has been your experience just of Boston.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "12": {
+    "link_turn_id": [
+      10,
+      11
+    ],
+    "words": "Thank you.",
+    "speaker_turn": 12,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6392,
+    "start_time": 380.8,
+    "end_time": 381.74,
+    "union_linked_turn_ids": [
+      "11",
+      "10",
+      "11",
+      "10",
+      "11"
+    ],
+    "segments": {
+      "10": {
+        "segment_words": "Thank you.",
+        "link_turn_id": 10,
+        "linked_words": "I'm fine with being referred to put that.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "11": {
+        "segment_words": "Thank you.",
+        "link_turn_id": 11,
+        "linked_words": "Hi, my name is Ally.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "13": {
+    "link_turn_id": [
+      10,
+      11,
+      7
+    ],
+    "words": "Hi, I'm Jasmine. I came to Boston because of work. Well, not because of work, but because I wanted to be in Boston. So I got a job in Boston and I guess that's kind of how I ended up here and I've been here for about two years now.",
+    "speaker_turn": 13,
+    "speaker_name": "Jasmine",
+    "conversation_id": 6392,
+    "start_time": 385.17,
+    "end_time": 401.602,
+    "union_linked_turn_ids": [
+      "7",
+      "10",
+      "11",
+      "7",
+      "7",
+      "10",
+      "11"
+    ],
+    "segments": {
+      "10": {
+        "segment_words": "I came to Boston because of work.",
+        "link_turn_id": 10,
+        "linked_words": "I came to Boston myself after school really for work,",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "11": {
+        "segment_words": "I came to Boston because of work. Well, not because of work, but because I wanted to be in Boston. So I got a job in Boston and I guess that's kind of how I ended up here and I've been here for about two years now.",
+        "link_turn_id": 11,
+        "linked_words": "I moved to Boston after I graduated college for a job, but also wanted to live with my friends, sorry, I'm walking. But moved to Boston to live with my friends and to start a new job after school.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "7": {
+        "segment_words": "Hi, I'm Jasmine. I came to Boston because of work. Well, not because of work, but because I wanted to be in Boston. So I got a job in Boston and I guess that's kind of how I ended up here and I've been here for about two years now.",
+        "link_turn_id": 7,
+        "linked_words": "In addition to your first name, if you want to share a story about your journey to Boston. So really what brought you or your family here, whether that was recently or a long time ago. And overall, what has been your experience just of Boston.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "14": {
+    "link_turn_id": [
+      13,
+      7
+    ],
+    "words": "Hi, my name is Tasia and I came to Boston because of her, because I was looking for a job anywhere and she was like, \"Come to Boston,\" and so I went. And so I work at Boston Medical Center.",
+    "speaker_turn": 14,
+    "speaker_name": "Tasia",
+    "conversation_id": 6392,
+    "start_time": 401.786,
+    "end_time": 416.046,
+    "union_linked_turn_ids": [
+      "7",
+      "7",
+      "13",
+      "7",
+      "13"
+    ],
+    "segments": {
+      "13": {
+        "segment_words": "I came to Boston because of her, because I was looking for a job anywhere and she was like, \"Come to Boston,\" and so I went.",
+        "link_turn_id": 13,
+        "linked_words": "I came to Boston because of work. Well, not because of work, but because I wanted to be in Boston. So I got a job in Boston and I guess that's kind of how I ended up here",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "7": {
+        "segment_words": "Hi, my name is Tasia and I came to Boston because of her, because I was looking for a job anywhere and she was like, \"Come to Boston,\" and so I went.",
+        "link_turn_id": 7,
+        "linked_words": "In addition to your first name, if you want to share a story about your journey to Boston. So really what brought you or your family here, whether that was recently or a long time ago.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "15": {
+    "link_turn_id": [
+      14,
+      13,
+      11,
+      7,
+      10
+    ],
+    "words": "Nice. Nice. Cool. Thank you. Okay, so thank you all for sharing your own journeys and your stories coming to the city of Boston. So really for the rest of the conversation, we want to learn more about your experiences living in the city so be honest. And so this is where change happens is when people start being honest and critical of systems. So just kind of have that mindset coming into the rest of the conversation. So the next question that I want to post to the group would be, could you describe a time, a specific time when you felt really supported by your community in Boston? So I'd love to hear about either who was there, what happened that made it feel special or meaningful. Take a minute to think as well.",
+    "speaker_turn": 15,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6392,
+    "start_time": 416.198,
+    "end_time": 466.99,
+    "union_linked_turn_ids": [
+      "7",
+      "10",
+      "11",
+      "13",
+      "14",
+      "13",
+      "14",
+      "7",
+      "10",
+      "11",
+      "13",
+      "14"
+    ],
+    "segments": {
+      "14": {
+        "segment_words": "thank you all for sharing your own journeys and your stories coming to the city of Boston.",
+        "link_turn_id": 14,
+        "linked_words": "I came to Boston because of her, because I was looking for a job anywhere and she was like, \"Come to Boston,\" and so I went.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "13": {
+        "segment_words": "thank you all for sharing your own journeys and your stories coming to the city of Boston.",
+        "link_turn_id": 13,
+        "linked_words": "I guess that's kind of how I ended up here and I've been here for about two years now.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "11": {
+        "segment_words": "Okay, so thank you all for sharing your own journeys and your stories coming to the city of Boston.",
+        "link_turn_id": 11,
+        "linked_words": "Hi, my name is Ally. I moved to Boston after I graduated college for a job, but also wanted to live with my friends, sorry, I'm walking. But moved to Boston to live with my friends and to start a new job after school.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "7": {
+        "segment_words": "thank you all for sharing your own journeys and your stories coming to the city of Boston",
+        "link_turn_id": 7,
+        "linked_words": "So if you want to please just say your first name or a pseudonym, whatever you prefer. But we're on Zoom, so it's kind of different that way. In addition to your first name, if you want to share a story about your journey to Boston.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "10": {
+        "segment_words": "thank you all for sharing your own journeys and your stories coming to the city of Boston",
+        "link_turn_id": 10,
+        "linked_words": "I came to Boston myself after school really for work, but also there's so many different industries that were really operating out of Boston. I also knew that socially that was around the time that I was coming out of the closet myself, and I knew that there was a big LGBT community in Boston, so that was something that brought me here.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "16": {
+    "link_turn_id": [
+      15
+    ],
+    "words": "I don't know if this necessarily counts, but I would say that I felt supported when I got my job at Boston Casa just because of all of my coworkers and the people that I work with are so welcoming. And also because I was in the transition of just moving to Boston too, I felt really supported with the transportation aspect of having to go back and forth. So I felt very supported in that way, but I think I felt very welcomed into the community moving back into Boston.",
+    "speaker_turn": 16,
+    "speaker_name": "Jasmine",
+    "conversation_id": 6392,
+    "start_time": 479.81,
+    "end_time": 519.91,
+    "union_linked_turn_ids": [
+      "15",
+      "15",
+      "15"
+    ],
+    "segments": {
+      "15": {
+        "segment_words": "I would say that I felt supported when I got my job at Boston Casa just because of all of my coworkers and the people that I work with are so welcoming. And also because I was in the transition of just moving to Boston too, I felt really supported with the transportation aspect of having to go back and forth. So I felt very supported in that way, but I think I felt very welcomed into the community moving back into Boston.",
+        "link_turn_id": 15,
+        "linked_words": "could you describe a time, a specific time when you felt really supported by your community in Boston? So I'd love to hear about either who was there, what happened that made it feel special or meaningful.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "17": {
+    "link_turn_id": [
+      16
+    ],
+    "words": "Yeah, I'll piggyback off of Jas. I too feel like having worked... Originally I came from Oklahoma and I worked in Texas and California and so many different states. And one thing I recognize about Boston that is unique, or Massachusetts as a whole, is people are very understanding of circumstances. And so I felt like there was a level of flexibility that did not exist elsewhere. I also think that, again, like she said, transportation's pretty awesome here and I feel like that's a great support that people don't really think of. And I know there's a lot of work that goes into making it accessible.",
+    "speaker_turn": 17,
+    "speaker_name": "Tasia",
+    "conversation_id": 6392,
+    "start_time": 521.73,
+    "end_time": 558.77,
+    "union_linked_turn_ids": [
+      "16",
+      "16",
+      "16"
+    ],
+    "segments": {
+      "16": {
+        "segment_words": "again, like she said, transportation's pretty awesome here and I feel like that's a great support that people don't really think of.",
+        "link_turn_id": 16,
+        "linked_words": "I felt really supported with the transportation aspect of having to go back and forth.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "18": {
+    "link_turn_id": [
+      16,
+      15,
+      17
+    ],
+    "words": "I have kind of a funny one about what I felt like I belonged  in Boston. I was working a really terrible job, so not exactly the job that I came here for. And I was working during one of the big snowicannes  that we had seven years ago I think. And our office was right down the street from a Dunkin Donuts and I had to go and get Dunkin Donuts and there was a long line of people getting iced coffees immediately in front of me all getting the styrofoam on the outside of the plastic cup. But it was like everybody was out there because they were working. So there was just guys who drove plows and property managers like me and just like anybody who had to be out in the city that day was just in line and Dunkin Donuts talking to each other about how shitty it was that we all had to work in the snow and that we all had to come out and be out like this and it was the most quintessential Boston moment to me.",
+    "speaker_turn": 18,
+    "speaker_name": "Mary",
+    "conversation_id": 6392,
+    "start_time": 565.67,
+    "end_time": 621.0,
+    "union_linked_turn_ids": [
+      "15",
+      "16",
+      "17",
+      "15",
+      "16",
+      "17",
+      "15"
+    ],
+    "segments": {
+      "16": {
+        "segment_words": "I have kind of a funny one about what I felt like I belonged in Boston.",
+        "link_turn_id": 16,
+        "linked_words": "I felt really supported with the transportation aspect of having to go back and forth. So I felt very supported in that way, but I think I felt very welcomed into the community moving back into Boston.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "15": {
+        "segment_words": "could you describe a time, a specific time when you felt really supported by your community in Boston?",
+        "link_turn_id": 15,
+        "linked_words": "I have kind of a funny one about what I felt like I belonged in Boston. I was working a really terrible job, so not exactly the job that I came here for.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "17": {
+        "segment_words": "it was the most quintessential Boston moment to me",
+        "link_turn_id": 17,
+        "linked_words": "And one thing I recognize about Boston that is unique, or Massachusetts as a whole",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "19": {
+    "link_turn_id": [
+      16,
+      15,
+      17,
+      18
+    ],
+    "words": "Love that. That's great. Any other thoughts? Again, if this doesn't apply to you, that's totally fine, right? That's real. If you feel like there wasn't a time that you felt really supported, that's totally fine. But if you think about a scenario or situation at another point, feel free to say that. And so to that end, I also want to leave space for times that didn't happen. And so the next kind of question is could you tell me about maybe a time or what you worry about day to day while living in Boston? So maybe this is related to healthcare, finances, accessibility, inclusivity or something else entirely. What kind of support do you wish you had for these concerns?",
+    "speaker_turn": 19,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6392,
+    "start_time": 621.78,
+    "end_time": 691.17,
+    "union_linked_turn_ids": [
+      "15",
+      "16",
+      "17",
+      "18",
+      "15",
+      "16",
+      "17",
+      "18",
+      "18"
+    ],
+    "segments": {
+      "16": {
+        "segment_words": "Love that. That's great.",
+        "link_turn_id": 16,
+        "linked_words": "I felt supported when I got my job at Boston Casa just because of all of my coworkers and the people that I work with are so welcoming.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "15": {
+        "segment_words": "Any other thoughts? Again, if this doesn't apply to you, that's totally fine, right? That's real. If you feel like there wasn't a time that you felt really supported, that's totally fine.",
+        "link_turn_id": 15,
+        "linked_words": "So the next question that I want to post to the group would be, could you describe a time, a specific time when you felt really supported by your community in Boston?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "17": {
+        "segment_words": "So maybe this is related to healthcare, finances, accessibility, inclusivity or something else entirely.",
+        "link_turn_id": 17,
+        "linked_words": "And I know there's a lot of work that goes into making it accessible.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "18": {
+        "segment_words": "Love that. That's great.",
+        "link_turn_id": 18,
+        "linked_words": "I have kind of a funny one about what I felt like I belonged  in Boston.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "20": {
+    "link_turn_id": [
+      19
+    ],
+    "words": "My concern, so sorry, I'm laughing because it's funny. I feel like we all struggle with that, but I doubt anyone will say it is traffic. The traffic. I don't know how they can be supportive for that, but yeah, definitely need help there.",
+    "speaker_turn": 20,
+    "speaker_name": "Cora",
+    "conversation_id": 6392,
+    "start_time": 694.95,
+    "end_time": 713.42,
+    "union_linked_turn_ids": [
+      "19",
+      "19",
+      "19"
+    ],
+    "segments": {
+      "19": {
+        "segment_words": "My concern, so sorry, I'm laughing because it's funny. I feel like we all struggle with that, but I doubt anyone will say it is traffic. The traffic.",
+        "link_turn_id": 19,
+        "linked_words": "And so the next kind of question is could you tell me about maybe a time or what you worry about day to day while living in Boston?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "21": {
+    "link_turn_id": [
+      20
+    ],
+    "words": "Agree.",
+    "speaker_turn": 21,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6392,
+    "start_time": 714.48,
+    "end_time": 715.22,
+    "union_linked_turn_ids": [
+      "20",
+      "20",
+      "20"
+    ],
+    "segments": {
+      "20": {
+        "segment_words": "Agree.",
+        "link_turn_id": 20,
+        "linked_words": "definitely need help there.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "22": {
+    "link_turn_id": [
+      20
+    ],
+    "words": "Yeah, to go off of that too, I live in South Boston and in order to get into downtown Boston or South Station, there's two buses that go over there and if you miss one, you're most likely going to be late for work. So it's just the transportation is difficult. Definitely in Boston, I would agree with that.",
+    "speaker_turn": 22,
+    "speaker_name": "Jasmine",
+    "conversation_id": 6392,
+    "start_time": 716.36,
+    "end_time": 735.32,
+    "union_linked_turn_ids": [
+      "19",
+      "20",
+      "20",
+      "20"
+    ],
+    "segments": {
+      "20": {
+        "segment_words": "So it's just the transportation is difficult. Definitely in Boston, I would agree with that.",
+        "link_turn_id": 20,
+        "linked_words": "I don't know how they can be supportive for that, but yeah, definitely need help there.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "23": {
+    "link_turn_id": [
+      22
+    ],
+    "words": "Nice. Yeah.",
+    "speaker_turn": 23,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6392,
+    "start_time": 735.48,
+    "end_time": 736.74,
+    "union_linked_turn_ids": [
+      "21",
+      "22",
+      "22",
+      "22"
+    ],
+    "segments": {
+      "22": {
+        "segment_words": "Nice. Yeah.",
+        "link_turn_id": 22,
+        "linked_words": "Definitely in Boston, I would agree with that.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "24": {
+    "link_turn_id": [
+      19,
+      22
+    ],
+    "words": "I would say for me, cost of living. I think rent is high here. That is just the truth. That's why we have a lot of people who are houseless. I'm tired of seeing people sleeping in bushes. I'm tired of seeing people sitting on corners and you know that they don't have anywhere else to go. And I'm tired of rent being so high. I think the opposite of what other people have said. I've lived in Oklahoma where transportation is non-existent so here it's like a dream. So I get that. But for me it's like Oklahoma has a decent cost of living. Here, it's so horrible. It's so so bad. So I think for me that is the biggest one because I think it trickles down into everything else.",
+    "speaker_turn": 24,
+    "speaker_name": "Tasia",
+    "conversation_id": 6392,
+    "start_time": 746.65,
+    "end_time": 789.59,
+    "union_linked_turn_ids": [
+      "19",
+      "22",
+      "19",
+      "20",
+      "22",
+      "19",
+      "22"
+    ],
+    "segments": {
+      "19": {
+        "segment_words": "I would say for me, cost of living. I think rent is high here.",
+        "link_turn_id": 19,
+        "linked_words": "And so the next kind of question is could you tell me about maybe a time or what you worry about day to day while living in Boston? So maybe this is related to healthcare, finances, accessibility, inclusivity or something else entirely.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "22": {
+        "segment_words": "I've lived in Oklahoma where transportation is non-existent so here it's like a dream. So I get that.",
+        "link_turn_id": 22,
+        "linked_words": "So it's just the transportation is difficult.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "25": {
+    "link_turn_id": [
+      24
+    ],
+    "words": "I saw someone say that the Boston public transit is the most terrible thing ever unless you lived in a different city with worse public transit, which is most of them. I guess my job... Definitely housing because that's the biggest one I think. I was just waiting for that topic to come up. The cost of rent is insane. The fact that it's so difficult... It's difficult to impossible for anyone to build equity if you're not already starting out from position of privilege. And I think that as a city, I know that there already is a lot happening. I work in a job where I see a lot of things that are happening with housing shortages and what's going on in towns and cities in Massachusetts so I will say I'm glad that there is stuff happening and there's definitely a way better conversation about that than there used to be. But yeah, just the fact that there's this huge divide of any plan to own property, you're just paying rent and all of that money is not doing anything for you. It might kick up your credit by two points, but that's so ridiculous with the amount being spent on that.",
+    "speaker_turn": 25,
+    "speaker_name": "Mary",
+    "conversation_id": 6392,
+    "start_time": 792.7,
+    "end_time": 859.18,
+    "union_linked_turn_ids": [
+      "24",
+      "19",
+      "24",
+      "22",
+      "24"
+    ],
+    "segments": {
+      "24": {
+        "segment_words": "Definitely housing because that's the biggest one I think. I was just waiting for that topic to come up. The cost of rent is insane.",
+        "link_turn_id": 24,
+        "linked_words": "I think rent is high here. That is just the truth. That's why we have a lot of people who are houseless. I'm tired of seeing people sleeping in bushes. I'm tired of seeing people sitting on corners and you know that they don't have anywhere else to go. And I'm tired of rent being so high.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "26": {
+    "link_turn_id": [
+      25,
+      24
+    ],
+    "words": "Yeah, I also agree with... I don't know if rent is high or just salaries are not matching everything else going up.",
+    "speaker_turn": 26,
+    "speaker_name": "Jasmine",
+    "conversation_id": 6392,
+    "start_time": 860.56,
+    "end_time": 869.448,
+    "union_linked_turn_ids": [
+      "24",
+      "25",
+      "24",
+      "25",
+      "24",
+      "25"
+    ],
+    "segments": {
+      "25": {
+        "segment_words": "I don't know if rent is high or just salaries are not matching everything else going up.",
+        "link_turn_id": 25,
+        "linked_words": "The cost of rent is insane.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "24": {
+        "segment_words": "I don't know if rent is high or just salaries are not matching everything else going up.",
+        "link_turn_id": 24,
+        "linked_words": "I think rent is high here.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "27": {
+    "link_turn_id": [
+      26
+    ],
+    "words": "Both.",
+    "speaker_turn": 27,
+    "speaker_name": "Tasia",
+    "conversation_id": 6392,
+    "start_time": 869.504,
+    "end_time": 870.1,
+    "union_linked_turn_ids": [
+      "26",
+      "26",
+      "26"
+    ],
+    "segments": {
+      "26": {
+        "segment_words": "Both.",
+        "link_turn_id": 26,
+        "linked_words": "I don't know if rent is high or just salaries are not matching everything else going up.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "28": {
+    "link_turn_id": [
+      25,
+      24,
+      26
+    ],
+    "words": "And I just think there needs to be some type of leveling out with that. Either prices need to come down or people need to get paid more because I truly believe that you should be able to afford a one-bedroom apartment, if you're on your own and working a nine to five as an adult. You should be able to at least pay for a one bedroom apartment. So I just think that's disappointing and sad for a city that a lot of people it is just not able to do that and I think that's ridiculous. So I definitely think salaries and cost of living need to equal each other out.",
+    "speaker_turn": 28,
+    "speaker_name": "Jasmine",
+    "conversation_id": 6392,
+    "start_time": 871.28,
+    "end_time": 911.42,
+    "union_linked_turn_ids": [
+      "24",
+      "25",
+      "26",
+      "24",
+      "25",
+      "26",
+      "24",
+      "25",
+      "26"
+    ],
+    "segments": {
+      "25": {
+        "segment_words": "Either prices need to come down or people need to get paid more because I truly believe that you should be able to afford a one-bedroom apartment, if you're on your own and working a nine to five as an adult. You should be able to at least pay for a one bedroom apartment. So I just think that's disappointing and sad for a city that a lot of people it is just not able to do that and I think that's ridiculous. So I definitely think salaries and cost of living need to equal each other out.",
+        "link_turn_id": 25,
+        "linked_words": "The cost of rent is insane. The fact that it's so difficult... It's difficult to impossible for anyone to build equity if you're not already starting out from position of privilege.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "24": {
+        "segment_words": "Either prices need to come down or people need to get paid more because I truly believe that you should be able to afford a one-bedroom apartment, if you're on your own and working a nine to five as an adult.",
+        "link_turn_id": 24,
+        "linked_words": "I would say for me, cost of living. I think rent is high here. That is just the truth. That's why we have a lot of people who are houseless.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "26": {
+        "segment_words": "Either prices need to come down or people need to get paid more because I truly believe that you should be able to afford a one-bedroom apartment, if you're on your own and working a nine to five as an adult.",
+        "link_turn_id": 26,
+        "linked_words": "I don't know if rent is high or just salaries are not matching everything else going up.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "29": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "I'm going to go again, sorry.",
+    "speaker_turn": 29,
+    "speaker_name": "Tasia",
+    "conversation_id": 6392,
+    "start_time": 915.688,
+    "end_time": 917.18,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "30": {
+    "link_turn_id": [
+      29
+    ],
+    "words": "No, you're fine. Yeah.",
+    "speaker_turn": 30,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6392,
+    "start_time": 917.18,
+    "end_time": 919.02,
+    "union_linked_turn_ids": [
+      "29",
+      "29",
+      "29"
+    ],
+    "segments": {
+      "29": {
+        "segment_words": "No, you're fine.",
+        "link_turn_id": 29,
+        "linked_words": "sorry.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "31": {
+    "link_turn_id": [
+      28,
+      25,
+      24
+    ],
+    "words": "That goes with cost of living is also grocery stores. So it kills me that I can look on Amazon and see something that is $9.99 and here it's $16.99. Not only do you pay insane amount of money for rent, but you're paying a lot money for transportation and you're paying a lot of money to eat to survive just to get hair products alone. So that's crazy.",
+    "speaker_turn": 31,
+    "speaker_name": "Tasia",
+    "conversation_id": 6392,
+    "start_time": 919.96,
+    "end_time": 943.57,
+    "union_linked_turn_ids": [
+      "24",
+      "25",
+      "26",
+      "28",
+      "24",
+      "28",
+      "24",
+      "25",
+      "28"
+    ],
+    "segments": {
+      "28": {
+        "segment_words": "Not only do you pay insane amount of money for rent, but you're paying a lot money for transportation and you're paying a lot of money to eat to survive just to get hair products alone.",
+        "link_turn_id": 28,
+        "linked_words": "Either prices need to come down or people need to get paid more because I truly believe that you should be able to afford a one-bedroom apartment, if you're on your own and working a nine to five as an adult.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "25": {
+        "segment_words": "Not only do you pay insane amount of money for rent, but you're paying a lot money for transportation and you're paying a lot of money to eat to survive just to get hair products alone.",
+        "link_turn_id": 25,
+        "linked_words": "The cost of rent is insane. The fact that it's so difficult... It's difficult to impossible for anyone to build equity if you're not already starting out from position of privilege.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "24": {
+        "segment_words": "Not only do you pay insane amount of money for rent, but you're paying a lot money for transportation and you're paying a lot of money to eat to survive just to get hair products alone.",
+        "link_turn_id": 24,
+        "linked_words": "I would say for me, cost of living. I think rent is high here. That is just the truth.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "32": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Anybody else?",
+    "speaker_turn": 32,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6392,
+    "start_time": 943.57,
+    "end_time": 949.79,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "33": {
+    "link_turn_id": [
+      31
+    ],
+    "words": "Yeah, that's a good point because I want to buy more local stuff, but it is so much cheaper to get it online and delivered. It's really hard to justify then having that added cost when you can get a box of something from anywhere. Yeah, so that goes into I think also the community. It feels like you're not building enough trust or anything in the community itself.",
+    "speaker_turn": 33,
+    "speaker_name": "Mary",
+    "conversation_id": 6392,
+    "start_time": 949.79,
+    "end_time": 970.2,
+    "union_linked_turn_ids": [
+      "31",
+      "31",
+      "31"
+    ],
+    "segments": {
+      "31": {
+        "segment_words": "it is so much cheaper to get it online and delivered",
+        "link_turn_id": 31,
+        "linked_words": "I can look on Amazon and see something that is $9.99 and here it's $16.99.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "34": {
+    "link_turn_id": [
+      26,
+      25,
+      33,
+      31,
+      28
+    ],
+    "words": "All right. I think that hit a lot of major concerns that a lot of people have day to day. And so really thank you all for sharing. I think that's sometimes heavy to think through too, right? Because it's like these are our livelihoods and they impact us every day and how we live. So really, I want to wrap us up on some hopeful notes. So I want us all to try to think about or imagine a Boston community 10 years from now that is fully accessible and inclusive to you, people who look like you. And can you paint a picture of what that would feel or look like for you?",
+    "speaker_turn": 34,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6392,
+    "start_time": 970.2,
+    "end_time": 1019.55,
+    "union_linked_turn_ids": [
+      "25",
+      "26",
+      "28",
+      "31",
+      "33",
+      "25",
+      "26",
+      "27",
+      "28",
+      "31",
+      "33",
+      "25",
+      "26",
+      "28",
+      "31",
+      "33"
+    ],
+    "segments": {
+      "26": {
+        "segment_words": "I think that hit a lot of major concerns that a lot of people have day to day.",
+        "link_turn_id": 26,
+        "linked_words": "I don't know if rent is high or just salaries are not matching everything else going up.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "25": {
+        "segment_words": "So really, I want to wrap us up on some hopeful notes. So I want us all to try to think about or imagine a Boston community 10 years from now that is fully accessible and inclusive to you, people who look like you.",
+        "link_turn_id": 25,
+        "linked_words": "I work in a job where I see a lot of things that are happening with housing shortages and what's going on in towns and cities in Massachusetts so I will say I'm glad that there is stuff happening and there's definitely a way better conversation about that than there used to be.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "33": {
+        "segment_words": "I want us all to try to think about or imagine a Boston community 10 years from now that is fully accessible and inclusive to you, people who look like you.",
+        "link_turn_id": 33,
+        "linked_words": "Yeah, so that goes into I think also the community. It feels like you're not building enough trust or anything in the community itself.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "31": {
+        "segment_words": "I think that hit a lot of major concerns that a lot of people have day to day.",
+        "link_turn_id": 31,
+        "linked_words": "So it kills me that I can look on Amazon and see something that is $9.99 and here it's $16.99. Not only do you pay insane amount of money for rent, but you're paying a lot money for transportation and you're paying a lot of money to eat to survive just to get hair products alone. So that's crazy.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "28": {
+        "segment_words": "I think that hit a lot of major concerns that a lot of people have day to day.",
+        "link_turn_id": 28,
+        "linked_words": "Either prices need to come down or people need to get paid more because I truly believe that you should be able to afford a one-bedroom apartment, if you're on your own and working a nine to five as an adult.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "35": {
+    "link_turn_id": [
+      28,
+      34
+    ],
+    "words": "Okay, I'll go. I would say that Boston, 10 years from now for me would be people would be able to live by themselves as one single person. They'll be able to have an apartment and be able to just, I don't know, live comfortably and not just paycheck to paycheck. I also think the streets will be cleaner and that it'll be more diverse instead of, there's Dorchester and Roxbury where it's majority of either Spanish or Black communities. And then you have Southie, that's like majority of white communities and I want that to be more of a mixture. So making that more accessible and also inclusive so people are able to afford to live in those places too. And then also education wise that our public school systems would be better and safer for our youth. So that's what I would like Boston to see being in 10 years.",
+    "speaker_turn": 35,
+    "speaker_name": "Jasmine",
+    "conversation_id": 6392,
+    "start_time": 1030.49,
+    "end_time": 1105.46,
+    "union_linked_turn_ids": [
+      "28",
+      "34",
+      "34",
+      "28",
+      "34"
+    ],
+    "segments": {
+      "28": {
+        "segment_words": "people would be able to live by themselves as one single person. They'll be able to have an apartment and be able to just, I don't know, live comfortably and not just paycheck to paycheck.",
+        "link_turn_id": 28,
+        "linked_words": "because I truly believe that you should be able to afford a one-bedroom apartment, if you're on your own and working a nine to five as an adult. You should be able to at least pay for a one bedroom apartment.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "34": {
+        "segment_words": "I would say that Boston, 10 years from now for me would be people would be able to live by themselves as one single person. They'll be able to have an apartment and be able to just, I don't know, live comfortably and not just paycheck to paycheck. I also think the streets will be cleaner and that it'll be more diverse instead of, there's Dorchester and Roxbury where it's majority of either Spanish or Black communities. And then you have Southie, that's like majority of white communities and I want that to be more of a mixture. So making that more accessible and also inclusive so people are able to afford to live in those places too. And then also education wise that our public school systems would be better and safer for our youth.",
+        "link_turn_id": 34,
+        "linked_words": "So really, I want to wrap us up on some hopeful notes. So I want us all to try to think about or imagine a Boston community 10 years from now that is fully accessible and inclusive to you, people who look like you. And can you paint a picture of what that would feel or look like for you?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "36": {
+    "link_turn_id": [
+      35
+    ],
+    "words": "To piggy off with Jas, I'll just add to it because I agree with everything she said. I would like to see more community organizations doing more things for neighborhoods so that we can have more of a community. I feel like people are really siloed away. There's not a lot of block parties, I feel like as there should be. There are not a lot of organizations for youth to go to, or if they are, they're super underfunded. So I would like to see community organizations have more funding so they can pay their people more so they can do more for the community. I just think that, as a whole, brings everybody up.",
+    "speaker_turn": 36,
+    "speaker_name": "Tasia",
+    "conversation_id": 6392,
+    "start_time": 1107.8,
+    "end_time": 1143.11,
+    "union_linked_turn_ids": [
+      "35",
+      "35",
+      "35"
+    ],
+    "segments": {
+      "35": {
+        "segment_words": "I agree with everything she said.",
+        "link_turn_id": 35,
+        "linked_words": "So that's what I would like Boston to see being in 10 years.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "37": {
+    "link_turn_id": [
+      36,
+      35
+    ],
+    "words": "I think doesn't Cambridge have a block party grant program where if you say that you're planning a block party, they'll give you a $200 budget for snacks and things. I think they just started doing that recently, but I love that as a concept. I think, yeah exactly what's kind of already been said. I like living in East Boston because I feel like there are a lot of what I call public back yards. Just places where anybody in the community can go. There's parks, and there's playgrounds, and there's places to skate, and play basketball, whatever. And I think that having those places is so important. Also, because it's a mixing, a diverse mixing of everybody in the neighborhood rather than having super condos with all of those amenities already built into them, taking that land back and making it publicly accessible so that way there's actually good use out of them. That's how I'd like to see it.",
+    "speaker_turn": 37,
+    "speaker_name": "Mary",
+    "conversation_id": 6392,
+    "start_time": 1146.34,
+    "end_time": 1201.55,
+    "union_linked_turn_ids": [
+      "36",
+      "34",
+      "35",
+      "36",
+      "35",
+      "36"
+    ],
+    "segments": {
+      "36": {
+        "segment_words": "I think doesn't Cambridge have a block party grant program where if you say that you're planning a block party, they'll give you a $200 budget for snacks and things.",
+        "link_turn_id": 36,
+        "linked_words": "I feel like people are really siloed away. There's not a lot of block parties, I feel like as there should be.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "35": {
+        "segment_words": "Also, because it's a mixing, a diverse mixing of everybody in the neighborhood rather than having super condos with all of those amenities already built into them, taking that land back and making it publicly accessible so that way there's actually good use out of them.",
+        "link_turn_id": 35,
+        "linked_words": "And then you have Southie, that's like majority of white communities and I want that to be more of a mixture. So making that more accessible and also inclusive so people are able to afford to live in those places too.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "38": {
+    "link_turn_id": [
+      36,
+      35
+    ],
+    "words": "To go off to that first point too about rent, hopefully being cheaper and affordable to live alone or anything. Hopefully, in 10 years it'd be more affordable to live in Boston because I do love the city, but it's just for the price. It's difficult to be able to stay and do other things at the same time.",
+    "speaker_turn": 38,
+    "speaker_name": "Ally",
+    "conversation_id": 6392,
+    "start_time": 1208.32,
+    "end_time": 1229.94,
+    "union_linked_turn_ids": [
+      "35",
+      "36",
+      "35",
+      "36",
+      "35",
+      "36"
+    ],
+    "segments": {
+      "36": {
+        "segment_words": "I do love the city, but it's just for the price.",
+        "link_turn_id": 36,
+        "linked_words": "I would like to see more community organizations doing more things for neighborhoods so that we can have more of a community.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "35": {
+        "segment_words": "To go off to that first point too about rent, hopefully being cheaper and affordable to live alone or anything. Hopefully, in 10 years it'd be more affordable to live in Boston because I do love the city, but it's just for the price.",
+        "link_turn_id": 35,
+        "linked_words": "people would be able to live by themselves as one single person. They'll be able to have an apartment and be able to just, I don't know, live comfortably and not just paycheck to paycheck.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "39": {
+    "link_turn_id": [
+      38
+    ],
+    "words": "Yeah.",
+    "speaker_turn": 39,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6392,
+    "start_time": 1229.94,
+    "end_time": 1238.0,
+    "union_linked_turn_ids": [
+      "38",
+      "38",
+      "NA"
+    ],
+    "segments": {
+      "38": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 38,
+        "linked_words": "To go off to that first point too about rent, hopefully being cheaper and affordable to live alone or anything. Hopefully, in 10 years it'd be more affordable to live in Boston because I do love the city, but it's just for the price.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "40": {
+    "link_turn_id": [
+      36,
+      35,
+      34
+    ],
+    "words": "I think having worked in healthcare, one thing I would like to see is I would like there to be more money put into public healthcare systems because it's insane to get an appointment in Boston. You just can't find anybody who's going to get you for the next year. And do you have immediate healthcare needs? So I would like to see there be more public clinics opening, more funding, more people being filtered into that direction versus private institutions.",
+    "speaker_turn": 40,
+    "speaker_name": "Tasia",
+    "conversation_id": 6392,
+    "start_time": 1238.0,
+    "end_time": 1270.48,
+    "union_linked_turn_ids": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "34",
+      "36",
+      "35",
+      "36",
+      "38"
+    ],
+    "segments": {
+      "36": {
+        "segment_words": "I would like there to be more money put into public healthcare systems",
+        "link_turn_id": 36,
+        "linked_words": "I would like to see community organizations have more funding so they can pay their people more so they can do more for the community",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "35": {
+        "segment_words": "I would like there to be more money put into public healthcare systems because it's insane to get an appointment in Boston.",
+        "link_turn_id": 35,
+        "linked_words": "And then also education wise that our public school systems would be better and safer for our youth.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "34": {
+        "segment_words": "I would like to see there be more public clinics opening, more funding, more people being filtered into that direction versus private institutions.",
+        "link_turn_id": 34,
+        "linked_words": "I want us all to try to think about or imagine a Boston community 10 years from now that is fully accessible and inclusive to you, people who look like you. And can you paint a picture of what that would feel or look like for you?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "41": {
+    "link_turn_id": [
+      36,
+      38,
+      33,
+      34,
+      37
+    ],
+    "words": "Okay. I think so next kind of part is really talking about what we're hearing. So what do you feel like you're hearing in other people's experiences? And I would love... I think this kind of goes in connection with something that you also are going to take away from this conversation. And so I've seen people talk about community and how siloed we are and everything like that so I think sometimes things like this help. So really just think about what are you hearing in other people's experiences and perspectives. And then is there something that you feel like you can take away from this conversation?",
+    "speaker_turn": 41,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6392,
+    "start_time": 1270.48,
+    "end_time": 1320.18,
+    "union_linked_turn_ids": [
+      "33",
+      "36",
+      "37",
+      "33",
+      "34",
+      "36",
+      "38",
+      "40",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38"
+    ],
+    "segments": {
+      "36": {
+        "segment_words": "And so I've seen people talk about community and how siloed we are and everything like that so I think sometimes things like this help.",
+        "link_turn_id": 36,
+        "linked_words": "I feel like people are really siloed away.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "38": {
+        "segment_words": "And then is there something that you feel like you can take away from this conversation?",
+        "link_turn_id": 38,
+        "linked_words": "Hopefully, in 10 years it'd be more affordable to live in Boston because I do love the city, but it's just for the price.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "33": {
+        "segment_words": "And so I've seen people talk about community and how siloed we are and everything like that so I think sometimes things like this help.",
+        "link_turn_id": 33,
+        "linked_words": "Yeah, so that goes into I think also the community. It feels like you're not building enough trust or anything in the community itself.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "34": {
+        "segment_words": "what do you feel like you're hearing in other people's experiences? And I would love... I think this kind of goes in connection with something that you also are going to take away from this conversation.",
+        "link_turn_id": 34,
+        "linked_words": "I want us all to try to think about or imagine a Boston community 10 years from now that is fully accessible and inclusive to you, people who look like you. And can you paint a picture of what that would feel or look like for you?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "37": {
+        "segment_words": "So really just think about what are you hearing in other people's experiences and perspectives.",
+        "link_turn_id": 37,
+        "linked_words": "I like living in East Boston because I feel like there are a lot of what I call public back yards. Just places where anybody in the community can go. There's parks, and there's playgrounds, and there's places to skate, and play basketball, whatever. And I think that having those places is so important. Also, because it's a mixing, a diverse mixing of everybody in the neighborhood rather than having super condos with all of those amenities already built into them, taking that land back and making it publicly accessible so that way there's actually good use out of them.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "42": {
+    "link_turn_id": [
+      38,
+      34
+    ],
+    "words": "I think what everyone right now is basically saying, or I feel like everyone just... We all love Boston, but we would like for it to be a bit more affordable. The price of living, healthcare. Just make it a little bit easier for everyone.",
+    "speaker_turn": 42,
+    "speaker_name": "Cora",
+    "conversation_id": 6392,
+    "start_time": 1322.76,
+    "end_time": 1343.05,
+    "union_linked_turn_ids": [
+      "34",
+      "38",
+      "34",
+      "38",
+      "40",
+      "34",
+      "38"
+    ],
+    "segments": {
+      "38": {
+        "segment_words": "We all love Boston, but we would like for it to be a bit more affordable.",
+        "link_turn_id": 38,
+        "linked_words": "I do love the city, but it's just for the price. It's difficult to be able to stay and do other things at the same time.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "34": {
+        "segment_words": "We all love Boston, but we would like for it to be a bit more affordable.",
+        "link_turn_id": 34,
+        "linked_words": "So I want us all to try to think about or imagine a Boston community 10 years from now that is fully accessible and inclusive to you, people who look like you.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "43": {
+    "link_turn_id": [
+      38,
+      41,
+      42,
+      35
+    ],
+    "words": "Yeah. I definitely think everyone has said something about either transportation or it being more affordable is what I'm hearing for majority of everybody.",
+    "speaker_turn": 43,
+    "speaker_name": "Jasmine",
+    "conversation_id": 6392,
+    "start_time": 1346.83,
+    "end_time": 1358.81,
+    "union_linked_turn_ids": [
+      "35",
+      "38",
+      "42",
+      "41",
+      "42",
+      "34",
+      "35",
+      "36",
+      "38",
+      "40",
+      "41",
+      "42"
+    ],
+    "segments": {
+      "38": {
+        "segment_words": "it being more affordable is what I'm hearing for majority of everybody.",
+        "link_turn_id": 38,
+        "linked_words": "Hopefully, in 10 years it'd be more affordable to live in Boston because I do love the city, but it's just for the price.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "41": {
+        "segment_words": "everyone has said something about either transportation or it being more affordable is what I'm hearing for majority of everybody.",
+        "link_turn_id": 41,
+        "linked_words": "what are you hearing in other people's experiences and perspectives.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "42": {
+        "segment_words": "it being more affordable is what I'm hearing for majority of everybody.",
+        "link_turn_id": 42,
+        "linked_words": "We all love Boston, but we would like for it to be a bit more affordable.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "35": {
+        "segment_words": "it being more affordable is what I'm hearing for majority of everybody.",
+        "link_turn_id": 35,
+        "linked_words": "They'll be able to have an apartment and be able to just, I don't know, live comfortably and not just paycheck to paycheck.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "44": {
+    "link_turn_id": [
+      42,
+      35
+    ],
+    "words": "Yeah. I also think at least, so I have my best friend who just moved here from Texas and they feel like... The first thing they said is, \"Wow, it's so dirty here.\" And so they kept asking me, \"Are you sure it's safe here?\" And I think that's the thing is I don't feel I'm safe in Dorchester because I can look past the trash, but I think that people... If it looks like the city doesn't take pride in itself, people will automatically say, \"Okay, this place is dangerous, probably has dangerous people. It's obviously poor.\" And so I think if you can walk a block over to South end, it's not like this. So I would like for the city... I mean it's two blocks away. I would like for them to come this way and care about us.",
+    "speaker_turn": 44,
+    "speaker_name": "Tasia",
+    "conversation_id": 6392,
+    "start_time": 1361.48,
+    "end_time": 1404.95,
+    "union_linked_turn_ids": [
+      "35",
+      "42",
+      "35",
+      "44",
+      "35",
+      "41",
+      "42"
+    ],
+    "segments": {
+      "42": {
+        "segment_words": "I would like for them to come this way and care about us.",
+        "link_turn_id": 42,
+        "linked_words": "We all love Boston, but we would like for it to be a bit more affordable. The price of living, healthcare. Just make it a little bit easier for everyone.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "35": {
+        "segment_words": "The first thing they said is, \"Wow, it's so dirty here.\"",
+        "link_turn_id": 35,
+        "linked_words": "I also think the streets will be cleaner",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "45": {
+    "link_turn_id": [
+      44,
+      43,
+      42,
+      41
+    ],
+    "words": "And East Boston you can see what street they took the Prince and his wife to go see and the other ones did not get the same treatment. So yeah, definitely take away that there is... People are noticing these things and people are aware of these problems and I think it's good to be aware and critical of something that we all care about. So we all care about Boston itself. So I felt like that I'm going to take that away from this.",
+    "speaker_turn": 45,
+    "speaker_name": "Mary",
+    "conversation_id": 6392,
+    "start_time": 1408.25,
+    "end_time": 1436.01,
+    "union_linked_turn_ids": [
+      "41",
+      "42",
+      "43",
+      "44",
+      "41",
+      "42",
+      "43",
+      "44",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "segments": {
+      "44": {
+        "segment_words": "People are noticing these things and people are aware of these problems",
+        "link_turn_id": 44,
+        "linked_words": "I mean it's two blocks away. I would like for them to come this way and care about us.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "43": {
+        "segment_words": "So yeah, definitely take away that there is... People are noticing these things and people are aware of these problems and I think it's good to be aware and critical of something that we all care about.",
+        "link_turn_id": 43,
+        "linked_words": "I'm hearing for majority of everybody.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "42": {
+        "segment_words": "So we all care about Boston itself.",
+        "link_turn_id": 42,
+        "linked_words": "We all love Boston",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "41": {
+        "segment_words": "People are noticing these things and people are aware of these problems and I think it's good to be aware and critical of something that we all care about. So I felt like that I'm going to take that away from this.",
+        "link_turn_id": 41,
+        "linked_words": "And then is there something that you feel like you can take away from this conversation?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "46": {
+    "link_turn_id": [
+      38
+    ],
+    "words": "I am like Allie, not to put you on the spot. Do you want to add anything?",
+    "speaker_turn": 46,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6392,
+    "start_time": 1450.44,
+    "end_time": 1453.02,
+    "union_linked_turn_ids": [
+      "38",
+      "38",
+      "38"
+    ],
+    "segments": {
+      "38": {
+        "segment_words": "Do you want to add anything?",
+        "link_turn_id": 38,
+        "linked_words": "To go off to that first point too about rent, hopefully being cheaper and affordable to live alone or anything.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "47": {
+    "link_turn_id": [
+      38,
+      43,
+      42
+    ],
+    "words": "Sorry. I would agree with that. Boston is a great place to live. It's just transportation can be tough and I do love South Boston, but the apartments being kind of the size that they are and how unaffordable they are, it makes it kind of hard to stay. But hopefully that would change eventually.",
+    "speaker_turn": 47,
+    "speaker_name": "Ally",
+    "conversation_id": 6392,
+    "start_time": 1459.4,
+    "end_time": 1481.03,
+    "union_linked_turn_ids": [
+      "42",
+      "43",
+      "44",
+      "46",
+      "38",
+      "42",
+      "43",
+      "38",
+      "42",
+      "43"
+    ],
+    "segments": {
+      "38": {
+        "segment_words": "apartments being kind of the size that they are and how unaffordable they are, it makes it kind of hard to stay.",
+        "link_turn_id": 38,
+        "linked_words": "hopefully being cheaper and affordable to live alone or anything. Hopefully, in 10 years it'd be more affordable to live in Boston because I do love the city, but it's just for the price. It's difficult to be able to stay and do other things at the same time.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "43": {
+        "segment_words": "transportation can be tough and I do love South Boston, but the apartments being kind of the size that they are and how unaffordable they are,",
+        "link_turn_id": 43,
+        "linked_words": "either transportation or it being more affordable",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "42": {
+        "segment_words": "Boston is a great place to live. It's just transportation can be tough and I do love South Boston, but the apartments being kind of the size that they are and how unaffordable they are, it makes it kind of hard to stay.",
+        "link_turn_id": 42,
+        "linked_words": "We all love Boston, but we would like for it to be a bit more affordable. The price of living, healthcare. Just make it a little bit easier for everyone.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "48": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Thanks. Okay. Anybody else? Any last minute thoughts, comments, concerns? Okay, thank you all for sharing your thoughts, your stories, your experiences. So just a reminder of what's going to happen next. So again, this recording, I'm just going to transcribe it, upload it to our conversation platform, and really just try to find some patterns around this conversation and other conversations that we're all having across different organizations. I'm going to put in the chat a quick post conversation survey. It's anonymous so feel free to do it now, take it, and go kind of thing. But that's pretty much it.",
+    "speaker_turn": 48,
+    "speaker_name": "Jaylene",
+    "conversation_id": 6392,
+    "start_time": 1483.37,
+    "end_time": 1527.99,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "44",
+      "47"
+    ],
+    "segments": {}
+  }
+}

@@ -1,5 +1,5 @@
 // d3.json('merged_data.json').then(function (conversations) {
-d3.json('updated_file.json').then(function (conversations) {
+d3.json('merged_data.json').then(function (conversations) {
   // Define margins first
   const margin = {top: 20, right: 30, bottom: 30, left: 100};
   
@@ -254,7 +254,8 @@ d3.json('updated_file.json').then(function (conversations) {
         .attr("height", d => d.arousal ? arousalHeightScale(d.arousal) : 10)
         .attr("stroke", 'black')
         .attr("stroke-width", 0.2)
-        .attr("fill", d => d.valence ? valenceColorScale(d.valence) : "white")
+        // .attr("fill", d => d.valence ? valenceColorScale(d.valence) : "white")
+        .attr("fill", "black")
         .attr("fill-opacity", d => opacityScale(initialInDegreeMap[d.speaker_turn]))
         // Add back the event handlers
         .on('click', (event, d) => handleClick(event, d))
@@ -649,7 +650,8 @@ d3.json('updated_file.json').then(function (conversations) {
       // Modify the existing nodes creation code (don't create a new one)
       nodes
         .attr("height", d => d.arousal ? arousalHeightScale(d.arousal) : 10)  // Default height if no arousal data
-        .attr("fill", d => d.valence ? valenceColorScale(d.valence) : "white");  // Default color if no valence data
+        // .attr("fill", d => d.valence ? valenceColorScale(d.valence) : "white");  // Default color if no valence data
+        .attr("fill", "black")
         // Keep existing event handlers
     });
   }
@@ -784,6 +786,37 @@ d3.json('updated_file.json').then(function (conversations) {
     .style("margin-bottom", "10px")
     .style("padding", "5px");
 
+  // Add group filter dropdown before the frontline filter
+  const groupContainer = d3.select("#control-panel")
+    .append("div")
+    .style("display", "inline-block")
+    .style("margin-left", "20px")
+    .style("margin-bottom", "10px")
+    .style("padding", "5px");
+
+  // Create group dropdown
+  const groupSelect = groupContainer
+    .append("select")
+    .attr("id", "group-select")
+    .style("width", "150px")
+    .style("margin-right", "5px")
+    .style("padding", "5px");
+
+  // Get unique groups from conversations
+  const groups = Array.from(new Set(
+    Object.values(conversations).flatMap(conv => 
+      Object.values(conv).map(turn => turn.group)
+    )
+  ));
+
+  // Populate group dropdown
+  groupSelect
+    .selectAll("option")
+    .data(["All Groups"].concat(groups))
+    .join("option")
+    .attr("value", d => d)
+    .text(d => d);
+
   // Add checkbox and label
   frontlineContainer
     .append("input")
@@ -798,9 +831,10 @@ d3.json('updated_file.json').then(function (conversations) {
 
   // Add these variables at the top level to track filter states
   let currentFacilitator = "All Facilitators";
+  let currentGroup = "All Groups";
   let hideFrontline = false;
 
-  // Create a function to apply both filters
+  // Create a function to apply all filters
   function applyFilters() {
     let filteredConvos = {...conversations};  // Start with all conversations
 
@@ -813,6 +847,23 @@ d3.json('updated_file.json').then(function (conversations) {
         }
       });
       filteredConvos = facilitatorFiltered;
+    }
+
+    // Apply group filter if needed
+    if (currentGroup !== "All Groups") {
+      const groupFiltered = {};
+      Object.entries(filteredConvos).forEach(([key, conv]) => {
+        const filteredTurns = {};
+        Object.entries(conv).forEach(([turnId, turn]) => {
+          if (turn.group === currentGroup) {
+            filteredTurns[turnId] = turn;
+          }
+        });
+        if (Object.keys(filteredTurns).length > 0) {
+          groupFiltered[key] = filteredTurns;
+        }
+      });
+      filteredConvos = groupFiltered;
     }
 
     // Apply frontline filter if needed
@@ -838,6 +889,12 @@ d3.json('updated_file.json').then(function (conversations) {
   // Update the facilitator dropdown event listener
   facilitatorSelect.on("change", function() {
     currentFacilitator = this.value;
+    applyFilters();
+  });
+
+  // Add group dropdown event listener
+  groupSelect.on("change", function() {
+    currentGroup = this.value;
     applyFilters();
   });
 

@@ -1,0 +1,4349 @@
+{
+  "1": {
+    "words": "So welcome to the small group conversation that is a part of a joint pilot led by the MIT Center for Constructive Communication and Frontline. Just a quick, we're going to do the whole kind of spiel that we did last time because we have Olivia joining us today, and I did want to thank you guys all for your time. I know that today's a bit of a bigger stretch that we're going to be doing, but you guys will be compensated for this with above $50. I'm not sure if it's $50 per conversation or if it's ... I know it's not $50 a total, but you'll be getting more than $50, I can guarantee you that much. So thank you for your time and I'm excited for you guys to spend that money on whatever you guys want. So quick description of what the MIT Center for Constructive Communication is, this is the team that I've been working with for about two years, and we essentially work on promoting Equitable. We focus on hosting a lot of different conversations, really promoting dialogue, especially those between polarized groups or different groups that there might be an equity gap in just to really facilitate a lot of what is often missed within different conversations in different groups. And Frontline is an organization that essentially creates a whole bunch of documentaries. We probably watched one of them in school for a different subject at one point, but that's a little bit, I just kind of winged those descriptions, but you guys can google more about what they do and all of that. But there is that, and essentially what our group, the Center for Constructive Communication, is trying to do is we want to better understand how Frontline's documentaries impact how you see the world and connect with one another. So the goal of our conversation today is to understand your experiences, interests, and concerns as the next generation of news consumers. Well, can you guys just throw a thumbs up in terms of, \"Yeah, I'm okay with being recorded with my face and my voice.\" Lovely. Got all of you. That's great. All right. I will now begin facilitating an intentional type of conversation centered on sharing personal stories. So a lot of conversations like even amongst this group, because I've had various conversations with you about all kinds of topics, even ones that Gentry should not have walked in on. But having said that, [inaudible], anyways, sorry. What I'm trying to say is that often we start off conversations a lot with our stance on the point of discussion or what that might be like as opposed to an anecdote, and then tying that into why that might've shaped your experience or how that might've changed you. And so, the focus of this type of conversation is really about sharing personal stories. And so, if you guys start off with your own point and stance, that's fine. I'm probably going to see if I can get an anecdote out of that. But just keep in mind that throughout these conversations, we'd really like to hear your personal experiences or what dialogues may have even shaped the opinion that you happen to be sharing. So that's that. The MIT group designing this conversation is finding that this approach helps build connections and deepen mutual understanding. Are there any questions so far? Lovely. Okay. Before we begin, I want to review some conversation agreements, including some baseline agreements that I will throw in the chat. You guys can just read this. I found that the whole, I'll read one and then you guys throw your hands up was unnecessarily tedious. So if you guys could just be like, or that sounds cool or I'm fine with that, that'd be great. Okay. I am seeing, I have no clue. I don't anticipate it being [inaudible], but Neha I just want to make sure that you're also on board with this because I did not see a response from you. Oh, I'm sorry. Your thumbs up. That was my bad, but thank you. Looky, looky, looky, looky, looky. Glad to hear that you guys love these. So I'm going to kick us off with a quick round of introduction, even though we all know each other, but for the sake of the system that this audio will be processed through, what it does, and it was actually really cool. For those of you who do not know, the transcript from our first conversation was actually transcribed through a system and it actually was able to recognize who was saying what because of our introduction. So there would be an anecdote and it would be played and it would have Kate's name by it and I could listen to it and be like, \"Oh my god, that's Kate's voice.\" Or it would have Nathan's voice and Jack, it would be like Jack S. And like Nathan. However you choose to introduce yourself, that will be the name that you have. So if you guys also don't want to be ... If you don't want to have your real name, feel free to use any other name, but I will begin. So as I said, just first name, pronouns if you want to share, and what you had for lunch today. I shall begin, as I said, my name is Duthie. I use she/her pronouns and I am yet to have a lunch, but I heard that it will be ash gourd curry, and I am waiting for that very patiently. Anybody want to go next?",
+    "link_turn_id": [
+      "NA"
+    ],
+    "speaker_turn": 1,
+    "speaker_name": "Dyuthi",
+    "conversation_id": 5826,
+    "start_time": 0.272,
+    "end_time": 336.0,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "2": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "Okay, I'm Olivia and I use she/her pronouns and I'm currently having chicken adobo that my mom made for lunch. It's pretty good.",
+    "speaker_turn": 2,
+    "speaker_name": "Olivia",
+    "conversation_id": 5826,
+    "start_time": 340.22,
+    "end_time": 355.26,
+    "union_linked_turn_ids": [
+      "1",
+      "1",
+      "1"
+    ],
+    "segments": {
+      "1": {
+        "segment_words": "I'm Olivia and I use she/her pronouns and I'm currently having chicken adobo that my mom made for lunch.",
+        "link_turn_id": 1,
+        "linked_words": "So as I said, just first name, pronouns if you want to share, and what you had for lunch today.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "3": {
+    "link_turn_id": [
+      2,
+      1
+    ],
+    "words": "I'm Nathan, I use he/him pronouns and I had spinach rice.",
+    "speaker_turn": 3,
+    "speaker_name": "Nathan",
+    "conversation_id": 5826,
+    "start_time": 355.26,
+    "end_time": 360.16,
+    "union_linked_turn_ids": [
+      "1",
+      "2",
+      "1",
+      "2",
+      "1",
+      "2"
+    ],
+    "segments": {
+      "2": {
+        "segment_words": "I use he/him pronouns",
+        "link_turn_id": 2,
+        "linked_words": "I use she/her pronouns",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "1": {
+        "segment_words": "I'm Nathan, I use he/him pronouns and I had spinach rice.",
+        "link_turn_id": 1,
+        "linked_words": "So as I said, just first name, pronouns if you want to share, and what you had for lunch today.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "4": {
+    "link_turn_id": [
+      2,
+      1,
+      3
+    ],
+    "words": "Hi, my name's Kate McMurtry. I use she/her and I had an apple and a granola bar, and I'm going to get more, probably make myself some eggs in a bit here.",
+    "speaker_turn": 4,
+    "speaker_name": "Kate",
+    "conversation_id": 5826,
+    "start_time": 362.65,
+    "end_time": 373.75,
+    "union_linked_turn_ids": [
+      "1",
+      "2",
+      "3",
+      "1",
+      "2",
+      "3",
+      "1",
+      "2",
+      "3"
+    ],
+    "segments": {
+      "2": {
+        "segment_words": "I use she/her and I had an apple and a granola bar, and I'm going to get more, probably make myself some eggs in a bit here.",
+        "link_turn_id": 2,
+        "linked_words": "I use she/her pronouns and I'm currently having chicken adobo that my mom made for lunch.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "1": {
+        "segment_words": "Hi, my name's Kate McMurtry. I use she/her and I had an apple and a granola bar, and I'm going to get more, probably make myself some eggs in a bit here.",
+        "link_turn_id": 1,
+        "linked_words": "So as I said, just first name, pronouns if you want to share, and what you had for lunch today.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "3": {
+        "segment_words": "I use she/her and I had an apple and a granola bar, and I'm going to get more, probably make myself some eggs in a bit here.",
+        "link_turn_id": 3,
+        "linked_words": "I use he/him pronouns and I had spinach rice.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "5": {
+    "link_turn_id": [
+      1
+    ],
+    "words": "Okay. All right, I can go next. I'm Neha and I have not eaten yet. Hopefully I can eat soon.",
+    "speaker_turn": 5,
+    "speaker_name": "Neha",
+    "conversation_id": 5826,
+    "start_time": 373.75,
+    "end_time": 391.4,
+    "union_linked_turn_ids": [
+      "1",
+      "1",
+      "1"
+    ],
+    "segments": {
+      "1": {
+        "segment_words": "I'm Neha and I have not eaten yet. Hopefully I can eat soon.",
+        "link_turn_id": 1,
+        "linked_words": "I shall begin, as I said, my name is Duthie. I use she/her pronouns and I am yet to have a lunch, but I heard that it will be ash gourd curry, and I am waiting for that very patiently. Anybody want to go next?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "6": {
+    "link_turn_id": [
+      1,
+      5
+    ],
+    "words": "I'm Jack and I have not eaten anything.",
+    "speaker_turn": 6,
+    "speaker_name": "Jack",
+    "conversation_id": 5826,
+    "start_time": 394.34,
+    "end_time": 397.2,
+    "union_linked_turn_ids": [
+      "1",
+      "5",
+      "1",
+      "1",
+      "5"
+    ],
+    "segments": {
+      "1": {
+        "segment_words": "I have not eaten anything.",
+        "link_turn_id": 1,
+        "linked_words": "what you had for lunch today.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "5": {
+        "segment_words": "I have not eaten anything.",
+        "link_turn_id": 5,
+        "linked_words": "I have not eaten yet.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "7": {
+    "link_turn_id": [
+      1,
+      6,
+      5
+    ],
+    "words": "Okay, lovely. So what I'm going to do now is share my screen with audio and play the clip that we're going to be discussing today. It's about a 10 minute clip. And so, this is the best time for you guys to obviously mindfully pay attention because that's going to be the driving point of our conversation. But also if you guys would like to eat, you guys do not have to talk or do anything of that sort right now. So these next 10 minutes, golden hour. I will also be harassing my parents for my lunch in this gap. So having said that, the topic that we're going to be watching or really discussing, but the video is also about is Boeing and airline safety. So as you're watching, try to notice the ideas that do or do not resonate with you and then think about how you feel when different people are talking. And when I say different people, I mean those that are in the documentary and we will discuss this more thoroughly afterwards. Give me a quick second to get this started and we can begin. All right, can you guys give me a thumbs up that you see this?",
+    "speaker_turn": 7,
+    "speaker_name": "Dyuthi",
+    "conversation_id": 5826,
+    "start_time": 399.42,
+    "end_time": 466.37,
+    "union_linked_turn_ids": [
+      "1",
+      "6",
+      "1",
+      "5",
+      "6",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "segments": {
+      "1": {
+        "segment_words": "So what I'm going to do now is share my screen with audio and play the clip that we're going to be discussing today.",
+        "link_turn_id": 1,
+        "linked_words": "I will now begin facilitating an intentional type of conversation centered on sharing personal stories.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "6": {
+        "segment_words": "But also if you guys would like to eat, you guys do not have to talk or do anything of that sort right now.",
+        "link_turn_id": 6,
+        "linked_words": "I have not eaten anything.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "5": {
+        "segment_words": "So these next 10 minutes, golden hour. I will also be harassing my parents for my lunch in this gap.",
+        "link_turn_id": 5,
+        "linked_words": "I have not eaten yet. Hopefully I can eat soon.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "8": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "[inaudible].",
+    "speaker_turn": 8,
+    "speaker_name": "FRONTLINE Cockpit Recording",
+    "conversation_id": 5826,
+    "start_time": 466.37,
+    "end_time": 469.81,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "9": {
+    "link_turn_id": [
+      7
+    ],
+    "words": "And now that you hear that. Cool. And here we-",
+    "speaker_turn": 9,
+    "speaker_name": "Dyuthi",
+    "conversation_id": 5826,
+    "start_time": 469.81,
+    "end_time": 474.426,
+    "union_linked_turn_ids": [
+      "7",
+      "7",
+      "7"
+    ],
+    "segments": {
+      "7": {
+        "segment_words": "And now that you hear that. Cool.",
+        "link_turn_id": 7,
+        "linked_words": "All right, can you guys give me a thumbs up that you see this?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "10": {
+    "link_turn_id": [
+      7
+    ],
+    "words": "We're about to go down. 1282, we're declaring emergency. We're descending down to 10,000. We have 177 passengers.",
+    "speaker_turn": 10,
+    "speaker_name": "FRONTLINE Cockpit Recording",
+    "conversation_id": 5826,
+    "start_time": 474.426,
+    "end_time": 481.25,
+    "union_linked_turn_ids": [
+      "7",
+      "7",
+      "7",
+      "9"
+    ],
+    "segments": {
+      "7": {
+        "segment_words": "We're about to go down. 1282, we're declaring emergency. We're descending down to 10,000. We have 177 passengers.",
+        "link_turn_id": 7,
+        "linked_words": "the topic that we're going to be watching or really discussing, but the video is also about is Boeing and airline safety.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "11": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "It's January 5th, 2024. A Boeing 737 Max, flown by Alaska Airlines, has just taken off from Portland Oregon about seven minutes ago.",
+    "speaker_turn": 11,
+    "speaker_name": "FRONTLINE Narration",
+    "conversation_id": 5826,
+    "start_time": 481.25,
+    "end_time": 491.91,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "7"
+    ],
+    "segments": {}
+  },
+  "12": {
+    "link_turn_id": [
+      10,
+      11
+    ],
+    "words": "At an altitude of 16,000 feet. There's a very loud bang, A piece of the plane's body is blown out at row 26.",
+    "speaker_turn": 12,
+    "speaker_name": "FRONTLINE Niraj Chokshi",
+    "conversation_id": 5826,
+    "start_time": 492.34,
+    "end_time": 500.32,
+    "union_linked_turn_ids": [
+      "10",
+      "11",
+      "11",
+      "10",
+      "11"
+    ],
+    "segments": {
+      "10": {
+        "segment_words": "There's a very loud bang, A piece of the plane's body is blown out at row 26.",
+        "link_turn_id": 10,
+        "linked_words": "We're about to go down.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "11": {
+        "segment_words": "At an altitude of 16,000 feet. There's a very loud bang, A piece of the plane's body is blown out at row 26.",
+        "link_turn_id": 11,
+        "linked_words": "A Boeing 737 Max, flown by Alaska Airlines, has just taken off from Portland Oregon about seven minutes ago.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "13": {
+    "link_turn_id": [
+      12
+    ],
+    "words": "I opened my eyes to a giant hole in the plane and I could see the city lights.",
+    "speaker_turn": 13,
+    "speaker_name": "FRONTLINE Huy Tran",
+    "conversation_id": 5826,
+    "start_time": 500.9,
+    "end_time": 507.72,
+    "union_linked_turn_ids": [
+      "12",
+      "10",
+      "11",
+      "12",
+      "NA"
+    ],
+    "segments": {
+      "12": {
+        "segment_words": "I opened my eyes to a giant hole in the plane",
+        "link_turn_id": 12,
+        "linked_words": "A piece of the plane's body is blown out at row 26.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "14": {
+    "link_turn_id": [
+      12
+    ],
+    "words": "There's a deafening wind howling through the plane. The cockpit door flies open, one of the pilots loses her headset. Another pilot almost loses his after his head slams into a display. There's just chaos.",
+    "speaker_turn": 14,
+    "speaker_name": "FRONTLINE Niraj Chokshi",
+    "conversation_id": 5826,
+    "start_time": 510.74,
+    "end_time": 523.51,
+    "union_linked_turn_ids": [
+      "12",
+      "12",
+      "12"
+    ],
+    "segments": {
+      "12": {
+        "segment_words": "There's a deafening wind howling through the plane.",
+        "link_turn_id": 12,
+        "linked_words": "A piece of the plane's body is blown out at row 26.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "15": {
+    "link_turn_id": [
+      14,
+      13,
+      12,
+      10
+    ],
+    "words": "A boy's shirt was sucked off and went out of the plane and his mother was holding onto him.",
+    "speaker_turn": 15,
+    "speaker_name": "FRONTLINE Evan Smith",
+    "conversation_id": 5826,
+    "start_time": 525.57,
+    "end_time": 530.442,
+    "union_linked_turn_ids": [
+      "10",
+      "12",
+      "13",
+      "14",
+      "10",
+      "12",
+      "14",
+      "13",
+      "12",
+      "14"
+    ],
+    "segments": {
+      "14": {
+        "segment_words": "A boy's shirt was sucked off and went out of the plane and his mother was holding onto him.",
+        "link_turn_id": 14,
+        "linked_words": "There's a deafening wind howling through the plane.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "13": {
+        "segment_words": "went out of the plane",
+        "link_turn_id": 13,
+        "linked_words": "a giant hole in the plane",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "12": {
+        "segment_words": "A boy's shirt was sucked off and went out of the plane and his mother was holding onto him.",
+        "link_turn_id": 12,
+        "linked_words": "A piece of the plane's body is blown out at row 26.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "10": {
+        "segment_words": "A boy's shirt was sucked off and went out of the plane and his mother was holding onto him.",
+        "link_turn_id": 10,
+        "linked_words": "We're about to go down.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "16": {
+    "link_turn_id": [
+      15
+    ],
+    "words": "I saw half of his body was getting sucked out and then I was like, \"Oh my God.\"",
+    "speaker_turn": 16,
+    "speaker_name": "FRONTLINE Cuong Tran",
+    "conversation_id": 5826,
+    "start_time": 530.546,
+    "end_time": 535.91,
+    "union_linked_turn_ids": [
+      "15",
+      "15",
+      "15"
+    ],
+    "segments": {
+      "15": {
+        "segment_words": "\"I saw half of his body was getting sucked out\"",
+        "link_turn_id": 15,
+        "linked_words": "\"A boy's shirt was sucked off and went out of the plane\"",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "17": {
+    "link_turn_id": [
+      13,
+      12,
+      16
+    ],
+    "words": "I look over and there's a hole on the side of the plane. And in that moment I'm just like, \"Oh God, I'm going to die.\"",
+    "speaker_turn": 17,
+    "speaker_name": "FRONTLINE Vi Nguyen",
+    "conversation_id": 5826,
+    "start_time": 536.77,
+    "end_time": 541.986,
+    "union_linked_turn_ids": [
+      "13",
+      "14",
+      "16",
+      "12",
+      "13",
+      "16",
+      "12",
+      "13",
+      "16"
+    ],
+    "segments": {
+      "13": {
+        "segment_words": "I look over and there's a hole on the side of the plane.",
+        "link_turn_id": 13,
+        "linked_words": "I opened my eyes to a giant hole in the plane",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "12": {
+        "segment_words": "there's a hole on the side of the plane",
+        "link_turn_id": 12,
+        "linked_words": "A piece of the plane's body is blown out",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "16": {
+        "segment_words": "\"Oh God, I'm going to die.\"",
+        "link_turn_id": 16,
+        "linked_words": "\"Oh my God.\"",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "18": {
+    "link_turn_id": [
+      10
+    ],
+    "words": "Yes, we are in an emergency. We are depressurized. We do need to return back to you. We have [inaudible].",
+    "speaker_turn": 18,
+    "speaker_name": "FRONTLINE Cockpit Recording",
+    "conversation_id": 5826,
+    "start_time": 542.058,
+    "end_time": 557.1,
+    "union_linked_turn_ids": [
+      "10",
+      "10",
+      "10"
+    ],
+    "segments": {
+      "10": {
+        "segment_words": "Yes, we are in an emergency.",
+        "link_turn_id": 10,
+        "linked_words": "1282, we're declaring emergency.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "19": {
+    "link_turn_id": [
+      18,
+      10,
+      11
+    ],
+    "words": "In the end, Alaska Airlines Flight 1282 eventually made an emergency landing back in Portland, but the accident resurfaced concerns about Boeing and the 737 Max, which had been at the center of scrutiny following a series of deadly airline crashes in Indonesia in 2018 and Ethiopia in 2019.",
+    "speaker_turn": 19,
+    "speaker_name": "FRONTLINE Narration",
+    "conversation_id": 5826,
+    "start_time": 557.1,
+    "end_time": 579.38,
+    "union_linked_turn_ids": [
+      "10",
+      "11",
+      "18",
+      "10",
+      "11",
+      "18",
+      "10",
+      "18"
+    ],
+    "segments": {
+      "18": {
+        "segment_words": "In the end, Alaska Airlines Flight 1282 eventually made an emergency landing back in Portland",
+        "link_turn_id": 18,
+        "linked_words": "We do need to return back to you.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "10": {
+        "segment_words": "Alaska Airlines Flight 1282 eventually made an emergency landing back in Portland",
+        "link_turn_id": 10,
+        "linked_words": "1282, we're declaring emergency",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "11": {
+        "segment_words": "Alaska Airlines Flight 1282 eventually made an emergency landing back in Portland",
+        "link_turn_id": 11,
+        "linked_words": "A Boeing 737 Max, flown by Alaska Airlines, has just taken off from Portland Oregon",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "20": {
+    "link_turn_id": [
+      19
+    ],
+    "words": "We were very fortunate we didn't have a third crash on January 5th.",
+    "speaker_turn": 20,
+    "speaker_name": "FRONTLINE Joe Jacobsen",
+    "conversation_id": 5826,
+    "start_time": 581.16,
+    "end_time": 585.62,
+    "union_linked_turn_ids": [
+      "19",
+      "19",
+      "19"
+    ],
+    "segments": {
+      "19": {
+        "segment_words": "We were very fortunate we didn't have a third crash on January 5th.",
+        "link_turn_id": 19,
+        "linked_words": "the accident resurfaced concerns about Boeing and the 737 Max, which had been at the center of scrutiny following a series of deadly airline crashes in Indonesia in 2018 and Ethiopia in 2019.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "21": {
+    "link_turn_id": [
+      20,
+      19
+    ],
+    "words": "FAA engineer Joe Jacobsen first raised concerns about the safety of the after the Max after the Lion Air crash in Indonesia in 2018, he's continued to monitor the plane since retiring in 2021.",
+    "speaker_turn": 21,
+    "speaker_name": "FRONTLINE Narration",
+    "conversation_id": 5826,
+    "start_time": 585.92,
+    "end_time": 599.62,
+    "union_linked_turn_ids": [
+      "19",
+      "20",
+      "19",
+      "20",
+      "19",
+      "20"
+    ],
+    "segments": {
+      "20": {
+        "segment_words": "Joe Jacobsen first raised concerns about the safety of the after the Max after the Lion Air crash in Indonesia in 2018",
+        "link_turn_id": 20,
+        "linked_words": "We were very fortunate we didn't have a third crash on January 5th.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "19": {
+        "segment_words": "FAA engineer Joe Jacobsen first raised concerns about the safety of the after the Max after the Lion Air crash in Indonesia in 2018,",
+        "link_turn_id": 19,
+        "linked_words": "the 737 Max, which had been at the center of scrutiny following a series of deadly airline crashes in Indonesia in 2018",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "22": {
+    "link_turn_id": [
+      20,
+      19
+    ],
+    "words": "Alaska 1282 could have very easily been a fatal crash. Higher altitudes, some passengers may have lost consciousness, pilots could have lost consciousness.",
+    "speaker_turn": 22,
+    "speaker_name": "FRONTLINE Joe Jacobsen",
+    "conversation_id": 5826,
+    "start_time": 600.23,
+    "end_time": 613.45,
+    "union_linked_turn_ids": [
+      "20",
+      "19",
+      "20",
+      "19",
+      "20"
+    ],
+    "segments": {
+      "20": {
+        "segment_words": "Alaska 1282 could have very easily been a fatal crash.",
+        "link_turn_id": 20,
+        "linked_words": "We were very fortunate we didn't have a third crash on January 5th.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "19": {
+        "segment_words": "Alaska 1282 could have very easily been a fatal crash.",
+        "link_turn_id": 19,
+        "linked_words": "In the end, Alaska Airlines Flight 1282 eventually made an emergency landing back in Portland,",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "23": {
+    "link_turn_id": [
+      19,
+      21
+    ],
+    "words": "After the 737 Max crash in Indonesia, the FAA learned it was possible some systems in the Boeing 737 Max could fail. Later, when explaining their decision not to ground the plane, they said the chance was as close to zero as their calculations allowed considering the number of planes in the air. That choice prompted a congressional investigation in 2018 and ultimately led to changes in how the FAA certifies planes back in 2024. After the Alaska Airlines incident, the FAA immediately grounded other similar 737 Max planes for inspection.",
+    "speaker_turn": 23,
+    "speaker_name": "FRONTLINE Narration",
+    "conversation_id": 5826,
+    "start_time": 614.07,
+    "end_time": 654.87,
+    "union_linked_turn_ids": [
+      "19",
+      "21",
+      "22",
+      "19",
+      "21",
+      "19",
+      "21"
+    ],
+    "segments": {
+      "19": {
+        "segment_words": "After the Alaska Airlines incident, the FAA immediately grounded other similar 737 Max planes for inspection.",
+        "link_turn_id": 19,
+        "linked_words": "Alaska Airlines Flight 1282 eventually made an emergency landing back in Portland, but the accident resurfaced concerns about Boeing and the 737 Max,",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "21": {
+        "segment_words": "After the 737 Max crash in Indonesia, the FAA learned it was possible some systems in the Boeing 737 Max could fail.",
+        "link_turn_id": 21,
+        "linked_words": "FAA engineer Joe Jacobsen first raised concerns about the safety of the after the Max after the Lion Air crash in Indonesia in 2018",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "24": {
+    "link_turn_id": [
+      23
+    ],
+    "words": "Hundreds of flights are canceled across the US. Boeing 737 Max [inaudible].",
+    "speaker_turn": 24,
+    "speaker_name": "FRONTLINE Female Newsreader",
+    "conversation_id": 5826,
+    "start_time": 655.25,
+    "end_time": 659.1522008995502,
+    "union_linked_turn_ids": [
+      "23",
+      "23",
+      "23"
+    ],
+    "segments": {
+      "23": {
+        "segment_words": "Boeing 737 Max [inaudible].",
+        "link_turn_id": 23,
+        "linked_words": "After the Alaska Airlines incident, the FAA immediately grounded other similar 737 Max planes for inspection.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "25": {
+    "link_turn_id": [
+      24
+    ],
+    "words": "Pulled out of service, forcing [inaudible].",
+    "speaker_turn": 25,
+    "speaker_name": "FRONTLINE Male Newsreader",
+    "conversation_id": 5826,
+    "start_time": 659.1522008995502,
+    "end_time": 660.682,
+    "union_linked_turn_ids": [
+      "24",
+      "24",
+      "24"
+    ],
+    "segments": {
+      "24": {
+        "segment_words": "Pulled out of service",
+        "link_turn_id": 24,
+        "linked_words": "Boeing 737 Max [inaudible]",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "26": {
+    "link_turn_id": [
+      24,
+      25
+    ],
+    "words": "...around the world.",
+    "speaker_turn": 26,
+    "speaker_name": "FRONTLINE Female Newsreader",
+    "conversation_id": 5826,
+    "start_time": 660.682,
+    "end_time": 661.826,
+    "union_linked_turn_ids": [
+      "24",
+      "25",
+      "24",
+      "25",
+      "24",
+      "25"
+    ],
+    "segments": {
+      "24": {
+        "segment_words": "...around the world.",
+        "link_turn_id": 24,
+        "linked_words": "Hundreds of flights are canceled across the US.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "25": {
+        "segment_words": "around the world.",
+        "link_turn_id": 25,
+        "linked_words": "Pulled out of service",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "27": {
+    "link_turn_id": [
+      23,
+      19
+    ],
+    "words": "I honestly wasn't surprised when I saw the news. It had direct echoes of everything we had been reporting on years ago as we tried to unpack what happened during the Max crisis",
+    "speaker_turn": 27,
+    "speaker_name": "FRONTLINE David Gelles",
+    "conversation_id": 5826,
+    "start_time": 662.018,
+    "end_time": 673.55,
+    "union_linked_turn_ids": [
+      "23",
+      "19",
+      "23",
+      "19",
+      "23"
+    ],
+    "segments": {
+      "23": {
+        "segment_words": "it had direct echoes of everything we had been reporting on years ago as we tried to unpack what happened during the Max crisis",
+        "link_turn_id": 23,
+        "linked_words": "After the 737 Max crash in Indonesia, the FAA learned it was possible some systems in the Boeing 737 Max could fail.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "19": {
+        "segment_words": "It had direct echoes of everything we had been reporting on years ago as we tried to unpack what happened during the Max crisis",
+        "link_turn_id": 19,
+        "linked_words": "concerns about Boeing and the 737 Max, which had been at the center of scrutiny following a series of deadly airline crashes in Indonesia in 2018 and Ethiopia in 2019",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "28": {
+    "link_turn_id": [
+      23,
+      27
+    ],
+    "words": "At the New York Times, the team that had been reporting on Boeing picked up on the Alaska Airlines incident.",
+    "speaker_turn": 28,
+    "speaker_name": "FRONTLINE Narration",
+    "conversation_id": 5826,
+    "start_time": 674.25,
+    "end_time": 679.55,
+    "union_linked_turn_ids": [
+      "23",
+      "27",
+      "23",
+      "27",
+      "27"
+    ],
+    "segments": {
+      "23": {
+        "segment_words": "the Alaska Airlines incident",
+        "link_turn_id": 23,
+        "linked_words": "After the Alaska Airlines incident, the FAA immediately grounded other similar 737 Max planes for inspection.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "27": {
+        "segment_words": "the team that had been reporting on Boeing picked up on the Alaska Airlines incident.",
+        "link_turn_id": 27,
+        "linked_words": "everything we had been reporting on years ago as we tried to unpack what happened during the Max crisis",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "29": {
+    "link_turn_id": [
+      23,
+      27
+    ],
+    "words": "The real bombshell moment comes in early February when the National Transportation Safety Board releases its preliminary report on the incident. What the NTSB's report makes clear is this was a problem on Boeing's factory floor. This was Boeing's problem.",
+    "speaker_turn": 29,
+    "speaker_name": "FRONTLINE Sydney Ember",
+    "conversation_id": 5826,
+    "start_time": 680.7,
+    "end_time": 698.56,
+    "union_linked_turn_ids": [
+      "23",
+      "27",
+      "27",
+      "28",
+      "23",
+      "27"
+    ],
+    "segments": {
+      "23": {
+        "segment_words": "This was Boeing's problem.",
+        "link_turn_id": 23,
+        "linked_words": "After the Alaska Airlines incident, the FAA immediately grounded other similar 737 Max planes for inspection.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "27": {
+        "segment_words": "This was Boeing's problem.",
+        "link_turn_id": 27,
+        "linked_words": "It had direct echoes of everything we had been reporting on years ago as we tried to unpack what happened during the Max crisis",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "30": {
+    "link_turn_id": [
+      29
+    ],
+    "words": "The NTSB report focused on what's called a door plug, a piece of the plane that replaces unused emergency exits. Boeing workers had failed to install four bolts that secured it to the plane. Boeing later said it had no documentation of the work.",
+    "speaker_turn": 30,
+    "speaker_name": "FRONTLINE Narration",
+    "conversation_id": 5826,
+    "start_time": 698.94,
+    "end_time": 715.95,
+    "union_linked_turn_ids": [
+      "29",
+      "29",
+      "29"
+    ],
+    "segments": {
+      "29": {
+        "segment_words": "The NTSB report focused on what's called a door plug, a piece of the plane that replaces unused emergency exits. Boeing workers had failed to install four bolts that secured it to the plane. Boeing later said it had no documentation of the work.",
+        "link_turn_id": 29,
+        "linked_words": "What the NTSB's report makes clear is this was a problem on Boeing's factory floor. This was Boeing's problem.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "31": {
+    "link_turn_id": [
+      29,
+      30
+    ],
+    "words": "Where was the oversight? Where was the redundant checks for someone to come back to make sure that the most critical pieces to it were there?",
+    "speaker_turn": 31,
+    "speaker_name": "FRONTLINE Mark Walker",
+    "conversation_id": 5826,
+    "start_time": 716.53,
+    "end_time": 726.83,
+    "union_linked_turn_ids": [
+      "29",
+      "30",
+      "29",
+      "30",
+      "28",
+      "29",
+      "30"
+    ],
+    "segments": {
+      "29": {
+        "segment_words": "Where was the oversight?",
+        "link_turn_id": 29,
+        "linked_words": "What the NTSB's report makes clear is this was a problem on Boeing's factory floor.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "30": {
+        "segment_words": "Where was the oversight? Where was the redundant checks for someone to come back to make sure that the most critical pieces to it were there?",
+        "link_turn_id": 30,
+        "linked_words": "Boeing workers had failed to install four bolts that secured it to the plane.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "32": {
+    "link_turn_id": [
+      31,
+      30
+    ],
+    "words": "Nothing in plane design or plane production is done without several layers of redundancy, without frequent inspections, without frequent checks. And the idea that something as important as a part of the plane's body could leave the factory without the bolts needed to hold it in place is shocking.",
+    "speaker_turn": 32,
+    "speaker_name": "FRONTLINE Niraj Chokshi",
+    "conversation_id": 5826,
+    "start_time": 727.77,
+    "end_time": 746.0,
+    "union_linked_turn_ids": [
+      "30",
+      "30",
+      "31",
+      "30",
+      "31"
+    ],
+    "segments": {
+      "31": {
+        "segment_words": "Nothing in plane design or plane production is done without several layers of redundancy, without frequent inspections, without frequent checks.",
+        "link_turn_id": 31,
+        "linked_words": "Where was the oversight? Where was the redundant checks for someone to come back to make sure that the most critical pieces to it were there?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "30": {
+        "segment_words": "And the idea that something as important as a part of the plane's body could leave the factory without the bolts needed to hold it in place is shocking.",
+        "link_turn_id": 30,
+        "linked_words": "Boeing workers had failed to install four bolts that secured it to the plane.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "33": {
+    "link_turn_id": [
+      29,
+      31,
+      32,
+      30
+    ],
+    "words": "This was supposed to be one of the most highly scrutinized planes in the world. And here you are with another incident that was risking passengers lives.",
+    "speaker_turn": 33,
+    "speaker_name": "FRONTLINE Sydney Ember",
+    "conversation_id": 5826,
+    "start_time": 746.62,
+    "end_time": 756.56,
+    "union_linked_turn_ids": [
+      "29",
+      "30",
+      "31",
+      "32",
+      "29",
+      "30",
+      "31",
+      "32",
+      "29",
+      "30",
+      "31",
+      "32"
+    ],
+    "segments": {
+      "29": {
+        "segment_words": "And here you are with another incident that was risking passengers lives.",
+        "link_turn_id": 29,
+        "linked_words": "The real bombshell moment comes in early February when the National Transportation Safety Board releases its preliminary report on the incident.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "31": {
+        "segment_words": "This was supposed to be one of the most highly scrutinized planes in the world.",
+        "link_turn_id": 31,
+        "linked_words": "Where was the oversight?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "32": {
+        "segment_words": "This was supposed to be one of the most highly scrutinized planes in the world.",
+        "link_turn_id": 32,
+        "linked_words": "Nothing in plane design or plane production is done without several layers of redundancy, without frequent inspections, without frequent checks.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "30": {
+        "segment_words": "And here you are with another incident that was risking passengers lives.",
+        "link_turn_id": 30,
+        "linked_words": "Boeing workers had failed to install four bolts that secured it to the plane.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "34": {
+    "link_turn_id": [
+      33,
+      29,
+      31,
+      30,
+      32
+    ],
+    "words": "Boeing CEO, Dave Calhoun, was quick to own the failure and a series of appearances.",
+    "speaker_turn": 34,
+    "speaker_name": "FRONTLINE Narration",
+    "conversation_id": 5826,
+    "start_time": 757.1,
+    "end_time": 762.996,
+    "union_linked_turn_ids": [
+      "29",
+      "31",
+      "33",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "27",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33"
+    ],
+    "segments": {
+      "33": {
+        "segment_words": "was quick to own the failure",
+        "link_turn_id": 33,
+        "linked_words": "another incident that was risking passengers lives.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "29": {
+        "segment_words": "Boeing CEO, Dave Calhoun, was quick to own the failure",
+        "link_turn_id": 29,
+        "linked_words": "This was Boeing's problem.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "31": {
+        "segment_words": "Boeing CEO, Dave Calhoun, was quick to own the failure",
+        "link_turn_id": 31,
+        "linked_words": "Where was the oversight?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "30": {
+        "segment_words": "Boeing CEO, Dave Calhoun, was quick to own the failure",
+        "link_turn_id": 30,
+        "linked_words": "Boeing workers had failed to install four bolts that secured it to the plane",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "32": {
+        "segment_words": "Boeing CEO, Dave Calhoun, was quick to own the failure and a series of appearances.",
+        "link_turn_id": 32,
+        "linked_words": "And the idea that something as important as a part of the plane's body could leave the factory without the bolts needed to hold it in place is shocking.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "35": {
+    "link_turn_id": [
+      29,
+      30,
+      34
+    ],
+    "words": "We're going to approach this, number one, acknowledging our mistake. I want everybody, everybody on every airplane to know that Boeing owns it. Boeing is accountable for what happened. An event like this simply must not happen. We own it. There's no other answer I can give you.",
+    "speaker_turn": 35,
+    "speaker_name": "FRONTLINE David Calhoun",
+    "conversation_id": 5826,
+    "start_time": 763.188,
+    "end_time": 782.76,
+    "union_linked_turn_ids": [
+      "34",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "29",
+      "30",
+      "34"
+    ],
+    "segments": {
+      "29": {
+        "segment_words": "Boeing is accountable for what happened. An event like this simply must not happen.",
+        "link_turn_id": 29,
+        "linked_words": "What the NTSB's report makes clear is this was a problem on Boeing's factory floor. This was Boeing's problem.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "30": {
+        "segment_words": "We're going to approach this, number one, acknowledging our mistake. I want everybody, everybody on every airplane to know that Boeing owns it. Boeing is accountable for what happened. An event like this simply must not happen. We own it. There's no other answer I can give you.",
+        "link_turn_id": 30,
+        "linked_words": "Boeing workers had failed to install four bolts that secured it to the plane. Boeing later said it had no documentation of the work.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "34": {
+        "segment_words": "We're going to approach this, number one, acknowledging our mistake. I want everybody, everybody on every airplane to know that Boeing owns it. Boeing is accountable for what happened. An event like this simply must not happen. We own it. There's no other answer I can give you.",
+        "link_turn_id": 34,
+        "linked_words": "Boeing CEO, Dave Calhoun, was quick to own the failure",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "36": {
+    "link_turn_id": [
+      27,
+      29,
+      31,
+      30,
+      32
+    ],
+    "words": "Unlike the design flaw behind the deadly 737 Max crashes in 2018 and 2019, the door plug issue was a production failure. But both incidents raised questions about Boeing's safety culture and the FAA's oversight.",
+    "speaker_turn": 36,
+    "speaker_name": "FRONTLINE Narration",
+    "conversation_id": 5826,
+    "start_time": 784.22,
+    "end_time": 800.48,
+    "union_linked_turn_ids": [
+      "27",
+      "29",
+      "30",
+      "32",
+      "35",
+      "29",
+      "32",
+      "31",
+      "30",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33"
+    ],
+    "segments": {
+      "27": {
+        "segment_words": "But both incidents raised questions about Boeing's safety culture and the FAA's oversight.",
+        "link_turn_id": 27,
+        "linked_words": "It had direct echoes of everything we had been reporting on years ago as we tried to unpack what happened during the Max crisis",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "29": {
+        "segment_words": "the door plug issue was a production failure.",
+        "link_turn_id": 29,
+        "linked_words": "this was a problem on Boeing's factory floor.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "31": {
+        "segment_words": "the door plug issue was a production failure. But both incidents raised questions about Boeing's safety culture and the FAA's oversight.",
+        "link_turn_id": 31,
+        "linked_words": "Where was the oversight?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "30": {
+        "segment_words": "the door plug issue was a production failure",
+        "link_turn_id": 30,
+        "linked_words": "Boeing workers had failed to install four bolts that secured it to the plane",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "32": {
+        "segment_words": "the door plug issue was a production failure.",
+        "link_turn_id": 32,
+        "linked_words": "the idea that something as important as a part of the plane's body could leave the factory without the bolts needed to hold it in place is shocking.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "37": {
+    "link_turn_id": [
+      36,
+      32
+    ],
+    "words": "I think what's most scary is that you have both kinds of accidents happening at the same company. That, to me, reveals culture inside the company. I know we keep coming back to this word culture, but it's right at the root of what happened in both sets of accidents.",
+    "speaker_turn": 37,
+    "speaker_name": "FRONTLINE David Gelles",
+    "conversation_id": 5826,
+    "start_time": 801.06,
+    "end_time": 819.07,
+    "union_linked_turn_ids": [
+      "36",
+      "30",
+      "32",
+      "36",
+      "31",
+      "32",
+      "36"
+    ],
+    "segments": {
+      "36": {
+        "segment_words": "That, to me, reveals culture inside the company. I know we keep coming back to this word culture, but it's right at the root of what happened in both sets of accidents.",
+        "link_turn_id": 36,
+        "linked_words": "But both incidents raised questions about Boeing's safety culture and the FAA's oversight.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "32": {
+        "segment_words": "That, to me, reveals culture inside the company.",
+        "link_turn_id": 32,
+        "linked_words": "And the idea that something as important as a part of the plane's body could leave the factory without the bolts needed to hold it in place is shocking.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "38": {
+    "link_turn_id": [
+      35,
+      36,
+      37,
+      34
+    ],
+    "words": "In a statement, Boeing said it is dedicated to transparency and it is implementing a comprehensive plan to strengthen safety and quality. Less than seven weeks after the Alaska Air incident, the executive running the Max program was axed. Later, in March of 2024, the FAA said it found multiple quality control issues with the Max. They also released a report that called Boeing's safety culture inadequate and confusing. And two months later, the Justice Department announced it was investigating the company.",
+    "speaker_turn": 38,
+    "speaker_name": "FRONTLINE Narration",
+    "conversation_id": 5826,
+    "start_time": 819.89,
+    "end_time": 855.102,
+    "union_linked_turn_ids": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "30",
+      "36",
+      "37",
+      "29",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "segments": {
+      "35": {
+        "segment_words": "Boeing said it is dedicated to transparency and it is implementing a comprehensive plan to strengthen safety and quality.",
+        "link_turn_id": 35,
+        "linked_words": "I want everybody, everybody on every airplane to know that Boeing owns it. Boeing is accountable for what happened.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "36": {
+        "segment_words": "Later, in March of 2024, the FAA said it found multiple quality control issues with the Max. They also released a report that called Boeing's safety culture inadequate and confusing.",
+        "link_turn_id": 36,
+        "linked_words": "But both incidents raised questions about Boeing's safety culture and the FAA's oversight.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "37": {
+        "segment_words": "They also released a report that called Boeing's safety culture inadequate and confusing.",
+        "link_turn_id": 37,
+        "linked_words": "That, to me, reveals culture inside the company. I know we keep coming back to this word culture, but it's right at the root of what happened in both sets of accidents.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "34": {
+        "segment_words": "Boeing said it is dedicated to transparency and it is implementing a comprehensive plan to strengthen safety and quality.",
+        "link_turn_id": 34,
+        "linked_words": "Boeing CEO, Dave Calhoun, was quick to own the failure",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "39": {
+    "link_turn_id": [
+      38,
+      37
+    ],
+    "words": "Cultural change doesn't happen overnight, especially at big corporations like this, and it doesn't happen just because he got slapped with a fine. It's the product of millions of decisions, whatever it might mean in terms of lost profits that impact the share price in the short term. But if Boeing wants to get back to that place of grandeur where it was for so long, one of the most important American companies, it's going to take not 4 years, but it might take 14.",
+    "speaker_turn": 39,
+    "speaker_name": "FRONTLINE David Gelles",
+    "conversation_id": 5826,
+    "start_time": 855.246,
+    "end_time": 887.8,
+    "union_linked_turn_ids": [
+      "37",
+      "38",
+      "37",
+      "38",
+      "37",
+      "38"
+    ],
+    "segments": {
+      "38": {
+        "segment_words": "Cultural change doesn't happen overnight, especially at big corporations like this, and it doesn't happen just because he got slapped with a fine.",
+        "link_turn_id": 38,
+        "linked_words": "And two months later, the Justice Department announced it was investigating the company.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "37": {
+        "segment_words": "Cultural change doesn't happen overnight, especially at big corporations like this, and it doesn't happen just because he got slapped with a fine.",
+        "link_turn_id": 37,
+        "linked_words": "I know we keep coming back to this word culture, but it's right at the root of what happened in both sets of accidents.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "40": {
+    "link_turn_id": [
+      38
+    ],
+    "words": "Following the Alaska Airlines incident, the FAA grounded more than 170 Max-9 jets. Less than three months later, nearly all were back in service.",
+    "speaker_turn": 40,
+    "speaker_name": "FRONTLINE Narration",
+    "conversation_id": 5826,
+    "start_time": 888.42,
+    "end_time": 899.87,
+    "union_linked_turn_ids": [
+      "38",
+      "38",
+      "38"
+    ],
+    "segments": {
+      "38": {
+        "segment_words": "Following the Alaska Airlines incident, the FAA grounded more than 170 Max-9 jets.",
+        "link_turn_id": 38,
+        "linked_words": "Less than seven weeks after the Alaska Air incident, the executive running the Max program was axed.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "41": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "All right, that was the little clip that we were supposed to watch. Did everybody catch everything in that video, for the most part? Did it make sense? Lovely. All right. So we're going to have a quick going around just sharing initial thoughts. If anybody can relate to anything in the documentary personally. It doesn't have to be about airlines or Boeing in specific, but maybe something that could mirror the emotional or intrapersonal issues that people are facing in the clip. And I do request that I'd like to hear from everybody if possible, if there is a dialogue or if you hear something and you want to jump into that, feel free to. I mentioned this last time, it's a graded discussion without the grades. Kind of jump in, try to keep it relevant as much as possible of course. And yeah, prompt is in the chat. Anybody can go. And we have about 10 minutes on this prompt, so I'm going to request that comment stay at a maximum of two minutes. So I'm going to keep a timer just for my sake. And when I do about this, you've got maybe 20-ish, 10 seconds left. Does that work for you guys? Cool. All right. Does anybody wants to start about first thoughts after watching the video?",
+    "speaker_turn": 41,
+    "speaker_name": "Dyuthi",
+    "conversation_id": 5826,
+    "start_time": 909.93,
+    "end_time": 991.76,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "42": {
+    "link_turn_id": [
+      37,
+      39
+    ],
+    "words": "I can start off really quick. So one big thing that stood out to me in this video was kind of the whole talking about the and how if they're being repeatedly negligent about their safety, it's something within the company. Because I know that I'm a pretty frequent traveler by plane. And so, I hear a lot that it's the safest method of travel and that the chances of something going wrong are, as they mentioned next to zero. But then, seeing something like this kind of made me really think about it more. Are they taking advantage of that fact and kind of getting away with their negligence because it just looks like one small incident in a sea of generally safe flights? So yeah, that was my first impression.",
+    "speaker_turn": 42,
+    "speaker_name": "Neha",
+    "conversation_id": 5826,
+    "start_time": 993.42,
+    "end_time": 1047.819,
+    "union_linked_turn_ids": [
+      "37",
+      "39",
+      "37",
+      "39",
+      "41",
+      "37",
+      "39"
+    ],
+    "segments": {
+      "37": {
+        "segment_words": "it's something within the company",
+        "link_turn_id": 37,
+        "linked_words": "reveals culture inside the company",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "39": {
+        "segment_words": "if they're being repeatedly negligent about their safety, it's something within the company.",
+        "link_turn_id": 39,
+        "linked_words": "Cultural change doesn't happen overnight, especially at big corporations like this, and it doesn't happen just because he got slapped with a fine.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "43": {
+    "link_turn_id": [
+      42
+    ],
+    "words": "Yeah, I agree. I think it is interesting to me too, because it's one of those industries where people are not generally knowledgeable about it. So it's, for instance, food safety is one where people can get a lot of information on the kind of food they eat, what they put in their body or something like that. But airlines are not something that the general public knows or has a lot of access to information about. And so, it's funny, and this is not as serious at all, but when we were on our plane, there's this one plane where before it started taking off, we were smelling gas in the cabin and I was like, I haven't been on a plane since I was really, really young. So I was like, okay, so this is probably just normal. Right? And I had no idea. And then after, the pilot was like, \"Ah, sorry guys. Don't know what that was about.\" And my dad and I were talking and my dad was like, \"Yeah, that was a little freaky. I don't know why it did that.\" And I was like, oh, I don't know anything about planes. I just assumed that it's like a car, you smell gas when you're about to leave or whatever. So kind of what Neha was saying about just you always assume the plane is safe because everyone tells you the plane is safe and they don't disseminate information about plane safety very well.",
+    "speaker_turn": 43,
+    "speaker_name": "Olivia",
+    "conversation_id": 5826,
+    "start_time": 1053.839,
+    "end_time": 1133.72,
+    "union_linked_turn_ids": [
+      "42",
+      "42",
+      "42"
+    ],
+    "segments": {
+      "42": {
+        "segment_words": "So kind of what Neha was saying about just you always assume the plane is safe because everyone tells you the plane is safe and they don't disseminate information about plane safety very well.",
+        "link_turn_id": 42,
+        "linked_words": "I hear a lot that it's the safest method of travel and that the chances of something going wrong are, as they mentioned next to zero. But then, seeing something like this kind of made me really think about it more. Are they taking advantage of that fact and kind of getting away with their negligence because it just looks like one small incident in a sea of generally safe flights?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "44": {
+    "link_turn_id": [
+      42,
+      43
+    ],
+    "words": "Yeah, I think you bring up some good points about the general need for I guess transparency and clear communication between airlines and the consumer. Again, it's obviously not to the same degree as a panel of an airplane falling off, but I did have an experience a couple years back where somebody on my airplane actually had a medical emergency. I don't remember the exact nature of it, but it was like they're calling over the speakers, is there a doctor on board? And we had to do this crazy holding pattern and land somewhere. And throughout this whole process, nothing was ever explained to anyone else in the airplane. And I understand why, to protect the privacy or make sure everything goes smoothly for this person. But it certainly adds another level of just fear and anxiety to have this lack of communication and feel unsafe.",
+    "speaker_turn": 44,
+    "speaker_name": "Kate",
+    "conversation_id": 5826,
+    "start_time": 1137.47,
+    "end_time": 1208.76,
+    "union_linked_turn_ids": [
+      "41",
+      "42",
+      "43",
+      "42",
+      "43",
+      "42",
+      "43"
+    ],
+    "segments": {
+      "42": {
+        "segment_words": "Yeah, I think you bring up some good points about the general need for I guess transparency and clear communication between airlines and the consumer.",
+        "link_turn_id": 42,
+        "linked_words": "So one big thing that stood out to me in this video was kind of the whole talking about the and how if they're being repeatedly negligent about their safety, it's something within the company.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "43": {
+        "segment_words": "Yeah, I think you bring up some good points about the general need for I guess transparency and clear communication between airlines and the consumer.",
+        "link_turn_id": 43,
+        "linked_words": "And so, it's funny, and this is not as serious at all, but when we were on our plane, there's this one plane where before it started taking off, we were smelling gas in the cabin and I was like, I haven't been on a plane since I was really, really young. So I was like, okay, so this is probably just normal. Right? And I had no idea. And then after, the pilot was like, \"Ah, sorry guys. Don't know what that was about.\"",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "45": {
+    "link_turn_id": [
+      42,
+      43,
+      44
+    ],
+    "words": "I agree completely. Thankfully, I've not been in any sort of situation in an airplane, but there's a different sort of transportation, like cars for instance, that have tons of accidents almost every day, which I think mirror the sort of emotional interpersonal issues that people may have, especially in a car crash. It's very dangerous, very fast. It's kind of same with the plane. A plane something goes wrong, it's very dangerous, it's fast. So I know there's a lot of worries either for yourself or for that are going on a plane that you care about. So I know crashes in general with transportation are very scary and they have that sort of traumatic impact on it. And I think a little bit onto why it's caused is mainly because of a different reason. But I'll get into that different point. Yeah.",
+    "speaker_turn": 45,
+    "speaker_name": "Nathan",
+    "conversation_id": 5826,
+    "start_time": 1212.98,
+    "end_time": 1269.022,
+    "union_linked_turn_ids": [
+      "42",
+      "43",
+      "44",
+      "42",
+      "43",
+      "42",
+      "43",
+      "44"
+    ],
+    "segments": {
+      "42": {
+        "segment_words": "I agree completely. Thankfully, I've not been in any sort of situation in an airplane, but there's a different sort of transportation, like cars for instance, that have tons of accidents almost every day, which I think mirror the sort of emotional interpersonal issues that people may have, especially in a car crash. It's very dangerous, very fast. It's kind of same with the plane.",
+        "link_turn_id": 42,
+        "linked_words": "But then, seeing something like this kind of made me really think about it more. Are they taking advantage of that fact and kind of getting away with their negligence because it just looks like one small incident in a sea of generally safe flights?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "43": {
+        "segment_words": "A plane something goes wrong, it's very dangerous, it's fast.",
+        "link_turn_id": 43,
+        "linked_words": "Ah, sorry guys. Don't know what that was about. And my dad and I were talking and my dad was like, \"Yeah, that was a little freaky. I don't know why it did that.\"",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "44": {
+        "segment_words": "I agree completely.",
+        "link_turn_id": 44,
+        "linked_words": "Yeah, I think you bring up some good points about the general need for I guess transparency and clear communication between airlines and the consumer.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "46": {
+    "link_turn_id": [
+      45
+    ],
+    "words": "Nathan, if you want to elaborate on what you were going to say, go for it. We doing a better perfect on time elaborate. No, go for it.",
+    "speaker_turn": 46,
+    "speaker_name": "Dyuthi",
+    "conversation_id": 5826,
+    "start_time": 1269.046,
+    "end_time": 1275.916,
+    "union_linked_turn_ids": [
+      "45",
+      "45",
+      "45"
+    ],
+    "segments": {
+      "45": {
+        "segment_words": "Nathan, if you want to elaborate on what you were going to say, go for it.",
+        "link_turn_id": 45,
+        "linked_words": "But I'll get into that different point. Yeah.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "47": {
+    "link_turn_id": [
+      46
+    ],
+    "words": "I think it'll be a better, yeah.",
+    "speaker_turn": 47,
+    "speaker_name": "Nathan",
+    "conversation_id": 5826,
+    "start_time": 1276.084,
+    "end_time": 1277.668,
+    "union_linked_turn_ids": [
+      "46",
+      "46",
+      "46"
+    ],
+    "segments": {
+      "46": {
+        "segment_words": "I think it'll be a better, yeah.",
+        "link_turn_id": 46,
+        "linked_words": "We doing a better perfect on time elaborate.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "48": {
+    "link_turn_id": [
+      42,
+      45,
+      43,
+      44
+    ],
+    "words": "Okay. Yeah. One thing that I completely agree with everything that was said about the lack of transparency, the lack of knowledge in general. But one thing that I find a little bit disturbing, and this naturally builds on the point of this lack of knowledge that generally around this category is that there are two sides to any scenario. There was a lot of panic, fear, and anguish kind of in the passengers of this flight. On the other hand, you've got these analysts being like, \"Yeah, well if they want to become the brand that they are,\" or that they were rather, \"it is going to be 14 years.\" And just to think that life-threatening scenarios could also be looked at from a business perspective, and potentially ... Obviously, they can understand as humans, okay, yes, this is a safety concern to X, Y, and Z people, but to also think about it from a very commercial aspect I think is quite a commentary not just on this industry but in so many others in general. To see the documentary shift from a very people kind of having this tone of terror, this very nonchalant of, \"Yeah, they want to make money. If they want to come back to where they're that they just kind of got to suck it up and fix it.\" I'm like, \"Wow, okay, that's fun.\" But yeah, I do think that could also be a point in part as to why there is a lack of communication and disregard for more sensitive issues on this note. But yeah. Jack, did you find a key takeaway at all?",
+    "speaker_turn": 48,
+    "speaker_name": "Dyuthi",
+    "conversation_id": 5826,
+    "start_time": 1277.844,
+    "end_time": 1373.75,
+    "union_linked_turn_ids": [
+      "43",
+      "44",
+      "42",
+      "43",
+      "44",
+      "45",
+      "42",
+      "43",
+      "44",
+      "45"
+    ],
+    "segments": {
+      "42": {
+        "segment_words": "Okay. Yeah. One thing that I completely agree with everything that was said about the lack of transparency, the lack of knowledge in general.",
+        "link_turn_id": 42,
+        "linked_words": "Are they taking advantage of that fact and kind of getting away with their negligence because it just looks like one small incident in a sea of generally safe flights?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "45": {
+        "segment_words": "But yeah, I do think that could also be a point in part as to why there is a lack of communication and disregard for more sensitive issues on this note.",
+        "link_turn_id": 45,
+        "linked_words": "And I think a little bit onto why it's caused is mainly because of a different reason.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "43": {
+        "segment_words": "Okay. Yeah. One thing that I completely agree with everything that was said about the lack of transparency, the lack of knowledge in general.",
+        "link_turn_id": 43,
+        "linked_words": "Yeah, I agree. I think it is interesting to me too, because it's one of those industries where people are not generally knowledgeable about it.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "44": {
+        "segment_words": "One thing that I completely agree with everything that was said about the lack of transparency, the lack of knowledge in general.",
+        "link_turn_id": 44,
+        "linked_words": "Yeah, I think you bring up some good points about the general need for I guess transparency and clear communication between airlines and the consumer.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "49": {
+    "link_turn_id": [
+      48
+    ],
+    "words": "I don't like planes. They're scary.",
+    "speaker_turn": 49,
+    "speaker_name": "Jack",
+    "conversation_id": 5826,
+    "start_time": 1376.41,
+    "end_time": 1378.43,
+    "union_linked_turn_ids": [
+      "41",
+      "48",
+      "42",
+      "43",
+      "44",
+      "45",
+      "48",
+      "48"
+    ],
+    "segments": {
+      "48": {
+        "segment_words": "They're scary.",
+        "link_turn_id": 48,
+        "linked_words": "there are two sides to any scenario. There was a lot of panic, fear, and anguish kind of in the passengers of this flight.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "50": {
+    "link_turn_id": [
+      49
+    ],
+    "words": "Do you want to elaborate on that in context of the video?",
+    "speaker_turn": 50,
+    "speaker_name": "Dyuthi",
+    "conversation_id": 5826,
+    "start_time": 1382.13,
+    "end_time": 1385.31,
+    "union_linked_turn_ids": [
+      "49",
+      "49",
+      "49"
+    ],
+    "segments": {
+      "49": {
+        "segment_words": "elaborate on that in context of the video",
+        "link_turn_id": 49,
+        "linked_words": "They're scary.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "51": {
+    "link_turn_id": [
+      50,
+      49
+    ],
+    "words": "No, I don't know. I think the only time I've been on a plane, I was like two maybe and we were going down to Florida. But yeah, I don't know, maybe it is just being a guy, but I like being in control of my mode of transportation, but I'm not against planes in general. Just I don't like planes.",
+    "speaker_turn": 51,
+    "speaker_name": "Jack",
+    "conversation_id": 5826,
+    "start_time": 1386.96,
+    "end_time": 1412.91,
+    "union_linked_turn_ids": [
+      "49",
+      "50",
+      "49",
+      "50",
+      "50"
+    ],
+    "segments": {
+      "50": {
+        "segment_words": "No, I don't know.",
+        "link_turn_id": 50,
+        "linked_words": "Do you want to elaborate on that in context of the video?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "49": {
+        "segment_words": "I like being in control of my mode of transportation, but I'm not against planes in general.",
+        "link_turn_id": 49,
+        "linked_words": "I don't like planes. They're scary.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "52": {
+    "link_turn_id": [
+      43
+    ],
+    "words": "Olivia, were you going to say something?",
+    "speaker_turn": 52,
+    "speaker_name": "Dyuthi",
+    "conversation_id": 5826,
+    "start_time": 1416.05,
+    "end_time": 1417.75,
+    "union_linked_turn_ids": [
+      "43",
+      "43",
+      "43"
+    ],
+    "segments": {
+      "43": {
+        "segment_words": "Olivia, were you going to say something?",
+        "link_turn_id": 43,
+        "linked_words": "Yeah, I agree. I think it is interesting to me too, because it's one of those industries where people are not generally knowledgeable about it.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "53": {
+    "link_turn_id": [
+      51,
+      49
+    ],
+    "words": "No, I was just going to say I totally sympathize with that. My dislike of planes is for a totally different reason. I feel like there's a lot of just dirt, like other people's dirt and stuff in the plane. And one of the biggest issues for me was every single time we would get on a new flight, flight attendant would always be like, \"You have to put your bag under the seat.\" And I'm like, \"But it's dirty under there and then my bag is going to touch me.\" So I feel like planes are dangerous for a different reason, but I sympathize with not liking air travel.",
+    "speaker_turn": 53,
+    "speaker_name": "Olivia",
+    "conversation_id": 5826,
+    "start_time": 1418.57,
+    "end_time": 1453.54,
+    "union_linked_turn_ids": [
+      "51",
+      "49",
+      "51",
+      "49",
+      "51"
+    ],
+    "segments": {
+      "51": {
+        "segment_words": "No, I was just going to say I totally sympathize with that.",
+        "link_turn_id": 51,
+        "linked_words": "but I like being in control of my mode of transportation, but I'm not against planes in general. Just I don't like planes.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "49": {
+        "segment_words": "I totally sympathize with that.",
+        "link_turn_id": 49,
+        "linked_words": "I don't like planes.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "54": {
+    "link_turn_id": [
+      48
+    ],
+    "words": "I think a lot of people are kind of uncomfortable with air travel in general and I really wouldn't be shocked if a huge part of that reason is just lack of understanding of how the sausage gets made per se. But not to pivot too aggressively, but one thing that came out to me as I was watching this video is the question of leadership. So you see Calhoun, the CEO of Boeing, kind of immediately say, \"Hey, we take full responsibility, we're going to do X, Y, Z to make this not happen.\" Was quite at least at face value transparent with journalists. Do you all think that that sort of leadership is helpful in reducing harm, or maybe is it performative and this should have been preventative leadership? How do you all view, I guess, the sort of leadership you see in this video?",
+    "speaker_turn": 54,
+    "speaker_name": "Kate",
+    "conversation_id": 5826,
+    "start_time": 1457.76,
+    "end_time": 1519.33,
+    "union_linked_turn_ids": [
+      "48",
+      "48",
+      "53",
+      "48"
+    ],
+    "segments": {
+      "48": {
+        "segment_words": "I think a lot of people are kind of uncomfortable with air travel in general and I really wouldn't be shocked if a huge part of that reason is just lack of understanding of how the sausage gets made per se.",
+        "link_turn_id": 48,
+        "linked_words": "One thing that I completely agree with everything that was said about the lack of transparency, the lack of knowledge in general.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "55": {
+    "link_turn_id": [
+      54
+    ],
+    "words": "I kind of really just saw it as a way to moving the blame off of himself. I feel like, because I feel like really big CEOs for companies like this are just trying to put the blame off of them, trying to calm the public appeal and you kind of see it from what they did. You can look at, I was taking notes on what they actually did and what was the problem. It just looks like there wasn't a lot of supervising checks and there's not enough inspections. It wasn't necessarily faulty equipment, it was just like inspection was going wrong. And to that end, I feel like they just didn't do anything to account for that and they're just trying to push the blame off so they can still have their company running. But yeah.",
+    "speaker_turn": 55,
+    "speaker_name": "Nathan",
+    "conversation_id": 5826,
+    "start_time": 1520.66,
+    "end_time": 1555.53,
+    "union_linked_turn_ids": [
+      "54",
+      "54",
+      "54"
+    ],
+    "segments": {
+      "54": {
+        "segment_words": "I kind of really just saw it as a way to moving the blame off of himself.",
+        "link_turn_id": 54,
+        "linked_words": "Do you all think that that sort of leadership is helpful in reducing harm, or maybe is it performative and this should have been preventative leadership?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "56": {
+    "link_turn_id": [
+      54,
+      55
+    ],
+    "words": "I think leadership does play a big part in this, because they're talking about the culture and stuff and the culture originates at the top. It's like in your family, it's your parents who decide how your family operates. Same way in a company. If the guy at the top is ... It's not fully like that. Obviously, you need to have a lot of checks and stuff in place and you need to have a lot of procedures that make sense. But it also kind of comes down to the guy at top needs to be like, \"Look, we're going to make a safe plane that operates.\" And I don't think Calhoun has that in mind as we've seen. He was supposed to come in for context and fix the whole Max issue. He was brought in, the old CEO got fired after the two crashed. And I think this shows that he has not done at all what he was supposed to do. He's not changed anything within the company. Obviously, on the engineering side maybe, but on the production side, there's still a lot of problems in that company and I think they need to get somebody in there who will actually be able to fix it.",
+    "speaker_turn": 56,
+    "speaker_name": "Jack",
+    "conversation_id": 5826,
+    "start_time": 1557.75,
+    "end_time": 1629.07,
+    "union_linked_turn_ids": [
+      "54",
+      "55",
+      "54",
+      "55",
+      "54",
+      "55"
+    ],
+    "segments": {
+      "54": {
+        "segment_words": "And I don't think Calhoun has that in mind as we've seen. He was supposed to come in for context and fix the whole Max issue. He was brought in, the old CEO got fired after the two crashed. And I think this shows that he has not done at all what he was supposed to do.",
+        "link_turn_id": 54,
+        "linked_words": "So you see Calhoun, the CEO of Boeing, kind of immediately say, \"Hey, we take full responsibility, we're going to do X, Y, Z to make this not happen.\" Was quite at least at face value transparent with journalists. Do you all think that that sort of leadership is helpful in reducing harm, or maybe is it performative and this should have been preventative leadership?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "55": {
+        "segment_words": "Obviously, you need to have a lot of checks and stuff in place and you need to have a lot of procedures that make sense.",
+        "link_turn_id": 55,
+        "linked_words": "It just looks like there wasn't a lot of supervising checks and there's not enough inspections.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "57": {
+    "link_turn_id": [
+      54,
+      55,
+      56
+    ],
+    "words": "I will say I completely agree with everything that has already been said, but I will say one thing that I always wonder is if sometimes, and obviously I'm on the side of the consumer, one because it's their lives that are being put at risk, and two, because I'm a consumer, it'd be stupid to be against my own side. But I do wonder if we feel like what he said was performative or how he addressed the issue was performative. I wonder how we would ask him then, what more would we ask him to do? I mean, yes, obviously demonstrate that with action. And so I don't really know a lot about this issue in general. So this is not an indictment of anything that has already been said. But I also feel like sometimes as consumers, we don't have a clear expectation of what we want big companies and corporations to do, partially because we're not informed. It's the company's job to inform us and we're not informed, so we don't even know what to ask for. So it's like a disconnect of communication on both sides.",
+    "speaker_turn": 57,
+    "speaker_name": "Olivia",
+    "conversation_id": 5826,
+    "start_time": 1631.46,
+    "end_time": 1706.87,
+    "union_linked_turn_ids": [
+      "54",
+      "55",
+      "56",
+      "54",
+      "55",
+      "56",
+      "54",
+      "55",
+      "56"
+    ],
+    "segments": {
+      "54": {
+        "segment_words": "But I do wonder if we feel like what he said was performative or how he addressed the issue was performative. I wonder how we would ask him then, what more would we ask him to do? I mean, yes, obviously demonstrate that with action.",
+        "link_turn_id": 54,
+        "linked_words": "Do you all think that that sort of leadership is helpful in reducing harm, or maybe is it performative and this should have been preventative leadership? How do you all view, I guess, the sort of leadership you see in this video?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "55": {
+        "segment_words": "I wonder if we feel like what he said was performative or how he addressed the issue was performative. I wonder how we would ask him then, what more would we ask him to do? I mean, yes, obviously demonstrate that with action.",
+        "link_turn_id": 55,
+        "linked_words": "I kind of really just saw it as a way to moving the blame off of himself. I feel like, because I feel like really big CEOs for companies like this are just trying to put the blame off of them, trying to calm the public appeal and you kind of see it from what they did.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "56": {
+        "segment_words": "I will say I completely agree with everything that has already been said, but I will say one thing that I always wonder is if sometimes, and obviously I'm on the side of the consumer, one because it's their lives that are being put at risk, and two, because I'm a consumer, it'd be stupid to be against my own side. But I do wonder if we feel like what he said was performative or how he addressed the issue was performative.",
+        "link_turn_id": 56,
+        "linked_words": "And I don't think Calhoun has that in mind as we've seen. He was supposed to come in for context and fix the whole Max issue. He was brought in, the old CEO got fired after the two crashed. And I think this shows that he has not done at all what he was supposed to do.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "58": {
+    "link_turn_id": [
+      54,
+      56,
+      57
+    ],
+    "words": "All right, if nobody else wants to speak, I don't want to hog the conversation here, so if anyone else wants to butt in, please do. But if nobody else wants to speak, I guess I would share maybe a little anecdote. So my dad does own a company and part of that, I remember him telling me about what that's like, what it's like managing X, Y, Z number of people and something he used to bring up is how a lot of decisions are made by your employees and you kind of take the responsibility for any negative outcomes that come of those decisions. And that's part of your job or your responsibility as a boss. The good decisions and the bad decisions. At the end of the day, it's all going to trickle back to you. And I do think, not to absolve Calhoun of complete responsibility, there's something to be said that he probably wasn't intentionally setting things up to fail. And there is a little bit of a respect in how he handled the fallout.",
+    "speaker_turn": 58,
+    "speaker_name": "Kate",
+    "conversation_id": 5826,
+    "start_time": 1719.58,
+    "end_time": 1794.14,
+    "union_linked_turn_ids": [
+      "54",
+      "56",
+      "57",
+      "54",
+      "55",
+      "56",
+      "57",
+      "54",
+      "56",
+      "57"
+    ],
+    "segments": {
+      "54": {
+        "segment_words": "And I do think, not to absolve Calhoun of complete responsibility, there's something to be said that he probably wasn't intentionally setting things up to fail. And there is a little bit of a respect in how he handled the fallout.",
+        "link_turn_id": 54,
+        "linked_words": "Do you all think that that sort of leadership is helpful in reducing harm, or maybe is it performative and this should have been preventative leadership?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "56": {
+        "segment_words": "And I do think, not to absolve Calhoun of complete responsibility, there's something to be said that he probably wasn't intentionally setting things up to fail.",
+        "link_turn_id": 56,
+        "linked_words": "And I don't think Calhoun has that in mind as we've seen.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "57": {
+        "segment_words": "And I do think, not to absolve Calhoun of complete responsibility, there's something to be said that he probably wasn't intentionally setting things up to fail.",
+        "link_turn_id": 57,
+        "linked_words": "I do wonder if we feel like what he said was performative or how he addressed the issue was performative. I wonder how we would ask him then, what more would we ask him to do?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "59": {
+    "link_turn_id": [
+      54,
+      58,
+      57
+    ],
+    "words": "Yeah, I agree. With the disclaimer that I haven't done a ton of research on this, I think that I find it refreshing that at least he owned up to the mistake, even if it was all superficial and all just for publicity, sometimes that's the first step to making something better is being transparent and saying, \"Hey, we did this wrong. Here's what we're going to try and do better.\" Because then you are giving the people what they want in the sense that they want someone to blame and you're taking that blame, but you're also giving them expectations for what you should do in the future. Now, whether they live up to those expectations or not, I don't know. But I feel like that's also a form of communication is if you tell people what you're going to do better, then they know what to look for in the future.",
+    "speaker_turn": 59,
+    "speaker_name": "Olivia",
+    "conversation_id": 5826,
+    "start_time": 1798.84,
+    "end_time": 1854.32,
+    "union_linked_turn_ids": [
+      "54",
+      "57",
+      "58",
+      "54",
+      "56",
+      "57",
+      "57",
+      "58"
+    ],
+    "segments": {
+      "54": {
+        "segment_words": "I find it refreshing that at least he owned up to the mistake, even if it was all superficial and all just for publicity, sometimes that's the first step to making something better is being transparent and saying, \"Hey, we did this wrong. Here's what we're going to try and do better.\"",
+        "link_turn_id": 54,
+        "linked_words": "Was quite at least at face value transparent with journalists. Do you all think that that sort of leadership is helpful in reducing harm, or maybe is it performative and this should have been preventative leadership?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "58": {
+        "segment_words": "I think that I find it refreshing that at least he owned up to the mistake, even if it was all superficial and all just for publicity, sometimes that's the first step to making something better is being transparent and saying, \"Hey, we did this wrong. Here's what we're going to try and do better.\"",
+        "link_turn_id": 58,
+        "linked_words": "I do think, not to absolve Calhoun of complete responsibility, there's something to be said that he probably wasn't intentionally setting things up to fail. And there is a little bit of a respect in how he handled the fallout.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "57": {
+        "segment_words": "I find it refreshing that at least he owned up to the mistake, even if it was all superficial and all just for publicity, sometimes that's the first step to making something better is being transparent and saying, \"Hey, we did this wrong. Here's what we're going to try and do better.\"",
+        "link_turn_id": 57,
+        "linked_words": "But I do wonder if we feel like what he said was performative or how he addressed the issue was performative. I wonder how we would ask him then, what more would we ask him to do? I mean, yes, obviously demonstrate that with action.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "60": {
+    "link_turn_id": [
+      54,
+      55,
+      56,
+      58
+    ],
+    "words": "Also, I feel like the level of effort that Boeing, in general, thinks they need to put in is kind of influenced by how much stake they have in the airplane manufacturing market in general. Because when you think of who makes planes, I feel like Boeing and Airbus, Airbus even less than Boeing I would say is the name that you-",
+    "speaker_turn": 60,
+    "speaker_name": "Neha",
+    "conversation_id": 5826,
+    "start_time": 1857.82,
+    "end_time": 1879.168,
+    "union_linked_turn_ids": [
+      "54",
+      "55",
+      "56",
+      "57",
+      "54",
+      "55",
+      "56",
+      "58",
+      "54",
+      "56",
+      "58"
+    ],
+    "segments": {
+      "54": {
+        "segment_words": "Also, I feel like the level of effort that Boeing, in general, thinks they need to put in is kind of influenced by how much stake they have in the airplane manufacturing market in general.",
+        "link_turn_id": 54,
+        "linked_words": "Do you all think that that sort of leadership is helpful in reducing harm, or maybe is it performative and this should have been preventative leadership?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "55": {
+        "segment_words": "Also, I feel like the level of effort that Boeing, in general, thinks they need to put in is kind of influenced by how much stake they have in the airplane manufacturing market in general.",
+        "link_turn_id": 55,
+        "linked_words": "I feel like, because I feel like really big CEOs for companies like this are just trying to put the blame off of them, trying to calm the public appeal and you kind of see it from what they did.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "56": {
+        "segment_words": "Also, I feel like the level of effort that Boeing, in general, thinks they need to put in is kind of influenced by how much stake they have in the airplane manufacturing market in general.",
+        "link_turn_id": 56,
+        "linked_words": "He's not changed anything within the company. Obviously, on the engineering side maybe, but on the production side, there's still a lot of problems in that company and I think they need to get somebody in there who will actually be able to fix it.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "58": {
+        "segment_words": "Also, I feel like the level of effort that Boeing, in general, thinks they need to put in is kind of influenced by how much stake they have in the airplane manufacturing market in general.",
+        "link_turn_id": 58,
+        "linked_words": "not to absolve Calhoun of complete responsibility, there's something to be said that he probably wasn't intentionally setting things up to fail.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "61": {
+    "link_turn_id": [
+      60
+    ],
+    "words": "Airbus is bigger than Boeing. Airbus is bigger than Boeing.",
+    "speaker_turn": 61,
+    "speaker_name": "Nathan",
+    "conversation_id": 5826,
+    "start_time": 1879.184,
+    "end_time": 1881.536,
+    "union_linked_turn_ids": [
+      "60",
+      "60",
+      "60"
+    ],
+    "segments": {
+      "60": {
+        "segment_words": "Airbus is bigger than Boeing.",
+        "link_turn_id": 60,
+        "linked_words": "Airbus even less than Boeing I would say is the name that you-",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "62": {
+    "link_turn_id": [
+      61
+    ],
+    "words": "Is it? Oh, okay. I didn't know.",
+    "speaker_turn": 62,
+    "speaker_name": "Neha",
+    "conversation_id": 5826,
+    "start_time": 1881.568,
+    "end_time": 1882.96,
+    "union_linked_turn_ids": [
+      "61",
+      "61",
+      "61"
+    ],
+    "segments": {
+      "61": {
+        "segment_words": "Is it? Oh, okay. I didn't know.",
+        "link_turn_id": 61,
+        "linked_words": "Airbus is bigger than Boeing.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "63": {
+    "link_turn_id": [
+      62,
+      61
+    ],
+    "words": "It is. [inaudible].",
+    "speaker_turn": 63,
+    "speaker_name": "Nathan",
+    "conversation_id": 5826,
+    "start_time": 1883.0,
+    "end_time": 1883.608,
+    "union_linked_turn_ids": [
+      "61",
+      "62",
+      "61",
+      "62",
+      "61",
+      "62"
+    ],
+    "segments": {
+      "62": {
+        "segment_words": "It is.",
+        "link_turn_id": 62,
+        "linked_words": "Is it?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "61": {
+        "segment_words": "It is.",
+        "link_turn_id": 61,
+        "linked_words": "Airbus is bigger than Boeing.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "64": {
+    "link_turn_id": [
+      61,
+      60
+    ],
+    "words": "Yeah, those are the two I think of. Yeah, so it's like maybe they don't feel as threatened because they have such a big stake. At least if not the number one, which sure, that's Airbus, they're at least in the top two and you don't think of any other names, maybe like Gulfstream or whatever. But those aren't what springs to mind. And so they probably feel less threatened by others when they're making these decisions. And so, they feel like they have a bit more leeway to give themselves into whatever changes they're implementing to implement them in a more relaxed way.",
+    "speaker_turn": 64,
+    "speaker_name": "Neha",
+    "conversation_id": 5826,
+    "start_time": 1883.624,
+    "end_time": 1925.86,
+    "union_linked_turn_ids": [
+      "60",
+      "61",
+      "60",
+      "61",
+      "60",
+      "61",
+      "62"
+    ],
+    "segments": {
+      "61": {
+        "segment_words": "At least if not the number one, which sure, that's Airbus, they're at least in the top two and you don't think of any other names, maybe like Gulfstream or whatever.",
+        "link_turn_id": 61,
+        "linked_words": "Airbus is bigger than Boeing.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "60": {
+        "segment_words": "And so they probably feel less threatened by others when they're making these decisions. And so, they feel like they have a bit more leeway to give themselves into whatever changes they're implementing to implement them in a more relaxed way.",
+        "link_turn_id": 60,
+        "linked_words": "Also, I feel like the level of effort that Boeing, in general, thinks they need to put in is kind of influenced by how much stake they have in the airplane manufacturing market in general.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "65": {
+    "link_turn_id": [
+      64,
+      60,
+      56,
+      58
+    ],
+    "words": "Yeah, for sure. I think that was a very good start to our conversation and a lot of the following conversations or rather prompts can kind of feed into this. We can kind of touch back on what we had just discussed, X, Y and Z. But before I ask this question, everybody find some wood around you and touch it. Are you all touching wood? Good. Please share a story of a time you've tried to talk about airline failures or if airline failures have affected you. How did you go about talking about this and is it a big fear? I said touch wood because I hope none of this happens to any of us, anybody that we know. And it's also a fairly sensitive topic, so if you don't really feel compelled to share, there is no pressure. We will move by this question fairly quickly for that same reason. But yeah, I will know the question in the chat and I can also start unless anybody has something that they would just like to go out strong with.",
+    "speaker_turn": 65,
+    "speaker_name": "Dyuthi",
+    "conversation_id": 5826,
+    "start_time": 1926.93,
+    "end_time": 1990.1,
+    "union_linked_turn_ids": [
+      "NA",
+      "56",
+      "58",
+      "60",
+      "64",
+      "56",
+      "57",
+      "58",
+      "59",
+      "60",
+      "64"
+    ],
+    "segments": {
+      "64": {
+        "segment_words": "I think that was a very good start to our conversation and a lot of the following conversations or rather prompts can kind of feed into this.",
+        "link_turn_id": 64,
+        "linked_words": "Yeah, those are the two I think of.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "60": {
+        "segment_words": "Yeah, for sure. I think that was a very good start to our conversation and a lot of the following conversations or rather prompts can kind of feed into this.",
+        "link_turn_id": 60,
+        "linked_words": "Also, I feel like the level of effort that Boeing, in general, thinks they need to put in is kind of influenced by how much stake they have in the airplane manufacturing market in general.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "56": {
+        "segment_words": "I think that was a very good start to our conversation and a lot of the following conversations or rather prompts can kind of feed into this.",
+        "link_turn_id": 56,
+        "linked_words": "I think leadership does play a big part in this, because they're talking about the culture and stuff and the culture originates at the top. It's like in your family, it's your parents who decide how your family operates. Same way in a company.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "58": {
+        "segment_words": "We can kind of touch back on what we had just discussed, X, Y and Z.",
+        "link_turn_id": 58,
+        "linked_words": "I remember him telling me about what that's like, what it's like managing X, Y, Z number of people and something he used to bring up is how a lot of decisions are made by your employees and you kind of take the responsibility for any negative outcomes that come of those decisions.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "66": {
+    "link_turn_id": [
+      65
+    ],
+    "words": "This is more of a lighthearted anecdote. I have been on planes so little that they're not a big part of my life at all, but I was telling my mom when we were on a plane that I was kind of happy. One of my biggest fears, I have to tell my parents that I love them every time I leave the house, every time they leave the house because I'm like, \"Well, if you get a car accident and die or if you get kidnapped or murdered or something like that, then I can't have the last thing I said to be like, 'okay, bye. See you later.'\" Or something stupid like that. It has to be like, I love you. And so, I was telling my mom that this might sound messed up, but part of the reason, one reason I like traveling in a plane with them is because I know that if we get in a plane crash and die, we're all going to die together at the same time. So no one will be left alone. I don't know why. Yeah, that is the main time I've talked about airline safety with my parents.",
+    "speaker_turn": 66,
+    "speaker_name": "Olivia",
+    "conversation_id": 5826,
+    "start_time": 1993.416,
+    "end_time": 2054.52,
+    "union_linked_turn_ids": [
+      "65",
+      "65",
+      "65"
+    ],
+    "segments": {
+      "65": {
+        "segment_words": "Yeah, that is the main time I've talked about airline safety with my parents.",
+        "link_turn_id": 65,
+        "linked_words": "Please share a story of a time you've tried to talk about airline failures or if airline failures have affected you.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "67": {
+    "link_turn_id": [
+      66
+    ],
+    "words": "That is well and fair as a comment. Does anybody else have an anecdote or I can also jump in?",
+    "speaker_turn": 67,
+    "speaker_name": "Dyuthi",
+    "conversation_id": 5826,
+    "start_time": 2054.98,
+    "end_time": 2061.92,
+    "union_linked_turn_ids": [
+      "66",
+      "66",
+      "66"
+    ],
+    "segments": {
+      "66": {
+        "segment_words": "That is well and fair as a comment.",
+        "link_turn_id": 66,
+        "linked_words": "This is more of a lighthearted anecdote. I have been on planes so little that they're not a big part of my life at all, but I was telling my mom when we were on a plane that I was kind of happy. One of my biggest fears, I have to tell my parents that I love them every time I leave the house, every time they leave the house because I'm like, \"Well, if you get a car accident and die or if you get kidnapped or murdered or something like that, then I can't have the last thing I said to be like, 'okay, bye. See you later.'\" Or something stupid like that. It has to be like, I love you. And so, I was telling my mom that this might sound messed up, but part of the reason, one reason I like traveling in a plane with them is because I know that if we get in a plane crash and die, we're all going to die together at the same time. So no one will be left alone. I don't know why. Yeah, that is the main time I've talked about airline safety with my parents.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "68": {
+    "link_turn_id": [
+      65,
+      66
+    ],
+    "words": "Since I mentioned earlier about how I travel in planes a lot, they're always playing those safety videos at the beginning and I don't watch them anymore. I just ignore them. And if the person is doing a live demonstration, I will do anything to not look at them, even if it means I have to actively turn my head, I don't want to hear it. And so, sometimes when I'm actively turning my head away from them, someone I'm sitting with will be like, \"Don't you want to pay attention?\" And then I'm like, \"Oh, if the plan goes down, is there anything I can do about it? No.\" So I feel like I've gotten desensitized to it. And this kind of ties into, I feel like I've talked about this a lot with people lately, but Gen Z humor and it just being really morbid and not caring about anything. So I feel like it all kind of feeds into my attitude about airline safety and how I'm kind of like, \"Oh my gosh, if the plane crashes I'm dead. Okay, I don't have to take math anymore.\" That kind of attitude instead of I need to pay attention to safety so I know how to fit my oxygen mask and how to blow up my safety vest. So yeah, that's how I generally feel about it.",
+    "speaker_turn": 68,
+    "speaker_name": "Neha",
+    "conversation_id": 5826,
+    "start_time": 2063.22,
+    "end_time": 2139.2,
+    "union_linked_turn_ids": [
+      "65",
+      "66",
+      "67",
+      "65",
+      "66",
+      "65",
+      "66"
+    ],
+    "segments": {
+      "65": {
+        "segment_words": "Since I mentioned earlier about how I travel in planes a lot, they're always playing those safety videos at the beginning and I don't watch them anymore. I just ignore them. And if the person is doing a live demonstration, I will do anything to not look at them, even if it means I have to actively turn my head, I don't want to hear it. And so, sometimes when I'm actively turning my head away from them, someone I'm sitting with will be like, \"Don't you want to pay attention?\" And then I'm like, \"Oh, if the plan goes down, is there anything I can do about it? No.\" So I feel like I've gotten desensitized to it.",
+        "link_turn_id": 65,
+        "linked_words": "Please share a story of a time you've tried to talk about airline failures or if airline failures have affected you. How did you go about talking about this and is it a big fear?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "66": {
+        "segment_words": "Oh my gosh, if the plane crashes I'm dead. Okay, I don't have to take math anymore.",
+        "link_turn_id": 66,
+        "linked_words": "So no one will be left alone.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "69": {
+    "link_turn_id": [
+      68
+    ],
+    "words": "Yeah. I can kind of relate to, I guess using apathy, or I guess maybe a better word would be using, I guess intentional maybe avoidance or calming, I don't know, to deal with the stress. I was actually recently stranded in Atlanta for a while during that situation in which Windows went down and thousands of Delta flights were canceled across the country. We had been flown in to Atlanta as a intermediary place for, sorry, what's the word? I don't know. When you-",
+    "speaker_turn": 69,
+    "speaker_name": "Kate",
+    "conversation_id": 5826,
+    "start_time": 2143.62,
+    "end_time": 2187.144,
+    "union_linked_turn_ids": [
+      "68",
+      "66",
+      "68",
+      "68"
+    ],
+    "segments": {
+      "68": {
+        "segment_words": "Yeah. I can kind of relate to, I guess using apathy, or I guess maybe a better word would be using, I guess intentional maybe avoidance or calming, I don't know, to deal with the stress.",
+        "link_turn_id": 68,
+        "linked_words": "I feel like I've talked about this a lot with people lately, but Gen Z humor and it just being really morbid and not caring about anything. So I feel like it all kind of feeds into my attitude about airline safety and how I'm kind of like, \"Oh my gosh, if the plane crashes I'm dead. Okay, I don't have to take math anymore.\"",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "70": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "[inaudible].",
+    "speaker_turn": 70,
+    "speaker_name": "Neha",
+    "conversation_id": 5826,
+    "start_time": 2187.152,
+    "end_time": 2187.4,
+    "union_linked_turn_ids": [
+      "69",
+      "NA",
+      "68"
+    ],
+    "segments": {}
+  },
+  "71": {
+    "link_turn_id": [
+      69
+    ],
+    "words": "Layover.",
+    "speaker_turn": 71,
+    "speaker_name": "Kate",
+    "conversation_id": 5826,
+    "start_time": 2187.44,
+    "end_time": 2188.14,
+    "union_linked_turn_ids": [
+      "69",
+      "69",
+      "69"
+    ],
+    "segments": {
+      "69": {
+        "segment_words": "Layover.",
+        "link_turn_id": 69,
+        "linked_words": "sorry, what's the word? I don't know. When you-",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "72": {
+    "link_turn_id": [
+      71,
+      69
+    ],
+    "words": "Layover.",
+    "speaker_turn": 72,
+    "speaker_name": "Neha",
+    "conversation_id": 5826,
+    "start_time": 2188.14,
+    "end_time": 2189.44,
+    "union_linked_turn_ids": [
+      "71",
+      "69",
+      "71",
+      "69",
+      "71"
+    ],
+    "segments": {
+      "71": {
+        "segment_words": "Layover.",
+        "link_turn_id": 71,
+        "linked_words": "Layover.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "69": {
+        "segment_words": "Layover.",
+        "link_turn_id": 69,
+        "linked_words": "as a intermediary place for, sorry, what's the word? I don't know. When you-",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "73": {
+    "link_turn_id": [
+      69
+    ],
+    "words": "As a layover. I went to Atlanta for a layover. The flight in was delayed a lot because they were having tech issues with getting a flight attendant on. And when we actually got to Atlanta, it was very clear that there were a lot of people who had not gotten out and weren't able to. Every rental car in a 40-mile radius was completely and utterly sold out. You couldn't get a train ticket out. Delta couldn't pay back everybody at once because it was just such an insane volume. The helplines to get to the help desk wrapped through the hallways. I have photos and videos of it. It is one of the most incredible just volumes of people I've ever seen in one place. And the energy in the room, everyone's anxious, babies are crying, people have been there. We were in line for something. And I remember this woman comes up to me and she's crying and she's like, \"Hey, I'm so sorry to ask you this, but can you please save a place for us in this line? I've been here for three days, I can't get out. I have three little kids and I don't know what to do.\" And just seeing how something so simple as Windows going down could so significantly impact thousands of people in such a profound way. And honestly, I kind of feel a little bit guilty every time I do talk about it because I was lucky I got out that same day. I was at the airport for what? 12 hours, which I was one of the luckiest people I talked to. There was a woman who said that she'd been awake for 30 hours straight. People sleeping all over the airport floor. And it was, I don't want to sound like I'm a jerk when I complain about it, but yeah, it was something else. And it really shows you how dependent we are as a culture on travel like this running smoothly.",
+    "speaker_turn": 73,
+    "speaker_name": "Kate",
+    "conversation_id": 5826,
+    "start_time": 2189.44,
+    "end_time": 2317.77,
+    "union_linked_turn_ids": [
+      "69",
+      "71",
+      "68",
+      "69",
+      "69"
+    ],
+    "segments": {
+      "69": {
+        "segment_words": "As a layover. I went to Atlanta for a layover.",
+        "link_turn_id": 69,
+        "linked_words": "as a intermediary place for, sorry, what's the word? I don't know. When you-",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "74": {
+    "link_turn_id": [
+      65,
+      69,
+      68,
+      73
+    ],
+    "words": "I feel like it's, sorry to butt again, I know I talk a lot, but I feel like that's one of the reasons people get so freaked out about things like air travel, sea travel, like cars and stuff like that. Because you know that all it takes is one small flaw in the system to literally derail everything. And I feel like even if you're not informed about plane safety, car safety, train safety, whatever mode of transportation you're taking as a person, you inherently know that there's a risk. Every time you put yourself in a situation, you're taking a risk, whether it be direct risk, like you get in a car and you go on the highway or an indirect risk, you take a flight to a place that you don't live in that you have no connections in, and you are trusting that your plane will get there in time so that you're not stranded there.",
+    "speaker_turn": 74,
+    "speaker_name": "Olivia",
+    "conversation_id": 5826,
+    "start_time": 2320.55,
+    "end_time": 2368.838,
+    "union_linked_turn_ids": [
+      "65",
+      "68",
+      "69",
+      "65",
+      "68",
+      "69",
+      "73",
+      "73",
+      "69",
+      "68"
+    ],
+    "segments": {
+      "65": {
+        "segment_words": "I feel like that's one of the reasons people get so freaked out about things like air travel, sea travel, like cars and stuff like that. Because you know that all it takes is one small flaw in the system to literally derail everything.",
+        "link_turn_id": 65,
+        "linked_words": "Please share a story of a time you've tried to talk about airline failures or if airline failures have affected you. How did you go about talking about this and is it a big fear?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "69": {
+        "segment_words": "you're not stranded there.",
+        "link_turn_id": 69,
+        "linked_words": "I was actually recently stranded in Atlanta for a while during that situation in which Windows went down and thousands of Delta flights were canceled across the country.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "68": {
+        "segment_words": "I feel like that's one of the reasons people get so freaked out about things like air travel, sea travel, like cars and stuff like that. Because you know that all it takes is one small flaw in the system to literally derail everything.",
+        "link_turn_id": 68,
+        "linked_words": "Oh, if the plan goes down, is there anything I can do about it? No.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "73": {
+        "segment_words": "And I feel like even if you're not informed about plane safety, car safety, train safety, whatever mode of transportation you're taking as a person, you inherently know that there's a risk.",
+        "link_turn_id": 73,
+        "linked_words": "And just seeing how something so simple as Windows going down could so significantly impact thousands of people in such a profound way.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "75": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Yeah. All right. Nathan, Jack, any comments, questions, notes?",
+    "speaker_turn": 75,
+    "speaker_name": "Dyuthi",
+    "conversation_id": 5826,
+    "start_time": 2369.014,
+    "end_time": 2376.99,
+    "union_linked_turn_ids": [
+      "NA",
+      "74",
+      "NA"
+    ],
+    "segments": {}
+  },
+  "76": {
+    "link_turn_id": [
+      75
+    ],
+    "words": "No, I think Nathan and I covered all the points we needed to,",
+    "speaker_turn": 76,
+    "speaker_name": "Jack",
+    "conversation_id": 5826,
+    "start_time": 2376.99,
+    "end_time": 2380.718,
+    "union_linked_turn_ids": [
+      "75",
+      "75",
+      "75"
+    ],
+    "segments": {
+      "75": {
+        "segment_words": "No, I think Nathan and I covered all the points we needed to,",
+        "link_turn_id": 75,
+        "linked_words": "any comments, questions, notes?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "77": {
+    "link_turn_id": [
+      "NA"
+    ],
+    "words": "Yeah, by going like this and everything else in between?",
+    "speaker_turn": 77,
+    "speaker_name": "Dyuthi",
+    "conversation_id": 5826,
+    "start_time": 2381.11,
+    "end_time": 2383.518,
+    "union_linked_turn_ids": [
+      "NA",
+      "NA",
+      "74"
+    ],
+    "segments": {}
+  },
+  "78": {
+    "link_turn_id": [
+      77
+    ],
+    "words": "What? No, you didn't see that.",
+    "speaker_turn": 78,
+    "speaker_name": "Jack",
+    "conversation_id": 5826,
+    "start_time": 2384.262,
+    "end_time": 2385.862,
+    "union_linked_turn_ids": [
+      "77",
+      "77",
+      "77"
+    ],
+    "segments": {
+      "77": {
+        "segment_words": "What? No, you didn't see that.",
+        "link_turn_id": 77,
+        "linked_words": "by going like this and everything else in between",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "79": {
+    "link_turn_id": [
+      74,
+      73
+    ],
+    "words": "No, I didn't see that. Okay. I will share two quick stories. So I recently came back from a trip in India and while I was there, this whole Microsoft thing went down. And legit, it was the day before I flew out too. was like, oh my God, are you flying Delta? And I'm like, yeah. She's like, \"Dude, be careful.\" And at that point I knew this was a thing, but I didn't realize it was affecting airlines. And so I was like, \"Oh.\" we made it back. That's fine. But earlier that week, my cousins from Seattle were trying to fly out to India and they had this lay over in Dubai, so they got on their plane except a few seconds after they take off, these alarms start blaring and the monitor was just showing their flight. The pilot's like, \"Hey, we got to turn around. There's something wrong with the flight.\" And my youngest cousin in this cohort, I think he's like, I want to say he's four, and he's crying his eyes out and my aunt's just recording it. And my younger cousin, who's the sister of the kid, she's like eight, no, she's about as old as she was. Okay, nevermind. She's 11. I just can't wrap my heads around the fact that they're big and old now. But anyways, she's about 11/12 and she's asking her dad like, \"Wait, why can't they just fly us through this thing?\" And her dad's panicking being like, \"Guys, something's wrong with the flight.\" And it's like, \"Oh.\" And so they land, but for their grandparents who are hitting 70-80 to hear that something happened to their flight, to get a video of, I kid you not, the flight was going and then it goes from a white path to a red line. And then just to see how quickly it just around on the monitor, I'm watching it shocked myself. The amount of fright this might've given their grandparents is terrifying to even think about. And I really hope it's not a case of neglect, but naturally just seeing this, I wouldn't be surprised. But I think it's a little bit frustrating that there isn't as much coverage on this topic. And then even then, Kate, one more thing, and this is a bit more of a sensitive thing. A week from today on Friday, my uncle passed away and his daughter just had a, well, she's four months old now and they're in Atlanta. And so two days before, he wasn't doing that great. He's like, \"No, you should totally stay.\" But just because of all the cancellations, the things they were like, \"Maybe we should wait.\" So then we get the news that my dad's sister's husband had passed away. So my dad calls her and she's bawling her eyes up being like, \"It's terrible.\" Then we're all very, I've never seen my dad cry. I saw him cry for the first time and that made me cry. But it is just sad to think that even the smallest of things can have a very big impact like the butterfly to tsunami effect, but with people's lives that I know this one isn't directly related to airlines, or an airline-based issue in itself, but just the larger system at hand that we're dealing with. So all right, next question. We don't need touch wood for this. So after watching the videos, have your feelings about Boeing or the issue of airline safety change? Why or why not? Anybody can jump in on this one as well.",
+    "speaker_turn": 79,
+    "speaker_name": "Dyuthi",
+    "conversation_id": 5826,
+    "start_time": 2385.966,
+    "end_time": 2596.78,
+    "union_linked_turn_ids": [
+      "73",
+      "74",
+      "73",
+      "74",
+      "73",
+      "74"
+    ],
+    "segments": {
+      "74": {
+        "segment_words": "I really hope it's not a case of neglect, but naturally just seeing this, I wouldn't be surprised. But I think it's a little bit frustrating that there isn't as much coverage on this topic.",
+        "link_turn_id": 74,
+        "linked_words": "all it takes is one small flaw in the system to literally derail everything",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "73": {
+        "segment_words": "But I think it's a little bit frustrating that there isn't as much coverage on this topic.",
+        "link_turn_id": 73,
+        "linked_words": "And just seeing how something so simple as Windows going down could so significantly impact thousands of people in such a profound way.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "80": {
+    "link_turn_id": [
+      79,
+      74
+    ],
+    "words": "If I may start, I still think it's a very important issue that still needs a lot of fixing most issues nowadays, but I feel like it just got pushed aside a bit. The whole Microsoft thing happened just recently too, and I feel like it's not covered as much like we discussed previously. It was said in the video too after the part of the jet flew off the thing, they stopped a bunch of their planes from flying, but then almost a year later they just let all the planes fly again, which it's not fully like they're ignoring it, but they're also just like, \"All right, we're just going to go ahead and use all of them again.\" Hopefully they fixed the issue. The point is that it's still going to happen probably if they haven't addressed their supervising issues. So I guess what I'm trying to say is that it's probably been fixed a little, but it's still a recurring thing that I feel like needs more attention. Yeah.",
+    "speaker_turn": 80,
+    "speaker_name": "Nathan",
+    "conversation_id": 5826,
+    "start_time": 2599.08,
+    "end_time": 2654.72,
+    "union_linked_turn_ids": [
+      "74",
+      "79",
+      "74",
+      "79",
+      "79"
+    ],
+    "segments": {
+      "79": {
+        "segment_words": "I feel like it's not covered as much like we discussed previously.",
+        "link_turn_id": 79,
+        "linked_words": "But I think it's a little bit frustrating that there isn't as much coverage on this topic.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "74": {
+        "segment_words": "they stopped a bunch of their planes from flying, but then almost a year later they just let all the planes fly again, which it's not fully like they're ignoring it, but they're also just like, \"All right, we're just going to go ahead and use all of them again.\" Hopefully they fixed the issue. The point is that it's still going to happen probably if they haven't addressed their supervising issues.",
+        "link_turn_id": 74,
+        "linked_words": "all it takes is one small flaw in the system to literally derail everything. And I feel like even if you're not informed about plane safety, car safety, train safety, whatever mode of transportation you're taking as a person, you inherently know that there's a risk.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "81": {
+    "link_turn_id": [
+      74,
+      80,
+      79
+    ],
+    "words": "To be honest, I didn't have a lot of feelings about airline safety before this happened. I had heard about this, actually, my first introduction to this issue in particular, the most recent case I mentioned, was the girl who was like, \"Oh, I thought I was going to die.\" She posted an Instagram reel and she was like, \"POV, you wake up from your plane nap and it turned out the side of the plane is missing.\" And I was like, \"That's crazy. That can't be real.\" Apparently it was, which I guess is going back to Neha's whole Gen Z, optimistic nihilism thing, where it's like everything is a joke, nothing really matters, but I feel like it's kind of demonstrates how vulnerable humans really are just in general, whether it's to natural elements or even to things that we do to ourselves that I feel like people don't think about or we choose to ignore. The same way that we know how risky it is to get in a car every single day, and yet we do it multiple times a day, at convenience, at will, because it just becomes so commonplace to ignore the danger something presents in favor of the convenience that it offers. And I'm not saying that that should change our behavior because people need to go places, our world needs to be connected. And I think it's a great thing that it is, but it definitely puts in perspective how vulnerable we are as people. And I feel like that's one of those things where it would be very beneficial. I know this is probably counter to the interests of Boeing, but it'd be beneficial for them to stay in touch with the public as a corporation and make sure they're actively communicating with people so that people can make informed decisions about their safety.",
+    "speaker_turn": 81,
+    "speaker_name": "Olivia",
+    "conversation_id": 5826,
+    "start_time": 2662.94,
+    "end_time": 2786.97,
+    "union_linked_turn_ids": [
+      "79",
+      "74",
+      "79",
+      "80",
+      "74",
+      "79",
+      "80"
+    ],
+    "segments": {
+      "74": {
+        "segment_words": "The same way that we know how risky it is to get in a car every single day, and yet we do it multiple times a day, at convenience, at will, because it just becomes so commonplace to ignore the danger something presents in favor of the convenience that it offers.",
+        "link_turn_id": 74,
+        "linked_words": "Every time you put yourself in a situation, you're taking a risk, whether it be direct risk, like you get in a car and you go on the highway or an indirect risk, you take a flight to a place that you don't live in that you have no connections in, and you are trusting that your plane will get there in time so that you're not stranded there.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "80": {
+        "segment_words": "I know this is probably counter to the interests of Boeing, but it'd be beneficial for them to stay in touch with the public as a corporation and make sure they're actively communicating with people so that people can make informed decisions about their safety.",
+        "link_turn_id": 80,
+        "linked_words": "Hopefully they fixed the issue. The point is that it's still going to happen probably if they haven't addressed their supervising issues. So I guess what I'm trying to say is that it's probably been fixed a little, but it's still a recurring thing that I feel like needs more attention.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "79": {
+        "segment_words": "I feel like it's kind of demonstrates how vulnerable humans really are just in general, whether it's to natural elements or even to things that we do to ourselves that I feel like people don't think about or we choose to ignore.",
+        "link_turn_id": 79,
+        "linked_words": "But it is just sad to think that even the smallest of things can have a very big impact like the butterfly to tsunami effect, but with people's lives that I know this one isn't directly related to airlines, or an airline-based issue in itself, but just the larger system at hand that we're dealing with.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "82": {
+    "link_turn_id": [
+      76,
+      81,
+      80
+    ],
+    "words": "Jack, Nathan, would you guys like to share your thoughts as to how ... I know Jack, you said you're scared of planes, so has this video shaped that at all? Or if you have any other feelings about this issue or airline safety in general, why or why not? Anything you want to share there, Nathan as well.",
+    "speaker_turn": 82,
+    "speaker_name": "Dyuthi",
+    "conversation_id": 5826,
+    "start_time": 2795.71,
+    "end_time": 2813.58,
+    "union_linked_turn_ids": [
+      "80",
+      "81",
+      "80",
+      "76",
+      "80",
+      "76",
+      "81"
+    ],
+    "segments": {
+      "76": {
+        "segment_words": "I know Jack, you said you're scared of planes, so has this video shaped that at all?",
+        "link_turn_id": 76,
+        "linked_words": "No, I think Nathan and I covered all the points we needed to,",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "81": {
+        "segment_words": "so has this video shaped that at all?",
+        "link_turn_id": 81,
+        "linked_words": "I had heard about this, actually, my first introduction to this issue in particular, the most recent case I mentioned, was the girl who was like, \"Oh, I thought I was going to die.\" She posted an Instagram reel and she was like, \"POV, you wake up from your plane nap and it turned out the side of the plane is missing.\"",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "80": {
+        "segment_words": "Anything you want to share there, Nathan as well.",
+        "link_turn_id": 80,
+        "linked_words": "So I guess what I'm trying to say is that it's probably been fixed a little, but it's still a recurring thing that I feel like needs more attention.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "83": {
+    "link_turn_id": [
+      82
+    ],
+    "words": "I think Nathan already went. He started that, right?",
+    "speaker_turn": 83,
+    "speaker_name": "Jack",
+    "conversation_id": 5826,
+    "start_time": 2816.68,
+    "end_time": 2819.78,
+    "union_linked_turn_ids": [
+      "80",
+      "82",
+      "82",
+      "82"
+    ],
+    "segments": {
+      "82": {
+        "segment_words": "Nathan as well.",
+        "link_turn_id": 82,
+        "linked_words": "Anything you want to share there, Nathan as well.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "84": {
+    "link_turn_id": [
+      83,
+      82
+    ],
+    "words": "Yes. So my apologies. I'm so sorry. Jack, would you like to go?",
+    "speaker_turn": 84,
+    "speaker_name": "Dyuthi",
+    "conversation_id": 5826,
+    "start_time": 2820.28,
+    "end_time": 2825.18,
+    "union_linked_turn_ids": [
+      "82",
+      "83",
+      "83",
+      "82",
+      "83"
+    ],
+    "segments": {
+      "83": {
+        "segment_words": "Yes.",
+        "link_turn_id": 83,
+        "linked_words": "He started that, right?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "82": {
+        "segment_words": "Jack, would you like to go?",
+        "link_turn_id": 82,
+        "linked_words": "Jack, you said you're scared of planes, so has this video shaped that at all? Or if you have any other feelings about this issue or airline safety in general, why or why not?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "85": {
+    "link_turn_id": [
+      82
+    ],
+    "words": "Yeah, I think I'll be staying on my own continent for now.",
+    "speaker_turn": 85,
+    "speaker_name": "Jack",
+    "conversation_id": 5826,
+    "start_time": 2826.44,
+    "end_time": 2829.46,
+    "union_linked_turn_ids": [
+      "82",
+      "82",
+      "82"
+    ],
+    "segments": {
+      "82": {
+        "segment_words": "Yeah, I think I'll be staying on my own continent for now.",
+        "link_turn_id": 82,
+        "linked_words": "I know Jack, you said you're scared of planes, so has this video shaped that at all?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "86": {
+    "link_turn_id": [
+      85
+    ],
+    "words": "You have anything else to add in terms of how this video might shape your opinion or what?",
+    "speaker_turn": 86,
+    "speaker_name": "Dyuthi",
+    "conversation_id": 5826,
+    "start_time": 2831.41,
+    "end_time": 2835.618,
+    "union_linked_turn_ids": [
+      "85",
+      "85",
+      "85"
+    ],
+    "segments": {
+      "85": {
+        "segment_words": "how this video might shape your opinion",
+        "link_turn_id": 85,
+        "linked_words": "I think I'll be staying on my own continent for now",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "87": {
+    "link_turn_id": [
+      82,
+      86
+    ],
+    "words": "No, I mean this kind of stuff, it kind of happens and didn't happen to me. Move on. There's not too much more you can do about it. Also, I would say as a consumer we cannot make an informed decision because there are two people who make planes and we don't get to decide which one we fly on.",
+    "speaker_turn": 87,
+    "speaker_name": "Jack",
+    "conversation_id": 5826,
+    "start_time": 2835.714,
+    "end_time": 2858.87,
+    "union_linked_turn_ids": [
+      "82",
+      "86",
+      "82",
+      "86",
+      "84",
+      "86"
+    ],
+    "segments": {
+      "82": {
+        "segment_words": "No, I mean this kind of stuff, it kind of happens and didn't happen to me. Move on. There's not too much more you can do about it.",
+        "link_turn_id": 82,
+        "linked_words": "has this video shaped that at all? Or if you have any other feelings about this issue or airline safety in general, why or why not?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "86": {
+        "segment_words": "No, I mean this kind of stuff, it kind of happens and didn't happen to me. Move on.",
+        "link_turn_id": 86,
+        "linked_words": "You have anything else to add in terms of how this video might shape your opinion or what?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "88": {
+    "link_turn_id": [
+      87
+    ],
+    "words": "And so you and yourself would say that your opinion has not changed, but you are still not a fan of the air transportation form.",
+    "speaker_turn": 88,
+    "speaker_name": "Dyuthi",
+    "conversation_id": 5826,
+    "start_time": 2860.41,
+    "end_time": 2868.95,
+    "union_linked_turn_ids": [
+      "85",
+      "87",
+      "87",
+      "87"
+    ],
+    "segments": {
+      "87": {
+        "segment_words": "you are still not a fan of the air transportation form.",
+        "link_turn_id": 87,
+        "linked_words": "as a consumer we cannot make an informed decision because there are two people who make planes and we don't get to decide which one we fly on.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "89": {
+    "link_turn_id": [
+      88
+    ],
+    "words": "Yeah. If you want to say it in more words, yes.",
+    "speaker_turn": 89,
+    "speaker_name": "Jack",
+    "conversation_id": 5826,
+    "start_time": 2869.49,
+    "end_time": 2871.578,
+    "union_linked_turn_ids": [
+      "88",
+      "88",
+      "88"
+    ],
+    "segments": {
+      "88": {
+        "segment_words": "Yeah.",
+        "link_turn_id": 88,
+        "linked_words": "your opinion has not changed",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "90": {
+    "link_turn_id": [
+      89,
+      88
+    ],
+    "words": "Yeah, there you go. Okay, cool. Anybody else want to comment on that or are we good to move on? Lovely, thank you. Looks like Kate's dog is also good. So we will move on to the next question. It's about questions. How cool? So what questions do you still have about Boeing or airline safety after watching this video? And if you guys have any questions about Boeing or airline safety, what questions of yours were answered through this video?",
+    "speaker_turn": 90,
+    "speaker_name": "Dyuthi",
+    "conversation_id": 5826,
+    "start_time": 2871.674,
+    "end_time": 2902.24,
+    "union_linked_turn_ids": [
+      "89",
+      "82",
+      "86",
+      "88",
+      "88",
+      "89"
+    ],
+    "segments": {
+      "89": {
+        "segment_words": "Yeah, there you go.",
+        "link_turn_id": 89,
+        "linked_words": "Yeah. If you want to say it in more words, yes.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "88": {
+        "segment_words": "Okay, cool. Anybody else want to comment on that or are we good to move on?",
+        "link_turn_id": 88,
+        "linked_words": "but you are still not a fan of the air transportation form.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "91": {
+    "link_turn_id": [
+      90
+    ],
+    "words": "I think everybody's biggest question with this situation right now, wait, I guess I shouldn't speak for everybody at least. My biggest question right now is kind of unanswerable and it's what is going to be done about this going forward? What is going to change? Boeing, like you guys have mentioned, they are such a large market holder, but with all of the very intense public pressure that they've gotten recently, I don't see a future for the company that doesn't involve some degree of change. You hear negative press about Boeing everywhere you look, even the smallest incidents at Boeing now, everything is under a lot of public scrutiny. So I'm definitely very curious to see what is going to be done moving forward, how the company is going to change, what that's going to mean for consumers because the way it is right now, especially after that whole Windows thing as well, I feel like just air travel in general is not super sustainable the way it is. It's too susceptible to small, outside influences causing problems on a massive, massive scale.",
+    "speaker_turn": 91,
+    "speaker_name": "Kate",
+    "conversation_id": 5826,
+    "start_time": 2910.55,
+    "end_time": 2991.45,
+    "union_linked_turn_ids": [
+      "90",
+      "90",
+      "90"
+    ],
+    "segments": {
+      "90": {
+        "segment_words": "My biggest question right now is kind of unanswerable and it's what is going to be done about this going forward? What is going to change?",
+        "link_turn_id": 90,
+        "linked_words": "So what questions do you still have about Boeing or airline safety after watching this video?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "92": {
+    "link_turn_id": [
+      91
+    ],
+    "words": "And I would like to jump into that really fast. I would not say that airline safety is something that I particularly had always at the forefront of my mind. To me, I'm like, oh my God, I love airports. I love flying on planes, which is still true, but I hate to bring this up, it's also a sensitive topic, but Kate your point in terms of the whole system in itself is extremely susceptible to the smallest of things. If we were to even think about 9/11, this conversation of airline safety has been technically big since then. It feels like it might've simmered down because it might just be the crude Gen Z humor that we have today and the culture that I'm exposed to, oh my God, 9/11, right. But having said that, I think that there really is just a bigger sense of ... I feel as that this is a very sensitive issue that really isn't being treated at the core. But I will say, just in terms of this video in general, I am very grateful that Frontline decided to create a documentary on this. I find that even though I might not have cared about it before, I think after watching it and even having this discussion, just those anecdotes kind of strike me as, okay, maybe this is a bigger issue that I'm able to kind of see or than I might've thought it would've been. And Kate, I completely agree with the question that you have. I'm just curious to know what would happen going forth and just if there's anything that can be done at the ground level, not the people that go like this, but I mean that the very basics of what the company kind of is and production lines and all that jazz. Yeah. Sorry, I'm choking on my rice and partially dying. Does anybody else want to go?",
+    "speaker_turn": 92,
+    "speaker_name": "Dyuthi",
+    "conversation_id": 5826,
+    "start_time": 2993.078,
+    "end_time": 3097.29,
+    "union_linked_turn_ids": [
+      "91",
+      "91",
+      "91"
+    ],
+    "segments": {
+      "91": {
+        "segment_words": "Kate your point in terms of the whole system in itself is extremely susceptible to the smallest of things.",
+        "link_turn_id": 91,
+        "linked_words": "It's too susceptible to small, outside influences causing problems on a massive, massive scale.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "93": {
+    "link_turn_id": [
+      92
+    ],
+    "words": "I guess one question I have. Oh, sorry, who was that?",
+    "speaker_turn": 93,
+    "speaker_name": "Neha",
+    "conversation_id": 5826,
+    "start_time": 3099.23,
+    "end_time": 3102.046,
+    "union_linked_turn_ids": [
+      "92",
+      "92",
+      "90",
+      "91",
+      "92"
+    ],
+    "segments": {
+      "92": {
+        "segment_words": "Oh, sorry, who was that?",
+        "link_turn_id": 92,
+        "linked_words": "Sorry, I'm choking on my rice and partially dying. Does anybody else want to go?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "94": {
+    "link_turn_id": [
+      93
+    ],
+    "words": "No, you go ahead, [inaudible].",
+    "speaker_turn": 94,
+    "speaker_name": "Nathan",
+    "conversation_id": 5826,
+    "start_time": 3102.118,
+    "end_time": 3102.958,
+    "union_linked_turn_ids": [
+      "93",
+      "93",
+      "93"
+    ],
+    "segments": {
+      "93": {
+        "segment_words": "No, you go ahead",
+        "link_turn_id": 93,
+        "linked_words": "Oh, sorry, who was that?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "95": {
+    "link_turn_id": [
+      91,
+      92
+    ],
+    "words": "Okay, this is really quick, but speaking on how, I guess there's one primary rival to Boeing, but what's so different in the way that they conduct their safety checks and why is it consistently Boeing that we seem to be seeing having these malfunctions? And I guess what incentive do they have, whether direct or indirect, to cut corners with their safety inspections? How much is it helping them get ahead? Is it just a very marginal profit or is it really a big thing that they don't have to pay people to do to work extra hours to test these things? And it rakes in a lot of money at the end of the year. I want to know what's different and why they have been cutting corners to begin with if it's not really that big of a deal.",
+    "speaker_turn": 95,
+    "speaker_name": "Neha",
+    "conversation_id": 5826,
+    "start_time": 3103.734,
+    "end_time": 3158.17,
+    "union_linked_turn_ids": [
+      "91",
+      "92",
+      "91",
+      "92",
+      "90",
+      "91",
+      "92"
+    ],
+    "segments": {
+      "91": {
+        "segment_words": "I want to know what's different and why they have been cutting corners to begin with if it's not really that big of a deal.",
+        "link_turn_id": 91,
+        "linked_words": "my biggest question right now is kind of unanswerable and it's what is going to be done about this going forward? What is going to change?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "92": {
+        "segment_words": "I want to know what's different and why they have been cutting corners to begin with if it's not really that big of a deal.",
+        "link_turn_id": 92,
+        "linked_words": "I'm just curious to know what would happen going forth and just if there's anything that can be done at the ground level, not the people that go like this, but I mean that the very basics of what the company kind of is and production lines and all that jazz.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "96": {
+    "link_turn_id": [
+      95
+    ],
+    "words": "Yeah, that's a great question and great points. Does anybody else have any other questions, comments? Nathan, you want to jump in on this one?",
+    "speaker_turn": 96,
+    "speaker_name": "Dyuthi",
+    "conversation_id": 5826,
+    "start_time": 3162.83,
+    "end_time": 3169.61,
+    "union_linked_turn_ids": [
+      "95",
+      "95",
+      "95"
+    ],
+    "segments": {
+      "95": {
+        "segment_words": "Yeah, that's a great question and great points.",
+        "link_turn_id": 95,
+        "linked_words": "I want to know what's different and why they have been cutting corners to begin with if it's not really that big of a deal.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "97": {
+    "link_turn_id": [
+      92
+    ],
+    "words": "Yeah, mine is kind of related to what you said, Duthie. It was like what length will it take? Again, I don't really know too much about airplane safety or what exactly they're doing right now to fix anything, but I guess it's like at what point will it take, if they aren't doing much right now, at what point will it take for them to actually take serious action for the things that happened? I mean, you had a good point, 9/11, right before that, there wasn't a lot of airplane security. But then after that moment, there was a lot, everything changed. A lot of different acts were enacted at that point in time. So would there be something like that in terms of Boeing if they don't make serious change now? That's just my main question, but yeah.",
+    "speaker_turn": 97,
+    "speaker_name": "Nathan",
+    "conversation_id": 5826,
+    "start_time": 3170.15,
+    "end_time": 3207.01,
+    "union_linked_turn_ids": [
+      "92",
+      "95",
+      "91",
+      "92",
+      "92"
+    ],
+    "segments": {
+      "92": {
+        "segment_words": "I mean, you had a good point, 9/11, right before that, there wasn't a lot of airplane security. But then after that moment, there was a lot, everything changed.",
+        "link_turn_id": 92,
+        "linked_words": "If we were to even think about 9/11, this conversation of airline safety has been technically big since then.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "98": {
+    "link_turn_id": [
+      95,
+      97
+    ],
+    "words": "Jumping off of what Nathan and Neha are both saying, I'm wondering, I don't know a lot about policies and legislation as it relates to airplane safety or air travel safety. And so, I'm wondering, because it seems like Boeing and Airbus kind of have, I'm probably using this term incorrectly, but they kind of have a monopoly in the market. They own the market for airplanes. And so, what I'm wondering is are there not laws and regulations imposed on a legal level on those companies? And if there's not, why aren't they? And if there is, are they not following them or are they finding loopholes? Because that's one thing where I wonder what's the legality of this? Surely when we invented airplanes, we saw fit for there to be laws regulating how they're inspected for safety because it's really serious. You're putting people 35,000 feet in the air. So that would be my question is I feel like common sense would dictate that there are really strict laws about these. So how is it still happening that accidents like this occur?",
+    "speaker_turn": 98,
+    "speaker_name": "Olivia",
+    "conversation_id": 5826,
+    "start_time": 3209.896,
+    "end_time": 3289.79,
+    "union_linked_turn_ids": [
+      "95",
+      "97",
+      "95",
+      "97",
+      "95",
+      "97"
+    ],
+    "segments": {
+      "95": {
+        "segment_words": "So how is it still happening that accidents like this occur?",
+        "link_turn_id": 95,
+        "linked_words": "And why is it consistently Boeing that we seem to be seeing having these malfunctions?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "97": {
+        "segment_words": "are they not following them or are they finding loopholes? Because that's one thing where I wonder what's the legality of this? Surely when we invented airplanes, we saw fit for there to be laws regulating how they're inspected for safety because it's really serious.",
+        "link_turn_id": 97,
+        "linked_words": "Again, I don't really know too much about airplane safety or what exactly they're doing right now to fix anything, but I guess it's like at what point will it take, if they aren't doing much right now, at what point will it take for them to actually take serious action for the things that happened?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "99": {
+    "link_turn_id": [
+      98
+    ],
+    "words": "Very fair, very valid. All right, any other questions? Are we good to move on? Thumbs up. Cool. All right, we are just about the tail end of this. So let's take a moment to see where our reactions were similar and different and why that might be. So the question prompt here is what stood out to you from what others in this group shared, if anything at all? It can also be, \"Nope, we're all on the same page because we're all similar\".",
+    "speaker_turn": 99,
+    "speaker_name": "Dyuthi",
+    "conversation_id": 5826,
+    "start_time": 3295.38,
+    "end_time": 3325.59,
+    "union_linked_turn_ids": [
+      "NA",
+      "98",
+      "96",
+      "98"
+    ],
+    "segments": {
+      "98": {
+        "segment_words": "Very fair, very valid.",
+        "link_turn_id": 98,
+        "linked_words": "So that would be my question is I feel like common sense would dictate that there are really strict laws about these. So how is it still happening that accidents like this occur?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "100": {
+    "link_turn_id": [
+      98,
+      95
+    ],
+    "words": "Sorry, I'm going to talk again, even though I just talked 20 seconds ago, but I thought it was interesting how we all had very different focuses as to what our concerns with airline safety was and how we all brought individual experience to it. I find it interesting that Neha was looking very much from the business side. I wasn't thinking at all about what Neha was talking about in the answer to the last question. I was like, well, that was a completely new perspective that I hadn't thought of at all and I hadn't thought of to be honest. Planes being from companies, which sounds stupid, but when I think of a plane, I wasn't like, oh yeah, that's a Boeing plane. I was like, it's a plane. It originated somewhere.",
+    "speaker_turn": 100,
+    "speaker_name": "Olivia",
+    "conversation_id": 5826,
+    "start_time": 3327.33,
+    "end_time": 3377.28,
+    "union_linked_turn_ids": [
+      "99",
+      "98",
+      "95",
+      "95",
+      "98",
+      "95",
+      "98"
+    ],
+    "segments": {
+      "98": {
+        "segment_words": "Planes being from companies, which sounds stupid, but when I think of a plane, I wasn't like, oh yeah, that's a Boeing plane.",
+        "link_turn_id": 98,
+        "linked_words": "And so, I'm wondering, because it seems like Boeing and Airbus kind of have, I'm probably using this term incorrectly, but they kind of have a monopoly in the market. They own the market for airplanes.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "95": {
+        "segment_words": "I find it interesting that Neha was looking very much from the business side.",
+        "link_turn_id": 95,
+        "linked_words": "Okay, this is really quick, but speaking on how, I guess there's one primary rival to Boeing, but what's so different in the way that they conduct their safety checks and why is it consistently Boeing that we seem to be seeing having these malfunctions? And I guess what incentive do they have, whether direct or indirect, to cut corners with their safety inspections?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "101": {
+    "link_turn_id": [
+      99,
+      100
+    ],
+    "words": "Also, I would like to think that a lot of our responses were similar because a lot of the dialogue that we had very much just kind of jumped off of each other. If you guys agree, we could do a thumbs up. Yeah. All right. Does anybody want to quickly share on what we found similar or why it might've also been similar or what you might've shared that someone else found similar with anything of the sort? Or is that pretty self-explanatory? What do you guys think? Want to move on? Yeah. Cool. So before we wrap up, we get to switch hats and give some feedback directly to the makers of these clips. So I'm going to throw in some questions in the chat and feel free to just unmute and be like, \"Dude, I loved this about the video.\" Or, \"Oh my God, that could have been better.\" X, Y, and Z.",
+    "speaker_turn": 101,
+    "speaker_name": "Dyuthi",
+    "conversation_id": 5826,
+    "start_time": 3390.22,
+    "end_time": 3448.51,
+    "union_linked_turn_ids": [
+      "99",
+      "100",
+      "99",
+      "100",
+      "99",
+      "100"
+    ],
+    "segments": {
+      "99": {
+        "segment_words": "So before we wrap up, we get to switch hats and give some feedback directly to the makers of these clips.",
+        "link_turn_id": 99,
+        "linked_words": "So let's take a moment to see where our reactions were similar and different and why that might be.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      },
+      "100": {
+        "segment_words": "If you guys agree, we could do a thumbs up. Yeah. All right. Does anybody want to quickly share on what we found similar or why it might've also been similar or what you might've shared that someone else found similar with anything of the sort?",
+        "link_turn_id": 100,
+        "linked_words": "but I thought it was interesting how we all had very different focuses as to what our concerns with airline safety was and how we all brought individual experience to it.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "102": {
+    "link_turn_id": [
+      99
+    ],
+    "words": "All your questions are numbered one.",
+    "speaker_turn": 102,
+    "speaker_name": "Nathan",
+    "conversation_id": 5826,
+    "start_time": 3454.36,
+    "end_time": 3456.58,
+    "union_linked_turn_ids": [
+      "99",
+      "96",
+      "99",
+      "101",
+      "NA"
+    ],
+    "segments": {
+      "99": {
+        "segment_words": "All your questions are numbered one.",
+        "link_turn_id": 99,
+        "linked_words": "All right, any other questions?",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "103": {
+    "link_turn_id": [
+      102
+    ],
+    "words": "Yeah, that was my fault. But that's just kind of how it translated. The Google Doc has it as 1, 2, 3, 4, 5 though.",
+    "speaker_turn": 103,
+    "speaker_name": "Dyuthi",
+    "conversation_id": 5826,
+    "start_time": 3456.92,
+    "end_time": 3463.54,
+    "union_linked_turn_ids": [
+      "102",
+      "102",
+      "102"
+    ],
+    "segments": {
+      "102": {
+        "segment_words": "Yeah, that was my fault. But that's just kind of how it translated.",
+        "link_turn_id": 102,
+        "linked_words": "All your questions are numbered one.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "104": {
+    "link_turn_id": [
+      103
+    ],
+    "words": "Weird.",
+    "speaker_turn": 104,
+    "speaker_name": "Nathan",
+    "conversation_id": 5826,
+    "start_time": 3464.64,
+    "end_time": 3465.46,
+    "union_linked_turn_ids": [
+      "102",
+      "103",
+      "103",
+      "103"
+    ],
+    "segments": {
+      "103": {
+        "segment_words": "Weird.",
+        "link_turn_id": 103,
+        "linked_words": "But that's just kind of how it translated.",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  },
+  "105": {
+    "link_turn_id": [
+      101
+    ],
+    "words": "Yeah. Honestly, I thought this video was pretty well done. It seemed like it came from a more or less pretty objective, not super aggressive. It was more descriptive of what was happening than prescriptive of how you should feel about it, which I always appreciate. I think it may have been helpful. I get the constraint, it's a seven minute video and these people have privacy, but it would've been interesting to see first hand interviews or more in depth things of people who were on these planes during this incident or this incident to kind of balance out, I guess the perspective of talking about the CEO, because that did feel like there was this positive slant on Boeing that was not fully evened out by, evened out might be an improper term, but fully balanced by the perspective of the people who suffered at the hands of Boeing.",
+    "speaker_turn": 105,
+    "speaker_name": "Kate",
+    "conversation_id": 5826,
+    "start_time": 3470.2,
+    "end_time": 3532.12,
+    "union_linked_turn_ids": [
+      "101",
+      "101",
+      "101",
+      "103"
+    ],
+    "segments": {
+      "101": {
+        "segment_words": "Honestly, I thought this video was pretty well done.",
+        "link_turn_id": 101,
+        "linked_words": "\"Dude, I loved this about the video.\"",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "106": {
+    "link_turn_id": [
+      105
+    ],
+    "words": "No. Yeah. Quick comment on that. This is kind like a trailer for the documentary and this is the most succinct version they can kind of come up with so that we could have these discussions to give them feedback on. But I do agree in that even in the smaller bit of showcasing, there could have been more of that interview of those who have been directly impacted by the event as opposed to a more corporate take on what the actual event was. Any other feedback?",
+    "speaker_turn": 106,
+    "speaker_name": "Dyuthi",
+    "conversation_id": 5826,
+    "start_time": 3533.62,
+    "end_time": 3562.33,
+    "union_linked_turn_ids": [
+      "105",
+      "105",
+      "105"
+    ],
+    "segments": {
+      "105": {
+        "segment_words": "even in the smaller bit of showcasing, there could have been more of that interview of those who have been directly impacted by the event as opposed to a more corporate take on what the actual event was.",
+        "link_turn_id": 105,
+        "linked_words": "but it would've been interesting to see first hand interviews or more in depth things of people who were on these planes during this incident or this incident to kind of balance out, I guess the perspective of talking about the CEO,",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "107": {
+    "link_turn_id": [
+      105,
+      106
+    ],
+    "words": "I have to admit, I kind of agree with Kate. If someone showed me this and was like, \"This is going to be a documentary that's coming out soon.\" I'd probably be more inclined to watch it if I saw more first-hand accounts. Because even though it's definitely laced with strong emotions and stuff like that, you get to see the real impact that things like these have rather than the thing about corporate struggle.",
+    "speaker_turn": 107,
+    "speaker_name": "Olivia",
+    "conversation_id": 5826,
+    "start_time": 3564.95,
+    "end_time": 3591.64,
+    "union_linked_turn_ids": [
+      "105",
+      "105",
+      "106",
+      "105",
+      "106"
+    ],
+    "segments": {
+      "105": {
+        "segment_words": "I'd probably be more inclined to watch it if I saw more first-hand accounts.",
+        "link_turn_id": 105,
+        "linked_words": "it would've been interesting to see first hand interviews or more in depth things of people who were on these planes during this incident",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "106": {
+        "segment_words": "I'd probably be more inclined to watch it if I saw more first-hand accounts.",
+        "link_turn_id": 106,
+        "linked_words": "there could have been more of that interview of those who have been directly impacted by the event",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      }
+    }
+  },
+  "108": {
+    "link_turn_id": [
+      107,
+      105,
+      106
+    ],
+    "words": "And I think one thing that I might add is that, we did talk about it, airline safety is not something that is consistently at the forefront of most of our minds. And so, something else that could be particularly weaved in might be the Microsoft issue and how that might've also impacted the airlines at a more grand scale. But I do understand the significance of holding it to this theme in particular, but something that can really get the attention in a more relevant way to those in our generation. So, okay. It is time for us to wrap up. Thank you again for sharing your thoughts, stories, and experiences. Before you go, I'm going to throw out another form. This is again, another one of the post-conversation forms. So if you guys could fill that out for me, that would be much appreciated. If you do not fill this out, you will not be getting compensation for this conversation, so please do, it only benefits you. So yeah, just like the direction here says. Before you go, please stay on call, fill out the second set of questions to help us capture the value and impact ...",
+    "speaker_turn": 108,
+    "speaker_name": "Dyuthi",
+    "conversation_id": 5826,
+    "start_time": 3594.524,
+    "end_time": 3656.95,
+    "union_linked_turn_ids": [
+      "100",
+      "105",
+      "106",
+      "107",
+      "105",
+      "106",
+      "107",
+      "105",
+      "106",
+      "107"
+    ],
+    "segments": {
+      "107": {
+        "segment_words": "But I do understand the significance of holding it to this theme in particular, but something that can really get the attention in a more relevant way to those in our generation.",
+        "link_turn_id": 107,
+        "linked_words": "if I saw more first-hand accounts. Because even though it's definitely laced with strong emotions and stuff like that, you get to see the real impact that things like these have rather than the thing about corporate struggle.",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "105": {
+        "segment_words": "But I do understand the significance of holding it to this theme in particular...",
+        "link_turn_id": 105,
+        "linked_words": "I get the constraint, it's a seven minute video and these people have privacy, but it would've been interesting to see first hand interviews or more in depth things of people who were on these planes during this incident or this incident to kind of balance out, I guess the perspective of talking about the CEO...",
+        "all_labels": [
+          "responsive_substantive",
+          "responsive_substantive",
+          "responsive_substantive"
+        ],
+        "majority_label": "responsive_substantive"
+      },
+      "106": {
+        "segment_words": "So, okay. It is time for us to wrap up. Thank you again for sharing your thoughts, stories, and experiences. Before you go, I'm going to throw out another form.",
+        "link_turn_id": 106,
+        "linked_words": "Any other feedback?",
+        "all_labels": [
+          "responsive_mechanical",
+          "responsive_mechanical",
+          "responsive_mechanical"
+        ],
+        "majority_label": "responsive_mechanical"
+      }
+    }
+  }
+}
