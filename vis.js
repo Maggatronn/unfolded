@@ -1,5 +1,4 @@
-// d3.json('merged_data.json').then(function (conversations) {
-d3.json('merged_data.json').then(function (conversations) {
+d3.json('merged_conversations.json').then(function (conversations) {
   // Define margins first
   const margin = {top: 20, right: 30, bottom: 30, left: 100};
   
@@ -76,11 +75,14 @@ d3.json('merged_data.json').then(function (conversations) {
     .text("All Conversations");
 
   // Add individual conversation options
-  Object.keys(conversations).sort().forEach(convoId => {
+  Object.entries(conversations).sort().forEach(([convoId, convoData]) => {
+    // Find the title from the conversation data
+    const title = Object.values(convoData).find(turn => turn.title)?.title || `Conversation ${convoId}`;
+    
     conversationSelector
       .append("option")
       .attr("value", convoId)
-      .text(`Conversation ${convoId}`);
+      .text(title);
   });
 
   // Function to update visualization based on selected conversation
@@ -88,6 +90,10 @@ d3.json('merged_data.json').then(function (conversations) {
     // Clear existing visualization
     mainG.selectAll("g").remove();
     d3.selectAll(".tooltip").remove();
+
+    // Debug logging
+    console.log("Selected conversation:", selectedConvo);
+    console.log("All conversations:", conversations);
 
     // Filter conversations if needed
     let convoData;
@@ -99,6 +105,9 @@ d3.json('merged_data.json').then(function (conversations) {
       // Handle case where selectedConvo is already a filtered object
       convoData = selectedConvo;
     }
+
+    // Debug logging
+    console.log("Filtered conversation data:", convoData);
 
     // Update SVG height based on filtered data
     const conversationCount = Object.keys(convoData).length;
@@ -113,6 +122,8 @@ d3.json('merged_data.json').then(function (conversations) {
     // Your existing visualization code here, but using convoData instead of conversations
     Object.keys(convoData).forEach((conversationKey, index) => {
       const data = convoData[conversationKey];
+      console.log("Processing conversation:", conversationKey);
+      console.log("Conversation data:", data);
       let selectedNode = null; // Track the selected node
 
       const width = svg.attr("width") - margin.left - margin.right;
@@ -255,7 +266,7 @@ d3.json('merged_data.json').then(function (conversations) {
         .attr("stroke", 'black')
         .attr("stroke-width", 0.2)
         // .attr("fill", d => d.valence ? valenceColorScale(d.valence) : "white")
-        .attr("fill", "black")
+        .attr("fill", 'black')
         .attr("fill-opacity", d => opacityScale(initialInDegreeMap[d.speaker_turn]))
         // Add back the event handlers
         .on('click', (event, d) => handleClick(event, d))
@@ -651,7 +662,7 @@ d3.json('merged_data.json').then(function (conversations) {
       nodes
         .attr("height", d => d.arousal ? arousalHeightScale(d.arousal) : 10)  // Default height if no arousal data
         // .attr("fill", d => d.valence ? valenceColorScale(d.valence) : "white");  // Default color if no valence data
-        .attr("fill", "black")
+        .attr("fill","black");  // Default color if no valence data
         // Keep existing event handlers
     });
   }
@@ -690,34 +701,62 @@ d3.json('merged_data.json').then(function (conversations) {
     .style("border", "1px solid #ccc")
     .style("border-radius", "4px");
 
-  // Add mechanical response legend item
-  const mechanicalItem = legend.append("div")
+  // Add substantive response legend item (solid line)
+  const substantiveItem = legend.append("div")
     .style("display", "flex")
     .style("align-items", "center")
-    .style("margin-bottom", "5px");
+    .style("margin-bottom", "5px")
+    .style("cursor", "pointer")
+    .on("click", function() {
+      showSubstantive = !showSubstantive;
+      // Update opacity of substantive lines
+      d3.selectAll(".link")
+        .filter(d => d.type === "responsive_substantive")
+        .style("visibility", showSubstantive ? "visible" : "hidden");
+      // Update legend item opacity
+      d3.select(this).style("opacity", showSubstantive ? 1 : 0.5);
+    });
 
-  mechanicalItem.append("div")
+  substantiveItem.append("div")
     .style("width", "20px")
     .style("height", "2px")
     .style("background", "black")
     .style("margin-right", "8px");
 
-  mechanicalItem.append("span")
-    .text("Mechanical Response");
-
-  // Add substantive response legend item
-  const substantiveItem = legend.append("div")
-    .style("display", "flex")
-    .style("align-items", "center");
-
-  substantiveItem.append("div")
-    .style("width", "20px")
-    .style("height", "2px")
-    // .style("background", "red")
-    .style("margin-right", "8px");
-
   substantiveItem.append("span")
     .text("Substantive Response");
+
+  // Add mechanical response legend item (dotted line)
+  const mechanicalItem = legend.append("div")
+    .style("display", "flex")
+    .style("align-items", "center")
+    .style("cursor", "pointer")
+    .on("click", function() {
+      showMechanical = !showMechanical;
+      // Update opacity of mechanical lines
+      d3.selectAll(".link")
+        .filter(d => d.type !== "responsive_substantive")
+        .style("visibility", showMechanical ? "visible" : "hidden");
+      // Update legend item opacity
+      d3.select(this).style("opacity", showMechanical ? 1 : 0.5);
+    });
+
+  // Create a mini SVG for the dashed line
+  mechanicalItem.append("svg")
+    .attr("width", "20")
+    .attr("height", "2")
+    .append("line")
+    .attr("x1", "0")
+    .attr("y1", "1")
+    .attr("x2", "20")
+    .attr("y2", "1")
+    .attr("stroke", "black")
+    .attr("stroke-width", "2")
+    .attr("stroke-dasharray", "3,5");
+
+  mechanicalItem.append("span")
+    .style("margin-left", "8px")
+    .text("Mechanical Response");
 
   // Call it initially
   updateContainerHeight();
@@ -763,11 +802,13 @@ d3.json('merged_data.json').then(function (conversations) {
     .style("margin-right", "5px")
     .style("padding", "5px");          // Match other controls' padding
 
-  // Get unique facilitators (first speakers) from conversations
+  // Get unique facilitators from conversations
   const facilitators = Array.from(new Set(
-    Object.values(conversations).map(conv => 
-      Object.values(conv)[0].speaker_name
-    )
+    Object.values(conversations).map(conv => {
+      // Find the turn that has facilitator field
+      const facilitatorTurn = Object.values(conv).find(turn => turn.facilitator);
+      return facilitatorTurn ? facilitatorTurn.facilitator : "Unknown";
+    })
   ));
 
   // Populate facilitator dropdown
@@ -786,37 +827,6 @@ d3.json('merged_data.json').then(function (conversations) {
     .style("margin-bottom", "10px")
     .style("padding", "5px");
 
-  // Add group filter dropdown before the frontline filter
-  const groupContainer = d3.select("#control-panel")
-    .append("div")
-    .style("display", "inline-block")
-    .style("margin-left", "20px")
-    .style("margin-bottom", "10px")
-    .style("padding", "5px");
-
-  // Create group dropdown
-  const groupSelect = groupContainer
-    .append("select")
-    .attr("id", "group-select")
-    .style("width", "150px")
-    .style("margin-right", "5px")
-    .style("padding", "5px");
-
-  // Get unique groups from conversations
-  const groups = Array.from(new Set(
-    Object.values(conversations).flatMap(conv => 
-      Object.values(conv).map(turn => turn.group)
-    )
-  ));
-
-  // Populate group dropdown
-  groupSelect
-    .selectAll("option")
-    .data(["All Groups"].concat(groups))
-    .join("option")
-    .attr("value", d => d)
-    .text(d => d);
-
   // Add checkbox and label
   frontlineContainer
     .append("input")
@@ -831,10 +841,9 @@ d3.json('merged_data.json').then(function (conversations) {
 
   // Add these variables at the top level to track filter states
   let currentFacilitator = "All Facilitators";
-  let currentGroup = "All Groups";
   let hideFrontline = false;
 
-  // Create a function to apply all filters
+  // Create a function to apply both filters
   function applyFilters() {
     let filteredConvos = {...conversations};  // Start with all conversations
 
@@ -842,28 +851,13 @@ d3.json('merged_data.json').then(function (conversations) {
     if (currentFacilitator !== "All Facilitators") {
       const facilitatorFiltered = {};
       Object.entries(filteredConvos).forEach(([key, conv]) => {
-        if (Object.values(conv)[0].speaker_name === currentFacilitator) {
+        // Find the turn that has facilitator field
+        const facilitatorTurn = Object.values(conv).find(turn => turn.facilitator);
+        if (facilitatorTurn && facilitatorTurn.facilitator === currentFacilitator) {
           facilitatorFiltered[key] = conv;
         }
       });
       filteredConvos = facilitatorFiltered;
-    }
-
-    // Apply group filter if needed
-    if (currentGroup !== "All Groups") {
-      const groupFiltered = {};
-      Object.entries(filteredConvos).forEach(([key, conv]) => {
-        const filteredTurns = {};
-        Object.entries(conv).forEach(([turnId, turn]) => {
-          if (turn.group === currentGroup) {
-            filteredTurns[turnId] = turn;
-          }
-        });
-        if (Object.keys(filteredTurns).length > 0) {
-          groupFiltered[key] = filteredTurns;
-        }
-      });
-      filteredConvos = groupFiltered;
     }
 
     // Apply frontline filter if needed
@@ -889,12 +883,6 @@ d3.json('merged_data.json').then(function (conversations) {
   // Update the facilitator dropdown event listener
   facilitatorSelect.on("change", function() {
     currentFacilitator = this.value;
-    applyFilters();
-  });
-
-  // Add group dropdown event listener
-  groupSelect.on("change", function() {
-    currentGroup = this.value;
     applyFilters();
   });
 

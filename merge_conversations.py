@@ -26,12 +26,12 @@ for file in files:
     
     # Read and parse JSON file
     with open(file, "r") as f:
-        data = json.load(f)
-        # Add group information to each speaker turn
-        group = group_mappings.get(conv_id, "Unknown")
+            data = json.load(f)
+            # Add group information to each speaker turn
+            group = group_mappings.get(conv_id, "Unknown")
         for turn_data in data.values():
-            turn_data["group"] = group
-        merged[conv_id] = data
+                turn_data["group"] = group
+            merged[conv_id] = data
 
 # Write merged data to new file
 with open("merged_data.json", "w") as f:
