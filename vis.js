@@ -1,4 +1,4 @@
-d3.json('merged_conversations.json').then(function (conversations) {
+d3.json('merged_conversations_oregon.json').then(function (conversations) {
   // Define margins first
   const margin = {top: 20, right: 30, bottom: 30, left: 100};
   
