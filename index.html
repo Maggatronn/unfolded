@@ -6,59 +6,81 @@
   <title>Scrollable Conversation Visualization</title>
   <script src="https://d3js.org/d3.v7.min.js"></script>
   <style>
-
-
-
-    .tooltip {
-      position: absolute;
-      /* display: inline-block; */
-      border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+    body {
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      width: 100vw;
+      height: 100vh;
     }
 
-        /* Tooltip text */
-    .tooltip .tooltiptext {
-      visibility: hidden;
-      /* width: 120px; */
-      background-color: black;
-      color: #fff;
-      
-      /* padding: 5px 0; */
-      /* border-radius: 6px; */
-    
-      /* Position the tooltip text - see examples below! */
-      /* position: fixed; */
-      /* z-index: 1; */
+    #container {
+      width: 100%;
+      height: 100vh;
+      display: flex;
     }
 
-    /* Show the tooltip text when you mouse over the tooltip container */
-    .tooltip:hover .tooltiptext {
-      visibility: visible;
+    #control-panel {
+      position: fixed;
+      width: 320px;
+      background: white;
+      z-index: 1000;
+      padding: 10px;
+      top: 0;
     }
-    
+
+    #tooltip-container {
+      position: fixed;
+      left: 0px;
+      width: 450px;
+      overflow-y: auto;
+      scrollbar-width: none;
+      padding-right: 20px;
+      top: 0;
+    }
+
+    #visualization-container {
+      flex-grow: 1;
+      margin-left: 450px;
+      height: 100vh;
+      overflow: auto;
+      padding: 0;
+      margin: 0;
+      margin-left: 450px;
+      position: relative;
+      top: 0;
+    }
 
     svg {
       display: block;
-      /* background-color: black; */
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      position: relative;
+      top: 0;
     }
 
-    
-
-    body {
-      /* display: block; */
-      /* background-color: black; */
-      font-size: small;
-      font-family: "Lucida Console", "Courier New", monospace;
-      color: black;
-      
+    .tooltip {
+      position: absolute;
+      border-bottom: 1px dotted black;
     }
 
-    
+    .tooltip .tooltiptext {
+      visibility: hidden;
+      background-color: black;
+      color: #fff;
+    }
+
+    .tooltip:hover .tooltiptext {
+      visibility: visible;
+    }
   </style>
 </head>
 <body>
-  <div id="container" style="display: flex; margin-top: 20px;">
+  <div id="container">
     <!-- Fixed control panel -->
-    <div id="control-panel" style="position: fixed; width: 320px;">
+    <div id="control-panel">
       <select id="conversation-selector" style="width: 100%; margin-bottom: 10px;"></select>
       <div id="button-container" style="margin-bottom: 10px;">
         <input type="checkbox" id="toggle-opacity" />
@@ -66,15 +88,12 @@
       </div>
     </div>
     
-    <!-- Tooltip container with header -->
-    <div >
-      <div id="tooltip-header" style="background-color: white; position: fixed; margin-top: 250px;  margin-right: 0px; width: 470px; font-weight: bold; font-size: 20px; text-align: center;"></div>
-      <div id="tooltip-container" style="margin-top: 50px; width: 470px; margin-right: 0px; overflow-y: auto; text-align: left;""></div>
-    </div>
+    <!-- Tooltip container -->
+    <div id="tooltip-container"></div>
     
     <!-- Visualization container -->
-    <div style="overflow-x: auto;">
-      <svg id="conversation-viz" width="5000" height="1000" style="fill: white; margin-left: 470px"></svg>
+    <div id="visualization-container">
+      <svg id="conversation-viz"></svg>
     </div>
   </div>
 

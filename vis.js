@@ -1,13 +1,42 @@
 d3.json('merged_conversations_oregon.json').then(function (conversations) {
   // Define margins first
-  const margin = {top: 20, right: 30, bottom: 30, left: 100};
+  const margin = {top: 0, right: 30, bottom: 30, left: 100};
   
   // Select the SVG element
-  const svg = d3.select("#conversation-viz");
+  const svg = d3.select("#conversation-viz")
+    .attr("width", "100%")
+    .attr("viewBox", `0 0 ${window.innerWidth} 1000`);
   const zoomG = svg.append('g');
   const mainG = zoomG.append('g')
-    .attr('transform', `translate(${margin.left},${margin.top})`);
-  
+    .attr('transform', `translate(${margin.left},0)`);
+
+  // Add window resize handler to update SVG viewBox
+  window.addEventListener('resize', function() {
+    svg.attr("viewBox", `0 0 ${window.innerWidth} 1000`);
+  });
+
+  // Update the SVG container div styling
+  d3.select("#container")
+    .style("width", "100%")
+    .style("height", "100vh")
+    .style("display", "flex");
+
+  // Update the visualization container and ensure it starts at the top
+  d3.select("#visualization-container")
+    .style("flex-grow", "1")
+    .style("height", "100vh")
+    .style("width", "100%")
+    .style("overflow", "auto")
+    .style("padding-top", "0");  // Ensure no top padding
+
+  // Update the tooltip container position
+  d3.select('#tooltip-container')
+    .style('position', 'fixed')
+    .style('left', '10px')
+    .style('width', '450px')  // Increased from 400px
+    .style('overflow-y', 'auto')
+    .style('padding-right', '20px');  // Added padding
+
   // Add zoom buttons to the control panel
   const zoomButtonContainer = d3.select("#button-container")
     .append("div")
@@ -503,7 +532,7 @@ d3.json('merged_conversations_oregon.json').then(function (conversations) {
           .style('font-family', 'Monospace')
           .style('box-shadow', '2px 2px 6px rgba(0,0,0,0.1)')
           .style('cursor', 'pointer')
-          .style('width', '450px')
+          .style('width', '430px')  // Adjusted to account for padding
           .style('position', 'absolute')
           .style('left', '8px')
           .style('top', `${index * (baseHeight + baseSpacing)}px`)
@@ -717,11 +746,15 @@ d3.json('merged_conversations_oregon.json').then(function (conversations) {
       d3.select(this).style("opacity", showSubstantive ? 1 : 0.5);
     });
 
-  substantiveItem.append("div")
+  // Create line container for substantive
+  const substantiveLineContainer = substantiveItem.append("div")
     .style("width", "20px")
+    .style("margin-right", "8px")
+    .style("flex-shrink", "0");
+
+  substantiveLineContainer.append("div")
     .style("height", "2px")
-    .style("background", "black")
-    .style("margin-right", "8px");
+    .style("background", "black");
 
   substantiveItem.append("span")
     .text("Substantive Response");
@@ -741,8 +774,14 @@ d3.json('merged_conversations_oregon.json').then(function (conversations) {
       d3.select(this).style("opacity", showMechanical ? 1 : 0.5);
     });
 
+  // Create line container for mechanical
+  const mechanicalLineContainer = mechanicalItem.append("div")
+    .style("width", "20px")
+    .style("margin-right", "8px")
+    .style("flex-shrink", "0");
+
   // Create a mini SVG for the dashed line
-  mechanicalItem.append("svg")
+  mechanicalLineContainer.append("svg")
     .attr("width", "20")
     .attr("height", "2")
     .append("line")
@@ -755,7 +794,6 @@ d3.json('merged_conversations_oregon.json').then(function (conversations) {
     .attr("stroke-dasharray", "3,5");
 
   mechanicalItem.append("span")
-    .style("margin-left", "8px")
     .text("Mechanical Response");
 
   // Call it initially
@@ -763,14 +801,6 @@ d3.json('merged_conversations_oregon.json').then(function (conversations) {
 
   // Add window resize listener
   window.addEventListener('resize', updateContainerHeight);
-
-  // Update the tooltip container CSS
-  d3.select('#tooltip-container')
-    .style('position', 'fixed')
-    .style('width', '500px')
-    .style('scrollbar-width', 'none')
-    .style('overflow-y', 'auto')
-    .style('padding-right', '10px');  // Add some padding for the scrollbar
 
   // Add zoom behavior
   const zoom = d3.zoom()
@@ -781,7 +811,7 @@ d3.json('merged_conversations_oregon.json').then(function (conversations) {
 
   // Enable zoom on SVG
   svg.call(zoom)
-    .call(zoom.transform, d3.zoomIdentity);  // Start at identity transform
+    .call(zoom.transform, d3.zoomIdentity.translate(100, -100));  // Start translated 100px right and 100px up
 
   // Disable zoom on double-click (prevents default d3 double-click zoom behavior)
   svg.on("dblclick.zoom", null);
