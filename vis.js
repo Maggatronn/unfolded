@@ -638,17 +638,17 @@ d3.json('combined.json').then(function (conversations) {
               visualizationGroup.selectAll("line")
                 .style("opacity", d => {
                   const isConnected = connectedEdges.some(e => 
-                    (e.source === d.source && e.target === d.target) ||
-                    (e.source === d.target && e.target === d.source)
+                    (e.source.speaker_name === d.source.speaker_name && e.target.speaker_name === d.target.speaker_name) ||
+                    (e.source.speaker_name === d.target.speaker_name && e.target.speaker_name === d.source.speaker_name)
                   );
-                  return isConnected ? 0.6 : 0.1;
+                  return isConnected ? 1 : 0.1;
                 });
 
               // Reduce opacity of unconnected conversation paths
               paths.style("opacity", d => {
                 const isConnected = connectedEdges.some(e => 
-                  (e.source === d.source && e.target === d.target) ||
-                  (e.source === d.target && e.target === d.source)
+                  (e.source.speaker_name === d.source.speaker_name && e.target.speaker_name === d.target.speaker_name) ||
+                  (e.source.speaker_name === d.target.speaker_name && e.target.speaker_name === d.source.speaker_name)
                 );
                 return isConnected ? 1 : 0.1;
               });
@@ -668,7 +668,7 @@ d3.json('combined.json').then(function (conversations) {
                 .style("opacity", 0.6);
 
               // Reset conversation paths opacity
-              paths.style("opacity", 1);
+              paths.style("opacity", 0.8);
 
               // Reset node opacity
               visualizationGroup.selectAll(".participant-node")
@@ -703,6 +703,7 @@ d3.json('combined.json').then(function (conversations) {
             
             if (sourcePos && targetPos) {
               visualizationGroup.append("line")
+                .datum(edge)  // Bind the edge data to the line element
                 .attr("x1", sourcePos.x)
                 .attr("y1", sourcePos.y)
                 .attr("x2", targetPos.x)
@@ -878,16 +879,17 @@ d3.json('combined.json').then(function (conversations) {
         }
 
         function handleMouseOut() {
-          if (!selectedNode) {
-            resetHighlights();
-            // Remove the line that clears tooltips
-            // d3.selectAll('.tooltip').remove();
-
-            // Clear conversation info
-            // d3.select('.conversation-info')
-            //   .text('');
-          }
-          console.log(hideFirstSpeaker)
+          // Reset all nodes to full opacity
+          nodes.style("opacity", 1);
+          
+          // Reset all paths to normal opacity
+          paths.style("opacity", 0.8);
+          
+          // Reset stroke width to normal
+          paths.style("stroke-width", d => scoreScale(d.score));
+          
+          // Reset stroke color to normal
+          paths.style("stroke", d => d.type === "responsive_substantive" ? "red" : "#999999");
         }
 
         function handleClick(event, d) {
@@ -908,6 +910,7 @@ d3.json('combined.json').then(function (conversations) {
         }
 
         function highlightConnected(node, isSelected = false) {
+          // Filter edges to only those directly connected to the hovered node
           const connectedLinks = edges.filter(e => {
             if (hideFirstSpeaker) {
               const firstSpeaker = Object.values(data)[0].speaker_name;
@@ -915,10 +918,16 @@ d3.json('combined.json').then(function (conversations) {
                 return false;
               }
             }
-            return e.source.speaker_name === node.speaker_name || e.target.speaker_name === node.speaker_name;
+            // Only include edges where either the source or target is the hovered node
+            return e.source.speaker_turn === node.speaker_turn || e.target.speaker_turn === node.speaker_turn;
           });
 
-          // Update paths opacity based on connection to the hovered node
+          // Create a Set of connected edge IDs for faster lookup
+          const connectedEdgeIds = new Set(
+            connectedLinks.map(e => `${e.source.speaker_turn}-${e.target.speaker_turn}`)
+          );
+
+          // Update paths opacity based on direct connection to the hovered node
           paths.style("opacity", d => {
             if (hideFirstSpeaker) {
               const firstSpeaker = Object.values(data)[0].speaker_name;
@@ -926,7 +935,9 @@ d3.json('combined.json').then(function (conversations) {
                 return 0;
               }
             }
-            return (d.source.speaker_name === node.speaker_name || d.target.speaker_name === node.speaker_name) ? 1 : 0.1;
+            // Only show edges that are directly connected to the hovered node
+            const edgeId = `${d.source.speaker_turn}-${d.target.speaker_turn}`;
+            return connectedEdgeIds.has(edgeId) ? 1 : 0.1;
           })
           .attr("stroke", d => d.type === "responsive_substantive" ? "red" : "black")
           .attr("stroke-dasharray", d => d.type === "responsive_substantive" ? "none" : "3,5");
@@ -1202,6 +1213,27 @@ d3.json('combined.json').then(function (conversations) {
     conversationSelector.on("change", function() {
       const selectedConvo = this.value;
       updateVisualization(selectedConvo);
+    });
+
+    // Add event listener for facilitator dropdown
+    facilitatorSelect.on("change", function() {
+      const selectedFacilitator = this.value;
+      let filteredConvos;
+      
+      if (selectedFacilitator === "All Facilitators") {
+        filteredConvos = conversations;
+      } else {
+        filteredConvos = {};
+        Object.entries(conversations).forEach(([key, conv]) => {
+          // Find the turn that has facilitator field
+          const facilitatorTurn = Object.values(conv).find(turn => turn.facilitator);
+          if (facilitatorTurn && facilitatorTurn.facilitator === selectedFacilitator) {
+            filteredConvos[key] = conv;
+          }
+        });
+      }
+      
+      updateVisualization(filteredConvos);
     });
 
     // Initial visualization with all conversations
