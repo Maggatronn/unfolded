@@ -99,7 +99,7 @@ d3.json('combined.json').then(function (conversations) {
       .style("font-weight", "bold")
       .style("color", "#333")
       .style("font-family", "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif")
-      .text("Conversation Mapper");
+      .text("Conversation Health");
 
     // Create a container for controls below the title
     const controlsContainer = controlPanel.append("div")
@@ -216,12 +216,29 @@ d3.json('combined.json').then(function (conversations) {
     // Create facilitator filter directly after conversation selector
     const facilitatorContainer = filterSection.append("div")
       .style("display", "flex")
+      .style("flex-direction", "column")  // Changed from row to column
+      .style("gap", "10px")
+      .style("align-items", "flex-start");  // Changed from center to flex-start
+
+    // Add facilitator dropdown row
+    const facilitatorRow = facilitatorContainer.append("div")
+      .style("display", "flex")
       .style("flex-direction", "row")
       .style("gap", "10px")
-      .style("align-items", "center");
+      .style("align-items", "center")
+      .style("width", "100%");
+      
+    // Add label for facilitator dropdown
+    facilitatorRow.append("label")
+      .attr("for", "facilitator-select")
+      .style("font-size", "14px")
+      .style("color", "#333")
+      .style("margin-right", "8px")
+      .style("min-width", "80px")  // Fixed width for alignment
+      .text("Facilitator:");
 
     // Create facilitator dropdown
-    const facilitatorSelect = facilitatorContainer
+    const facilitatorSelect = facilitatorRow
       .append("select")
       .attr("id", "facilitator-select")
       .style("min-width", "200px")
@@ -237,11 +254,24 @@ d3.json('combined.json').then(function (conversations) {
     // Get unique facilitators from conversations
     const facilitators = Array.from(new Set(
       Object.values(conversations).map(conv => {
-        // Find the turn that has facilitator field
+        // First try to find a turn with explicit facilitator field
         const facilitatorTurn = Object.values(conv).find(turn => turn.facilitator);
-        return facilitatorTurn ? facilitatorTurn.facilitator : "Unknown";
+        if (facilitatorTurn && facilitatorTurn.facilitator) {
+          return facilitatorTurn.facilitator;
+        }
+        
+        // If no explicit facilitator, use the first speaker
+        const sortedTurns = Object.values(conv).sort((a, b) => 
+          (a.speaker_turn || 0) - (b.speaker_turn || 0)
+        );
+        
+        if (sortedTurns.length > 0 && sortedTurns[0].speaker_name) {
+          return sortedTurns[0].speaker_name; // No label, just use the name
+        }
+        
+        return "Unknown";
       })
-    ));
+    )).filter(Boolean).sort(); // Remove any undefined/null values and sort alphabetically
 
     // Populate facilitator dropdown
     facilitatorSelect
@@ -250,38 +280,59 @@ d3.json('combined.json').then(function (conversations) {
       .join("option")
       .attr("value", d => d)
       .text(d => d);
-
-    // Add hide facilitator button
-    // facilitatorContainer.append("button")
-    //   .attr("id", "hide-facilitator")
-    //   .style("font-size", "10px")
-    //   .style("padding", "2px 5px")
-    //   .style("background", "#f0f0f0")
-    //   .style("border", "1px solid #ccc")
-    //   .style("border-radius", "3px")
-    //   .style("cursor", "pointer")
-    //   .style("color", facilitatorRef && hiddenSpeakers.has(facilitatorRef) ? '#ff0000' : 'inherit')
-    //   .style("margin-left", "10px")
-    //   .text(facilitatorRef && hiddenSpeakers.has(facilitatorRef) ? 'Show Facilitator' : 'Hide Facilitator')
-    //   .on("click", hideFacilitator);
-
-    // Add hide documentary checkbox next to hide facilitator button
-    // facilitatorContainer.append("div")
-    //   .style("display", "flex")
-    //   .style("align-items", "center")
-    //   .style("gap", "4px")
-    //   .style("margin-left", "10px")
-    //   .append("input")
-    //   .attr("type", "checkbox")
-    //   .attr("id", "hide-frontline")
-    //   .style("margin", "0");
-
-    // facilitatorContainer.append("label")
-    //   .attr("for", "hide-frontline")
-    //   .style("font-size", "10px")
-    //   .style("color", "#333")
-    //   .style("cursor", "pointer")
-    //   .text("Hide Documentary");
+      
+    // Add group dropdown row directly below facilitator dropdown
+    const groupRow = facilitatorContainer.append("div")
+      .style("display", "flex")
+      .style("flex-direction", "row")
+      .style("gap", "10px")
+      .style("align-items", "center")
+      .style("width", "100%");
+      
+    // Add label for group dropdown
+    groupRow.append("label")
+      .attr("for", "group-select")
+      .style("font-size", "14px")
+      .style("color", "#333")
+      .style("margin-right", "8px")
+      .style("min-width", "80px")  // Fixed width for alignment
+      .text("Group:");
+      
+    // Create group dropdown
+    const groupSelect = groupRow
+      .append("select")
+      .attr("id", "group-select")
+      .style("min-width", "200px")
+      .style("padding", "8px")
+      .style("border", "1px solid #ddd")
+      .style("border-radius", "4px")
+      .style("font-size", "14px")
+      .style("color", "#333")
+      .style("background", "white")
+      .style("cursor", "pointer")
+      .style("transition", "all 0.2s ease");
+      
+    // Get unique groups from conversations
+    const groups = Array.from(new Set(
+      Object.values(conversations).map(conv => {
+        // Check if any turn has a group value
+        const groupTurn = Object.values(conv).find(turn => turn.group);
+        if (groupTurn && groupTurn.group) {
+          return groupTurn.group;
+        }
+        
+        // If no group found, assign to "General Fora"
+        return "General Fora";
+      })
+    )).filter(Boolean).sort(); // Remove any undefined/null values and sort alphabetically
+    
+    // Populate group dropdown
+    groupSelect
+      .selectAll("option")
+      .data(["All Groups"].concat(groups))
+      .join("option")
+      .attr("value", d => d)
+      .text(d => d);
 
     // Style legend
     const legendContainer = legendSection.append("div")
@@ -321,7 +372,7 @@ d3.json('combined.json').then(function (conversations) {
       .style("background", "#FF0000");
 
     newSubstantiveItem.append("span")
-      .text("Substantive Response")
+      .text("Substansive")
       .style("font-size", "14px")
       .style("color", "#333");
 
@@ -348,14 +399,23 @@ d3.json('combined.json').then(function (conversations) {
         d3.select(this).style("opacity", showMechanical ? 1 : 0.5);
       });
 
-    newMechanicalItem.append("div")
-      .style("width", "20px")
-      .style("height", "2px")
-      .style("background", "#000")
-      .style("border-top", "1px dashed #000");
+    // Replace div with SVG for dashed line
+    newMechanicalItem.append("svg")
+      .attr("width", "20")
+      .attr("height", "14") // Increased height to match text height
+      .style("display", "flex")
+      .style("align-items", "center")
+      .append("line")
+      .attr("x1", "0")
+      .attr("y1", "7") // Centered vertically (half of height)
+      .attr("x2", "20")
+      .attr("y2", "7") // Centered vertically (half of height)
+      .attr("stroke", "#000")
+      .attr("stroke-width", "2")
+      .attr("stroke-dasharray", "2,2");
 
     newMechanicalItem.append("span")
-      .text("Mechanical Response")
+      .text("Mechanical")
       .style("font-size", "14px")
       .style("color", "#333");
 
@@ -374,6 +434,112 @@ d3.json('combined.json').then(function (conversations) {
       }
     `;
     document.head.appendChild(style);
+
+    // Initialize metric ranges to track min/max values for each metric type
+    const metricRanges = {
+      "subst_nonself": { min: Infinity, max: -Infinity, values: [] },
+      "mech": { min: Infinity, max: -Infinity, values: [] },
+      "fac_speaking": { min: Infinity, max: -Infinity, values: [] },
+      "gini": { min: Infinity, max: -Infinity, values: [] },
+      "entropy": { min: Infinity, max: -Infinity, values: [] }
+    };
+
+    // First pass: collect all metric values to determine ranges
+    Object.values(conversations).forEach(conv => {
+      // Find the conversation ID
+      const firstTurn = Object.values(conv)[0];
+      if (!firstTurn) return;
+      
+      const conv_id = firstTurn.conversation_id;
+      
+      // Find matching features
+      let conversationFeatures = null;
+      Object.entries(features).forEach(([featureId, featureData]) => {
+        if (featureData.conv_id === conv_id) {
+          conversationFeatures = featureData;
+        }
+      });
+      
+      if (!conversationFeatures) return;
+      
+      // Update ranges for each metric
+      if (conversationFeatures.avg_subst_responded_rate_nonself !== undefined) {
+        const value = Number(conversationFeatures.avg_subst_responded_rate_nonself);
+        if (!isNaN(value)) {
+          metricRanges.subst_nonself.min = Math.min(metricRanges.subst_nonself.min, value);
+          metricRanges.subst_nonself.max = Math.max(metricRanges.subst_nonself.max, value);
+          metricRanges.subst_nonself.values.push(value);
+        }
+      }
+      
+      if (conversationFeatures.avg_mech_responded_rate !== undefined) {
+        const value = Number(conversationFeatures.avg_mech_responded_rate);
+        if (!isNaN(value)) {
+          metricRanges.mech.min = Math.min(metricRanges.mech.min, value);
+          metricRanges.mech.max = Math.max(metricRanges.mech.max, value);
+          metricRanges.mech.values.push(value);
+        }
+      }
+      
+      if (conversationFeatures.facilitator_speaking_percentage !== undefined) {
+        const value = Number(conversationFeatures.facilitator_speaking_percentage);
+        if (!isNaN(value)) {
+          metricRanges.fac_speaking.min = Math.min(metricRanges.fac_speaking.min, value);
+          metricRanges.fac_speaking.max = Math.max(metricRanges.fac_speaking.max, value);
+          metricRanges.fac_speaking.values.push(value);
+        }
+      }
+      
+      if (conversationFeatures.speaking_time_gini_coefficient !== undefined) {
+        const value = Number(conversationFeatures.speaking_time_gini_coefficient);
+        if (!isNaN(value)) {
+          metricRanges.gini.min = Math.min(metricRanges.gini.min, value);
+          metricRanges.gini.max = Math.max(metricRanges.gini.max, value);
+          metricRanges.gini.values.push(value);
+        }
+      }
+      
+      if (conversationFeatures.turn_sequence_entropy !== undefined) {
+        const value = Number(conversationFeatures.turn_sequence_entropy);
+        if (!isNaN(value)) {
+          metricRanges.entropy.min = Math.min(metricRanges.entropy.min, value);
+          metricRanges.entropy.max = Math.max(metricRanges.entropy.max, value);
+          metricRanges.entropy.values.push(value);
+        }
+      }
+    });
+    
+    // Function to get color based on percentile
+    const getPercentileColor = (value, type) => {
+      if (value === undefined || value === null) return "#999"; // Gray for N/A
+      
+      const numValue = Number(value);
+      if (isNaN(numValue)) return "#999";
+      
+      const range = metricRanges[type];
+      if (!range || range.min === Infinity) return "#999";
+      
+      // Calculate percentile (0 to 1)
+      let percentile = (numValue - range.min) / (range.max - range.min);
+      
+      // For some metrics, higher is worse (like Gini coefficient)
+      if (type === "gini" || type === "fac_speaking") {
+        percentile = 1 - percentile; // Invert so high values are red
+      }
+      
+      // Create color gradient from red to yellow to green
+      if (percentile < 0.5) {
+        // Red to yellow (0 to 0.5)
+        const r = 255;
+        const g = Math.round(255 * (percentile * 2));
+        return `rgb(${r},${g},0)`;
+      } else {
+        // Yellow to green (0.5 to 1)
+        const r = Math.round(255 * (1 - (percentile - 0.5) * 2));
+        const g = 255;
+        return `rgb(${r},${g},0)`;
+      }
+    };
 
     // Function to update visualization based on selected conversation
     function updateVisualization(selectedConvo) {
@@ -405,7 +571,8 @@ d3.json('combined.json').then(function (conversations) {
       // Update SVG height based on filtered data
       const conversationCount = Object.keys(convoData).length;
       const perConversationHeight = 300; // Restore original height per conversation
-      const totalHeight = perConversationHeight * conversationCount;
+      const conversationSpacing = 50; // Add spacing between conversations
+      const totalHeight = (perConversationHeight + conversationSpacing) * conversationCount;
       svg.attr("height", totalHeight);
 
       // Reset arrays for first nodes and links
@@ -424,7 +591,7 @@ d3.json('combined.json').then(function (conversations) {
         
         // Create a group for each conversation's visualization
         const conversationG = mainG.append("g")
-          .attr("transform", `translate(0,${index * perConversationHeight})`);
+          .attr("transform", `translate(0,${index * (perConversationHeight + conversationSpacing)})`);
 
         // Create a group for the visualization elements
         const visualizationGroup = conversationG.append("g");
@@ -464,11 +631,11 @@ d3.json('combined.json').then(function (conversations) {
         
         // Define metrics data with values from features
         const metricsData = [
-          { type: "subst_nonself", label: "Subst. Resp. Rate", value: conversationFeatures.avg_subst_responded_rate_nonself },
-          { type: "mech", label: "Mech. Resp. Rate", value: conversationFeatures.avg_mech_responded_rate },
-          { type: "fac_speaking", label: "Facilitator %", value: conversationFeatures.facilitator_speaking_percentage },
-          { type: "gini", label: "Gini Coef.", value: conversationFeatures.speaking_time_gini_coefficient },
-          { type: "entropy", label: "Turn Seq. Entropy", value: conversationFeatures.turn_sequence_entropy }
+          { type: "subst_nonself", label: "Substansive", value: conversationFeatures.avg_subst_responded_rate_nonself, definition: "Percentage of turns that received a substantive response from other participants." },
+          { type: "mech", label: "Mechanical", value: conversationFeatures.avg_mech_responded_rate, definition: "Percentage of turns that received a mechanical or procedural response." },
+          { type: "fac_speaking", label: "Faciliator", value: conversationFeatures.facilitator_speaking_percentage, definition: "Percentage of total conversation turns taken by the facilitator." },
+          { type: "gini", label: "Gini", value: conversationFeatures.speaking_time_gini_coefficient, definition: "Measure of inequality in speaking time distribution (0 = equal, 1 = unequal)." },
+          { type: "entropy", label: "Entropy", value: conversationFeatures.turn_sequence_entropy, definition: "Measure of unpredictability in turn-taking patterns (0 = certain/predictable, 1 = random/unpredictable)." }
         ];
 
         // Update the formatMetric function to handle the new metrics
@@ -507,17 +674,151 @@ d3.json('combined.json').then(function (conversations) {
         const displayMetrics = "all" 
           ? metricsData 
           : metricsData.filter(m => m.type === "all");
+          
+        // Get conversation ID
+        const conversationId = conv_id || conversationKey;
 
-        // Add metrics text with increased size and better spacing
+        // Add table header with conversation ID
+        const headerGroup = metricsGroup.append("g")
+          .attr("class", "metrics-header");
+        
+        // Create a single text element centered in the metrics box
+        const headerText = headerGroup.append("text")
+          .attr("y", 10)
+          .attr("x", squareSize / 2) // Center of the metrics box
+          .attr("text-anchor", "middle") // Center the text
+          .style("font-family", "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif")
+          .style("font-size", "18px")
+          .style("font-weight", "bold");
+          
+        // Add ID as first tspan (clickable)
+        const idTspan = headerText.append("tspan")
+          .attr("fill", "#0066cc")
+          .style("text-decoration", "underline")
+          .style("cursor", "pointer")
+          .text(conversationId);
+          
+        // Make the ID clickable
+        idTspan.on("click", function() {
+          window.open(`https://app.fora.io/conversation/${conversationId}`, "_blank");
+        });
+        
+        // Add "Metrics" as second tspan
+        headerText.append("tspan")
+          .attr("fill", "#333")
+          .text(" Metrics");
+
+        // Add table column headers
+        metricsGroup.append("text")
+          .attr("y", 35)
+          .attr("x", 10)
+          .attr("fill", "#333")
+          .style("font-family", "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif")
+          .style("font-size", "14px")
+          .style("font-weight", "bold")
+          .text("Metric");
+
+        metricsGroup.append("text")
+          .attr("y", 35)
+          .attr("x", squareSize - 80)
+          .attr("fill", "#333")
+          .style("font-family", "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif")
+          .style("font-size", "14px")
+          .style("font-weight", "bold")
+          .text("Value");
+
+        // Add separator line
+        metricsGroup.append("line")
+          .attr("x1", 0)
+          .attr("y1", 40)
+          .attr("x2", squareSize - 20)
+          .attr("y2", 40)
+          .attr("stroke", "#ccc")
+          .attr("stroke-width", 1);
+
+        // Add metrics in table format
         displayMetrics.forEach((metric, i) => {
-          metricsGroup.append("text")
-            .attr("y", 20 + i * 35)  // Increased spacing between metrics
-            .attr("x", 10)  // Add left padding
+          // Create a group for each metric row for easier tooltip handling
+          const metricRow = metricsGroup.append("g")
+            .attr("class", "metric-row")
+            .style("cursor", "help");
+          
+          // Metric name
+          metricRow.append("text")
+            .attr("y", 60 + i * 25)
+            .attr("x", 10)
             .attr("fill", "#333")
             .style("font-family", "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif")
-            .style("font-size", "16px")  // Increased font size
-            .style("font-weight", "500")  // Made text slightly bolder
-            .text(`${metric.label}: ${formatMetric(metric.value, metric.type)}`);
+            .style("font-size", "14px")
+            .text(metric.label);
+          
+          // Get color based on percentile
+          const metricColor = getPercentileColor(metric.value, metric.type);
+          
+          // Background for metric value
+          metricRow.append("rect")
+            .attr("x", squareSize - 85)
+            .attr("y", 60 + i * 25 - 15)
+            .attr("width", 70)
+            .attr("height", 20)
+            .attr("rx", 3)
+            .attr("fill", metricColor)
+            .attr("fill-opacity", 0.2)
+            .attr("stroke", metricColor)
+            .attr("stroke-width", 1);
+          
+          // Metric value
+          metricRow.append("text")
+            .attr("y", 60 + i * 25)
+            .attr("x", squareSize - 80)
+            .attr("fill", "#333")
+            .style("font-family", "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif")
+            .style("font-size", "14px")
+            .style("font-weight", "500")
+            .text(formatMetric(metric.value, metric.type));
+            
+          // Add invisible rectangle for better hover area
+          metricRow.append("rect")
+            .attr("x", 0)
+            .attr("y", 60 + i * 25 - 15)
+            .attr("width", squareSize - 20)
+            .attr("height", 20)
+            .attr("fill", "transparent")
+            .on("mouseover", function(event) {
+              // Create tooltip div if it doesn't exist
+              if (d3.select("#metric-tooltip").empty()) {
+                d3.select("body").append("div")
+                  .attr("id", "metric-tooltip")
+                  .style("position", "absolute")
+                  .style("background", "rgba(0,0,0,0.8)")
+                  .style("color", "white")
+                  .style("padding", "8px 12px")
+                  .style("border-radius", "4px")
+                  .style("font-size", "14px")
+                  .style("pointer-events", "none")
+                  .style("z-index", "1000")
+                  .style("max-width", "300px")
+                  .style("box-shadow", "0 2px 10px rgba(0,0,0,0.2)")
+                  .html(metric.definition);
+              }
+              
+              // Position the tooltip near the mouse
+              const tooltip = d3.select("#metric-tooltip");
+              tooltip
+                .style("left", (event.pageX + 15) + "px")
+                .style("top", (event.pageY - 20) + "px")
+                .style("opacity", 1);
+            })
+            .on("mousemove", function(event) {
+              // Update tooltip position as mouse moves
+              d3.select("#metric-tooltip")
+                .style("left", (event.pageX + 15) + "px")
+                .style("top", (event.pageY - 20) + "px");
+            })
+            .on("mouseout", function() {
+              // Hide tooltip when mouse leaves
+              d3.select("#metric-tooltip").remove();
+            });
         });
 
         // Get the first node (facilitator) before creating participant nodes
@@ -1225,12 +1526,96 @@ d3.json('combined.json').then(function (conversations) {
       } else {
         filteredConvos = {};
         Object.entries(conversations).forEach(([key, conv]) => {
-          // Find the turn that has facilitator field
-          const facilitatorTurn = Object.values(conv).find(turn => turn.facilitator);
-          if (facilitatorTurn && facilitatorTurn.facilitator === selectedFacilitator) {
+          // Check if any turn has the selected facilitator
+          const hasFacilitator = Object.values(conv).some(turn => 
+            turn.facilitator === selectedFacilitator
+          );
+          
+          // If explicit facilitator found, add the conversation
+          if (hasFacilitator) {
+            filteredConvos[key] = conv;
+            return;
+          }
+          
+          // If no explicit facilitator, check if first speaker matches
+          const sortedTurns = Object.values(conv).sort((a, b) => 
+            (a.speaker_turn || 0) - (b.speaker_turn || 0)
+          );
+          
+          // If the first speaker matches the selected facilitator, add the conversation
+          if (sortedTurns.length > 0 && sortedTurns[0].speaker_name === selectedFacilitator) {
             filteredConvos[key] = conv;
           }
         });
+      }
+      
+      // Apply group filter if active
+      const selectedGroup = groupSelect.property("value");
+      if (selectedGroup !== "All Groups") {
+        const groupFiltered = {};
+        Object.entries(filteredConvos).forEach(([key, conv]) => {
+          // Check if any turn has the selected group
+          const hasGroup = Object.values(conv).some(turn => 
+            turn.group === selectedGroup
+          );
+          
+          if (hasGroup) {
+            groupFiltered[key] = conv;
+          }
+        });
+        filteredConvos = groupFiltered;
+      }
+      
+      updateVisualization(filteredConvos);
+    });
+
+    // Add event listener for group dropdown
+    groupSelect.on("change", function() {
+      const selectedGroup = this.value;
+      let filteredConvos;
+      
+      if (selectedGroup === "All Groups") {
+        filteredConvos = conversations;
+      } else {
+        filteredConvos = {};
+        Object.entries(conversations).forEach(([key, conv]) => {
+          // Check if any turn has the selected group
+          const hasGroup = Object.values(conv).some(turn => 
+            turn.group === selectedGroup
+          );
+          
+          // If explicit group found, add the conversation
+          if (hasGroup) {
+            filteredConvos[key] = conv;
+            return;
+          }
+          
+          // If selected group is "General Fora" and conversation has no group, add it
+          if (selectedGroup === "General Fora") {
+            // Check if conversation has no group
+            const hasNoGroup = !Object.values(conv).some(turn => turn.group);
+            if (hasNoGroup) {
+              filteredConvos[key] = conv;
+            }
+          }
+        });
+      }
+      
+      // Apply facilitator filter if active
+      const selectedFacilitator = facilitatorSelect.property("value");
+      if (selectedFacilitator !== "All Facilitators") {
+        const facilitatorFiltered = {};
+        Object.entries(filteredConvos).forEach(([key, conv]) => {
+          // Check if any turn has the selected facilitator
+          const hasFacilitator = Object.values(conv).some(turn => 
+            turn.facilitator === selectedFacilitator
+          );
+          
+          if (hasFacilitator) {
+            facilitatorFiltered[key] = conv;
+          }
+        });
+        filteredConvos = facilitatorFiltered;
       }
       
       updateVisualization(filteredConvos);

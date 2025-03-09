@@ -141,33 +141,178 @@ const ParticipantNodes: React.FC<ParticipantNodesProps> = ({
     const gini = speakingTimes.reduce((sum, _, i) => 
       sum + (2 * i - n + 1) * speakingTimes[i], 0) / (n * n * mean);
     
+    // Define metric definitions
+    const metricDefinitions = {
+      "Turns": "Total number of speaking turns in the conversation.",
+      "Speakers": "Number of unique participants in the conversation.",
+      "Faciliator": "Percentage of total conversation turns taken by the facilitator.",
+      "Gini": "Measure of inequality in speaking time distribution (0 = equal, 1 = unequal)."
+    };
+    
     // Add metrics text
     const metricsGroup = visualizationGroup.append("g")
       .attr("transform", `translate(${squareSize + 20}, ${adjustedHeight/2 - squareSize/3})`);
     
+    // Add table header
+    metricsGroup.append("text")
+      .attr("y", -20)
+      .attr("x", 40)
+      .attr("fill", "#333")
+      .style("font-size", "14px")
+      .style("font-weight", "bold")
+      .text("Metrics");
+
+    // Add table column headers
     metricsGroup.append("text")
       .attr("y", 0)
+      .attr("x", 0)
       .attr("fill", "#333")
       .style("font-size", "12px")
-      .text(`Turns: ${numTurns}`);
-    
+      .style("font-weight", "bold")
+      .text("Metric");
+
     metricsGroup.append("text")
-      .attr("y", 25)
+      .attr("y", 0)
+      .attr("x", 80)
       .attr("fill", "#333")
       .style("font-size", "12px")
-      .text(`Speakers: ${numSpeakers}`);
+      .style("font-weight", "bold")
+      .text("Value");
+
+    // Add separator line
+    metricsGroup.append("line")
+      .attr("x1", 0)
+      .attr("y1", 5)
+      .attr("x2", 120)
+      .attr("y2", 5)
+      .attr("stroke", "#ccc")
+      .attr("stroke-width", 1);
     
-    metricsGroup.append("text")
-      .attr("y", 50)
-      .attr("fill", "#333")
-      .style("font-size", "12px")
-      .text(`Facilitator: ${facilitatorPercentage}%`);
+    // Turns row
+    const turnsRow = metricsGroup.append("g")
+      .style("cursor", "help")
+      .on("mouseover", function() {
+        // Show tooltip on hover
+        visualizationGroup.append("text")
+          .attr("class", "metric-tooltip")
+          .attr("x", squareSize + 20)
+          .attr("y", adjustedHeight/2 - squareSize/3 + 120)
+          .attr("fill", "#333")
+          .style("font-size", "12px")
+          .style("font-style", "italic")
+          .text(metricDefinitions["Turns"]);
+      })
+      .on("mouseout", function() {
+        // Remove tooltip when not hovering
+        visualizationGroup.selectAll(".metric-tooltip").remove();
+      });
     
-    metricsGroup.append("text")
-      .attr("y", 75)
+    turnsRow.append("text")
+      .attr("y", 20)
+      .attr("x", 0)
       .attr("fill", "#333")
       .style("font-size", "12px")
-      .text(`Gini: ${gini.toFixed(3)}`);
+      .text("Turns");
+    
+    turnsRow.append("text")
+      .attr("y", 20)
+      .attr("x", 80)
+      .attr("fill", "#333")
+      .style("font-size", "12px")
+      .text(`${numTurns}`);
+    
+    // Speakers row
+    const speakersRow = metricsGroup.append("g")
+      .style("cursor", "help")
+      .on("mouseover", function() {
+        visualizationGroup.append("text")
+          .attr("class", "metric-tooltip")
+          .attr("x", squareSize + 20)
+          .attr("y", adjustedHeight/2 - squareSize/3 + 120)
+          .attr("fill", "#333")
+          .style("font-size", "12px")
+          .style("font-style", "italic")
+          .text(metricDefinitions["Speakers"]);
+      })
+      .on("mouseout", function() {
+        visualizationGroup.selectAll(".metric-tooltip").remove();
+      });
+    
+    speakersRow.append("text")
+      .attr("y", 40)
+      .attr("x", 0)
+      .attr("fill", "#333")
+      .style("font-size", "12px")
+      .text("Speakers");
+    
+    speakersRow.append("text")
+      .attr("y", 40)
+      .attr("x", 80)
+      .attr("fill", "#333")
+      .style("font-size", "12px")
+      .text(`${numSpeakers}`);
+    
+    // Facilitator row
+    const facilitatorRow = metricsGroup.append("g")
+      .style("cursor", "help")
+      .on("mouseover", function() {
+        visualizationGroup.append("text")
+          .attr("class", "metric-tooltip")
+          .attr("x", squareSize + 20)
+          .attr("y", adjustedHeight/2 - squareSize/3 + 120)
+          .attr("fill", "#333")
+          .style("font-size", "12px")
+          .style("font-style", "italic")
+          .text(metricDefinitions["Faciliator"]);
+      })
+      .on("mouseout", function() {
+        visualizationGroup.selectAll(".metric-tooltip").remove();
+      });
+    
+    facilitatorRow.append("text")
+      .attr("y", 60)
+      .attr("x", 0)
+      .attr("fill", "#333")
+      .style("font-size", "12px")
+      .text("Faciliator");
+    
+    facilitatorRow.append("text")
+      .attr("y", 60)
+      .attr("x", 80)
+      .attr("fill", "#333")
+      .style("font-size", "12px")
+      .text(`${facilitatorPercentage}%`);
+    
+    // Gini row
+    const giniRow = metricsGroup.append("g")
+      .style("cursor", "help")
+      .on("mouseover", function() {
+        visualizationGroup.append("text")
+          .attr("class", "metric-tooltip")
+          .attr("x", squareSize + 20)
+          .attr("y", adjustedHeight/2 - squareSize/3 + 120)
+          .attr("fill", "#333")
+          .style("font-size", "12px")
+          .style("font-style", "italic")
+          .text(metricDefinitions["Gini"]);
+      })
+      .on("mouseout", function() {
+        visualizationGroup.selectAll(".metric-tooltip").remove();
+      });
+    
+    giniRow.append("text")
+      .attr("y", 80)
+      .attr("x", 0)
+      .attr("fill", "#333")
+      .style("font-size", "12px")
+      .text("Gini");
+    
+    giniRow.append("text")
+      .attr("y", 80)
+      .attr("x", 80)
+      .attr("fill", "#333")
+      .style("font-size", "12px")
+      .text(`${gini.toFixed(3)}`);
   }, [data, edges, width, height, adjustedHeight, onNodeHover, selectedSpeaker]);
   
   return <svg ref={ref} width={width} height={adjustedHeight}></svg>;

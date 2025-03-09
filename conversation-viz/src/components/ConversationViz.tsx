@@ -157,7 +157,7 @@ const ConversationViz: React.FC<ConversationVizProps> = ({ conversationsData }) 
   // Define heights for conversation components
   const baseConvHeight = 300; // Original height per conversation
   const reducedConvHeight = baseConvHeight / 4; // Reduced height (1/4 of original)
-  const convSpacing = 10; // Small spacing between conversation strips (reduced from ~30)
+  const convSpacing = 50; // Increased spacing between conversation strips
   
   return (
     <div className="conversation-viz-container" style={{ width: '100%', height: '100vh' }}>
