@@ -333,6 +333,58 @@ d3.json('combined.json').then(function (conversations) {
       .join("option")
       .attr("value", d => d)
       .text(d => d);
+      
+    // Add sort dropdown row below group dropdown
+    const sortRow = facilitatorContainer.append("div")
+      .style("display", "flex")
+      .style("flex-direction", "row")
+      .style("gap", "10px")
+      .style("align-items", "center")
+      .style("width", "100%");
+      
+    // Add label for sort dropdown
+    sortRow.append("label")
+      .attr("for", "sort-select")
+      .style("font-size", "14px")
+      .style("color", "#333")
+      .style("margin-right", "8px")
+      .style("min-width", "80px")  // Fixed width for alignment
+      .text("Sort By:");
+      
+    // Create sort dropdown
+    const sortSelect = sortRow
+      .append("select")
+      .attr("id", "sort-select")
+      .style("min-width", "200px")
+      .style("padding", "8px")
+      .style("border", "1px solid #ddd")
+      .style("border-radius", "4px")
+      .style("font-size", "14px")
+      .style("color", "#333")
+      .style("background", "white")
+      .style("cursor", "pointer")
+      .style("transition", "all 0.2s ease");
+      
+    // Define sort options
+    const sortOptions = [
+      { value: "none", label: "No Sorting" },
+      { value: "subst_nonself", label: "Substantive Responsivity ↑" },
+      { value: "subst_nonself_desc", label: "Substantive Responsivity ↓" },
+      { value: "entropy", label: "Entropy ↑" },
+      { value: "entropy_desc", label: "Entropy ↓" },
+      { value: "gini", label: "Gini Coefficient ↑" },
+      { value: "gini_desc", label: "Gini Coefficient ↓" },
+      { value: "fac_speaking", label: "Facilitator % ↑" },
+      { value: "fac_speaking_desc", label: "Facilitator % ↓" }
+    ];
+    
+    // Populate sort dropdown
+    sortSelect
+      .selectAll("option")
+      .data(sortOptions)
+      .join("option")
+      .attr("value", d => d.value)
+      .text(d => d.label);
 
     // Style legend
     const legendContainer = legendSection.append("div")
@@ -567,9 +619,96 @@ d3.json('combined.json').then(function (conversations) {
 
       // Debug logging
       console.log("Filtered conversation data:", convoData);
+      
+      // Get the current sort option
+      const sortOption = sortSelect.property("value");
+      console.log("Sort option:", sortOption);
+      
+      // Store the order of conversations for rendering
+      let orderedConvoKeys = Object.keys(convoData);
+      
+      // Sort conversations if a sort option is selected
+      if (sortOption !== "none") {
+        console.log("Sorting conversations by:", sortOption);
+        
+        // Extract conversation IDs and their features
+        const convoFeatures = [];
+        
+        Object.keys(convoData).forEach(key => {
+          // Find the conversation ID from the first turn
+          const firstTurn = Object.values(convoData[key])[0];
+          if (!firstTurn) {
+            console.log("No turns found for conversation:", key);
+            return;
+          }
+          
+          const conv_id = firstTurn.conversation_id;
+          console.log("Processing conversation:", key, "with ID:", conv_id);
+          
+          // Find matching features
+          let feature = null;
+          Object.entries(features).forEach(([featureId, featureData]) => {
+            if (featureData.conv_id === conv_id) {
+              feature = featureData;
+            }
+          });
+          
+          if (!feature) {
+            console.log("No features found for conversation:", conv_id);
+          } else {
+            console.log("Found features for conversation:", conv_id, feature);
+          }
+          
+          convoFeatures.push({ key, feature });
+        });
+        
+        console.log("Conversations with features:", convoFeatures);
+        
+        // Sort based on selected option
+        convoFeatures.sort((a, b) => {
+          // Handle missing features
+          if (!a.feature) return 1;
+          if (!b.feature) return -1;
+          
+          // Determine which metric to sort by
+          let metricA, metricB;
+          const isDescending = sortOption.endsWith("_desc");
+          const metric = isDescending ? sortOption.replace("_desc", "") : sortOption;
+          
+          switch(metric) {
+            case "subst_nonself":
+              metricA = a.feature.avg_subst_responded_rate_nonself || 0;
+              metricB = b.feature.avg_subst_responded_rate_nonself || 0;
+              break;
+            case "entropy":
+              metricA = a.feature.turn_sequence_entropy || 0;
+              metricB = b.feature.turn_sequence_entropy || 0;
+              break;
+            case "gini":
+              metricA = a.feature.speaking_time_gini_coefficient || 0;
+              metricB = b.feature.speaking_time_gini_coefficient || 0;
+              break;
+            case "fac_speaking":
+              metricA = a.feature.facilitator_speaking_percentage || 0;
+              metricB = b.feature.facilitator_speaking_percentage || 0;
+              break;
+            default:
+              return 0;
+          }
+          
+          console.log(`Comparing ${a.key} (${metricA}) with ${b.key} (${metricB})`);
+          
+          // Sort ascending or descending
+          return isDescending ? metricB - metricA : metricA - metricB;
+        });
+        
+        // Update the order of conversation keys for rendering
+        orderedConvoKeys = convoFeatures.map(item => item.key);
+        console.log("Sorted conversation order:", orderedConvoKeys);
+      }
 
       // Update SVG height based on filtered data
-      const conversationCount = Object.keys(convoData).length;
+      const conversationCount = orderedConvoKeys.length;
       const perConversationHeight = 300; // Restore original height per conversation
       const conversationSpacing = 50; // Add spacing between conversations
       const totalHeight = (perConversationHeight + conversationSpacing) * conversationCount;
@@ -579,11 +718,10 @@ d3.json('combined.json').then(function (conversations) {
       firstNodesAndLinks.length = 0;
       nonFirstNodesAndLinks.length = 0;
 
-      // Your existing visualization code here, but using convoData instead of conversations
-      Object.keys(convoData).forEach((conversationKey, index) => {
+      // Render conversations in the sorted order
+      orderedConvoKeys.forEach((conversationKey, index) => {
         const data = convoData[conversationKey];
-        console.log("Processing conversation:", conversationKey);
-        console.log("Conversation data:", data);
+        console.log(`Rendering conversation #${index + 1}: ${conversationKey}`);
         let selectedNode = null; // Track the selected node
 
         const width = svg.attr("width") - margin.left - margin.right;
@@ -1755,5 +1893,84 @@ d3.json('combined.json').then(function (conversations) {
       }
     `;
     document.head.appendChild(buttonStyle);
+
+    // Add event listener for sort dropdown
+    sortSelect.on("change", function() {
+      console.log("Sort option changed to:", this.value);
+      
+      // Get current filters
+      const selectedFacilitator = facilitatorSelect.property("value");
+      const selectedGroup = groupSelect.property("value");
+      
+      console.log("Current filters - Facilitator:", selectedFacilitator, "Group:", selectedGroup);
+      
+      // Apply filters to get current filtered data
+      let filteredConvos = {};
+      
+      // Start with all conversations
+      if (selectedFacilitator === "All Facilitators" && selectedGroup === "All Groups") {
+        filteredConvos = conversations;
+      } else {
+        // Apply facilitator filter
+        if (selectedFacilitator !== "All Facilitators") {
+          Object.entries(conversations).forEach(([key, conv]) => {
+            // Check if any turn has the selected facilitator
+            const hasFacilitator = Object.values(conv).some(turn => 
+              turn.facilitator === selectedFacilitator
+            );
+            
+            // If explicit facilitator found, add the conversation
+            if (hasFacilitator) {
+              filteredConvos[key] = conv;
+              return;
+            }
+            
+            // If no explicit facilitator, check if first speaker matches
+            const sortedTurns = Object.values(conv).sort((a, b) => 
+              (a.speaker_turn || 0) - (b.speaker_turn || 0)
+            );
+            
+            // If the first speaker matches the selected facilitator, add the conversation
+            if (sortedTurns.length > 0 && sortedTurns[0].speaker_name === selectedFacilitator) {
+              filteredConvos[key] = conv;
+            }
+          });
+        } else {
+          filteredConvos = conversations;
+        }
+        
+        // Apply group filter
+        if (selectedGroup !== "All Groups") {
+          const groupFiltered = {};
+          Object.entries(filteredConvos).forEach(([key, conv]) => {
+            // Check if any turn has the selected group
+            const hasGroup = Object.values(conv).some(turn => 
+              turn.group === selectedGroup
+            );
+            
+            // If explicit group found, add the conversation
+            if (hasGroup) {
+              groupFiltered[key] = conv;
+              return;
+            }
+            
+            // If selected group is "General Fora" and conversation has no group, add it
+            if (selectedGroup === "General Fora") {
+              // Check if conversation has no group
+              const hasNoGroup = !Object.values(conv).some(turn => turn.group);
+              if (hasNoGroup) {
+                groupFiltered[key] = conv;
+              }
+            }
+          });
+          filteredConvos = groupFiltered;
+        }
+      }
+      
+      console.log("Filtered conversations before sorting:", Object.keys(filteredConvos).length);
+      
+      // Update visualization with filtered and sorted data
+      updateVisualization(filteredConvos);
+    });
   });
 });
